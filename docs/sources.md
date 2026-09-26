@@ -18,6 +18,7 @@ Stufen: **primär** (Song ↔ Thema belegbar), **sekundär** (Hilfreich, nicht a
 | Quelle | URL | Nutzen |
 |--------|-----|--------|
 | Genius / LyricFind | https://genius.com/ | Entity-Extraktion aus Lyrics – Gegenprüfung nötig |
+| AZLyrics | https://www.azlyrics.com/ | Lyrics-Transcripts (nutzerseitig); Anti-Bot/Captcha, keine Annotationen – nur sekundär, nie alleiniger Match-Beleg |
 | Sabaton-Fan-Index | https://elicarter.net/wiki/SabatonIndex | schnelle Song→Event-Übersicht |
 
 ## Seed (Community – nie alleiniger Match-Beleg)

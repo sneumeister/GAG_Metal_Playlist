@@ -55,23 +55,6 @@
     "curatedBy": "manual"
   },
   {
-    "episodeId": 367,
-    "episodeTitle": "Untergang und Comeback der VASA",
-    "episodeUrl": "https://gadg.fm/367",
-    "songId": "sabaton-the-lion-from-the-north",
-    "band": "Sabaton",
-    "songTitle": "The Lion from the North",
-    "matchTier": "B",
-    "justification": "Die Folge handelt vom Kriegsschiff Vasa unter Gustav II. Adolf; Sabaton „The Lion from the North“ thematisiert denselben König (nicht die Vasa selbst).",
-    "sharedEntities": [
-      "Gustav II. Adolf"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T",
-    "youtubeUrl": "https://www.youtube.com/watch?v=KkszNmr6Qh0",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
     "episodeId": 377,
     "episodeTitle": "Aufstieg und Fall des Templerordens",
     "episodeUrl": "https://gadg.fm/377",
@@ -88,25 +71,6 @@
     "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
     "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
     "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 414,
-    "episodeTitle": "Ibn Fadlān und die Reise zur Wolga",
-    "episodeUrl": "https://gadg.fm/414",
-    "songId": "turisas-to-holmgard-and-beyond",
-    "band": "Turisas",
-    "songTitle": "To Holmgard and Beyond",
-    "matchTier": "B",
-    "justification": "Ibn Fadlan beschreibt die Rus/Waräger auf der Wolga-Route; Turisas’ Varangian-Way-Album thematisiert denselben Warägerweg nach Osten.",
-    "sharedEntities": [
-      "Waräger",
-      "Rus",
-      "Wolga-Route"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS",
-    "youtubeUrl": "https://www.youtube.com/watch?v=CB1_60VTCVg",
-    "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   },
   {
@@ -235,24 +199,6 @@
     "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
     "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
     "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 519,
-    "episodeTitle": "Die Warägergarde",
-    "episodeUrl": "https://gadg.fm/519",
-    "songId": "turisas-stand-up-and-fight",
-    "band": "Turisas",
-    "songTitle": "Stand Up and Fight",
-    "matchTier": "A",
-    "justification": "Stand Up and Fight stammt vom Warägergarde-Konzeptalbum; die Folge behandelt dieselbe Leibgarde.",
-    "sharedEntities": [
-      "Warägergarde",
-      "Byzanz"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP",
-    "youtubeUrl": "https://www.youtube.com/watch?v=7woW7DmnR0E",
-    "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   },
   {

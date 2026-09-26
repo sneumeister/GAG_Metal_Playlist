@@ -2050,19 +2050,20 @@
     "id": "turisas-stand-up-and-fight",
     "band": "Turisas",
     "title": "Stand Up and Fight",
-    "entities": [
-      "Warägergarde",
-      "Byzanz",
-      "Konstantinopel"
-    ],
-    "era": "11. Jh.",
+    "entities": [],
+    "era": null,
     "spotifyUrl": "https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP",
     "youtubeUrl": "https://www.youtube.com/watch?v=7woW7DmnR0E",
     "sources": [
       {
+        "type": "lyrics",
+        "url": "https://genius.com/Turisas-stand-up-and-fight-lyrics",
+        "note": "allgemeine Lebens-/Kampf-Hymne; kein historisches Ereignis"
+      },
+      {
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Stand_Up_and_Fight_(album)",
-        "note": "title track / Varangian Guard"
+        "note": "Album-Rahmen Byzanz; Titeltrack laut Band universal"
       }
     ]
   },
@@ -2105,6 +2106,16 @@
         "type": "secondary",
         "url": "https://bravewords.com/news/turisas-announce-details-of-new-studio-album-the-varangian-way/",
         "note": "Varangian Way concept"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Turisas-to-holmgard-and-beyond-lyrics",
+        "note": "Hakon/crew → Holmgard; kein Ibn Fadlan"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.azlyrics.com/lyrics/turisas/toholmgardandbeyond.html",
+        "note": "Lyrics-Mirror (Captcha möglich)"
       }
     ]
   }

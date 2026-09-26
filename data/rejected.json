@@ -1,8 +1,29 @@
-[
+﻿[
   {
     "episodeId": 157,
     "songId": "sabaton-father",
     "reason": "Folge dreht sich um Salpeterhandel, Chile und den Zusammenbruch; Haber-Bosch ist nur Endpunkt. Song „Father“ zielt auf Haber/Haber-Bosch — zu schwache Verknüpfung (besser: HB01/508).",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 367,
+    "songId": "sabaton-the-lion-from-the-north",
+    "reason": "Folge fokussiert Untergang/Comeback der Vasa; Gustav II. Adolf ist nur Auftraggeber. Song thematisiert den König als Feldherrn, nicht das Schiff — zu lose.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 414,
+    "songId": "turisas-to-holmgard-and-beyond",
+    "reason": "Lyrics: fiktive Waräger-Crew (Hakon) Richtung Holmgard/Neva/Aldeigju — kein Ibn Fadlan, keine Wolgabulgaren, keine Gesandtschaft 921. Nur loser Ostweg-/Rus-Bezug.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 519,
+    "songId": "turisas-stand-up-and-fight",
+    "reason": "Titeltrack: allgemeine Motivations-/Lebens-Hymne (Lyrics ohne Warägergarde/Byzanz/Kreuzzug). Album-Rahmen Konstantinopel reicht nicht; Match nur über Albumnähe — zu lose. Bleibt: The March of the Varangian Guard.",
     "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
   },
