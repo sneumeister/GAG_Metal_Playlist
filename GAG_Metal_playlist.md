@@ -1,12 +1,12 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-26 22:11:54 +0200  
+**Compile-Datum:** 2026-09-26 22:14:34 +0200  
 **JSON-Status:** noch nicht gesetzt
 
 | Folge | Folgentitel | Band | Song Titel | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
-| [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Serenity | The Matricide | — | — |
+| [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Serenity | The Matricide | [link](https://www.youtube.com/watch?v=7sxm_w1q3BE) | [link](https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
 | [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | — |
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
