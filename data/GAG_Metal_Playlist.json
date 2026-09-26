@@ -1,0 +1,150 @@
+﻿[
+    {
+        "episodeId":  508,
+        "episodeTitle":  "HB01 – Die Jagd nach der exakten Uhrzeit \u0026 Über Vogelkot und Brot aus der Luft",
+        "episodeUrl":  "https://gadg.fm/508",
+        "songId":  "sabaton-father",
+        "band":  "Sabaton",
+        "songTitle":  "Father",
+        "matchTier":  "A",
+        "justification":  "Die Hörbuchgeschichte „Brot aus der Luft“ behandelt Fritz Haber und das Haber-Bosch-Verfahren; Sabaton „Father“ thematisiert Haber (Dünger und Giftgas).",
+        "sharedEntities":  [
+                               "Fritz Haber",
+                               "Haber-Bosch-Verfahren"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  157,
+        "episodeTitle":  "Salpeter – Aufstieg und Fall einer chemischen Verbindung",
+        "episodeUrl":  "https://gadg.fm/157",
+        "songId":  "sabaton-father",
+        "band":  "Sabaton",
+        "songTitle":  "Father",
+        "matchTier":  "B",
+        "justification":  "GAG157 beschreibt, wie das Haber-Bosch-Verfahren den Salpeterhandel beendete; der Song „Father“ bezieht sich explizit auf Haber und Haber-Bosch.",
+        "sharedEntities":  [
+                               "Haber-Bosch-Verfahren",
+                               "Fritz Haber"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  462,
+        "episodeTitle":  "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+        "episodeUrl":  "https://gadg.fm/462",
+        "songId":  "sabaton-sparta",
+        "band":  "Sabaton",
+        "songTitle":  "Sparta",
+        "matchTier":  "A",
+        "justification":  "Beide behandeln die Schlacht an den Thermopylen / die Spartaner unter Leonidas.",
+        "sharedEntities":  [
+                               "Thermopylen",
+                               "Sparta",
+                               "Leonidas"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  377,
+        "episodeTitle":  "Aufstieg und Fall des Templerordens",
+        "episodeUrl":  "https://gadg.fm/377",
+        "songId":  "sabaton-templars",
+        "band":  "Sabaton",
+        "songTitle":  "Templars",
+        "matchTier":  "A",
+        "justification":  "Beide behandeln Aufstieg und Fall des Templerordens (Gründung nach dem 1. Kreuzzug, Untergang unter Philipp IV. / Jacques de Molay).",
+        "sharedEntities":  [
+                               "Templerorden",
+                               "Jacques de Molay",
+                               "Philipp IV."
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
+        "youtubeUrl":  "https://www.youtube.com/watch?v=B10ECkQXQtU",
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  493,
+        "episodeTitle":  "Kernspaltung und Schwerwasser-Sabotage",
+        "episodeUrl":  "https://gadg.fm/493",
+        "songId":  "sabaton-saboteurs",
+        "band":  "Sabaton",
+        "songTitle":  "Saboteurs",
+        "matchTier":  "A",
+        "justification":  "Beide behandeln die norwegische Schwerwasser-Sabotage (Vemork/Telemark) im Zweiten Weltkrieg.",
+        "sharedEntities":  [
+                               "Schwerwasser-Sabotage",
+                               "Vemork",
+                               "Norwegen"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  471,
+        "episodeTitle":  "Karl XII. und das Ende des Schwedischen Reichs",
+        "episodeUrl":  "https://gadg.fm/471",
+        "songId":  "sabaton-poltava",
+        "band":  "Sabaton",
+        "songTitle":  "Poltava",
+        "matchTier":  "A",
+        "justification":  "Die Folge dreht sich um Karl XII. und die Schlacht bei Poltawa 1709; „Poltava“ thematisiert genau diese Schlacht.",
+        "sharedEntities":  [
+                               "Schlacht bei Poltawa",
+                               "Karl XII.",
+                               "Großer Nordischer Krieg"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  471,
+        "episodeTitle":  "Karl XII. und das Ende des Schwedischen Reichs",
+        "episodeUrl":  "https://gadg.fm/471",
+        "songId":  "sabaton-carolus-rex",
+        "band":  "Sabaton",
+        "songTitle":  "Carolus Rex",
+        "matchTier":  "A",
+        "justification":  "Die Folge porträtiert Karl XII. (Carolus Rex) und das Ende des schwedischen Großreichs; der Song ist dem König gewidmet.",
+        "sharedEntities":  [
+                               "Karl XII.",
+                               "Carolus Rex"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    },
+    {
+        "episodeId":  205,
+        "episodeTitle":  "Die Befreiung von Schloss Itter",
+        "episodeUrl":  "https://gadg.fm/205",
+        "songId":  "sabaton-the-last-battle",
+        "band":  "Sabaton",
+        "songTitle":  "The Last Battle",
+        "matchTier":  "A",
+        "justification":  "Beide behandeln die Befreiung / das Gefecht um Schloss Itter 1945.",
+        "sharedEntities":  [
+                               "Schloss Itter",
+                               "1945"
+                           ],
+        "spotifyUrl":  "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
+        "youtubeUrl":  null,
+        "matchedAt":  "2026-09-25",
+        "curatedBy":  "manual"
+    }
+]

@@ -1,0 +1,241 @@
+﻿[
+    {
+        "id":  "sabaton-father",
+        "entities":  [
+                         "Fritz Haber",
+                         "Haber-Bosch-Verfahren",
+                         "Giftgas",
+                         "chemischer Krieg",
+                         "Erster Weltkrieg"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://www.sabaton.net/historical-calendar/",
+                            "note":  "Fritz Haber / Haber-Bosch",
+                            "type":  "sabaton-official"
+                        },
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Father",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+        "title":  "Father",
+        "era":  "1909/1915",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-sparta",
+        "entities":  [
+                         "Thermopylen",
+                         "Leonidas",
+                         "Sparta",
+                         "Perserkriege",
+                         "300 Spartaner"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "300 Spartans",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
+        "title":  "Sparta",
+        "era":  "480 v. Chr.",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-templars",
+        "entities":  [
+                         "Templerorden",
+                         "Jacques de Molay",
+                         "Philipp IV.",
+                         "Jerusalem",
+                         "Kreuzzüge"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://www.sabaton.net/discography/templars/",
+                            "note":  "Knights Templar rise and fall",
+                            "type":  "sabaton-official"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
+        "title":  "Templars",
+        "era":  "1119–1307",
+        "youtubeUrl":  "https://www.youtube.com/watch?v=B10ECkQXQtU",
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-saboteurs",
+        "entities":  [
+                         "Schwerwasser-Sabotage",
+                         "Vemork",
+                         "Norwegen",
+                         "Telemark",
+                         "Zweiter Weltkrieg"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Norwegian Heavy Water Sabotage",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
+        "title":  "Saboteurs",
+        "era":  "1942–1943",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-poltava",
+        "entities":  [
+                         "Schlacht bei Poltawa",
+                         "Karl XII.",
+                         "Peter I.",
+                         "Großer Nordischer Krieg"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Battle of Poltava 1709",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
+        "title":  "Poltava",
+        "era":  "1709",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-carolus-rex",
+        "entities":  [
+                         "Karl XII.",
+                         "Carolus Rex",
+                         "Schweden",
+                         "Großes Nordisches Krieg"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Charles XII",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
+        "title":  "Carolus Rex",
+        "era":  "1697–1718",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-the-last-battle",
+        "entities":  [
+                         "Schloss Itter",
+                         "Castle Itter",
+                         "Tirol",
+                         "Zweiter Weltkrieg"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Castle of Itter",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
+        "title":  "The Last Battle",
+        "era":  "1945",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-stalingrad",
+        "entities":  [
+                         "Schlacht um Stalingrad",
+                         "Stalingrad",
+                         "6. Armee",
+                         "Friedrich Paulus"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Battle of Stalingrad",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  null,
+        "title":  "Stalingrad",
+        "era":  "1942–1943",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-hearts-of-iron",
+        "entities":  [
+                         "Schlacht um Berlin",
+                         "Walther Wenck",
+                         "12. Armee",
+                         "Berlin 1945"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://www.sabaton.net/historical-calendar/",
+                            "note":  "Wenck / Battle of Berlin — nicht 6. Armee/Stalingrad",
+                            "type":  "sabaton-official"
+                        }
+                    ],
+        "spotifyUrl":  null,
+        "title":  "Hearts of Iron",
+        "era":  "1945",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-winged-hussars",
+        "entities":  [
+                         "Zweite Wiener Türkenbelagerung",
+                         "Entsatz von Wien",
+                         "Flügelhusaren",
+                         "1683"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Siege of Vienna 1683",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  null,
+        "title":  "Winged Hussars",
+        "era":  "1683",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    },
+    {
+        "id":  "sabaton-swedish-pagans",
+        "entities":  [
+                         "Wikinger",
+                         "Rus",
+                         "Skandinavien"
+                     ],
+        "sources":  [
+                        {
+                            "url":  "https://elicarter.net/wiki/SabatonIndex",
+                            "note":  "Vikings and The Russ",
+                            "type":  "sabaton-index"
+                        }
+                    ],
+        "spotifyUrl":  null,
+        "title":  "Swedish Pagans",
+        "era":  "Wikingerzeit",
+        "youtubeUrl":  null,
+        "band":  "Sabaton"
+    }
+]
