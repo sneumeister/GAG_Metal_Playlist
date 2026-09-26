@@ -14,6 +14,20 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 198,
+    "songId": "turisas-in-the-court-of-jarisleif",
+    "reason": "Folge = Olga von Kiew / Igor (10. Jh.). Song = Hof Jaroslaws des Weisen (11. Jh.). Gleiche Rus-/Waräger-Welt, andere Person und Generation — zu lose (Tier C).",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 216,
+    "songId": "judicator-king-of-rome",
+    "reason": "Song gehört zum Waterloo-Konzept: Napoleon I. auf dem Schlachtfeld, Refrain „King of Rome“ = Motivation/Erbe. Folge ist die Biografie Napoleon II. (König von Rom → Reichstadt). Titel-Anklang, aber Erzählfokus Vater-Schlacht ≠ Sohn-Leben — zu lose (Tier C), analog Art of War/Exil.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 255,
     "songId": "sabaton-shiroyama",
     "reason": "47 Ronin (Akō 1703) ≠ Schlacht von Shiroyama / Satsuma-Rebellion 1877 — anderes Ereignis, nur loser Samurai-Bezug.",
@@ -28,6 +42,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 333,
+    "songId": "iron-maiden-alexander-the-great",
+    "reason": "Folge fokussiert die Stadt Alexandria (Gründung/Kulturzentrum, Umsetzung nach Alexanders Tod); Song ist chronologische Biografie Alexanders als Feldherr. Alexander ist nur Rahmen/Gründer — Fokus wie bei Vasa/Lion zu lose (Tier C).",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 365,
     "songId": "sabaton-ghost-division",
     "reason": "Ghost Army (US-Täuschungsverband WWII) ≠ Ghost Division (Rommels 7. Panzer-Division) — Namensähnlichkeit, kein Entity-Match.",
@@ -38,6 +59,13 @@
     "episodeId": 367,
     "songId": "sabaton-the-lion-from-the-north",
     "reason": "Folge fokussiert Untergang/Comeback der Vasa; Gustav II. Adolf ist nur Auftraggeber. Song thematisiert den König als Feldherrn, nicht das Schiff — zu lose.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 390,
+    "songId": "ex-deo-the-final-war-the-battle-of-actium",
+    "reason": "Song = Seeschlacht bei Actium 31 v. Chr. (Antonius, Kleopatra, Octavian). Folge-Protagonistin = Kleopatra Selene (Nachgeschichte ab 30 v. Chr., Mauretanien). Actium ist nur Vorgeschichte/Auslöser, nicht Erzählfokus — zu lose (Tier C).",
     "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
   },
@@ -59,6 +87,20 @@
     "episodeId": 519,
     "songId": "turisas-stand-up-and-fight",
     "reason": "Titeltrack: allgemeine Motivations-/Lebens-Hymne (Lyrics ohne Warägergarde/Byzanz/Kreuzzug). Album-Rahmen Konstantinopel reicht nicht; Match nur über Albumnähe — zu lose. Bleibt: The March of the Varangian Guard.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 539,
+    "songId": "iron-maiden-genghis-khan",
+    "reason": "Instrumental (Killers): Stimmung „Armee Dschingis Khans“. Folge = 1241–51 Witwen/Neuausrichtung, nicht Dschingis. Kein gemeinsames Ereignis/Person im Erzählfokus (Tier C).",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 539,
+    "songId": "sabaton-hordes-of-khan",
+    "reason": "Song = Dschingis Khan / Temujin (Stammesvereinigung, Imperiumsgründung). Folge = 1241–1251 Mongolensturm vor Wien und Macht der Herrscherwitwen nach Ögedeis Tod — Generation und Fokus anders, nur Mongolenreich-Rahmen (Tier C).",
     "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
   }

@@ -27,6 +27,33 @@
     ]
   },
   {
+    "id": "ex-deo-the-final-war-the-battle-of-actium",
+    "band": "Ex Deo",
+    "title": "The Final War (Battle of Actium)",
+    "entities": [
+      "Schlacht bei Actium",
+      "Marcus Antonius",
+      "Kleopatra VII",
+      "Octavian",
+      "Actium"
+    ],
+    "era": "31 v. Chr.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/ex-deo/the-final-war-battle-of-actium-lyrics/",
+        "note": "Actium; Antony, Cleopatra, Octavian"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ex_Deo",
+        "note": "Romulus (2009)"
+      }
+    ]
+  },
+  {
     "id": "grave-digger-fanatic-assassins",
     "band": "Grave Digger",
     "title": "Fanatic Assassins",
@@ -247,6 +274,57 @@
         "type": "secondary",
         "url": "https://www.loudersound.com/features/the-11-best-iron-maiden-songs-based-on-history",
         "note": "Balaclava"
+      }
+    ]
+  },
+  {
+    "id": "judicator-king-of-rome",
+    "band": "Judicator",
+    "title": "King of Rome",
+    "entities": [
+      "König von Rom",
+      "Napoleon II",
+      "Napoleon",
+      "Waterloo"
+    ],
+    "era": "1811–1832 / 1815",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/judicator/kingofrome.html",
+        "note": "Napoleon at Waterloo; refrain King of Rome = heir"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://judicatormetal.bandcamp.com/album/king-of-rome",
+        "note": "King of Rome (2012) Waterloo concept"
+      }
+    ]
+  },
+  {
+    "id": "judicator-the-queen-of-all-cities",
+    "band": "Judicator",
+    "title": "The Queen of All Cities",
+    "entities": [
+      "Alexios I. Komnenos",
+      "Konstantinopel",
+      "Erster Kreuzzug"
+    ],
+    "era": "1096–1097",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://judicatormetal.bandcamp.com/album/the-last-emperor",
+        "note": "First Crusade; oaths to Alexios at Constantinople"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Judicator/The_Last_Emperor/700506",
+        "note": "The Last Emperor (2018)"
       }
     ]
   },
@@ -936,6 +1014,28 @@
         "type": "sabaton-index",
         "url": "https://elicarter.net/wiki/SabatonIndex",
         "note": "Hordes of Khan"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-i-emperor",
+    "band": "Sabaton",
+    "title": "I, Emperor",
+    "entities": [
+      "Napoleon",
+      "Napoleon Bonaparte",
+      "Napoleonische Kriege",
+      "Code Napoléon",
+      "St. Helena"
+    ],
+    "era": "1796–1821",
+    "spotifyUrl": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FhitH0BnDX4",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/i-emperor-lyrics/",
+        "note": "Historic Fact: Napoleon Bonaparte, Code, Waterloo, Exil St. Helena"
       }
     ]
   },

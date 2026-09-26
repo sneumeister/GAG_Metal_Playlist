@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26 22:32:11 +0200",
+  "updatedAt": "2026-09-26 23:12:01 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -17,6 +17,25 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
       "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 133,
+      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
+      "episodeUrl": "https://gadg.fm/133",
+      "songId": "judicator-the-queen-of-all-cities",
+      "band": "Judicator",
+      "songTitle": "The Queen of All Cities",
+      "matchTier": "B",
+      "justification": "Beide behandeln den Ersten Kreuzzug mit Alexios I. Komnenos in Konstantinopel. Folge: Alexios und Urban II. als Protagonisten der Kreuzzugsentstehung (ab 1095). Song: Kreuzfahrer-Perspektive bei Ankunft in Konstantinopel und Treueschwur gegenüber Alexios. Entity (Alexios + 1. Kreuzzug) klar; Fokus Entstehung vs. Ankunft/Schwur — Tier B.",
+      "sharedEntities": [
+        "Alexios I. Komnenos",
+        "Erster Kreuzzug",
+        "Konstantinopel"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -97,6 +116,23 @@
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
+      "songId": "serenity-wings-of-madness",
+      "band": "Serenity",
+      "songTitle": "Wings of Madness",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
       "songId": "venom-countess-bathory",
       "band": "Venom",
       "songTitle": "Countess Bathory",
@@ -111,19 +147,20 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 229,
-      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-      "episodeUrl": "https://gadg.fm/229",
-      "songId": "serenity-wings-of-madness",
-      "band": "Serenity",
-      "songTitle": "Wings of Madness",
-      "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
+      "episodeId": 272,
+      "episodeTitle": "Am Ende der Welt - Napoleons letzte Jahre im Exil",
+      "episodeUrl": "https://gadg.fm/272",
+      "songId": "sabaton-i-emperor",
+      "band": "Sabaton",
+      "songTitle": "I, Emperor",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Napoleon Bonaparte. Folge fokussiert Exil auf St. Helena nach dem Kaisertum; Song (Historic Fact) die Kaiser-/Eroberer-Karriere inkl. Waterloo und Exil — Entity klar, Erzählfokus unterschiedlich.",
       "sharedEntities": [
-        "Elisabeth Báthory"
+        "Napoleon",
+        "St. Helena"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+      "spotifyUrl": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FhitH0BnDX4",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -168,6 +205,24 @@
       "episodeId": 377,
       "episodeTitle": "Aufstieg und Fall des Templerordens",
       "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-the-curse-of-jacques",
+      "band": "Grave Digger",
+      "songTitle": "The Curse of Jacques",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
+      "sharedEntities": [
+        "Jacques de Molay",
+        "Templerorden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
       "songId": "sabaton-templars",
       "band": "Sabaton",
       "songTitle": "Templars",
@@ -181,24 +236,6 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 377,
-      "episodeTitle": "Aufstieg und Fall des Templerordens",
-      "episodeUrl": "https://gadg.fm/377",
-      "songId": "grave-digger-the-curse-of-jacques",
-      "band": "Grave Digger",
-      "songTitle": "The Curse of Jacques",
-      "matchTier": "A",
-      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
-      "sharedEntities": [
-        "Jacques de Molay",
-        "Templerorden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
-      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
