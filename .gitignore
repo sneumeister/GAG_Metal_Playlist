@@ -1,3 +1,5 @@
 # Lokal / nicht versionieren
 plans/
 .cursor/
+__pycache__/
+*.py[cod]

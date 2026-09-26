@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GAG Metal Playlist</title>
+<style>
+:root {
+  --bg: #121417;
+  --panel: #1c2128;
+  --ink: #e8eaed;
+  --muted: #9aa0a6;
+  --line: #2d333b;
+  --head: #0d1117;
+  --accent: #e85d4c;
+  --row-alt: #161b22;
+  --hover: #242b33;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: radial-gradient(ellipse at top, #1a222c 0%, var(--bg) 55%);
+  color: var(--ink);
+  line-height: 1.45;
+  min-height: 100vh;
+}
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+h1 {
+  margin: 0 0 0.4rem;
+  font-size: 1.75rem;
+  letter-spacing: 0.02em;
+}
+.meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+}
+.meta div { margin: 0.15rem 0; }
+.wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 4px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px;
+}
+th, td {
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+th {
+  background: var(--head);
+  color: #f0f3f6;
+  font-weight: 600;
+  white-space: nowrap;
+  user-select: none;
+}
+th.sortable {
+  cursor: pointer;
+}
+th.sortable:hover {
+  background: #21262d;
+}
+th .arrow {
+  margin-left: 0.35rem;
+  opacity: 0.85;
+  font-size: 0.85em;
+}
+td.folge {
+  text-align: right;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+td.title {
+  max-width: 22rem;
+}
+tr:nth-child(even) td { background: var(--row-alt); }
+tr:hover td { background: var(--hover); }
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+.links {
+  text-align: center;
+  white-space: nowrap;
+}
+</style>
+</head>
+<body>
+<main>
+  <h1>GAG Metal Playlist</h1>
+  <div class="meta">
+    <div><strong>Compile-Datum:</strong> 2026-09-26 19:21:52 +0200</div>
+    <div><strong>JSON-Status:</strong> noch nicht gesetzt</div>
+  </div>
+  <div class="wrap">
+    <table id="playlist">
+      <thead>
+        <tr>
+          <th class="sortable" data-key="episodeId" data-type="number">Folge<span class="arrow"></span></th>
+          <th class="sortable" data-key="episodeTitle" data-type="string">Folgentitel<span class="arrow"></span></th>
+          <th class="sortable" data-key="band" data-type="string">Band<span class="arrow"></span></th>
+          <th class="sortable" data-key="songTitle" data-type="string">Song Titel<span class="arrow"></span></th>
+          <th>YouTube</th>
+          <th>Spotify</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</main>
+<script type="application/json" id="playlist-data">[{"episodeId": 205, "episodeUrl": "https://gadg.fm/205", "episodeTitle": "Die Befreiung von Schloss Itter", "band": "Sabaton", "songTitle": "The Last Battle", "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM", "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C"}, {"episodeId": 290, "episodeUrl": "https://gadg.fm/290", "episodeTitle": "Der Angriff der Leichten Brigade", "band": "Iron Maiden", "songTitle": "The Trooper", "youtubeUrl": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q", "spotifyUrl": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"}, {"episodeId": 309, "episodeUrl": "https://gadg.fm/309", "episodeTitle": "Die Bestie des Gévaudan", "band": "Powerwolf", "songTitle": "Beast of Gévaudan", "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk", "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ"}, {"episodeId": 367, "episodeUrl": "https://gadg.fm/367", "episodeTitle": "Untergang und Comeback der VASA", "band": "Sabaton", "songTitle": "The Lion from the North", "youtubeUrl": "https://www.youtube.com/watch?v=KkszNmr6Qh0", "spotifyUrl": "https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T"}, {"episodeId": 377, "episodeUrl": "https://gadg.fm/377", "episodeTitle": "Aufstieg und Fall des Templerordens", "band": "Sabaton", "songTitle": "Templars", "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU", "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy"}, {"episodeId": 414, "episodeUrl": "https://gadg.fm/414", "episodeTitle": "Ibn Fadlān und die Reise zur Wolga", "band": "Turisas", "songTitle": "To Holmgard and Beyond", "youtubeUrl": "https://www.youtube.com/watch?v=CB1_60VTCVg", "spotifyUrl": "https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS"}, {"episodeId": 462, "episodeUrl": "https://gadg.fm/462", "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte", "band": "Sabaton", "songTitle": "Sparta", "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU", "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T"}, {"episodeId": 471, "episodeUrl": "https://gadg.fm/471", "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs", "band": "Sabaton", "songTitle": "Carolus Rex", "youtubeUrl": "https://www.youtube.com/watch?v=nxwv8-oAasI", "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M"}, {"episodeId": 471, "episodeUrl": "https://gadg.fm/471", "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs", "band": "Sabaton", "songTitle": "Long Live the King", "youtubeUrl": "https://www.youtube.com/watch?v=rMnGYDi7Li0", "spotifyUrl": "https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS"}, {"episodeId": 471, "episodeUrl": "https://gadg.fm/471", "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs", "band": "Sabaton", "songTitle": "Poltava", "youtubeUrl": "https://www.youtube.com/watch?v=xfGe07IzsK4", "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf"}, {"episodeId": 471, "episodeUrl": "https://gadg.fm/471", "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs", "band": "Sabaton", "songTitle": "Ruina Imperii", "youtubeUrl": "https://www.youtube.com/watch?v=c898WyjHDx4", "spotifyUrl": "https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X"}, {"episodeId": 493, "episodeUrl": "https://gadg.fm/493", "episodeTitle": "Kernspaltung und Schwerwasser-Sabotage", "band": "Sabaton", "songTitle": "Saboteurs", "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk", "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf"}, {"episodeId": 508, "episodeUrl": "https://gadg.fm/508", "episodeTitle": "HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft", "band": "Sabaton", "songTitle": "Father", "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo", "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t"}, {"episodeId": 519, "episodeUrl": "https://gadg.fm/519", "episodeTitle": "Die Warägergarde", "band": "Turisas", "songTitle": "Stand Up and Fight", "youtubeUrl": "https://www.youtube.com/watch?v=7woW7DmnR0E", "spotifyUrl": "https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP"}, {"episodeId": 519, "episodeUrl": "https://gadg.fm/519", "episodeTitle": "Die Warägergarde", "band": "Turisas", "songTitle": "The March of the Varangian Guard", "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4", "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs"}]</script>
+<script>
+(function () {
+  const raw = document.getElementById("playlist-data").textContent;
+  let rows = JSON.parse(raw);
+  const tbody = document.querySelector("#playlist tbody");
+  const headers = Array.from(document.querySelectorAll("th.sortable"));
+  let sortKey = "episodeId";
+  let sortDir = "asc";
+  let sortType = "number";
+
+  function linkCell(url, label) {
+    if (!url) return "—";
+    const a = document.createElement("a");
+    a.href = url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = label;
+    return a;
+  }
+
+  function render() {
+    tbody.replaceChildren();
+    for (const r of rows) {
+      const tr = document.createElement("tr");
+
+      const tdFolge = document.createElement("td");
+      tdFolge.className = "folge";
+      const epLabel = r.episodeId == null ? "?" : String(r.episodeId);
+      if (r.episodeUrl) {
+        tdFolge.appendChild(linkCell(r.episodeUrl, epLabel));
+      } else {
+        tdFolge.textContent = epLabel;
+      }
+      tr.appendChild(tdFolge);
+
+      const tdTitle = document.createElement("td");
+      tdTitle.className = "title";
+      tdTitle.textContent = r.episodeTitle || "";
+      tr.appendChild(tdTitle);
+
+      const tdBand = document.createElement("td");
+      tdBand.textContent = r.band || "";
+      tr.appendChild(tdBand);
+
+      const tdSong = document.createElement("td");
+      tdSong.textContent = r.songTitle || "";
+      tr.appendChild(tdSong);
+
+      const tdYt = document.createElement("td");
+      tdYt.className = "links";
+      const yt = linkCell(r.youtubeUrl, "link");
+      if (typeof yt === "string") tdYt.textContent = yt; else tdYt.appendChild(yt);
+      tr.appendChild(tdYt);
+
+      const tdSp = document.createElement("td");
+      tdSp.className = "links";
+      const sp = linkCell(r.spotifyUrl, "link");
+      if (typeof sp === "string") tdSp.textContent = sp; else tdSp.appendChild(sp);
+      tr.appendChild(tdSp);
+
+      tbody.appendChild(tr);
+    }
+    updateArrows();
+  }
+
+  function cmp(a, b) {
+    let av = a[sortKey];
+    let bv = b[sortKey];
+    if (sortType === "number") {
+      av = av == null ? Number.POSITIVE_INFINITY : Number(av);
+      bv = bv == null ? Number.POSITIVE_INFINITY : Number(bv);
+      return av - bv;
+    }
+    av = (av == null ? "" : String(av)).toLocaleLowerCase("de");
+    bv = (bv == null ? "" : String(bv)).toLocaleLowerCase("de");
+    return av.localeCompare(bv, "de");
+  }
+
+  function sortRows() {
+    rows = rows.slice().sort((a, b) => {
+      const c = cmp(a, b);
+      return sortDir === "asc" ? c : -c;
+    });
+    render();
+  }
+
+  function updateArrows() {
+    for (const th of headers) {
+      const arrow = th.querySelector(".arrow");
+      if (!arrow) continue;
+      if (th.dataset.key === sortKey) {
+        arrow.textContent = sortDir === "asc" ? "▲" : "▼";
+      } else {
+        arrow.textContent = "";
+      }
+    }
+  }
+
+  for (const th of headers) {
+    th.addEventListener("click", () => {
+      const key = th.dataset.key;
+      const type = th.dataset.type || "string";
+      if (sortKey === key) {
+        sortDir = sortDir === "asc" ? "desc" : "asc";
+      } else {
+        sortKey = key;
+        sortType = type;
+        sortDir = "asc";
+      }
+      sortRows();
+    });
+  }
+
+  sortRows();
+})();
+</script>
+</body>
+</html>
