@@ -1,23 +1,5 @@
 [
   {
-    "episodeId": 157,
-    "episodeTitle": "Salpeter – Aufstieg und Fall einer chemischen Verbindung",
-    "episodeUrl": "https://gadg.fm/157",
-    "songId": "sabaton-father",
-    "band": "Sabaton",
-    "songTitle": "Father",
-    "matchTier": "B",
-    "justification": "GAG157 beschreibt, wie das Haber-Bosch-Verfahren den Salpeterhandel beendete; der Song „Father“ bezieht sich explizit auf Haber und Haber-Bosch.",
-    "sharedEntities": [
-      "Haber-Bosch-Verfahren",
-      "Fritz Haber"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
-    "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
     "episodeId": 205,
     "episodeTitle": "Die Befreiung von Schloss Itter",
     "episodeUrl": "https://gadg.fm/205",
