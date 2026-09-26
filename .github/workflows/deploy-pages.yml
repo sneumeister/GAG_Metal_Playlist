@@ -1,0 +1,48 @@
+# Stellt die sortierbare Playlist-HTML über GitHub Pages bereit.
+# Nach Umstellen des Repos auf public + einmaligem Pages-Enable (Source: GitHub Actions)
+# erreichbar unter: https://sneumeister.github.io/GAG_Metal_Playlist/
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - GAG_Metal_playlist.html
+      - .github/workflows/deploy-pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Site vorbereiten
+        run: |
+          mkdir -p _site
+          cp GAG_Metal_playlist.html _site/index.html
+
+      - name: Pages konfigurieren
+        uses: actions/configure-pages@v5
+
+      - name: Artifact hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
