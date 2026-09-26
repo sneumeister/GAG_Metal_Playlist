@@ -1,150 +1,294 @@
-﻿[
-    {
-        "episodeId":  508,
-        "episodeTitle":  "HB01 – Die Jagd nach der exakten Uhrzeit \u0026 Über Vogelkot und Brot aus der Luft",
-        "episodeUrl":  "https://gadg.fm/508",
-        "songId":  "sabaton-father",
-        "band":  "Sabaton",
-        "songTitle":  "Father",
-        "matchTier":  "A",
-        "justification":  "Die Hörbuchgeschichte „Brot aus der Luft“ behandelt Fritz Haber und das Haber-Bosch-Verfahren; Sabaton „Father“ thematisiert Haber (Dünger und Giftgas).",
-        "sharedEntities":  [
-                               "Fritz Haber",
-                               "Haber-Bosch-Verfahren"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  157,
-        "episodeTitle":  "Salpeter – Aufstieg und Fall einer chemischen Verbindung",
-        "episodeUrl":  "https://gadg.fm/157",
-        "songId":  "sabaton-father",
-        "band":  "Sabaton",
-        "songTitle":  "Father",
-        "matchTier":  "B",
-        "justification":  "GAG157 beschreibt, wie das Haber-Bosch-Verfahren den Salpeterhandel beendete; der Song „Father“ bezieht sich explizit auf Haber und Haber-Bosch.",
-        "sharedEntities":  [
-                               "Haber-Bosch-Verfahren",
-                               "Fritz Haber"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  462,
-        "episodeTitle":  "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
-        "episodeUrl":  "https://gadg.fm/462",
-        "songId":  "sabaton-sparta",
-        "band":  "Sabaton",
-        "songTitle":  "Sparta",
-        "matchTier":  "A",
-        "justification":  "Beide behandeln die Schlacht an den Thermopylen / die Spartaner unter Leonidas.",
-        "sharedEntities":  [
-                               "Thermopylen",
-                               "Sparta",
-                               "Leonidas"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  377,
-        "episodeTitle":  "Aufstieg und Fall des Templerordens",
-        "episodeUrl":  "https://gadg.fm/377",
-        "songId":  "sabaton-templars",
-        "band":  "Sabaton",
-        "songTitle":  "Templars",
-        "matchTier":  "A",
-        "justification":  "Beide behandeln Aufstieg und Fall des Templerordens (Gründung nach dem 1. Kreuzzug, Untergang unter Philipp IV. / Jacques de Molay).",
-        "sharedEntities":  [
-                               "Templerorden",
-                               "Jacques de Molay",
-                               "Philipp IV."
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
-        "youtubeUrl":  "https://www.youtube.com/watch?v=B10ECkQXQtU",
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  493,
-        "episodeTitle":  "Kernspaltung und Schwerwasser-Sabotage",
-        "episodeUrl":  "https://gadg.fm/493",
-        "songId":  "sabaton-saboteurs",
-        "band":  "Sabaton",
-        "songTitle":  "Saboteurs",
-        "matchTier":  "A",
-        "justification":  "Beide behandeln die norwegische Schwerwasser-Sabotage (Vemork/Telemark) im Zweiten Weltkrieg.",
-        "sharedEntities":  [
-                               "Schwerwasser-Sabotage",
-                               "Vemork",
-                               "Norwegen"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  471,
-        "episodeTitle":  "Karl XII. und das Ende des Schwedischen Reichs",
-        "episodeUrl":  "https://gadg.fm/471",
-        "songId":  "sabaton-poltava",
-        "band":  "Sabaton",
-        "songTitle":  "Poltava",
-        "matchTier":  "A",
-        "justification":  "Die Folge dreht sich um Karl XII. und die Schlacht bei Poltawa 1709; „Poltava“ thematisiert genau diese Schlacht.",
-        "sharedEntities":  [
-                               "Schlacht bei Poltawa",
-                               "Karl XII.",
-                               "Großer Nordischer Krieg"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  471,
-        "episodeTitle":  "Karl XII. und das Ende des Schwedischen Reichs",
-        "episodeUrl":  "https://gadg.fm/471",
-        "songId":  "sabaton-carolus-rex",
-        "band":  "Sabaton",
-        "songTitle":  "Carolus Rex",
-        "matchTier":  "A",
-        "justification":  "Die Folge porträtiert Karl XII. (Carolus Rex) und das Ende des schwedischen Großreichs; der Song ist dem König gewidmet.",
-        "sharedEntities":  [
-                               "Karl XII.",
-                               "Carolus Rex"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    },
-    {
-        "episodeId":  205,
-        "episodeTitle":  "Die Befreiung von Schloss Itter",
-        "episodeUrl":  "https://gadg.fm/205",
-        "songId":  "sabaton-the-last-battle",
-        "band":  "Sabaton",
-        "songTitle":  "The Last Battle",
-        "matchTier":  "A",
-        "justification":  "Beide behandeln die Befreiung / das Gefecht um Schloss Itter 1945.",
-        "sharedEntities":  [
-                               "Schloss Itter",
-                               "1945"
-                           ],
-        "spotifyUrl":  "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
-        "youtubeUrl":  null,
-        "matchedAt":  "2026-09-25",
-        "curatedBy":  "manual"
-    }
+[
+  {
+    "episodeId": 157,
+    "episodeTitle": "Salpeter – Aufstieg und Fall einer chemischen Verbindung",
+    "episodeUrl": "https://gadg.fm/157",
+    "songId": "sabaton-father",
+    "band": "Sabaton",
+    "songTitle": "Father",
+    "matchTier": "B",
+    "justification": "GAG157 beschreibt, wie das Haber-Bosch-Verfahren den Salpeterhandel beendete; der Song „Father“ bezieht sich explizit auf Haber und Haber-Bosch.",
+    "sharedEntities": [
+      "Haber-Bosch-Verfahren",
+      "Fritz Haber"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 205,
+    "episodeTitle": "Die Befreiung von Schloss Itter",
+    "episodeUrl": "https://gadg.fm/205",
+    "songId": "sabaton-the-last-battle",
+    "band": "Sabaton",
+    "songTitle": "The Last Battle",
+    "matchTier": "A",
+    "justification": "Beide behandeln die Befreiung / das Gefecht um Schloss Itter 1945.",
+    "sharedEntities": [
+      "Schloss Itter",
+      "1945"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 290,
+    "episodeTitle": "Der Angriff der Leichten Brigade",
+    "episodeUrl": "https://gadg.fm/290",
+    "songId": "iron-maiden-the-trooper",
+    "band": "Iron Maiden",
+    "songTitle": "The Trooper",
+    "matchTier": "A",
+    "justification": "Beide behandeln die Attacke der Leichten Brigade / Balaclava (Krimkrieg).",
+    "sharedEntities": [
+      "Charge of the Light Brigade",
+      "Balaclava",
+      "Krimkrieg"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 309,
+    "episodeTitle": "Die Bestie des Gévaudan",
+    "episodeUrl": "https://gadg.fm/309",
+    "songId": "powerwolf-beast-of-gevaudan",
+    "band": "Powerwolf",
+    "songTitle": "Beast of Gévaudan",
+    "matchTier": "A",
+    "justification": "Beide behandeln die Bestie des Gévaudan (Frankreich, 1760er).",
+    "sharedEntities": [
+      "Bestie des Gévaudan",
+      "Gévaudan"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 367,
+    "episodeTitle": "Untergang und Comeback der VASA",
+    "episodeUrl": "https://gadg.fm/367",
+    "songId": "sabaton-the-lion-from-the-north",
+    "band": "Sabaton",
+    "songTitle": "The Lion from the North",
+    "matchTier": "B",
+    "justification": "Die Folge handelt vom Kriegsschiff Vasa unter Gustav II. Adolf; Sabaton „The Lion from the North“ thematisiert denselben König (nicht die Vasa selbst).",
+    "sharedEntities": [
+      "Gustav II. Adolf"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 377,
+    "episodeTitle": "Aufstieg und Fall des Templerordens",
+    "episodeUrl": "https://gadg.fm/377",
+    "songId": "sabaton-templars",
+    "band": "Sabaton",
+    "songTitle": "Templars",
+    "matchTier": "A",
+    "justification": "Beide behandeln Aufstieg und Fall des Templerordens (Gründung nach dem 1. Kreuzzug, Untergang unter Philipp IV. / Jacques de Molay).",
+    "sharedEntities": [
+      "Templerorden",
+      "Jacques de Molay",
+      "Philipp IV."
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
+    "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 414,
+    "episodeTitle": "Ibn Fadlān und die Reise zur Wolga",
+    "episodeUrl": "https://gadg.fm/414",
+    "songId": "turisas-to-holmgard-and-beyond",
+    "band": "Turisas",
+    "songTitle": "To Holmgard and Beyond",
+    "matchTier": "B",
+    "justification": "Ibn Fadlan beschreibt die Rus/Waräger auf der Wolga-Route; Turisas’ Varangian-Way-Album thematisiert denselben Warägerweg nach Osten.",
+    "sharedEntities": [
+      "Waräger",
+      "Rus",
+      "Wolga-Route"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 462,
+    "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+    "episodeUrl": "https://gadg.fm/462",
+    "songId": "sabaton-sparta",
+    "band": "Sabaton",
+    "songTitle": "Sparta",
+    "matchTier": "A",
+    "justification": "Beide behandeln die Schlacht an den Thermopylen / die Spartaner unter Leonidas.",
+    "sharedEntities": [
+      "Thermopylen",
+      "Sparta",
+      "Leonidas"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 471,
+    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+    "episodeUrl": "https://gadg.fm/471",
+    "songId": "sabaton-carolus-rex",
+    "band": "Sabaton",
+    "songTitle": "Carolus Rex",
+    "matchTier": "A",
+    "justification": "Die Folge porträtiert Karl XII. (Carolus Rex) und das Ende des schwedischen Großreichs; der Song ist dem König gewidmet.",
+    "sharedEntities": [
+      "Karl XII.",
+      "Carolus Rex"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 471,
+    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+    "episodeUrl": "https://gadg.fm/471",
+    "songId": "sabaton-long-live-the-king",
+    "band": "Sabaton",
+    "songTitle": "Long Live the King",
+    "matchTier": "A",
+    "justification": "Die Folge behandelt u. a. Tod und Rätsel um Karl XII.; der Song gilt dem Tod des Königs.",
+    "sharedEntities": [
+      "Karl XII."
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 471,
+    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+    "episodeUrl": "https://gadg.fm/471",
+    "songId": "sabaton-poltava",
+    "band": "Sabaton",
+    "songTitle": "Poltava",
+    "matchTier": "A",
+    "justification": "Die Folge dreht sich um Karl XII. und die Schlacht bei Poltawa 1709; „Poltava“ thematisiert genau diese Schlacht.",
+    "sharedEntities": [
+      "Schlacht bei Poltawa",
+      "Karl XII.",
+      "Großer Nordischer Krieg"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 471,
+    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+    "episodeUrl": "https://gadg.fm/471",
+    "songId": "sabaton-ruina-imperii",
+    "band": "Sabaton",
+    "songTitle": "Ruina Imperii",
+    "matchTier": "B",
+    "justification": "Die Folge thematisiert das Ende des schwedischen Großreichs nach Karl XII.; „Ruina Imperii“ ebenso.",
+    "sharedEntities": [
+      "Ende des Schwedischen Reichs",
+      "Karl XII."
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 493,
+    "episodeTitle": "Kernspaltung und Schwerwasser-Sabotage",
+    "episodeUrl": "https://gadg.fm/493",
+    "songId": "sabaton-saboteurs",
+    "band": "Sabaton",
+    "songTitle": "Saboteurs",
+    "matchTier": "A",
+    "justification": "Beide behandeln die norwegische Schwerwasser-Sabotage (Vemork/Telemark) im Zweiten Weltkrieg.",
+    "sharedEntities": [
+      "Schwerwasser-Sabotage",
+      "Vemork",
+      "Norwegen"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 508,
+    "episodeTitle": "HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft",
+    "episodeUrl": "https://gadg.fm/508",
+    "songId": "sabaton-father",
+    "band": "Sabaton",
+    "songTitle": "Father",
+    "matchTier": "A",
+    "justification": "Die Hörbuchgeschichte „Brot aus der Luft“ behandelt Fritz Haber und das Haber-Bosch-Verfahren; Sabaton „Father“ thematisiert Haber (Dünger und Giftgas).",
+    "sharedEntities": [
+      "Fritz Haber",
+      "Haber-Bosch-Verfahren"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 519,
+    "episodeTitle": "Die Warägergarde",
+    "episodeUrl": "https://gadg.fm/519",
+    "songId": "turisas-stand-up-and-fight",
+    "band": "Turisas",
+    "songTitle": "Stand Up and Fight",
+    "matchTier": "A",
+    "justification": "Stand Up and Fight stammt vom Warägergarde-Konzeptalbum; die Folge behandelt dieselbe Leibgarde.",
+    "sharedEntities": [
+      "Warägergarde",
+      "Byzanz"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 519,
+    "episodeTitle": "Die Warägergarde",
+    "episodeUrl": "https://gadg.fm/519",
+    "songId": "turisas-the-march-of-the-varangian-guard",
+    "band": "Turisas",
+    "songTitle": "The March of the Varangian Guard",
+    "matchTier": "A",
+    "justification": "Beide behandeln die Warägergarde am byzantinischen Hof.",
+    "sharedEntities": [
+      "Warägergarde",
+      "Byzanz"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  }
 ]

@@ -1,241 +1,2111 @@
-﻿[
-    {
-        "id":  "sabaton-father",
-        "entities":  [
-                         "Fritz Haber",
-                         "Haber-Bosch-Verfahren",
-                         "Giftgas",
-                         "chemischer Krieg",
-                         "Erster Weltkrieg"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://www.sabaton.net/historical-calendar/",
-                            "note":  "Fritz Haber / Haber-Bosch",
-                            "type":  "sabaton-official"
-                        },
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Father",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
-        "title":  "Father",
-        "era":  "1909/1915",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-sparta",
-        "entities":  [
-                         "Thermopylen",
-                         "Leonidas",
-                         "Sparta",
-                         "Perserkriege",
-                         "300 Spartaner"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "300 Spartans",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
-        "title":  "Sparta",
-        "era":  "480 v. Chr.",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-templars",
-        "entities":  [
-                         "Templerorden",
-                         "Jacques de Molay",
-                         "Philipp IV.",
-                         "Jerusalem",
-                         "Kreuzzüge"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://www.sabaton.net/discography/templars/",
-                            "note":  "Knights Templar rise and fall",
-                            "type":  "sabaton-official"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
-        "title":  "Templars",
-        "era":  "1119–1307",
-        "youtubeUrl":  "https://www.youtube.com/watch?v=B10ECkQXQtU",
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-saboteurs",
-        "entities":  [
-                         "Schwerwasser-Sabotage",
-                         "Vemork",
-                         "Norwegen",
-                         "Telemark",
-                         "Zweiter Weltkrieg"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Norwegian Heavy Water Sabotage",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
-        "title":  "Saboteurs",
-        "era":  "1942–1943",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-poltava",
-        "entities":  [
-                         "Schlacht bei Poltawa",
-                         "Karl XII.",
-                         "Peter I.",
-                         "Großer Nordischer Krieg"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Battle of Poltava 1709",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
-        "title":  "Poltava",
-        "era":  "1709",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-carolus-rex",
-        "entities":  [
-                         "Karl XII.",
-                         "Carolus Rex",
-                         "Schweden",
-                         "Großes Nordisches Krieg"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Charles XII",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
-        "title":  "Carolus Rex",
-        "era":  "1697–1718",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-the-last-battle",
-        "entities":  [
-                         "Schloss Itter",
-                         "Castle Itter",
-                         "Tirol",
-                         "Zweiter Weltkrieg"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Castle of Itter",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
-        "title":  "The Last Battle",
-        "era":  "1945",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-stalingrad",
-        "entities":  [
-                         "Schlacht um Stalingrad",
-                         "Stalingrad",
-                         "6. Armee",
-                         "Friedrich Paulus"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Battle of Stalingrad",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  null,
-        "title":  "Stalingrad",
-        "era":  "1942–1943",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-hearts-of-iron",
-        "entities":  [
-                         "Schlacht um Berlin",
-                         "Walther Wenck",
-                         "12. Armee",
-                         "Berlin 1945"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://www.sabaton.net/historical-calendar/",
-                            "note":  "Wenck / Battle of Berlin — nicht 6. Armee/Stalingrad",
-                            "type":  "sabaton-official"
-                        }
-                    ],
-        "spotifyUrl":  null,
-        "title":  "Hearts of Iron",
-        "era":  "1945",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-winged-hussars",
-        "entities":  [
-                         "Zweite Wiener Türkenbelagerung",
-                         "Entsatz von Wien",
-                         "Flügelhusaren",
-                         "1683"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Siege of Vienna 1683",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  null,
-        "title":  "Winged Hussars",
-        "era":  "1683",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    },
-    {
-        "id":  "sabaton-swedish-pagans",
-        "entities":  [
-                         "Wikinger",
-                         "Rus",
-                         "Skandinavien"
-                     ],
-        "sources":  [
-                        {
-                            "url":  "https://elicarter.net/wiki/SabatonIndex",
-                            "note":  "Vikings and The Russ",
-                            "type":  "sabaton-index"
-                        }
-                    ],
-        "spotifyUrl":  null,
-        "title":  "Swedish Pagans",
-        "era":  "Wikingerzeit",
-        "youtubeUrl":  null,
-        "band":  "Sabaton"
-    }
+[
+  {
+    "id": "iron-maiden-aces-high",
+    "band": "Iron Maiden",
+    "title": "Aces High",
+    "entities": [
+      "Schlacht um England",
+      "Battle of Britain",
+      "RAF"
+    ],
+    "era": "1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.loudersound.com/features/the-11-best-iron-maiden-songs-based-on-history",
+        "note": "Battle of Britain"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-alexander-the-great",
+    "band": "Iron Maiden",
+    "title": "Alexander the Great",
+    "entities": [
+      "Alexander der Große",
+      "Makedonien",
+      "Alexandria"
+    ],
+    "era": "356–323 v. Chr.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alexander_the_Great_(song)",
+        "note": "biographical lyrics"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-empire-of-the-clouds",
+    "band": "Iron Maiden",
+    "title": "Empire of the Clouds",
+    "entities": [
+      "R101",
+      "Luftschiffabsturz"
+    ],
+    "era": "1930",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "seed",
+        "url": "https://www.reddit.com/r/ironmaiden/comments/g2k2l0/historical_based_songs/",
+        "note": "R101"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-genghis-khan",
+    "band": "Iron Maiden",
+    "title": "Genghis Khan",
+    "entities": [
+      "Dschingis Khan",
+      "Mongolenreich"
+    ],
+    "era": "13. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "seed",
+        "url": "https://www.reddit.com/r/ironmaiden/comments/g2k2l0/historical_based_songs/",
+        "note": "Genghis Khan"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-montsegur",
+    "band": "Iron Maiden",
+    "title": "Montségur",
+    "entities": [
+      "Montségur",
+      "Katharer",
+      "Albigenserkreuzzug"
+    ],
+    "era": "1244",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "seed",
+        "url": "https://www.reddit.com/r/ironmaiden/comments/g2k2l0/historical_based_songs/",
+        "note": "Montségur"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-paschendale",
+    "band": "Iron Maiden",
+    "title": "Paschendale",
+    "entities": [
+      "Passchendaele",
+      "Erster Weltkrieg",
+      "Flandern"
+    ],
+    "era": "1917",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.loudersound.com/features/the-11-best-iron-maiden-songs-based-on-history",
+        "note": "Passchendaele"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-run-to-the-hills",
+    "band": "Iron Maiden",
+    "title": "Run to the Hills",
+    "entities": [
+      "Kolonisierung Nordamerikas",
+      "First Nations"
+    ],
+    "era": "17.–19. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.loudersound.com/features/the-11-best-iron-maiden-songs-based-on-history",
+        "note": "Native American conflict"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-the-longest-day",
+    "band": "Iron Maiden",
+    "title": "The Longest Day",
+    "entities": [
+      "D-Day",
+      "Normandie",
+      "Operation Overlord"
+    ],
+    "era": "1944",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "seed",
+        "url": "https://www.reddit.com/r/ironmaiden/comments/g2k2l0/historical_based_songs/",
+        "note": "D-Day"
+      }
+    ]
+  },
+  {
+    "id": "iron-maiden-the-trooper",
+    "band": "Iron Maiden",
+    "title": "The Trooper",
+    "entities": [
+      "Charge of the Light Brigade",
+      "Balaclava",
+      "Krimkrieg"
+    ],
+    "era": "1854",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.loudersound.com/features/the-11-best-iron-maiden-songs-based-on-history",
+        "note": "Balaclava"
+      }
+    ]
+  },
+  {
+    "id": "powerwolf-1589",
+    "band": "Powerwolf",
+    "title": "1589",
+    "entities": [
+      "Peter Stumpp",
+      "Werwolf von Bedburg",
+      "1589"
+    ],
+    "era": "1589",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Stumpp",
+        "note": "Werewolf of Bedburg / Powerwolf 1589"
+      }
+    ]
+  },
+  {
+    "id": "powerwolf-beast-of-gevaudan",
+    "band": "Powerwolf",
+    "title": "Beast of Gévaudan",
+    "entities": [
+      "Bestie des Gévaudan",
+      "Gévaudan",
+      "Frankreich 18. Jh."
+    ],
+    "era": "1764–1767",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band-official",
+        "url": "https://www.powerwolf.net/news/news-archive?catid=10&id=39&view=article",
+        "note": "Beast of Gévaudan"
+      }
+    ]
+  },
+  {
+    "id": "powerwolf-joan-of-arc",
+    "band": "Powerwolf",
+    "title": "Joan of Arc",
+    "entities": [
+      "Jeanne d'Arc",
+      "Joan of Arc",
+      "Orléans"
+    ],
+    "era": "1412–1431",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Powerwolf_discography",
+        "note": "Joan of Arc (2024/25 album track)"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-1648",
+    "band": "Sabaton",
+    "title": "1648",
+    "entities": [
+      "Westfälischer Friede",
+      "Dreißigjähriger Krieg"
+    ],
+    "era": "1648",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "1648"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-1916",
+    "band": "Sabaton",
+    "title": "1916",
+    "entities": [
+      "Kindersoldaten",
+      "Erster Weltkrieg"
+    ],
+    "era": "1916",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "1916"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-40-1",
+    "band": "Sabaton",
+    "title": "40:1",
+    "entities": [
+      "Schlacht von Wizna",
+      "Polen 1939"
+    ],
+    "era": "1939",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "40:1"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-82nd-all-the-way",
+    "band": "Sabaton",
+    "title": "82nd All the Way",
+    "entities": [
+      "Alvin York",
+      "82nd Division"
+    ],
+    "era": "1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "82nd All the Way"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-a-ghost-in-the-trenches",
+    "band": "Sabaton",
+    "title": "A Ghost in the Trenches",
+    "entities": [
+      "Francis Pegahmagabow"
+    ],
+    "era": "1914–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "A Ghost in the Trenches"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-a-lifetime-of-war",
+    "band": "Sabaton",
+    "title": "A Lifetime of War",
+    "entities": [
+      "Dreißigjähriger Krieg"
+    ],
+    "era": "1618–1648",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "A Lifetime of War"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-aces-in-exile",
+    "band": "Sabaton",
+    "title": "Aces in Exile",
+    "entities": [
+      "Schlacht um England",
+      "RAF",
+      "Exilpiloten"
+    ],
+    "era": "1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Aces in Exile"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-angels-calling",
+    "band": "Sabaton",
+    "title": "Angels Calling",
+    "entities": [
+      "Stellungskrieg",
+      "Erster Weltkrieg"
+    ],
+    "era": "1914–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Angels Calling"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-attero-dominatus",
+    "band": "Sabaton",
+    "title": "Attero Dominatus",
+    "entities": [
+      "Schlacht um Berlin",
+      "Berlin 1945"
+    ],
+    "era": "1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Attero Dominatus"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-back-in-control",
+    "band": "Sabaton",
+    "title": "Back in Control",
+    "entities": [
+      "Falklandkrieg"
+    ],
+    "era": "1982",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Back in Control"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-bismarck",
+    "band": "Sabaton",
+    "title": "Bismarck",
+    "entities": [
+      "Schlachtschiff Bismarck"
+    ],
+    "era": "1941",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Bismarck"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-blood-of-bannockburn",
+    "band": "Sabaton",
+    "title": "Blood of Bannockburn",
+    "entities": [
+      "Bannockburn",
+      "Robert the Bruce"
+    ],
+    "era": "1314",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Blood of Bannockburn"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-carolus-rex",
+    "band": "Sabaton",
+    "title": "Carolus Rex",
+    "entities": [
+      "Karl XII.",
+      "Carolus Rex",
+      "Schweden",
+      "Großer Nordischer Krieg"
+    ],
+    "era": "1697–1718",
+    "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Carolus Rex"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-christmas-truce",
+    "band": "Sabaton",
+    "title": "Christmas Truce",
+    "entities": [
+      "Weihnachtsfrieden 1914"
+    ],
+    "era": "1914",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Christmas Truce"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-cliffs-of-gallipoli",
+    "band": "Sabaton",
+    "title": "Cliffs of Gallipoli",
+    "entities": [
+      "Gallipoli",
+      "Dardanellen",
+      "Erster Weltkrieg"
+    ],
+    "era": "1915–1916",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Cliffs of Gallipoli"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-coat-of-arms",
+    "band": "Sabaton",
+    "title": "Coat of Arms",
+    "entities": [
+      "Griechisch-Italienischer Krieg"
+    ],
+    "era": "1940–1941",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Coat of Arms"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-counterstrike",
+    "band": "Sabaton",
+    "title": "Counterstrike",
+    "entities": [
+      "Sechstagekrieg"
+    ],
+    "era": "1967",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Counterstrike"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-crossing-the-rubicon",
+    "band": "Sabaton",
+    "title": "Crossing the Rubicon",
+    "entities": [
+      "Rubikon",
+      "Julius Caesar"
+    ],
+    "era": "49 v. Chr.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Crossing the Rubicon"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-devil-dogs",
+    "band": "Sabaton",
+    "title": "Devil Dogs",
+    "entities": [
+      "Belleau Wood",
+      "US Marines"
+    ],
+    "era": "1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Devil Dogs"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-dreadnought",
+    "band": "Sabaton",
+    "title": "Dreadnought",
+    "entities": [
+      "Dreadnought",
+      "Skagerrakschlacht",
+      "Jütland"
+    ],
+    "era": "1916",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Dreadnought"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-far-from-the-fame",
+    "band": "Sabaton",
+    "title": "Far from the Fame",
+    "entities": [
+      "Karel Janoušek",
+      "Schlacht um England"
+    ],
+    "era": "1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Far from the Fame"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-father",
+    "band": "Sabaton",
+    "title": "Father",
+    "entities": [
+      "Fritz Haber",
+      "Haber-Bosch-Verfahren",
+      "Giftgas",
+      "chemischer Krieg",
+      "Erster Weltkrieg"
+    ],
+    "era": "1909/1915",
+    "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/historical-calendar/",
+        "note": "Fritz Haber / Haber-Bosch"
+      },
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Father"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-fields-of-verdun",
+    "band": "Sabaton",
+    "title": "Fields of Verdun",
+    "entities": [
+      "Schlacht um Verdun"
+    ],
+    "era": "1916",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Fields of Verdun"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-firestorm",
+    "band": "Sabaton",
+    "title": "Firestorm",
+    "entities": [
+      "strategischer Bombenkrieg"
+    ],
+    "era": "1939–1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Firestorm"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-ghost-division",
+    "band": "Sabaton",
+    "title": "Ghost Division",
+    "entities": [
+      "7. Panzer-Division",
+      "Rommel",
+      "Geisterdivision"
+    ],
+    "era": "1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Ghost Division"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-gott-mit-uns",
+    "band": "Sabaton",
+    "title": "Gott mit uns",
+    "entities": [
+      "Breitenfeld",
+      "Gustav II. Adolf"
+    ],
+    "era": "1631",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Gott mit uns"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-great-war",
+    "band": "Sabaton",
+    "title": "Great War",
+    "entities": [
+      "Erster Weltkrieg",
+      "Passchendaele"
+    ],
+    "era": "1914–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Great War"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-hearts-of-iron",
+    "band": "Sabaton",
+    "title": "Hearts of Iron",
+    "entities": [
+      "Schlacht um Berlin",
+      "Walther Wenck",
+      "12. Armee",
+      "Berlin 1945"
+    ],
+    "era": "1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/historical-calendar/",
+        "note": "Wenck / Battle of Berlin — nicht 6. Armee/Stalingrad"
+      },
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Hearts of Iron"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-hellfighters",
+    "band": "Sabaton",
+    "title": "Hellfighters",
+    "entities": [
+      "Harlem Hellfighters",
+      "369th Infantry"
+    ],
+    "era": "1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Hellfighters"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-hill-3234",
+    "band": "Sabaton",
+    "title": "Hill 3234",
+    "entities": [
+      "Hügel 3234",
+      "Sowjetisch-Afghanischer Krieg"
+    ],
+    "era": "1988",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Hill 3234"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-hordes-of-khan",
+    "band": "Sabaton",
+    "title": "Hordes of Khan",
+    "entities": [
+      "Dschingis Khan",
+      "Mongolenreich"
+    ],
+    "era": "13. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Hordes of Khan"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-inmate-4859",
+    "band": "Sabaton",
+    "title": "Inmate 4859",
+    "entities": [
+      "Witold Pilecki",
+      "Auschwitz"
+    ],
+    "era": "1940–1943",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Inmate 4859"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-into-the-fire",
+    "band": "Sabaton",
+    "title": "Into the Fire",
+    "entities": [
+      "Vietnamkrieg"
+    ],
+    "era": "1955–1975",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Into the Fire"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-killing-ground",
+    "band": "Sabaton",
+    "title": "Killing Ground",
+    "entities": [
+      "Schlacht bei Fraustadt"
+    ],
+    "era": "1706",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Killing Ground"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-lady-of-the-dark",
+    "band": "Sabaton",
+    "title": "Lady of the Dark",
+    "entities": [
+      "Milunka Savić"
+    ],
+    "era": "1912–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Lady of the Dark"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-last-dying-breath",
+    "band": "Sabaton",
+    "title": "Last Dying Breath",
+    "entities": [
+      "Belgrad 1915",
+      "Serbien"
+    ],
+    "era": "1915",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Last Dying Breath"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-light-in-the-black",
+    "band": "Sabaton",
+    "title": "Light in the Black",
+    "entities": [
+      "UN-Friedenstruppen",
+      "Peacekeeping"
+    ],
+    "era": "1945–",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Light in the Black"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-livgardet",
+    "band": "Sabaton",
+    "title": "Livgardet",
+    "entities": [
+      "Livgardet",
+      "schwedische Leibgarde"
+    ],
+    "era": "1521–",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Livgardet"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-long-live-the-king",
+    "band": "Sabaton",
+    "title": "Long Live the King",
+    "entities": [
+      "Karl XII.",
+      "Tod Karls XII."
+    ],
+    "era": "1718",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Long Live the King"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-midway",
+    "band": "Sabaton",
+    "title": "Midway",
+    "entities": [
+      "Schlacht um Midway"
+    ],
+    "era": "1942",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Midway"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-night-witches",
+    "band": "Sabaton",
+    "title": "Night Witches",
+    "entities": [
+      "Nachthexen",
+      "588. Nachtbomberregiment"
+    ],
+    "era": "1942–1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Night Witches"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-no-bullets-fly",
+    "band": "Sabaton",
+    "title": "No Bullets Fly",
+    "entities": [
+      "Franz Stigler",
+      "Charlie Brown"
+    ],
+    "era": "1943",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "No Bullets Fly"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-nuclear-attack",
+    "band": "Sabaton",
+    "title": "Nuclear Attack",
+    "entities": [
+      "Hiroshima",
+      "Nagasaki",
+      "Atombombe"
+    ],
+    "era": "1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Nuclear Attack"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-panzer-battalion",
+    "band": "Sabaton",
+    "title": "Panzer Battalion",
+    "entities": [
+      "Irakkrieg",
+      "2003"
+    ],
+    "era": "2003",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Panzer Battalion"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-panzerkampf",
+    "band": "Sabaton",
+    "title": "Panzerkampf",
+    "entities": [
+      "Schlacht bei Kursk"
+    ],
+    "era": "1943",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Panzerkampf"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-poltava",
+    "band": "Sabaton",
+    "title": "Poltava",
+    "entities": [
+      "Schlacht bei Poltawa",
+      "Karl XII.",
+      "Peter I.",
+      "Großer Nordischer Krieg"
+    ],
+    "era": "1709",
+    "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Poltava"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-primo-victoria",
+    "band": "Sabaton",
+    "title": "Primo Victoria",
+    "entities": [
+      "D-Day",
+      "Normandie",
+      "Operation Overlord"
+    ],
+    "era": "1944",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "D-Day / Normandy"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-race-to-the-sea",
+    "band": "Sabaton",
+    "title": "Race to the Sea",
+    "entities": [
+      "Albert I. von Belgien",
+      "Yser"
+    ],
+    "era": "1914",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Race to the Sea"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-reign-of-terror",
+    "band": "Sabaton",
+    "title": "Reign of Terror",
+    "entities": [
+      "Operation Desert Storm",
+      "Irak"
+    ],
+    "era": "1991",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Reign of Terror"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-resist-and-bite",
+    "band": "Sabaton",
+    "title": "Resist and Bite",
+    "entities": [
+      "Chasseurs Ardennais"
+    ],
+    "era": "1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Resist and Bite"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-rise-of-evil",
+    "band": "Sabaton",
+    "title": "Rise of Evil",
+    "entities": [
+      "Hitler",
+      "Aufstieg der NSDAP"
+    ],
+    "era": "1933–1939",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Rise of Evil"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-rorke-s-drift",
+    "band": "Sabaton",
+    "title": "Rorke's Drift",
+    "entities": [
+      "Rorke's Drift",
+      "Anglo-Zulu-Krieg"
+    ],
+    "era": "1879",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Rorke's Drift"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-ruina-imperii",
+    "band": "Sabaton",
+    "title": "Ruina Imperii",
+    "entities": [
+      "Ende des Schwedischen Reichs",
+      "Karl XII."
+    ],
+    "era": "1718–1721",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Ruina Imperii"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-saboteurs",
+    "band": "Sabaton",
+    "title": "Saboteurs",
+    "entities": [
+      "Schwerwasser-Sabotage",
+      "Vemork",
+      "Norwegen",
+      "Telemark",
+      "Zweiter Weltkrieg"
+    ],
+    "era": "1942–1943",
+    "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Saboteurs"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-sarajevo",
+    "band": "Sabaton",
+    "title": "Sarajevo",
+    "entities": [
+      "Attentat von Sarajevo",
+      "Franz Ferdinand"
+    ],
+    "era": "1914",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Sarajevo"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-screaming-eagles",
+    "band": "Sabaton",
+    "title": "Screaming Eagles",
+    "entities": [
+      "101st Airborne",
+      "Bastogne"
+    ],
+    "era": "1944",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Screaming Eagles"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-seven-pillars-of-wisdom",
+    "band": "Sabaton",
+    "title": "Seven Pillars of Wisdom",
+    "entities": [
+      "T. E. Lawrence",
+      "Lawrence von Arabien"
+    ],
+    "era": "1916–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Seven Pillars of Wisdom"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-shiroyama",
+    "band": "Sabaton",
+    "title": "Shiroyama",
+    "entities": [
+      "Shiroyama",
+      "Satsuma-Rebellion",
+      "Saigō Takamori"
+    ],
+    "era": "1877",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Shiroyama"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-smoking-snakes",
+    "band": "Sabaton",
+    "title": "Smoking Snakes",
+    "entities": [
+      "Brasilianisches Expeditionskorps",
+      "Po-Ebene"
+    ],
+    "era": "1944–1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Smoking Snakes"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-soldier-of-3-armies",
+    "band": "Sabaton",
+    "title": "Soldier of 3 Armies",
+    "entities": [
+      "Lauri Törni",
+      "Larry Thorne"
+    ],
+    "era": "1939–1965",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Soldier of 3 Armies"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-soldier-of-heaven",
+    "band": "Sabaton",
+    "title": "Soldier of Heaven",
+    "entities": [
+      "Alpenfront",
+      "Erster Weltkrieg"
+    ],
+    "era": "1915–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Soldier of Heaven"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-sparta",
+    "band": "Sabaton",
+    "title": "Sparta",
+    "entities": [
+      "Thermopylen",
+      "Leonidas",
+      "Sparta",
+      "Perserkriege",
+      "300 Spartaner"
+    ],
+    "era": "480 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Sparta"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-stalingrad",
+    "band": "Sabaton",
+    "title": "Stalingrad",
+    "entities": [
+      "Schlacht um Stalingrad",
+      "Stalingrad",
+      "6. Armee",
+      "Friedrich Paulus"
+    ],
+    "era": "1942–1943",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Stalingrad"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-stormtroopers",
+    "band": "Sabaton",
+    "title": "Stormtroopers",
+    "entities": [
+      "Stoßtruppen",
+      "Erster Weltkrieg"
+    ],
+    "era": "1915–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Stormtroopers"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-swedish-pagans",
+    "band": "Sabaton",
+    "title": "Swedish Pagans",
+    "entities": [
+      "Wikinger",
+      "Rus",
+      "Skandinavien"
+    ],
+    "era": "Wikingerzeit",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Swedish Pagans"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-talvisota",
+    "band": "Sabaton",
+    "title": "Talvisota",
+    "entities": [
+      "Winterkrieg",
+      "Finnland",
+      "Sowjetunion"
+    ],
+    "era": "1939–1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Talvisota"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-templars",
+    "band": "Sabaton",
+    "title": "Templars",
+    "entities": [
+      "Templerorden",
+      "Jacques de Molay",
+      "Philipp IV.",
+      "Jerusalem",
+      "Kreuzzüge"
+    ],
+    "era": "1119–1307",
+    "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
+    "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/templars/",
+        "note": "Knights Templar rise and fall"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-attack-of-the-dead-men",
+    "band": "Sabaton",
+    "title": "The Attack of the Dead Men",
+    "entities": [
+      "Osowiec",
+      "Festung Osowiec",
+      "Gasangriff"
+    ],
+    "era": "1915",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Attack of the Dead Men"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-ballad-of-bull",
+    "band": "Sabaton",
+    "title": "The Ballad of Bull",
+    "entities": [
+      "Leslie Bull Allen"
+    ],
+    "era": "1943",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Ballad of Bull"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-carolean-s-prayer",
+    "band": "Sabaton",
+    "title": "The Carolean's Prayer",
+    "entities": [
+      "Karoliner",
+      "schwedische Armee"
+    ],
+    "era": "1682–",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Carolean's Prayer"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-end-of-the-war-to-end-all-wars",
+    "band": "Sabaton",
+    "title": "The End of the War to End All Wars",
+    "entities": [
+      "Waffenstillstand von Compiègne"
+    ],
+    "era": "1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The End of the War to End All Wars"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-final-solution",
+    "band": "Sabaton",
+    "title": "The Final Solution",
+    "entities": [
+      "Holocaust",
+      "Shoah"
+    ],
+    "era": "1941–1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Final Solution"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-first-soldier",
+    "band": "Sabaton",
+    "title": "The First Soldier",
+    "entities": [
+      "Albert Severin Roche"
+    ],
+    "era": "1914–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The First Soldier"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-future-of-warfare",
+    "band": "Sabaton",
+    "title": "The Future of Warfare",
+    "entities": [
+      "Panzer",
+      "Flers-Courcelette"
+    ],
+    "era": "1916",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Future of Warfare"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-last-battle",
+    "band": "Sabaton",
+    "title": "The Last Battle",
+    "entities": [
+      "Schloss Itter",
+      "Castle Itter",
+      "Tirol",
+      "Zweiter Weltkrieg"
+    ],
+    "era": "1945",
+    "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Last Battle"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-last-stand",
+    "band": "Sabaton",
+    "title": "The Last Stand",
+    "entities": [
+      "Schweizergarde",
+      "Sacco di Roma",
+      "Plünderung Roms 1527"
+    ],
+    "era": "1527",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Last Stand"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-lion-from-the-north",
+    "band": "Sabaton",
+    "title": "The Lion from the North",
+    "entities": [
+      "Gustav II. Adolf",
+      "Dreißigjähriger Krieg"
+    ],
+    "era": "1611–1632",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Lion from the North"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-lost-battalion",
+    "band": "Sabaton",
+    "title": "The Lost Battalion",
+    "entities": [
+      "Lost Battalion",
+      "Argonnen"
+    ],
+    "era": "1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Lost Battalion"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-price-of-a-mile",
+    "band": "Sabaton",
+    "title": "The Price of a Mile",
+    "entities": [
+      "Passchendaele",
+      "Erster Weltkrieg"
+    ],
+    "era": "1917",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Price of a Mile"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-red-baron",
+    "band": "Sabaton",
+    "title": "The Red Baron",
+    "entities": [
+      "Manfred von Richthofen",
+      "Roter Baron"
+    ],
+    "era": "1916–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Red Baron"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-unkillable-soldier",
+    "band": "Sabaton",
+    "title": "The Unkillable Soldier",
+    "entities": [
+      "Adrian Carton de Wiart"
+    ],
+    "era": "1914–1918",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "The Unkillable Soldier"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-to-hell-and-back",
+    "band": "Sabaton",
+    "title": "To Hell and Back",
+    "entities": [
+      "Audie Murphy"
+    ],
+    "era": "1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "To Hell and Back"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-union-slopes-of-st-benedict",
+    "band": "Sabaton",
+    "title": "Union (Slopes of St. Benedict)",
+    "entities": [
+      "Monte Cassino"
+    ],
+    "era": "1944",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Union (Slopes of St. Benedict)"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-uprising",
+    "band": "Sabaton",
+    "title": "Uprising",
+    "entities": [
+      "Warschauer Aufstand"
+    ],
+    "era": "1944",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Uprising"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-valley-of-death",
+    "band": "Sabaton",
+    "title": "Valley of Death",
+    "entities": [
+      "Schlacht von Doiran"
+    ],
+    "era": "1917",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Valley of Death"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-versailles",
+    "band": "Sabaton",
+    "title": "Versailles",
+    "entities": [
+      "Versailler Vertrag"
+    ],
+    "era": "1919",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Versailles"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-we-burn",
+    "band": "Sabaton",
+    "title": "We Burn",
+    "entities": [
+      "Srebrenica",
+      "1995"
+    ],
+    "era": "1995",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "We Burn"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-wehrmacht",
+    "band": "Sabaton",
+    "title": "Wehrmacht",
+    "entities": [
+      "Wehrmacht"
+    ],
+    "era": "1935–1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Wehrmacht"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-white-death",
+    "band": "Sabaton",
+    "title": "White Death",
+    "entities": [
+      "Simo Häyhä",
+      "Weißer Tod",
+      "Winterkrieg"
+    ],
+    "era": "1939–1940",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "White Death"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-winged-hussars",
+    "band": "Sabaton",
+    "title": "Winged Hussars",
+    "entities": [
+      "Zweite Wiener Türkenbelagerung",
+      "Entsatz von Wien",
+      "Flügelhusaren",
+      "1683"
+    ],
+    "era": "1683",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Winged Hussars"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-wolfpack",
+    "band": "Sabaton",
+    "title": "Wolfpack",
+    "entities": [
+      "U-Boot-Krieg",
+      "Kriegsmarine",
+      "Wolfsrudel Hecht"
+    ],
+    "era": "1942",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Wolfpack"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-yamato",
+    "band": "Sabaton",
+    "title": "Yamato",
+    "entities": [
+      "Schlachtschiff Yamato"
+    ],
+    "era": "1945",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-index",
+        "url": "https://elicarter.net/wiki/SabatonIndex",
+        "note": "Yamato"
+      }
+    ]
+  },
+  {
+    "id": "turisas-in-the-court-of-jarisleif",
+    "band": "Turisas",
+    "title": "In the Court of Jarisleif",
+    "entities": [
+      "Jaroslaw der Weise",
+      "Kiew",
+      "Waräger"
+    ],
+    "era": "11. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://bravewords.com/news/turisas-announce-details-of-new-studio-album-the-varangian-way/",
+        "note": "Jarisleif = Yaroslav"
+      }
+    ]
+  },
+  {
+    "id": "turisas-miklagard-overture",
+    "band": "Turisas",
+    "title": "Miklagard Overture",
+    "entities": [
+      "Miklagard",
+      "Konstantinopel",
+      "Waräger",
+      "Byzanz"
+    ],
+    "era": "9.–11. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.medievalists.net/2019/10/heavy-metal-meets-byzantium/",
+        "note": "Varangian Way ends in Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "turisas-stand-up-and-fight",
+    "band": "Turisas",
+    "title": "Stand Up and Fight",
+    "entities": [
+      "Warägergarde",
+      "Byzanz",
+      "Konstantinopel"
+    ],
+    "era": "11. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Stand_Up_and_Fight_(album)",
+        "note": "title track / Varangian Guard"
+      }
+    ]
+  },
+  {
+    "id": "turisas-the-march-of-the-varangian-guard",
+    "band": "Turisas",
+    "title": "The March of the Varangian Guard",
+    "entities": [
+      "Warägergarde",
+      "Byzanz",
+      "Konstantinopel",
+      "Miklagard"
+    ],
+    "era": "11. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Stand_Up_and_Fight_(album)",
+        "note": "Varangian Guard concept album"
+      }
+    ]
+  },
+  {
+    "id": "turisas-to-holmgard-and-beyond",
+    "band": "Turisas",
+    "title": "To Holmgard and Beyond",
+    "entities": [
+      "Warägerweg",
+      "Holmgard",
+      "Nowgorod",
+      "Rus"
+    ],
+    "era": "9.–11. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://bravewords.com/news/turisas-announce-details-of-new-studio-album-the-varangian-way/",
+        "note": "Varangian Way concept"
+      }
+    ]
+  }
 ]
