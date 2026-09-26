@@ -1,6 +1,8 @@
 # Stellt die sortierbare Playlist-HTML über GitHub Pages bereit.
-# Nach Umstellen des Repos auf public + einmaligem Pages-Enable (Source: GitHub Actions)
-# erreichbar unter: https://sneumeister.github.io/GAG_Metal_Playlist/
+# Erreichbar unter: https://sneumeister.github.io/GAG_Metal_Playlist/
+#
+# Voraussetzung: Repo public + Settings → Pages → Source: GitHub Actions.
+# Solange das Repo privat ist, wird der Job übersprungen (kein Fail).
 name: Deploy GitHub Pages
 
 on:
@@ -22,13 +24,15 @@ concurrency:
 
 jobs:
   deploy:
+    # Privat: kein Pages auf Free-Plan → Job skippen statt rot scheitern.
+    if: ${{ !github.event.repository.private }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Site vorbereiten
         run: |
@@ -36,13 +40,13 @@ jobs:
           cp GAG_Metal_playlist.html _site/index.html
 
       - name: Pages konfigurieren
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Artifact hochladen
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
