@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26 23:12:01 +0200",
+  "updatedAt": "2026-09-26 23:14:55 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -34,8 +34,8 @@
         "Erster Kreuzzug",
         "Konstantinopel"
       ],
-      "spotifyUrl": null,
-      "youtubeUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },

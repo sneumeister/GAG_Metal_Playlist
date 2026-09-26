@@ -1,12 +1,12 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-26 23:12:16 +0200  
-**JSON-Status:** 2026-09-26 23:12:01 +0200
+**Compile-Datum:** 2026-09-26 23:15:50 +0200  
+**JSON-Status:** 2026-09-26 23:14:55 +0200
 
 | Folge | Folgentitel | Band | Song Titel | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
-| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | — | — |
+| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | [link](https://www.youtube.com/watch?v=SGj0HvYXxT4) | [link](https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Serenity | The Matricide | [link](https://www.youtube.com/watch?v=7sxm_w1q3BE) | [link](https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
 | [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | [link](https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld) |
