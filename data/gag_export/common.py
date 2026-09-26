@@ -35,7 +35,8 @@ def load_entries(path: Path | None = None) -> list[dict[str, Any]]:
 
 def json_status_date(path: Path | None = None) -> str | None:
     """
-    Letztes Bearbeitungsdatum der Playlist-JSON (`updatedAt`).
+    Letzter Bearbeitungszeitpunkt der Playlist-JSON (`updatedAt`).
+    Erwartetes Format: YYYY-MM-DD HH:MM:SS ±ZZZZ (wie compile_timestamp).
     Fallback: ältere Meta-Keys bzw. Neben-Datei `*.meta.json`.
     """
     json_path = path or (data_dir() / JSON_NAME)

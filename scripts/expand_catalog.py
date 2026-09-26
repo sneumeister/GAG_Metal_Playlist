@@ -5,10 +5,16 @@ from __future__ import annotations
 import json
 import re
 import unicodedata
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(r"d:\Projekte\GAG_Metal_Playlist")
 TODAY = "2026-09-26"
+
+
+def playlist_updated_at() -> str:
+    """Aktueller Zeitpunkt für Playlist-`updatedAt` (Datum + Uhrzeit + Offset)."""
+    return datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S %z")
 SRC_INDEX = {
     "type": "sabaton-index",
     "url": "https://elicarter.net/wiki/SabatonIndex",
@@ -477,7 +483,7 @@ def main() -> None:
             eps.append(json.loads(line))
     ep_by_id = {e["id"]: e for e in eps}
 
-    raw_matches = load_json(matches_path, {"updatedAt": TODAY, "entries": []})
+    raw_matches = load_json(matches_path, {"updatedAt": playlist_updated_at(), "entries": []})
     if isinstance(raw_matches, list):
         matches = raw_matches
     else:
@@ -697,7 +703,7 @@ def main() -> None:
 
     # Sort matches
     matches.sort(key=lambda m: (m["episodeId"], m["band"], m["songTitle"]))
-    save_json(matches_path, {"updatedAt": TODAY, "entries": matches})
+    save_json(matches_path, {"updatedAt": playlist_updated_at(), "entries": matches})
     save_json(rejected_path, rejected)
 
     print(f"songs={len(songs)} matches={len(matches)} (+{new_m}) rejected={len(rejected)} (+{new_r})")
