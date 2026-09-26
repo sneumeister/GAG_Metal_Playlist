@@ -1,14 +1,19 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-26 19:48:08 +0200  
+**Compile-Datum:** 2026-09-26 20:28:48 +0200  
 **JSON-Status:** noch nicht gesetzt
 
 | Folge | Folgentitel | Band | Song Titel | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: |
+| [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
+| [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | — |
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
+| [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) |
 | [290](https://gadg.fm/290) | Der Angriff der Leichten Brigade | Iron Maiden | The Trooper | [link](https://www.youtube.com/watch?v=X4bgXH3sJ2Q) | [link](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) |
 | [309](https://gadg.fm/309) | Die Bestie des Gévaudan | Powerwolf | Beast of Gévaudan | [link](https://www.youtube.com/watch?v=po-u-V6GiEk) | [link](https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Sabaton | Templars | [link](https://www.youtube.com/watch?v=B10ECkQXQtU) | [link](https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy) |
+| [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | The Curse of Jacques | [link](https://www.youtube.com/watch?v=4C84PeWW8UI) | — |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Carolus Rex | [link](https://www.youtube.com/watch?v=nxwv8-oAasI) | [link](https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Long Live the King | [link](https://www.youtube.com/watch?v=rMnGYDi7Li0) | [link](https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS) |

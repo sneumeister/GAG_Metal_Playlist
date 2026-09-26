@@ -1,8 +1,29 @@
-﻿[
+[
+  {
+    "episodeId": 118,
+    "songId": "powerwolf-1589",
+    "reason": "Unterschiedliche Werwolf-Fälle: Folge = Thiess in Livland; Song = Peter Stumpp / Bedburg 1589.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
   {
     "episodeId": 157,
     "songId": "sabaton-father",
     "reason": "Folge dreht sich um Salpeterhandel, Chile und den Zusammenbruch; Haber-Bosch ist nur Endpunkt. Song „Father“ zielt auf Haber/Haber-Bosch — zu schwache Verknüpfung (besser: HB01/508).",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 255,
+    "songId": "sabaton-shiroyama",
+    "reason": "47 Ronin (Akō 1703) ≠ Schlacht von Shiroyama / Satsuma-Rebellion 1877 — anderes Ereignis, nur loser Samurai-Bezug.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 365,
+    "songId": "sabaton-ghost-division",
+    "reason": "Ghost Army (US-Täuschungsverband WWII) ≠ Ghost Division (Rommels 7. Panzer-Division) — Namensähnlichkeit, kein Entity-Match.",
     "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
   },
@@ -22,16 +43,16 @@
   },
   {
     "episodeId": 519,
-    "songId": "turisas-stand-up-and-fight",
-    "reason": "Titeltrack: allgemeine Motivations-/Lebens-Hymne (Lyrics ohne Warägergarde/Byzanz/Kreuzzug). Album-Rahmen Konstantinopel reicht nicht; Match nur über Albumnähe — zu lose. Bleibt: The March of the Varangian Guard.",
-    "rejectedAt": "2026-09-26",
+    "songId": "sabaton-swedish-pagans",
+    "reason": "Nur gemeinsamer Wikinger-/Skandinavien-Bezug; Folge speziell Warägergarde in Byzanz, Song allgemein Wikinger/Rus — zu lose (Tier C).",
+    "rejectedAt": "2026-09-25",
     "rejectedBy": "manual"
   },
   {
     "episodeId": 519,
-    "songId": "sabaton-swedish-pagans",
-    "reason": "Nur gemeinsamer Wikinger-/Skandinavien-Bezug; Folge speziell Warägergarde in Byzanz, Song allgemein Wikinger/Rus — zu lose (Tier C).",
-    "rejectedAt": "2026-09-25",
+    "songId": "turisas-stand-up-and-fight",
+    "reason": "Titeltrack: allgemeine Motivations-/Lebens-Hymne (Lyrics ohne Warägergarde/Byzanz/Kreuzzug). Album-Rahmen Konstantinopel reicht nicht; Match nur über Albumnähe — zu lose. Bleibt: The March of the Varangian Guard.",
+    "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
   }
 ]

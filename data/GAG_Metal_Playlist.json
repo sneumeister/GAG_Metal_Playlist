@@ -1,5 +1,61 @@
 [
   {
+    "episodeId": 4,
+    "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
+    "episodeUrl": "https://gadg.fm/4",
+    "songId": "running-wild-the-battle-of-waterloo",
+    "band": "Running Wild",
+    "songTitle": "The Battle of Waterloo",
+    "matchTier": "A",
+    "justification": "Die Folge spielt bei der Schlacht von Waterloo 1815 (u. a. Wellington); Running Wild „The Battle of Waterloo“ schildert dieselbe Schlacht (Wellington, Blücher, Napoleon).",
+    "sharedEntities": [
+      "Schlacht bei Waterloo",
+      "Wellington",
+      "1815"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 189,
+    "episodeTitle": "Die Schlacht bei Cannae",
+    "episodeUrl": "https://gadg.fm/189",
+    "songId": "sabaton-lightning-at-the-gates",
+    "band": "Sabaton",
+    "songTitle": "Lightning at the Gates",
+    "matchTier": "B",
+    "justification": "Sabaton Historic Fact (offiziell/YouTube) nennt Cannae als berühmtesten Erfolg Hannibals in dieser Kampagne; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang — Entity über Band-Historie, nicht nur Songzeilen.",
+    "sharedEntities": [
+      "Hannibal",
+      "Schlacht bei Cannae",
+      "Zweiter Punischer Krieg"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 190,
+    "episodeTitle": "Die Assassinen",
+    "episodeUrl": "https://gadg.fm/190",
+    "songId": "grave-digger-fanatic-assassins",
+    "band": "Grave Digger",
+    "songTitle": "Fanatic Assassins",
+    "matchTier": "B",
+    "justification": "Beide behandeln die Assassinen / den „Alten vom Berge“. Der Song nutzt die westliche Hashisch-/Paradies-Legende, die die Folge kritisch einordnet — Entity klar, Narrativ legendär.",
+    "sharedEntities": [
+      "Assassinen",
+      "Alter vom Berge"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9AQZxSDE8Aw",
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
     "episodeId": 205,
     "episodeTitle": "Die Befreiung von Schloss Itter",
     "episodeUrl": "https://gadg.fm/205",
@@ -15,6 +71,23 @@
     "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
     "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
     "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 229,
+    "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+    "episodeUrl": "https://gadg.fm/229",
+    "songId": "venom-countess-bathory",
+    "band": "Venom",
+    "songTitle": "Countess Bathory",
+    "matchTier": "A",
+    "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
+    "sharedEntities": [
+      "Elisabeth Báthory"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+    "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   },
   {
@@ -71,6 +144,24 @@
     "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
     "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
     "matchedAt": "2026-09-25",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 377,
+    "episodeTitle": "Aufstieg und Fall des Templerordens",
+    "episodeUrl": "https://gadg.fm/377",
+    "songId": "grave-digger-the-curse-of-jacques",
+    "band": "Grave Digger",
+    "songTitle": "The Curse of Jacques",
+    "matchTier": "A",
+    "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
+    "sharedEntities": [
+      "Jacques de Molay",
+      "Templerorden"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+    "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   },
   {

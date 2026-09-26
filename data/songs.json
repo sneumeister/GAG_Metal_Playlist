@@ -1,5 +1,52 @@
 [
   {
+    "id": "grave-digger-fanatic-assassins",
+    "band": "Grave Digger",
+    "title": "Fanatic Assassins",
+    "entities": [
+      "Assassinen",
+      "Nizariten",
+      "Alter vom Berge",
+      "Hasan-i Sabbah"
+    ],
+    "era": "11.–13. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9AQZxSDE8Aw",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/gravedigger/knightsofthecross.html",
+        "note": "Old Man of the Mountain / Assassin-Legende"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
+        "note": "Hashashim / Nizari on Knights of the Cross"
+      }
+    ]
+  },
+  {
+    "id": "grave-digger-the-curse-of-jacques",
+    "band": "Grave Digger",
+    "title": "The Curse of Jacques",
+    "entities": [
+      "Jacques de Molay",
+      "Templerorden",
+      "Philipp IV.",
+      "1314"
+    ],
+    "era": "1314",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
+        "note": "Hinrichtung Jacques de Molay / Fluch"
+      }
+    ]
+  },
+  {
     "id": "iron-maiden-aces-high",
     "band": "Iron Maiden",
     "title": "Aces High",
@@ -233,6 +280,34 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Powerwolf_discography",
         "note": "Joan of Arc (2024/25 album track)"
+      }
+    ]
+  },
+  {
+    "id": "running-wild-the-battle-of-waterloo",
+    "band": "Running Wild",
+    "title": "The Battle of Waterloo",
+    "entities": [
+      "Schlacht bei Waterloo",
+      "Waterloo",
+      "Wellington",
+      "Blücher",
+      "Napoleon",
+      "1815"
+    ],
+    "era": "1815",
+    "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Running-wild-the-battle-of-waterloo-lyrics",
+        "note": "Waterloo 18.6.1815; Wellington/Blücher"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Running_Wild/Death_or_Glory/418",
+        "note": "Death or Glory (1989)"
       }
     ]
   },
@@ -945,6 +1020,34 @@
         "type": "sabaton-index",
         "url": "https://elicarter.net/wiki/SabatonIndex",
         "note": "Light in the Black"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-lightning-at-the-gates",
+    "band": "Sabaton",
+    "title": "Lightning at the Gates",
+    "entities": [
+      "Hannibal",
+      "Alpenübergang",
+      "Zweiter Punischer Krieg",
+      "Karthago",
+      "Schlacht bei Cannae",
+      "Cannae"
+    ],
+    "era": "218 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/lightning-at-the-gates-lyrics/",
+        "note": "Lyrics: Alpenübergang; Historic Fact erwähnt u.a. Cannae"
+      },
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/lightning-at-the-gates-lyrics/",
+        "note": "Historic Fact (Sabaton/YouTube): Alpen + Siege inkl. Cannae"
       }
     ]
   },
@@ -2116,6 +2219,26 @@
         "type": "lyrics",
         "url": "https://www.azlyrics.com/lyrics/turisas/toholmgardandbeyond.html",
         "note": "Lyrics-Mirror (Captcha möglich)"
+      }
+    ]
+  },
+  {
+    "id": "venom-countess-bathory",
+    "band": "Venom",
+    "title": "Countess Bathory",
+    "entities": [
+      "Elisabeth Báthory",
+      "Blutgräfin",
+      "Ungarn"
+    ],
+    "era": "ca. 1610",
+    "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Countess_Bathory_(song)",
+        "note": "Elizabeth Báthory / Black Metal (1982)"
       }
     ]
   }
