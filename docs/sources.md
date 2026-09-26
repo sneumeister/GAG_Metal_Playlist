@@ -33,7 +33,7 @@ Stufen: **primär** (Song ↔ Thema belegbar), **sekundär** (Hilfreich, nicht a
 
 1. **Sabaton** – Schlachten, Waffen, Personen (höchste Trefferwahrscheinlichkeit)
 2. **Iron Maiden**, **Powerwolf** (Historien-Subset)
-3. **Turisas**, **Running Wild**, **Grave Digger**, **Venom** (historische Einzeltracks)
-4. Weitere: Civil War, Crystallion, Judicator, Serenity, Ex Deo, Warkings, Iced Earth, Rebellion, …
+3. **Turisas**, **Running Wild**, **Grave Digger**, **Venom**, **Ex Deo**, **Serenity**
+4. Weitere: Civil War, Crystallion, Judicator, Warkings, Iced Earth, Rebellion, …
 
 Siehe Plan: `plans/gag_song_matching.md`.

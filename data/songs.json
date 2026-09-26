@@ -1,5 +1,32 @@
 [
   {
+    "id": "ex-deo-ad-victoriam-the-battle-of-zama",
+    "band": "Ex Deo",
+    "title": "Ad Victoriam (The Battle of Zama)",
+    "entities": [
+      "Schlacht von Zama",
+      "Zama",
+      "Hannibal",
+      "Scipio Africanus",
+      "Zweiter Punischer Krieg"
+    ],
+    "era": "202 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
+    "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Zama Regia; Hannibal vs Scipio"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
     "id": "grave-digger-fanatic-assassins",
     "band": "Grave Digger",
     "title": "Fanatic Assassins",
@@ -2109,6 +2136,93 @@
     ]
   },
   {
+    "id": "serenity-symphony-for-the-quiet",
+    "band": "Serenity",
+    "title": "Symphony for the Quiet",
+    "entities": [
+      "Ludwig van Beethoven",
+      "Taubheit Beethovens"
+    ],
+    "era": "frühes 19. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Serenity-symphony-for-the-quiet-lyrics",
+        "note": "Beethoven / Gehörverlust"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_of_Ages_(Serenity_album)",
+        "note": "War of Ages"
+      }
+    ]
+  },
+  {
+    "id": "serenity-the-art-of-war",
+    "band": "Serenity",
+    "title": "The Art of War",
+    "entities": [
+      "Napoleon",
+      "Napoleonische Kriege"
+    ],
+    "era": "frühes 19. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_of_Ages_(Serenity_album)",
+        "note": "Napoleon mastery of warfare"
+      }
+    ]
+  },
+  {
+    "id": "serenity-the-matricide",
+    "band": "Serenity",
+    "title": "The Matricide",
+    "entities": [
+      "Nero",
+      "Agrippina die Jüngere",
+      "Muttermord"
+    ],
+    "era": "59 n. Chr.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_of_Ages_(Serenity_album)",
+        "note": "Nero orders murder of his mother"
+      }
+    ]
+  },
+  {
+    "id": "serenity-wings-of-madness",
+    "band": "Serenity",
+    "title": "Wings of Madness",
+    "entities": [
+      "Elisabeth Báthory",
+      "Blutgräfin"
+    ],
+    "era": "ca. 1610",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_of_Ages_(Serenity_album)",
+        "note": "Elizabeth Báthory / War of Ages"
+      },
+      {
+        "type": "secondary",
+        "url": "https://serenityaustria.bandcamp.com/album/war-of-ages",
+        "note": "War of Ages Bandcamp"
+      }
+    ]
+  },
+  {
     "id": "turisas-in-the-court-of-jarisleif",
     "band": "Turisas",
     "title": "In the Court of Jarisleif",
@@ -2219,6 +2333,33 @@
         "type": "lyrics",
         "url": "https://www.azlyrics.com/lyrics/turisas/toholmgardandbeyond.html",
         "note": "Lyrics-Mirror (Captcha möglich)"
+      }
+    ]
+  },
+  {
+    "id": "turisas-venetoi-prasinoi",
+    "band": "Turisas",
+    "title": "Venetoi! – Prasinoi!",
+    "entities": [
+      "Venetoi",
+      "Prasinoi",
+      "Zirkusparteien",
+      "Hippodrom",
+      "Konstantinopel"
+    ],
+    "era": "Byzanz / 6. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/turisas/!-!-lyrics/",
+        "note": "Greens/Blues chariot racing"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Nika_riots",
+        "note": "Factions central to Nika context"
       }
     ]
   },

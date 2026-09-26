@@ -19,6 +19,24 @@
     "curatedBy": "manual"
   },
   {
+    "episodeId": 183,
+    "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+    "episodeUrl": "https://gadg.fm/183",
+    "songId": "serenity-the-matricide",
+    "band": "Serenity",
+    "songTitle": "The Matricide",
+    "matchTier": "B",
+    "justification": "Gemeinsam: Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Leben/Macht; Song ist Nero-Perspektive auf den Matricide — Entity klar, Erzählfokus unterschiedlich.",
+    "sharedEntities": [
+      "Agrippina die Jüngere",
+      "Nero"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
     "episodeId": 189,
     "episodeTitle": "Die Schlacht bei Cannae",
     "episodeUrl": "https://gadg.fm/189",
@@ -87,6 +105,23 @@
     ],
     "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
     "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 229,
+    "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+    "episodeUrl": "https://gadg.fm/229",
+    "songId": "serenity-wings-of-madness",
+    "band": "Serenity",
+    "songTitle": "Wings of Madness",
+    "matchTier": "A",
+    "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
+    "sharedEntities": [
+      "Elisabeth Báthory"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
     "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   },
@@ -161,6 +196,25 @@
     ],
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 393,
+    "episodeTitle": "Die Schlacht von Zama",
+    "episodeUrl": "https://gadg.fm/393",
+    "songId": "ex-deo-ad-victoriam-the-battle-of-zama",
+    "band": "Ex Deo",
+    "songTitle": "Ad Victoriam (The Battle of Zama)",
+    "matchTier": "A",
+    "justification": "Beide behandeln die Schlacht von Zama 202 v. Chr. (Hannibal vs. Scipio).",
+    "sharedEntities": [
+      "Schlacht von Zama",
+      "Hannibal",
+      "Scipio Africanus"
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
+    "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
     "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   },
@@ -293,6 +347,23 @@
     "curatedBy": "manual"
   },
   {
+    "episodeId": 510,
+    "episodeTitle": "Ludwig van Beethoven oder Wie eine Symphonie entsteht",
+    "episodeUrl": "https://gadg.fm/510",
+    "songId": "serenity-symphony-for-the-quiet",
+    "band": "Serenity",
+    "songTitle": "Symphony for the Quiet",
+    "matchTier": "B",
+    "justification": "Beide kreisen um Ludwig van Beethoven. Folge: Entstehung der 3. Symphonie; Song: Gehörverlust / „Symphony for the Quiet“.",
+    "sharedEntities": [
+      "Ludwig van Beethoven"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
     "episodeId": 519,
     "episodeTitle": "Die Warägergarde",
     "episodeUrl": "https://gadg.fm/519",
@@ -307,6 +378,26 @@
     ],
     "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
     "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
+    "matchedAt": "2026-09-26",
+    "curatedBy": "manual"
+  },
+  {
+    "episodeId": 545,
+    "episodeTitle": "Der Nika-Aufstand und die Zirkusparteien",
+    "episodeUrl": "https://gadg.fm/545",
+    "songId": "turisas-venetoi-prasinoi",
+    "band": "Turisas",
+    "songTitle": "Venetoi! – Prasinoi!",
+    "matchTier": "B",
+    "justification": "Beide behandeln die byzantinischen Zirkusparteien Venetoi/Prasinoi (Blau/Grün). Folge: Nika-Aufstand aus den Parteien; Song: Wagenrennen der Faktionen (ohne expliziten Nika-Bezug).",
+    "sharedEntities": [
+      "Venetoi",
+      "Prasinoi",
+      "Zirkusparteien",
+      "Konstantinopel"
+    ],
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
     "matchedAt": "2026-09-26",
     "curatedBy": "manual"
   }

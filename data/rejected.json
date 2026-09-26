@@ -21,6 +21,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 272,
+    "songId": "serenity-the-art-of-war",
+    "reason": "Folge explizit über Napoleons Exil (nicht Schlachten/Kriegsmeisterschaft); Serenity „The Art of War“ zielt auf Napoleon als Feldherr — Fokus weicht ab.",
+    "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 365,
     "songId": "sabaton-ghost-division",
     "reason": "Ghost Army (US-Täuschungsverband WWII) ≠ Ghost Division (Rommels 7. Panzer-Division) — Namensähnlichkeit, kein Entity-Match.",
