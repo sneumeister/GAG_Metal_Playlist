@@ -23,6 +23,7 @@ def output_dir() -> Path:
 
 
 def load_entries(path: Path | None = None) -> list[dict[str, Any]]:
+    """Liest Match-Einträge. Kanonisch: Objekt mit `entries`; Array nur als Fallback."""
     json_path = path or (data_dir() / JSON_NAME)
     raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
     if isinstance(raw, dict) and "entries" in raw:
@@ -34,19 +35,19 @@ def load_entries(path: Path | None = None) -> list[dict[str, Any]]:
 
 def json_status_date(path: Path | None = None) -> str | None:
     """
-    Datum, wann die Playlist-JSON erzeugt/aktualisiert wurde.
-    Noch nicht im Schema – optional über Meta-Objekt oder Neben-Datei.
+    Letztes Bearbeitungsdatum der Playlist-JSON (`updatedAt`).
+    Fallback: ältere Meta-Keys bzw. Neben-Datei `*.meta.json`.
     """
     json_path = path or (data_dir() / JSON_NAME)
     raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
     if isinstance(raw, dict):
-        for key in ("generatedAt", "createdAt", "updatedAt", "exportedAt"):
+        for key in ("updatedAt", "generatedAt", "createdAt", "exportedAt"):
             if raw.get(key):
                 return str(raw[key])
     meta_path = json_path.with_suffix(".meta.json")
     if meta_path.exists():
         meta = json.loads(meta_path.read_text(encoding="utf-8-sig"))
-        for key in ("generatedAt", "createdAt", "updatedAt", "exportedAt"):
+        for key in ("updatedAt", "generatedAt", "createdAt", "exportedAt"):
             if meta.get(key):
                 return str(meta[key])
     return None

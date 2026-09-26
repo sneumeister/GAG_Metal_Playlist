@@ -477,7 +477,11 @@ def main() -> None:
             eps.append(json.loads(line))
     ep_by_id = {e["id"]: e for e in eps}
 
-    matches = load_json(matches_path, [])
+    raw_matches = load_json(matches_path, {"updatedAt": TODAY, "entries": []})
+    if isinstance(raw_matches, list):
+        matches = raw_matches
+    else:
+        matches = list(raw_matches.get("entries") or [])
     rejected = load_json(rejected_path, [])
     decided = {(m["episodeId"], m["songId"]) for m in matches}
     decided |= {(r["episodeId"], r["songId"]) for r in rejected}
@@ -693,7 +697,7 @@ def main() -> None:
 
     # Sort matches
     matches.sort(key=lambda m: (m["episodeId"], m["band"], m["songTitle"]))
-    save_json(matches_path, matches)
+    save_json(matches_path, {"updatedAt": TODAY, "entries": matches})
     save_json(rejected_path, rejected)
 
     print(f"songs={len(songs)} matches={len(matches)} (+{new_m}) rejected={len(rejected)} (+{new_r})")

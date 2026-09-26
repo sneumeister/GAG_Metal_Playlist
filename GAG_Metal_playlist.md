@@ -1,7 +1,7 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-26 22:18:41 +0200  
-**JSON-Status:** noch nicht gesetzt
+**Compile-Datum:** 2026-09-26 22:29:59 +0200  
+**JSON-Status:** 2026-09-26
 
 | Folge | Folgentitel | Band | Song Titel | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: |

@@ -1,404 +1,407 @@
-[
-  {
-    "episodeId": 4,
-    "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
-    "episodeUrl": "https://gadg.fm/4",
-    "songId": "running-wild-the-battle-of-waterloo",
-    "band": "Running Wild",
-    "songTitle": "The Battle of Waterloo",
-    "matchTier": "B",
-    "justification": "Gemeinsamer Rahmen: Schlacht von Waterloo 1815 und Wellington. Folge fokussiert die Bein-Anekdote (Uxbridge/Paget); der Song die Schlacht selbst (Wellington, Blücher, Napoleon).",
-    "sharedEntities": [
-      "Schlacht bei Waterloo",
-      "Wellington",
-      "1815"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 183,
-    "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
-    "episodeUrl": "https://gadg.fm/183",
-    "songId": "serenity-the-matricide",
-    "band": "Serenity",
-    "songTitle": "The Matricide",
-    "matchTier": "B",
-    "justification": "Gemeinsam: Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Leben/Macht; Song ist Nero-Perspektive auf den Matricide — Entity klar, Erzählfokus unterschiedlich.",
-    "sharedEntities": [
-      "Agrippina die Jüngere",
-      "Nero"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl",
-    "youtubeUrl": "https://www.youtube.com/watch?v=7sxm_w1q3BE",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 189,
-    "episodeTitle": "Die Schlacht bei Cannae",
-    "episodeUrl": "https://gadg.fm/189",
-    "songId": "sabaton-lightning-at-the-gates",
-    "band": "Sabaton",
-    "songTitle": "Lightning at the Gates",
-    "matchTier": "B",
-    "justification": "Sabaton Historic Fact (offiziell/YouTube) nennt Cannae als berühmtesten Erfolg Hannibals in dieser Kampagne; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang — Entity über Band-Historie, nicht nur Songzeilen.",
-    "sharedEntities": [
-      "Hannibal",
-      "Schlacht bei Cannae",
-      "Zweiter Punischer Krieg"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
-    "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 190,
-    "episodeTitle": "Die Assassinen",
-    "episodeUrl": "https://gadg.fm/190",
-    "songId": "grave-digger-fanatic-assassins",
-    "band": "Grave Digger",
-    "songTitle": "Fanatic Assassins",
-    "matchTier": "B",
-    "justification": "Beide behandeln die Assassinen / den „Alten vom Berge“. Der Song nutzt die westliche Hashisch-/Paradies-Legende, die die Folge kritisch einordnet — Entity klar, Narrativ legendär.",
-    "sharedEntities": [
-      "Assassinen",
-      "Alter vom Berge"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld",
-    "youtubeUrl": "https://www.youtube.com/watch?v=9AQZxSDE8Aw",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 205,
-    "episodeTitle": "Die Befreiung von Schloss Itter",
-    "episodeUrl": "https://gadg.fm/205",
-    "songId": "sabaton-the-last-battle",
-    "band": "Sabaton",
-    "songTitle": "The Last Battle",
-    "matchTier": "A",
-    "justification": "Beide behandeln die Befreiung / das Gefecht um Schloss Itter 1945.",
-    "sharedEntities": [
-      "Schloss Itter",
-      "1945"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
-    "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 229,
-    "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-    "episodeUrl": "https://gadg.fm/229",
-    "songId": "venom-countess-bathory",
-    "band": "Venom",
-    "songTitle": "Countess Bathory",
-    "matchTier": "A",
-    "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
-    "sharedEntities": [
-      "Elisabeth Báthory"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
-    "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 229,
-    "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-    "episodeUrl": "https://gadg.fm/229",
-    "songId": "serenity-wings-of-madness",
-    "band": "Serenity",
-    "songTitle": "Wings of Madness",
-    "matchTier": "A",
-    "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
-    "sharedEntities": [
-      "Elisabeth Báthory"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 290,
-    "episodeTitle": "Der Angriff der Leichten Brigade",
-    "episodeUrl": "https://gadg.fm/290",
-    "songId": "iron-maiden-the-trooper",
-    "band": "Iron Maiden",
-    "songTitle": "The Trooper",
-    "matchTier": "A",
-    "justification": "Beide behandeln die Attacke der Leichten Brigade / Balaclava (Krimkrieg).",
-    "sharedEntities": [
-      "Charge of the Light Brigade",
-      "Balaclava",
-      "Krimkrieg"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
-    "youtubeUrl": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 309,
-    "episodeTitle": "Die Bestie des Gévaudan",
-    "episodeUrl": "https://gadg.fm/309",
-    "songId": "powerwolf-beast-of-gevaudan",
-    "band": "Powerwolf",
-    "songTitle": "Beast of Gévaudan",
-    "matchTier": "A",
-    "justification": "Beide behandeln die Bestie des Gévaudan (Frankreich, 1760er).",
-    "sharedEntities": [
-      "Bestie des Gévaudan",
-      "Gévaudan"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 377,
-    "episodeTitle": "Aufstieg und Fall des Templerordens",
-    "episodeUrl": "https://gadg.fm/377",
-    "songId": "sabaton-templars",
-    "band": "Sabaton",
-    "songTitle": "Templars",
-    "matchTier": "A",
-    "justification": "Beide behandeln Aufstieg und Fall des Templerordens (Gründung nach dem 1. Kreuzzug, Untergang unter Philipp IV. / Jacques de Molay).",
-    "sharedEntities": [
-      "Templerorden",
-      "Jacques de Molay",
-      "Philipp IV."
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
-    "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 377,
-    "episodeTitle": "Aufstieg und Fall des Templerordens",
-    "episodeUrl": "https://gadg.fm/377",
-    "songId": "grave-digger-the-curse-of-jacques",
-    "band": "Grave Digger",
-    "songTitle": "The Curse of Jacques",
-    "matchTier": "A",
-    "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
-    "sharedEntities": [
-      "Jacques de Molay",
-      "Templerorden"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
-    "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 393,
-    "episodeTitle": "Die Schlacht von Zama",
-    "episodeUrl": "https://gadg.fm/393",
-    "songId": "ex-deo-ad-victoriam-the-battle-of-zama",
-    "band": "Ex Deo",
-    "songTitle": "Ad Victoriam (The Battle of Zama)",
-    "matchTier": "A",
-    "justification": "Beide behandeln die Schlacht von Zama 202 v. Chr. (Hannibal vs. Scipio).",
-    "sharedEntities": [
-      "Schlacht von Zama",
-      "Hannibal",
-      "Scipio Africanus"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
-    "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 462,
-    "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
-    "episodeUrl": "https://gadg.fm/462",
-    "songId": "sabaton-sparta",
-    "band": "Sabaton",
-    "songTitle": "Sparta",
-    "matchTier": "A",
-    "justification": "Beide behandeln die Schlacht an den Thermopylen / die Spartaner unter Leonidas.",
-    "sharedEntities": [
-      "Thermopylen",
-      "Sparta",
-      "Leonidas"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
-    "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 471,
-    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
-    "episodeUrl": "https://gadg.fm/471",
-    "songId": "sabaton-carolus-rex",
-    "band": "Sabaton",
-    "songTitle": "Carolus Rex",
-    "matchTier": "A",
-    "justification": "Die Folge porträtiert Karl XII. (Carolus Rex) und das Ende des schwedischen Großreichs; der Song ist dem König gewidmet.",
-    "sharedEntities": [
-      "Karl XII.",
-      "Carolus Rex"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
-    "youtubeUrl": "https://www.youtube.com/watch?v=nxwv8-oAasI",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 471,
-    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
-    "episodeUrl": "https://gadg.fm/471",
-    "songId": "sabaton-long-live-the-king",
-    "band": "Sabaton",
-    "songTitle": "Long Live the King",
-    "matchTier": "A",
-    "justification": "Die Folge behandelt u. a. Tod und Rätsel um Karl XII.; der Song gilt dem Tod des Königs.",
-    "sharedEntities": [
-      "Karl XII."
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS",
-    "youtubeUrl": "https://www.youtube.com/watch?v=rMnGYDi7Li0",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 471,
-    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
-    "episodeUrl": "https://gadg.fm/471",
-    "songId": "sabaton-poltava",
-    "band": "Sabaton",
-    "songTitle": "Poltava",
-    "matchTier": "A",
-    "justification": "Die Folge dreht sich um Karl XII. und die Schlacht bei Poltawa 1709; „Poltava“ thematisiert genau diese Schlacht.",
-    "sharedEntities": [
-      "Schlacht bei Poltawa",
-      "Karl XII.",
-      "Großer Nordischer Krieg"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
-    "youtubeUrl": "https://www.youtube.com/watch?v=xfGe07IzsK4",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 471,
-    "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
-    "episodeUrl": "https://gadg.fm/471",
-    "songId": "sabaton-ruina-imperii",
-    "band": "Sabaton",
-    "songTitle": "Ruina Imperii",
-    "matchTier": "B",
-    "justification": "Die Folge thematisiert das Ende des schwedischen Großreichs nach Karl XII.; „Ruina Imperii“ ebenso.",
-    "sharedEntities": [
-      "Ende des Schwedischen Reichs",
-      "Karl XII."
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X",
-    "youtubeUrl": "https://www.youtube.com/watch?v=c898WyjHDx4",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 493,
-    "episodeTitle": "Kernspaltung und Schwerwasser-Sabotage",
-    "episodeUrl": "https://gadg.fm/493",
-    "songId": "sabaton-saboteurs",
-    "band": "Sabaton",
-    "songTitle": "Saboteurs",
-    "matchTier": "A",
-    "justification": "Beide behandeln die norwegische Schwerwasser-Sabotage (Vemork/Telemark) im Zweiten Weltkrieg.",
-    "sharedEntities": [
-      "Schwerwasser-Sabotage",
-      "Vemork",
-      "Norwegen"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 508,
-    "episodeTitle": "HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft",
-    "episodeUrl": "https://gadg.fm/508",
-    "songId": "sabaton-father",
-    "band": "Sabaton",
-    "songTitle": "Father",
-    "matchTier": "A",
-    "justification": "Die Hörbuchgeschichte „Brot aus der Luft“ behandelt Fritz Haber und das Haber-Bosch-Verfahren; Sabaton „Father“ thematisiert Haber (Dünger und Giftgas).",
-    "sharedEntities": [
-      "Fritz Haber",
-      "Haber-Bosch-Verfahren"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
-    "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
-    "matchedAt": "2026-09-25",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 510,
-    "episodeTitle": "Ludwig van Beethoven oder Wie eine Symphonie entsteht",
-    "episodeUrl": "https://gadg.fm/510",
-    "songId": "serenity-symphony-for-the-quiet",
-    "band": "Serenity",
-    "songTitle": "Symphony for the Quiet",
-    "matchTier": "B",
-    "justification": "Beide kreisen um Ludwig van Beethoven. Folge: Entstehung der 3. Symphonie; Song: Gehörverlust / „Symphony for the Quiet“.",
-    "sharedEntities": [
-      "Ludwig van Beethoven"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c",
-    "youtubeUrl": "https://www.youtube.com/watch?v=vaMBn0GsgLY",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 519,
-    "episodeTitle": "Die Warägergarde",
-    "episodeUrl": "https://gadg.fm/519",
-    "songId": "turisas-the-march-of-the-varangian-guard",
-    "band": "Turisas",
-    "songTitle": "The March of the Varangian Guard",
-    "matchTier": "A",
-    "justification": "Beide behandeln die Warägergarde am byzantinischen Hof.",
-    "sharedEntities": [
-      "Warägergarde",
-      "Byzanz"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
-    "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  },
-  {
-    "episodeId": 545,
-    "episodeTitle": "Der Nika-Aufstand und die Zirkusparteien",
-    "episodeUrl": "https://gadg.fm/545",
-    "songId": "turisas-venetoi-prasinoi",
-    "band": "Turisas",
-    "songTitle": "Venetoi! – Prasinoi!",
-    "matchTier": "B",
-    "justification": "Beide behandeln die byzantinischen Zirkusparteien Venetoi/Prasinoi (Blau/Grün). Folge: Nika-Aufstand aus den Parteien; Song: Wagenrennen der Faktionen (ohne expliziten Nika-Bezug).",
-    "sharedEntities": [
-      "Venetoi",
-      "Prasinoi",
-      "Zirkusparteien",
-      "Konstantinopel"
-    ],
-    "spotifyUrl": "https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I",
-    "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
-    "matchedAt": "2026-09-26",
-    "curatedBy": "manual"
-  }
-]
+{
+  "updatedAt": "2026-09-26",
+  "entries": [
+    {
+      "episodeId": 4,
+      "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
+      "episodeUrl": "https://gadg.fm/4",
+      "songId": "running-wild-the-battle-of-waterloo",
+      "band": "Running Wild",
+      "songTitle": "The Battle of Waterloo",
+      "matchTier": "B",
+      "justification": "Gemeinsamer Rahmen: Schlacht von Waterloo 1815 und Wellington. Folge fokussiert die Bein-Anekdote (Uxbridge/Paget); der Song die Schlacht selbst (Wellington, Blücher, Napoleon).",
+      "sharedEntities": [
+        "Schlacht bei Waterloo",
+        "Wellington",
+        "1815"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 183,
+      "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+      "episodeUrl": "https://gadg.fm/183",
+      "songId": "serenity-the-matricide",
+      "band": "Serenity",
+      "songTitle": "The Matricide",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Leben/Macht; Song ist Nero-Perspektive auf den Matricide — Entity klar, Erzählfokus unterschiedlich.",
+      "sharedEntities": [
+        "Agrippina die Jüngere",
+        "Nero"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7sxm_w1q3BE",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "sabaton-lightning-at-the-gates",
+      "band": "Sabaton",
+      "songTitle": "Lightning at the Gates",
+      "matchTier": "B",
+      "justification": "Sabaton Historic Fact (offiziell/YouTube) nennt Cannae als berühmtesten Erfolg Hannibals in dieser Kampagne; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang — Entity über Band-Historie, nicht nur Songzeilen.",
+      "sharedEntities": [
+        "Hannibal",
+        "Schlacht bei Cannae",
+        "Zweiter Punischer Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 190,
+      "episodeTitle": "Die Assassinen",
+      "episodeUrl": "https://gadg.fm/190",
+      "songId": "grave-digger-fanatic-assassins",
+      "band": "Grave Digger",
+      "songTitle": "Fanatic Assassins",
+      "matchTier": "B",
+      "justification": "Beide behandeln die Assassinen / den „Alten vom Berge“. Der Song nutzt die westliche Hashisch-/Paradies-Legende, die die Folge kritisch einordnet — Entity klar, Narrativ legendär.",
+      "sharedEntities": [
+        "Assassinen",
+        "Alter vom Berge"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9AQZxSDE8Aw",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 205,
+      "episodeTitle": "Die Befreiung von Schloss Itter",
+      "episodeUrl": "https://gadg.fm/205",
+      "songId": "sabaton-the-last-battle",
+      "band": "Sabaton",
+      "songTitle": "The Last Battle",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Befreiung / das Gefecht um Schloss Itter 1945.",
+      "sharedEntities": [
+        "Schloss Itter",
+        "1945"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "venom-countess-bathory",
+      "band": "Venom",
+      "songTitle": "Countess Bathory",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "serenity-wings-of-madness",
+      "band": "Serenity",
+      "songTitle": "Wings of Madness",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 290,
+      "episodeTitle": "Der Angriff der Leichten Brigade",
+      "episodeUrl": "https://gadg.fm/290",
+      "songId": "iron-maiden-the-trooper",
+      "band": "Iron Maiden",
+      "songTitle": "The Trooper",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Attacke der Leichten Brigade / Balaclava (Krimkrieg).",
+      "sharedEntities": [
+        "Charge of the Light Brigade",
+        "Balaclava",
+        "Krimkrieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
+      "youtubeUrl": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 309,
+      "episodeTitle": "Die Bestie des Gévaudan",
+      "episodeUrl": "https://gadg.fm/309",
+      "songId": "powerwolf-beast-of-gevaudan",
+      "band": "Powerwolf",
+      "songTitle": "Beast of Gévaudan",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Bestie des Gévaudan (Frankreich, 1760er).",
+      "sharedEntities": [
+        "Bestie des Gévaudan",
+        "Gévaudan"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
+      "songId": "sabaton-templars",
+      "band": "Sabaton",
+      "songTitle": "Templars",
+      "matchTier": "A",
+      "justification": "Beide behandeln Aufstieg und Fall des Templerordens (Gründung nach dem 1. Kreuzzug, Untergang unter Philipp IV. / Jacques de Molay).",
+      "sharedEntities": [
+        "Templerorden",
+        "Jacques de Molay",
+        "Philipp IV."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-the-curse-of-jacques",
+      "band": "Grave Digger",
+      "songTitle": "The Curse of Jacques",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
+      "sharedEntities": [
+        "Jacques de Molay",
+        "Templerorden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 393,
+      "episodeTitle": "Die Schlacht von Zama",
+      "episodeUrl": "https://gadg.fm/393",
+      "songId": "ex-deo-ad-victoriam-the-battle-of-zama",
+      "band": "Ex Deo",
+      "songTitle": "Ad Victoriam (The Battle of Zama)",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Schlacht von Zama 202 v. Chr. (Hannibal vs. Scipio).",
+      "sharedEntities": [
+        "Schlacht von Zama",
+        "Hannibal",
+        "Scipio Africanus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
+      "songId": "sabaton-sparta",
+      "band": "Sabaton",
+      "songTitle": "Sparta",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Schlacht an den Thermopylen / die Spartaner unter Leonidas.",
+      "sharedEntities": [
+        "Thermopylen",
+        "Sparta",
+        "Leonidas"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
+      "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 471,
+      "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+      "episodeUrl": "https://gadg.fm/471",
+      "songId": "sabaton-carolus-rex",
+      "band": "Sabaton",
+      "songTitle": "Carolus Rex",
+      "matchTier": "A",
+      "justification": "Die Folge porträtiert Karl XII. (Carolus Rex) und das Ende des schwedischen Großreichs; der Song ist dem König gewidmet.",
+      "sharedEntities": [
+        "Karl XII.",
+        "Carolus Rex"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nxwv8-oAasI",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 471,
+      "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+      "episodeUrl": "https://gadg.fm/471",
+      "songId": "sabaton-long-live-the-king",
+      "band": "Sabaton",
+      "songTitle": "Long Live the King",
+      "matchTier": "A",
+      "justification": "Die Folge behandelt u. a. Tod und Rätsel um Karl XII.; der Song gilt dem Tod des Königs.",
+      "sharedEntities": [
+        "Karl XII."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rMnGYDi7Li0",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 471,
+      "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+      "episodeUrl": "https://gadg.fm/471",
+      "songId": "sabaton-poltava",
+      "band": "Sabaton",
+      "songTitle": "Poltava",
+      "matchTier": "A",
+      "justification": "Die Folge dreht sich um Karl XII. und die Schlacht bei Poltawa 1709; „Poltava“ thematisiert genau diese Schlacht.",
+      "sharedEntities": [
+        "Schlacht bei Poltawa",
+        "Karl XII.",
+        "Großer Nordischer Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xfGe07IzsK4",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 471,
+      "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
+      "episodeUrl": "https://gadg.fm/471",
+      "songId": "sabaton-ruina-imperii",
+      "band": "Sabaton",
+      "songTitle": "Ruina Imperii",
+      "matchTier": "B",
+      "justification": "Die Folge thematisiert das Ende des schwedischen Großreichs nach Karl XII.; „Ruina Imperii“ ebenso.",
+      "sharedEntities": [
+        "Ende des Schwedischen Reichs",
+        "Karl XII."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c898WyjHDx4",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 493,
+      "episodeTitle": "Kernspaltung und Schwerwasser-Sabotage",
+      "episodeUrl": "https://gadg.fm/493",
+      "songId": "sabaton-saboteurs",
+      "band": "Sabaton",
+      "songTitle": "Saboteurs",
+      "matchTier": "A",
+      "justification": "Beide behandeln die norwegische Schwerwasser-Sabotage (Vemork/Telemark) im Zweiten Weltkrieg.",
+      "sharedEntities": [
+        "Schwerwasser-Sabotage",
+        "Vemork",
+        "Norwegen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 508,
+      "episodeTitle": "HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft",
+      "episodeUrl": "https://gadg.fm/508",
+      "songId": "sabaton-father",
+      "band": "Sabaton",
+      "songTitle": "Father",
+      "matchTier": "A",
+      "justification": "Die Hörbuchgeschichte „Brot aus der Luft“ behandelt Fritz Haber und das Haber-Bosch-Verfahren; Sabaton „Father“ thematisiert Haber (Dünger und Giftgas).",
+      "sharedEntities": [
+        "Fritz Haber",
+        "Haber-Bosch-Verfahren"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
+      "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 510,
+      "episodeTitle": "Ludwig van Beethoven oder Wie eine Symphonie entsteht",
+      "episodeUrl": "https://gadg.fm/510",
+      "songId": "serenity-symphony-for-the-quiet",
+      "band": "Serenity",
+      "songTitle": "Symphony for the Quiet",
+      "matchTier": "B",
+      "justification": "Beide kreisen um Ludwig van Beethoven. Folge: Entstehung der 3. Symphonie; Song: Gehörverlust / „Symphony for the Quiet“.",
+      "sharedEntities": [
+        "Ludwig van Beethoven"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vaMBn0GsgLY",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
+      "songId": "turisas-the-march-of-the-varangian-guard",
+      "band": "Turisas",
+      "songTitle": "The March of the Varangian Guard",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Warägergarde am byzantinischen Hof.",
+      "sharedEntities": [
+        "Warägergarde",
+        "Byzanz"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 545,
+      "episodeTitle": "Der Nika-Aufstand und die Zirkusparteien",
+      "episodeUrl": "https://gadg.fm/545",
+      "songId": "turisas-venetoi-prasinoi",
+      "band": "Turisas",
+      "songTitle": "Venetoi! – Prasinoi!",
+      "matchTier": "B",
+      "justification": "Beide behandeln die byzantinischen Zirkusparteien Venetoi/Prasinoi (Blau/Grün). Folge: Nika-Aufstand aus den Parteien; Song: Wagenrennen der Faktionen (ohne expliziten Nika-Bezug).",
+      "sharedEntities": [
+        "Venetoi",
+        "Prasinoi",
+        "Zirkusparteien",
+        "Konstantinopel"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    }
+  ]
+}
