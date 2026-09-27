@@ -42,11 +42,13 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
                 "band": e.get("band") or "",
                 "songTitle": e.get("songTitle") or "",
                 "matchTier": e.get("matchTier") or "",
+                "justification": e.get("justification") or "",
                 "youtubeUrl": link_or_empty(e.get("youtubeUrl")),
                 "spotifyUrl": link_or_empty(e.get("spotifyUrl")),
             }
         )
     data_json = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
+    col_count = 7
 
     return f"""<!DOCTYPE html>
 <html lang="de">
@@ -65,6 +67,7 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
   --accent: #e85d4c;
   --row-alt: #161b22;
   --hover: #242b33;
+  --justify-bg: #0f1419;
 }}
 * {{ box-sizing: border-box; }}
 body {{
@@ -99,14 +102,22 @@ h1 {{
 }}
 table {{
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   min-width: 720px;
 }}
+col.col-folge {{ width: 4.5rem; }}
+col.col-episode {{ width: 28%; }}
+col.col-band {{ width: 16%; }}
+col.col-song {{ width: 22%; }}
+col.col-stufe {{ width: 4.75rem; }}
+col.col-link {{ width: 5rem; }}
 th, td {{
   padding: 0.55rem 0.7rem;
   border-bottom: 1px solid var(--line);
   text-align: left;
   vertical-align: top;
+  overflow-wrap: break-word;
 }}
 th {{
   background: var(--head);
@@ -132,10 +143,10 @@ td.folge {{
   font-variant-numeric: tabular-nums;
 }}
 td.title {{
-  max-width: 22rem;
+  overflow-wrap: anywhere;
 }}
-tr:nth-child(even) td {{ background: var(--row-alt); }}
-tr:hover td {{ background: var(--hover); }}
+tr.row-main.alt td {{ background: var(--row-alt); }}
+tr.row-main:hover td {{ background: var(--hover); }}
 a {{
   color: var(--accent);
   text-decoration: none;
@@ -147,8 +158,55 @@ a:hover {{ text-decoration: underline; }}
 }}
 td.stufe {{
   text-align: center;
-  font-weight: 600;
   white-space: nowrap;
+}}
+button.stufe-btn {{
+  appearance: none;
+  margin: 0;
+  padding: 0.35rem 0.45rem;
+  min-width: 2.25rem;
+  min-height: 2.25rem;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  cursor: pointer;
+  touch-action: manipulation;
+}}
+button.stufe-btn:hover,
+button.stufe-btn[aria-expanded="true"] {{
+  background: transparent;
+  color: #f08a7c;
+}}
+button.stufe-btn:focus-visible {{
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}}
+tr.row-justification td {{
+  background: var(--justify-bg);
+  color: #c8cdd3;
+  font-size: 0.92rem;
+  padding: 0.65rem 0.85rem 0.85rem;
+  border-bottom: 1px solid var(--line);
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}}
+tr.row-justification[hidden] {{
+  display: none;
+}}
+.justification-label {{
+  display: block;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
 }}
 .legend {{
   color: var(--muted);
@@ -170,9 +228,19 @@ td.stufe {{
   <div class="legend">
     <p><strong>Stufe A</strong> – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).</p>
     <p><strong>Stufe B</strong> – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.</p>
+    <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>
   </div>
   <div class="wrap">
     <table id="playlist">
+      <colgroup>
+        <col class="col-folge">
+        <col class="col-episode">
+        <col class="col-band">
+        <col class="col-song">
+        <col class="col-stufe">
+        <col class="col-link">
+        <col class="col-link">
+      </colgroup>
       <thead>
         <tr>
           <th class="sortable" data-key="episodeId" data-type="number">Folge<span class="arrow"></span></th>
@@ -195,6 +263,7 @@ td.stufe {{
   let rows = JSON.parse(raw);
   const tbody = document.querySelector("#playlist tbody");
   const headers = Array.from(document.querySelectorAll("th.sortable"));
+  const colCount = {col_count};
   let sortKey = "episodeId";
   let sortDir = "asc";
   let sortType = "number";
@@ -211,8 +280,9 @@ td.stufe {{
 
   function render() {{
     tbody.replaceChildren();
-    for (const r of rows) {{
+    rows.forEach((r, index) => {{
       const tr = document.createElement("tr");
+      tr.className = "row-main" + (index % 2 === 1 ? " alt" : "");
 
       const tdFolge = document.createElement("td");
       tdFolge.className = "folge";
@@ -239,7 +309,45 @@ td.stufe {{
 
       const tdStufe = document.createElement("td");
       tdStufe.className = "stufe";
-      tdStufe.textContent = r.matchTier || "—";
+      const tier = r.matchTier || "";
+      const justification = (r.justification || "").trim();
+
+      const detail = document.createElement("tr");
+      detail.className = "row-justification";
+      detail.setAttribute("hidden", "");
+      const tdDetail = document.createElement("td");
+      tdDetail.colSpan = colCount;
+      const label = document.createElement("span");
+      label.className = "justification-label";
+      label.textContent = "Begründung";
+      tdDetail.appendChild(label);
+      tdDetail.appendChild(document.createTextNode(justification || "—"));
+      detail.appendChild(tdDetail);
+
+      if (tier && justification) {{
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "stufe-btn";
+        btn.textContent = tier;
+        btn.setAttribute("aria-expanded", "false");
+        btn.setAttribute(
+          "aria-label",
+          "Begründung zu Stufe " + tier + " ein- oder ausblenden"
+        );
+        btn.addEventListener("click", () => {{
+          const open = detail.hasAttribute("hidden");
+          if (open) {{
+            detail.removeAttribute("hidden");
+            btn.setAttribute("aria-expanded", "true");
+          }} else {{
+            detail.setAttribute("hidden", "");
+            btn.setAttribute("aria-expanded", "false");
+          }}
+        }});
+        tdStufe.appendChild(btn);
+      }} else {{
+        tdStufe.textContent = tier || "—";
+      }}
       tr.appendChild(tdStufe);
 
       const tdYt = document.createElement("td");
@@ -255,7 +363,8 @@ td.stufe {{
       tr.appendChild(tdSp);
 
       tbody.appendChild(tr);
-    }}
+      tbody.appendChild(detail);
+    }});
     updateArrows();
   }}
 

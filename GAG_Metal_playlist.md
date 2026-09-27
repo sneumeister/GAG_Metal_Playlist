@@ -1,6 +1,6 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-27 12:42:13 +0200  
+**Compile-Datum:** 2026-09-27 13:00:36 +0200  
 **JSON-Status:** 2026-09-27T12:42:13+02:00
 
 **Stufe A** – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).  
