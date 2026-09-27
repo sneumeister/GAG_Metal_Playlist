@@ -11,6 +11,9 @@ from .common import (
     ISSUES_NEW_CHOOSE_URL,
     MITMACHEN_INTRO,
     MITMACHEN_LINK_LABEL,
+    REPO_INTRO,
+    REPO_LINK_LABEL,
+    REPO_URL,
     compile_timestamp,
     json_status_date,
     link_or_empty,
@@ -227,6 +230,7 @@ tr.row-justification[hidden] {{
   <div class="meta">
     <div><strong>Compile-Datum:</strong> {_esc(compiled_at)}</div>
     <div><strong>JSON-Status:</strong> {_esc(json_line)}</div>
+    <div>{_esc(REPO_INTRO)} <a href="{_esc(REPO_URL)}">{_esc(REPO_LINK_LABEL)}</a>.</div>
     <div>{_esc(MITMACHEN_INTRO)} <a href="{_esc(ISSUES_NEW_CHOOSE_URL)}">{_esc(MITMACHEN_LINK_LABEL)}</a></div>
   </div>
   <div class="legend">

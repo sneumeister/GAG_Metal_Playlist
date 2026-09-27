@@ -1,7 +1,8 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-27 18:04:17 +0200  
-**JSON-Status:** 2026-09-27T14:50:34+02:00
+**Compile-Datum:** 2026-09-27 18:50:09 +0200  
+**JSON-Status:** 2026-09-27T14:50:34+02:00  
+Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
 

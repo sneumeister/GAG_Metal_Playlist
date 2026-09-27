@@ -11,10 +11,11 @@ JSON_NAME = "GAG_Metal_Playlist.json"
 MD_NAME = "GAG_Metal_playlist.md"
 HTML_NAME = "GAG_Metal_playlist.html"
 
-# Mitmachen: GitHub Issue-Form-Auswahl
-ISSUES_NEW_CHOOSE_URL = (
-    "https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose"
-)
+# Repo / Mitmachen (für HTML- und Markdown-Export)
+REPO_URL = "https://github.com/sneumeister/GAG_Metal_Playlist"
+REPO_LINK_LABEL = "github.com/sneumeister/GAG_Metal_Playlist"
+REPO_INTRO = "Original-Projekt, Hinweise und Quellen auf"
+ISSUES_NEW_CHOOSE_URL = f"{REPO_URL}/issues/new/choose"
 MITMACHEN_INTRO = (
     "Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues."
 )
