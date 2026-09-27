@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26 23:14:55 +0200",
+  "updatedAt": "2026-09-27T12:36:12+02:00",
   "entries": [
     {
       "episodeId": 4,
@@ -37,6 +37,43 @@
       "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
       "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 183,
+      "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+      "episodeUrl": "https://gadg.fm/183",
+      "songId": "ex-deo-the-fall-of-claudius",
+      "band": "Ex Deo",
+      "songTitle": "The Fall of Claudius",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Agrippina die Jüngere und der Sturz/die Vergiftung des Claudius. Folge: Agrippina-Biografie (Caligula–Claudius–Nero). Song: Claudius-Perspektive auf Agrippinas Intrige. Kernereignis geteilt, Erzählfokus Person (Agrippina) vs. Opfer (Claudius) — analog Matricide eher Tier B als A.",
+      "sharedEntities": [
+        "Agrippina die Jüngere",
+        "Claudius"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GLjmLlsBl9M",
+      "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 183,
+      "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+      "episodeUrl": "https://gadg.fm/183",
+      "songId": "ex-deo-the-head-of-the-snake",
+      "band": "Ex Deo",
+      "songTitle": "The Head of the Snake",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Agrippina und Neros Muttermord. Song: Nero tötet Agrippina („head of the snake“). Folge: Agrippina-Leben inkl. Nero-Verbindung. Gleicher Entity-Kern wie Serenity The Matricide; Fokus Tat vs. Biografie — Tier B.",
+      "sharedEntities": [
+        "Agrippina die Jüngere",
+        "Nero",
+        "Matricide"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5CFIglXbK4LzP7dzoKQ8PE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIHssqJ8Aho",
+      "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
     {
@@ -147,6 +184,45 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 266,
+      "episodeTitle": "Die Schlacht von Azincourt",
+      "episodeUrl": "https://gadg.fm/266",
+      "songId": "scimitar-knights-collapse",
+      "band": "Scimitar",
+      "songTitle": "Knights Collapse",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Schlacht von Azincourt 1415 konkret: Heinrich V., englische Langbögen, Schlammfeld, Schlachtverlauf und Crispin-Tag — derselbe Erzählgegenstand wie die Folge.",
+      "sharedEntities": [
+        "Schlacht von Azincourt",
+        "Heinrich V.",
+        "1415",
+        "Langbogen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q-Weoj3Zc7A",
+      "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 266,
+      "episodeTitle": "Die Schlacht von Azincourt",
+      "episodeUrl": "https://gadg.fm/266",
+      "songId": "skelator-victory-henry-v",
+      "band": "Skelator",
+      "songTitle": "Victory (Henry V)",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Heinrich V. und Agincourt (Crispin-Rede / „band of brothers“ = kulturell fest an Azincourt gebunden). Song: Shakespeare-Henry-V-Rahmen ohne expliziten Schlachtnamen. Folge: historische Schlacht und Langbogen-Mythos. Entity-Brücke stark genug für B, nicht A (Literatur-/Mythos-Perspektive vs. Historiografie).",
+      "sharedEntities": [
+        "Heinrich V.",
+        "Schlacht von Azincourt",
+        "St. Crispin"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=OW0U92r63Jc",
+      "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 272,
       "episodeTitle": "Am Ende der Welt - Napoleons letzte Jahre im Exil",
       "episodeUrl": "https://gadg.fm/272",
@@ -199,6 +275,44 @@
       "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-inquisition",
+      "band": "Grave Digger",
+      "songTitle": "Inquisition",
+      "matchTier": "A",
+      "justification": "Beide: Verhaftung und Zerschlagung der Templer 1307 unter Philipp IV. (13. Oktober, Inquisition, Ketzer-/Baphomet-Vorwürfe). Folge nennt den jähen Untergang 1307 explizit — Exact-Entity zum Fall-Strang.",
+      "sharedEntities": [
+        "Templerorden",
+        "Philipp IV.",
+        "13. Oktober 1307",
+        "Inquisition"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IKGbWrpn474",
+      "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-monks-of-war",
+      "band": "Grave Digger",
+      "songTitle": "Monks of War",
+      "matchTier": "A",
+      "justification": "Beide: Gründung/Aufstieg des Templerordens (Hugo de Payens, Schutz der Pilger im Heiligen Land). Folge thematisiert Aufstieg und Fall; Song deckt den Gründungs-/Aufstiegsstrang ab — Exact-Entity.",
+      "sharedEntities": [
+        "Templerorden",
+        "Hugo de Payens"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Omzyyj401ys",
+      "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
     {

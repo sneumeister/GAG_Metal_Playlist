@@ -103,5 +103,19 @@
     "reason": "Song = Dschingis Khan / Temujin (Stammesvereinigung, Imperiumsgründung). Folge = 1241–1251 Mongolensturm vor Wien und Macht der Herrscherwitwen nach Ögedeis Tod — Generation und Fokus anders, nur Mongolenreich-Rahmen (Tier C).",
     "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 554,
+    "songId": "iced-earth-attila",
+    "reason": "Song = Attila als Eroberer (Glorious Burden). Folge speziell Honoria/Gesandtschaften 449 — nur Personenname Attila gemeinsam (Tier C).",
+    "rejectedAt": "2026-09-27",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 554,
+    "songId": "saxon-atila-the-hun",
+    "reason": "Song = generische Attila-/Hunnen-Schreckensbilder. Folge = 449: Attila, Honoria und zwei römische Gesandtschaften — anderer Fokus/Ereignis (Tier C).",
+    "rejectedAt": "2026-09-27",
+    "rejectedBy": "manual"
   }
 ]

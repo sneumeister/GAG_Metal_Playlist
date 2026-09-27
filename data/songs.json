@@ -27,6 +27,31 @@
     ]
   },
   {
+    "id": "ex-deo-the-fall-of-claudius",
+    "band": "Ex Deo",
+    "title": "The Fall of Claudius",
+    "entities": [
+      "Agrippina die Jüngere",
+      "Claudius",
+      "Vergiftung Claudius"
+    ],
+    "era": "54 n. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GLjmLlsBl9M",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/thethirteenyearsofnero.html",
+        "note": "Agrippina / Claudius fall"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Thirteen_Years_of_Nero",
+        "note": "The Thirteen Years of Nero (2021)"
+      }
+    ]
+  },
+  {
     "id": "ex-deo-the-final-war-the-battle-of-actium",
     "band": "Ex Deo",
     "title": "The Final War (Battle of Actium)",
@@ -50,6 +75,26 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ex_Deo",
         "note": "Romulus (2009)"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-the-head-of-the-snake",
+    "band": "Ex Deo",
+    "title": "The Head of the Snake",
+    "entities": [
+      "Agrippina die Jüngere",
+      "Nero",
+      "Matricide"
+    ],
+    "era": "59 n. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/5CFIglXbK4LzP7dzoKQ8PE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=VIHssqJ8Aho",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/thethirteenyearsofnero.html",
+        "note": "Nero kills Agrippina"
       }
     ]
   },
@@ -80,6 +125,52 @@
     ]
   },
   {
+    "id": "grave-digger-inquisition",
+    "band": "Grave Digger",
+    "title": "Inquisition",
+    "entities": [
+      "Templerorden",
+      "Philipp IV.",
+      "13. Oktober 1307",
+      "Inquisition"
+    ],
+    "era": "1307",
+    "spotifyUrl": "https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IKGbWrpn474",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://muzikum.eu/index.php/en/grave-digger/inquisition-lyrics",
+        "note": "Templar arrests 1307"
+      }
+    ]
+  },
+  {
+    "id": "grave-digger-monks-of-war",
+    "band": "Grave Digger",
+    "title": "Monks of War",
+    "entities": [
+      "Templerorden",
+      "Hugo de Payens",
+      "Jerusalem"
+    ],
+    "era": "1119",
+    "spotifyUrl": "https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Omzyyj401ys",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/gravedigger/knightsofthecross.html",
+        "note": "Templar founding"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
+        "note": "Knights of the Cross (1998)"
+      }
+    ]
+  },
+  {
     "id": "grave-digger-the-curse-of-jacques",
     "band": "Grave Digger",
     "title": "The Curse of Jacques",
@@ -97,6 +188,25 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
         "note": "Hinrichtung Jacques de Molay / Fluch"
+      }
+    ]
+  },
+  {
+    "id": "iced-earth-attila",
+    "band": "Iced Earth",
+    "title": "Attila",
+    "entities": [
+      "Attila",
+      "Hunnen"
+    ],
+    "era": "5. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://icedearth.com/albums/the-glorious-burden/",
+        "note": "The Glorious Burden"
       }
     ]
   },
@@ -2236,6 +2346,46 @@
     ]
   },
   {
+    "id": "saxon-atila-the-hun",
+    "band": "Saxon",
+    "title": "Atila the Hun",
+    "entities": [
+      "Attila",
+      "Hunnen"
+    ],
+    "era": "5. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/saxon/atila-the-hun-lyrics/",
+        "note": "generic Attila scourge imagery"
+      }
+    ]
+  },
+  {
+    "id": "scimitar-knights-collapse",
+    "band": "Scimitar",
+    "title": "Knights Collapse",
+    "entities": [
+      "Schlacht von Azincourt",
+      "Heinrich V.",
+      "Langbogen",
+      "Hundertjähriger Krieg"
+    ],
+    "era": "1415",
+    "spotifyUrl": "https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q-Weoj3Zc7A",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://scimitar.bandcamp.com/track/knights-collapse",
+        "note": "explicit Agincourt battle narrative"
+      }
+    ]
+  },
+  {
     "id": "serenity-symphony-for-the-quiet",
     "band": "Serenity",
     "title": "Symphony for the Quiet",
@@ -2319,6 +2469,36 @@
         "type": "secondary",
         "url": "https://serenityaustria.bandcamp.com/album/war-of-ages",
         "note": "War of Ages Bandcamp"
+      }
+    ]
+  },
+  {
+    "id": "skelator-victory-henry-v",
+    "band": "Skelator",
+    "title": "Victory (Henry V)",
+    "entities": [
+      "Heinrich V.",
+      "Schlacht von Azincourt",
+      "St. Crispin"
+    ],
+    "era": "1415",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=OW0U92r63Jc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/skelator-victory-%28henry-v%29-112052",
+        "note": "Henry V / Crispin speech; France campaign"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Skelator/Death_to_All_Nations/265910",
+        "note": "Death to All Nations (2010)"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://trueskelator.bandcamp.com/track/victory-henry-v",
+        "note": "Death to All Nations / Victory (Henry V)"
       }
     ]
   },
