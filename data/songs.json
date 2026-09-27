@@ -1,5 +1,86 @@
 [
   {
+    "id": "crystallion-hougoumont",
+    "band": "Crystallion",
+    "title": "Hougoumont",
+    "entities": [
+      "Schlacht bei Waterloo",
+      "Hougoumont",
+      "Wellington",
+      "Napoleon",
+      "1815"
+    ],
+    "era": "1815",
+    "spotifyUrl": "https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=AeRLXiYmt_c",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/crystallion/hundreddays.html",
+        "note": "French assault on Hougoumont; Wellington"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crystallion",
+        "note": "Hundred Days (2009) Waterloo concept"
+      }
+    ]
+  },
+  {
+    "id": "crystallion-hundred-days",
+    "band": "Crystallion",
+    "title": "Hundred Days",
+    "entities": [
+      "Napoleon",
+      "Hundert Tage",
+      "Waterloo",
+      "Elba",
+      "St. Helena"
+    ],
+    "era": "1815",
+    "spotifyUrl": "https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ywesScaX3lc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/crystallion/hundreddays.html",
+        "note": "end of Hundred Days / defeat / exile"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crystallion",
+        "note": "Hundred Days concept album"
+      }
+    ]
+  },
+  {
+    "id": "crystallion-preach-with-an-iron-tongue",
+    "band": "Crystallion",
+    "title": "Preach With An Iron Tongue",
+    "entities": [
+      "Schlacht bei Hattin",
+      "Hattin",
+      "Saladin",
+      "Guy de Lusignan",
+      "1187"
+    ],
+    "era": "1187",
+    "spotifyUrl": "https://open.spotify.com/track/7IyFwmtXCiAsdwMcuX09Vq",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lDe4nu79Fgo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metal-archives.com/albums/Crystallion/Hatt%C3%AFn/195386",
+        "note": "Hattin concept; conquered King Guy"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crystallion",
+        "note": "Hattin (2008)"
+      }
+    ]
+  },
+  {
     "id": "ex-deo-ad-victoriam-the-battle-of-zama",
     "band": "Ex Deo",
     "title": "Ad Victoriam (The Battle of Zama)",
@@ -95,6 +176,64 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/thethirteenyearsofnero.html",
         "note": "Nero kills Agrippina"
+      }
+    ]
+  },
+  {
+    "id": "fireforce-fly-arrow-fly-crecy-1346",
+    "band": "Fireforce",
+    "title": "Fly Arrow Fly (Crécy 1346)",
+    "entities": [
+      "Schlacht von Crécy",
+      "Crécy",
+      "Edward III.",
+      "Langbogen",
+      "1346"
+    ],
+    "era": "1346",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=rnBBQPzwDxo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/fireforce/marchon.html",
+        "note": "Edward III, longbowmen at Crécy"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/FireForce/March_On/296247",
+        "note": "March On (2011)"
+      }
+    ]
+  },
+  {
+    "id": "frantic-amber-grainne-mhaol",
+    "band": "Frantic Amber",
+    "title": "Gráinne Mhaol",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Piratenkönigin",
+      "Irland"
+    ],
+    "era": "16. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jbCJXVemRgc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/frantic-amber/grainne-mhaol-lyrics/",
+        "note": "Grainne pirate queen; hair-cut anecdote"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Frantic_Amber/Gra%C3%ADnne_Mhaol/674623",
+        "note": "Single 2017 / Burning Insight"
+      },
+      {
+        "type": "secondary",
+        "url": "https://metalgoddesses.com/2020/03/01/we-are-very-different-but-we-also-come-together-and-find-something-in-the-middle-where-everyone-is-happy-interview-with-frantic-amber/",
+        "note": "Band: song about Irish pirate queen"
       }
     ]
   },
@@ -2660,6 +2799,31 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Countess_Bathory_(song)",
         "note": "Elizabeth Báthory / Black Metal (1982)"
+      }
+    ]
+  },
+  {
+    "id": "warkings-spartacus",
+    "band": "Warkings",
+    "title": "Spartacus",
+    "entities": [
+      "Spartacus",
+      "Dritter Sklavenkrieg",
+      "Rom"
+    ],
+    "era": "73–71 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RAqzE1TWzvk",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://brutalplanetmag.com/the-mighty-warkings-release-new-video-for-spartacus-feat-the-lost-lord/",
+        "note": "Spartacus slave uprising vs Rome"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
+        "note": "Revolution (2021)"
       }
     ]
   }

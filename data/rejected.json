@@ -36,9 +36,23 @@
   },
   {
     "episodeId": 272,
+    "songId": "crystallion-hundred-days",
+    "reason": "Album/Song = Napoleons Hundert Tage (Rückkehr von Elba bis Waterloo). Folge = letzte Jahre im Exil auf St. Helena — gleiche Person, falsche Phase/Fokus (Tier C), analog Serenity The Art of War.",
+    "rejectedAt": "2026-09-27",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 272,
     "songId": "serenity-the-art-of-war",
     "reason": "Folge explizit über Napoleons Exil (nicht Schlachten/Kriegsmeisterschaft); Serenity „The Art of War“ zielt auf Napoleon als Feldherr — Fokus weicht ab.",
     "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 289,
+    "songId": "crystallion-preach-with-an-iron-tongue",
+    "reason": "Song/Album Hattin = Schlacht bei Hattin 1187 (Saladin, Guy de Lusignan). Folge = Vierter Kreuzzug ab 1202 (Umleitung, Konstantinopel) — nur loser Kreuzzugs-/Saladin-Rahmen (Tier C).",
+    "rejectedAt": "2026-09-27",
     "rejectedBy": "manual"
   },
   {
@@ -74,6 +88,13 @@
     "songId": "turisas-to-holmgard-and-beyond",
     "reason": "Lyrics: fiktive Waräger-Crew (Hakon) Richtung Holmgard/Neva/Aldeigju — kein Ibn Fadlan, keine Wolgabulgaren, keine Gesandtschaft 921. Nur loser Ostweg-/Rus-Bezug.",
     "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 490,
+    "songId": "warkings-spartacus",
+    "reason": "Song = Spartacus / Dritter Sklavenkrieg (73–71 v. Chr.). Folge = Eunus und Erster Sklavenkrieg auf Sizilien (135–132 v. Chr.) — anderer Aufstand/andere Person (Tier C).",
+    "rejectedAt": "2026-09-27",
     "rejectedBy": "manual"
   },
   {
