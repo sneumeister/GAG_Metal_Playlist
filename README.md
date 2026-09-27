@@ -15,4 +15,16 @@ Die Live-Ansicht läuft über GitHub Pages und rendert die HTML-Datei im Browser
 
 Songvorschläge, Korrekturen und anderes Feedback: über [GitHub Issues](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose) (Formular wählen).
 
-Folgendaten wurden diesem Repo entnommen: [ideadapt/geschichten-aus-der-geschichte-data](https://github.com/ideadapt/geschichten-aus-der-geschichte-data) (`data/episodes.jsonl`).
+## Hinweis
+
+Dies ist ein **unabhängiges Fan-Projekt** und steht in keiner Verbindung zur GeschichteFM GmbH oder zum Podcast [Geschichten aus der Geschichte](https://www.geschichte.fm/). Es ist weder offiziell noch freigegeben.
+
+Podcast-Titel, Folgeninhalte sowie Band- und Songnamen bleiben bei den jeweiligen Rechteinhabern. Hier entstehen nur Zuordnungen und Begründungen; es werden **keine** Audio-/Videodateien bereitgestellt, sondern Links zu Spotify und YouTube.
+
+Die Einstufung (Stufe A/B) und die Begründungen sind **redaktionelle Einschätzungen**. Für Richtigkeit, Vollständigkeit und erreichbare externe Links wird keine Haftung übernommen.
+
+### Quellen
+
+- Folgendaten: [ideadapt/geschichten-aus-der-geschichte-data](https://github.com/ideadapt/geschichten-aus-der-geschichte-data) (`episodes.jsonl`); Folgen-Links führen zu geschichte.fm / gadg.fm
+- Song-Recherche und Entity-Matching: siehe [docs/sources.md](docs/sources.md)
+- Streaming: Drittanbieter-Links; Verfügbarkeit und Region können abweichen
