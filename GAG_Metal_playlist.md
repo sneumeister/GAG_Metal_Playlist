@@ -1,7 +1,7 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-27 12:36:26 +0200  
-**JSON-Status:** 2026-09-27T12:36:12+02:00
+**Compile-Datum:** 2026-09-27 12:42:13 +0200  
+**JSON-Status:** 2026-09-27T12:42:13+02:00
 
 **Stufe A** – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).  
 **Stufe B** – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.
@@ -19,7 +19,7 @@
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | A | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Serenity | Wings of Madness | A | [link](https://www.youtube.com/watch?v=k2QH9L42OY0) | [link](https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
-| [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | — |
+| [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | [link](https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | B | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [290](https://gadg.fm/290) | Der Angriff der Leichten Brigade | Iron Maiden | The Trooper | A | [link](https://www.youtube.com/watch?v=X4bgXH3sJ2Q) | [link](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) |
 | [309](https://gadg.fm/309) | Die Bestie des Gévaudan | Powerwolf | Beast of Gévaudan | A | [link](https://www.youtube.com/watch?v=po-u-V6GiEk) | [link](https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ) |
