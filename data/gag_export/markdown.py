@@ -5,7 +5,10 @@ from __future__ import annotations
 from pathlib import Path
 
 from .common import (
+    ISSUES_NEW_CHOOSE_URL,
     MD_NAME,
+    MITMACHEN_INTRO,
+    MITMACHEN_LINK_LABEL,
     compile_timestamp,
     json_status_date,
     link_or_empty,
@@ -41,6 +44,8 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
         "",
         f"**Compile-Datum:** {compiled_at}  ",
         f"**JSON-Status:** {json_line}",
+        "",
+        f"{MITMACHEN_INTRO} [{MITMACHEN_LINK_LABEL}]({ISSUES_NEW_CHOOSE_URL})",
         "",
         "**Stufe A** – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).  ",
         "**Stufe B** – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.",

@@ -8,6 +8,9 @@ from pathlib import Path
 
 from .common import (
     HTML_NAME,
+    ISSUES_NEW_CHOOSE_URL,
+    MITMACHEN_INTRO,
+    MITMACHEN_LINK_LABEL,
     compile_timestamp,
     json_status_date,
     link_or_empty,
@@ -224,6 +227,7 @@ tr.row-justification[hidden] {{
   <div class="meta">
     <div><strong>Compile-Datum:</strong> {_esc(compiled_at)}</div>
     <div><strong>JSON-Status:</strong> {_esc(json_line)}</div>
+    <div>{_esc(MITMACHEN_INTRO)} <a href="{_esc(ISSUES_NEW_CHOOSE_URL)}">{_esc(MITMACHEN_LINK_LABEL)}</a></div>
   </div>
   <div class="legend">
     <p><strong>Stufe A</strong> – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).</p>

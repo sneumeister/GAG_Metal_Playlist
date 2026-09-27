@@ -11,4 +11,8 @@ Ziel ist eine Trefferliste: **Folge ↔ Song ↔ Begründung ↔ Spotify/YouTube
 
 Die Live-Ansicht läuft über GitHub Pages und rendert die HTML-Datei im Browser.
 
+## Mitmachen
+
+Songvorschläge, Korrekturen und anderes Feedback: über [GitHub Issues](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose) (Formular wählen).
+
 Folgendaten wurden diesem Repo entnommen: [ideadapt/geschichten-aus-der-geschichte-data](https://github.com/ideadapt/geschichten-aus-der-geschichte-data) (`data/episodes.jsonl`).

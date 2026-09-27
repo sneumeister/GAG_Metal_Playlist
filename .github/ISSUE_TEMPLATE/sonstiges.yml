@@ -1,0 +1,42 @@
+name: Sonstiger Vorschlag
+description: Darstellung, Export, Daten, Doku, Prozess oder anderes Feedback.
+title: "[Sonstiges] "
+labels: ["sonstiges"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Für Korrekturen an Playlist-Einträgen und neue Song-Vorschläge bitte die speziellen Formulare nutzen. Hier alles andere.
+  - type: dropdown
+    id: bereich
+    attributes:
+      label: Bereich
+      options:
+        - Darstellung / HTML
+        - Export (Markdown/HTML)
+        - Datenmodell / JSON
+        - Dokumentation
+        - Prozess / Mitmachen
+        - Sonstiges
+    validations:
+      required: true
+  - type: input
+    id: kurz
+    attributes:
+      label: Kurzbeschreibung
+      placeholder: Ein Satz, worum es geht
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Was fehlt, was stört, was wäre besser?
+    validations:
+      required: true
+  - type: textarea
+    id: sonstiges
+    attributes:
+      label: Weitere Hinweise
+    validations:
+      required: false

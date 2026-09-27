@@ -11,6 +11,15 @@ JSON_NAME = "GAG_Metal_Playlist.json"
 MD_NAME = "GAG_Metal_playlist.md"
 HTML_NAME = "GAG_Metal_playlist.html"
 
+# Mitmachen: GitHub Issue-Form-Auswahl
+ISSUES_NEW_CHOOSE_URL = (
+    "https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose"
+)
+MITMACHEN_INTRO = (
+    "Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues."
+)
+MITMACHEN_LINK_LABEL = "Neues Issue öffnen"
+
 
 def data_dir() -> Path:
     """Verzeichnis der JSON-Quelle (gleicher Ordner wie die Export-Skripte)."""

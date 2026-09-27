@@ -1,0 +1,53 @@
+name: "Playlist: Korrektur"
+description: Tippfehler, falsche Folge, schwaches/falsches Matching, Links oder Stufe melden.
+title: "[Korrektur] "
+labels: ["playlist", "korrektur"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Melde einen Fehler oder eine Ungenauigkeit in der bestehenden Playlist. Ein Vorschlag für einen *neuen* Song gehört zu **Playlist: Vorschlag**.
+  - type: dropdown
+    id: fehlerart
+    attributes:
+      label: Was ist falsch?
+      options:
+        - Tippfehler (Band, Titel, Text)
+        - Falsche Folge zugeordnet
+        - Matching zu schwach oder falsch
+        - Stufe A/B anpassen
+        - Link kaputt oder falsch (Spotify/YouTube)
+        - Eintrag sollte entfernt werden
+        - Sonstiges
+    validations:
+      required: true
+  - type: input
+    id: eintrag
+    attributes:
+      label: Betroffener Eintrag
+      description: Band – Song und/oder Folgennummer bzw. Folgentitel, damit wir den Eintrag finden.
+      placeholder: z. B. Sabaton – The Last Stand / Folge 123
+    validations:
+      required: true
+  - type: textarea
+    id: soll
+    attributes:
+      label: Soll-Zustand
+      description: Was sollte stattdessen stehen bzw. gelten?
+      placeholder: z. B. Folge 45 statt 44; Stufe B statt A; Eintrag streichen …
+    validations:
+      required: true
+  - type: textarea
+    id: beleg
+    attributes:
+      label: Beleg oder Quelle
+      description: "Optional: Link, Lyric-Stelle, Wiki, warum die Korrektur stimmt."
+    validations:
+      required: false
+  - type: textarea
+    id: sonstiges
+    attributes:
+      label: Weitere Hinweise
+      description: Alles, was oben nicht passt.
+    validations:
+      required: false

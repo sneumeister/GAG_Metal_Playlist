@@ -1,7 +1,9 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-27 17:30:26 +0200  
+**Compile-Datum:** 2026-09-27 18:04:17 +0200  
 **JSON-Status:** 2026-09-27T14:50:34+02:00
+
+Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
 
 **Stufe A** – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).  
 **Stufe B** – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.

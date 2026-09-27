@@ -1,0 +1,61 @@
+name: "Playlist: Vorschlag"
+description: Neuen Song ↔ GAG-Folge vorschlagen (enger historischer Bezug).
+title: "[Vorschlag] "
+labels: ["playlist", "vorschlag"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Nur Vorschläge mit **engem** Bezug (Person, Schlacht, Ereignis, Ort oder konkrete Sage/Figur). Lose „beide irgendwie WWII“-Themen werden in der Regel abgelehnt. Die Bewertung (A / B / Reject) trifft die Kuratierung.
+  - type: input
+    id: band
+    attributes:
+      label: Band
+      placeholder: z. B. Sabaton
+    validations:
+      required: true
+  - type: input
+    id: song
+    attributes:
+      label: Songtitel
+      placeholder: z. B. The Last Stand
+    validations:
+      required: true
+  - type: input
+    id: folge
+    attributes:
+      label: GAG-Folge
+      description: Folgennummer und/oder Titel.
+      placeholder: z. B. 104 oder Crécy – Chronik eines Versagens
+    validations:
+      required: true
+  - type: textarea
+    id: begruendung
+    attributes:
+      label: Kurze Begründung
+      description: Welcher konkrete Bezug (Person, Schlacht, Ereignis, Ort, Sage/Figur)? Keine losen Themen-Parallelen.
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: "Optional: Spotify, YouTube, Wiki, offizielle Song-Infos."
+    validations:
+      required: false
+  - type: dropdown
+    id: stufe
+    attributes:
+      label: Vermutete Stufe
+      options:
+        - Unsicher
+        - A – sehr enger Bezug
+        - B – gemeinsamer Rahmen, Folge/Song fokussieren anders
+    validations:
+      required: false
+  - type: textarea
+    id: sonstiges
+    attributes:
+      label: Weitere Hinweise
+    validations:
+      required: false
