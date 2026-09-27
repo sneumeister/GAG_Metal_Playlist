@@ -41,6 +41,7 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
                 "episodeTitle": e.get("episodeTitle") or "",
                 "band": e.get("band") or "",
                 "songTitle": e.get("songTitle") or "",
+                "matchTier": e.get("matchTier") or "",
                 "youtubeUrl": link_or_empty(e.get("youtubeUrl")),
                 "spotifyUrl": link_or_empty(e.get("spotifyUrl")),
             }
@@ -144,6 +145,19 @@ a:hover {{ text-decoration: underline; }}
   text-align: center;
   white-space: nowrap;
 }}
+td.stufe {{
+  text-align: center;
+  font-weight: 600;
+  white-space: nowrap;
+}}
+.legend {{
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1.25rem;
+}}
+.legend p {{
+  margin: 0.2rem 0;
+}}
 </style>
 </head>
 <body>
@@ -153,6 +167,10 @@ a:hover {{ text-decoration: underline; }}
     <div><strong>Compile-Datum:</strong> {_esc(compiled_at)}</div>
     <div><strong>JSON-Status:</strong> {_esc(json_line)}</div>
   </div>
+  <div class="legend">
+    <p><strong>Stufe A</strong> – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).</p>
+    <p><strong>Stufe B</strong> – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.</p>
+  </div>
   <div class="wrap">
     <table id="playlist">
       <thead>
@@ -161,6 +179,7 @@ a:hover {{ text-decoration: underline; }}
           <th class="sortable" data-key="episodeTitle" data-type="string">Folgentitel<span class="arrow"></span></th>
           <th class="sortable" data-key="band" data-type="string">Band<span class="arrow"></span></th>
           <th class="sortable" data-key="songTitle" data-type="string">Song Titel<span class="arrow"></span></th>
+          <th class="sortable" data-key="matchTier" data-type="string">Stufe<span class="arrow"></span></th>
           <th>YouTube</th>
           <th>Spotify</th>
         </tr>
@@ -217,6 +236,11 @@ a:hover {{ text-decoration: underline; }}
       const tdSong = document.createElement("td");
       tdSong.textContent = r.songTitle || "";
       tr.appendChild(tdSong);
+
+      const tdStufe = document.createElement("td");
+      tdStufe.className = "stufe";
+      tdStufe.textContent = r.matchTier || "—";
+      tr.appendChild(tdStufe);
 
       const tdYt = document.createElement("td");
       tdYt.className = "links";

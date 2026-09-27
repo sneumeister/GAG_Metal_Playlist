@@ -42,12 +42,16 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
         f"**Compile-Datum:** {compiled_at}  ",
         f"**JSON-Status:** {json_line}",
         "",
-        "| Folge | Folgentitel | Band | Song Titel | YouTube | Spotify |",
-        "| ---: | --- | --- | --- | :---: | :---: |",
+        "**Stufe A** – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).  ",
+        "**Stufe B** – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.",
+        "",
+        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |",
+        "| ---: | --- | --- | --- | :---: | :---: | :---: |",
     ]
     for e in entries:
         ep_id = e.get("episodeId")
         ep_label = str(ep_id) if ep_id is not None else "?"
+        stufe = e.get("matchTier") or "—"
         lines.append(
             "| "
             + " | ".join(
@@ -56,6 +60,7 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
                     _cell(e.get("episodeTitle")),
                     _cell(e.get("band")),
                     _cell(e.get("songTitle")),
+                    _cell(stufe),
                     _md_link("link", link_or_empty(e.get("youtubeUrl"))),
                     _md_link("link", link_or_empty(e.get("spotifyUrl"))),
                 ]
