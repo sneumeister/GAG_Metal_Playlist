@@ -1,7 +1,7 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-28 22:19:27 +0200  
-**JSON-Status:** 2026-09-28 21:59:54 +0200  
+**Compile-Datum:** 2026-09-28 22:44:56 +0200  
+**JSON-Status:** 2026-09-28 22:30:28 +0200  
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -20,6 +20,7 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Ex Deo | The Fall of Claudius | B | [link](https://www.youtube.com/watch?v=GLjmLlsBl9M) | [link](https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Ex Deo | The Head of the Snake | B | [link](https://www.youtube.com/watch?v=VIHssqJ8Aho) | [link](https://open.spotify.com/track/5CFIglXbK4LzP7dzoKQ8PE) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Serenity | The Matricide | B | [link](https://www.youtube.com/watch?v=7sxm_w1q3BE) | [link](https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl) |
+| [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Feuerschwanz | Malleus Maleficarum | B | [link](https://www.youtube.com/watch?v=OigEnWlVN14) | [link](https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | B | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
 | [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | B | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | [link](https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld) |
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
@@ -31,10 +32,11 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | [link](https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | B | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
-| [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Battle Symphony | The Fall of the Queen of Cities | A | [link](https://www.youtube.com/watch?v=KQyYkMbEZP4) | — |
+| [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Battle Symphony | The Fall of the Queen of Cities | A | [link](https://www.youtube.com/watch?v=KQyYkMbEZP4) | [link](https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM) |
 | [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Bolt Thrower | The IVth Crusade | A | [link](https://www.youtube.com/watch?v=4GPFduVKuEg) | [link](https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo) |
 | [290](https://gadg.fm/290) | Der Angriff der Leichten Brigade | Iron Maiden | The Trooper | A | [link](https://www.youtube.com/watch?v=X4bgXH3sJ2Q) | [link](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) |
 | [309](https://gadg.fm/309) | Die Bestie des Gévaudan | Powerwolf | Beast of Gévaudan | A | [link](https://www.youtube.com/watch?v=po-u-V6GiEk) | [link](https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ) |
+| [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Inquisition | A | [link](https://www.youtube.com/watch?v=IKGbWrpn474) | [link](https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Monks of War | A | [link](https://www.youtube.com/watch?v=Omzyyj401ys) | [link](https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Sabaton | Templars | A | [link](https://www.youtube.com/watch?v=B10ECkQXQtU) | [link](https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy) |

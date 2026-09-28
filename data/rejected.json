@@ -236,5 +236,26 @@
     "reason": "Song = Erster Kreuzzug / Ankunft in Konstantinopel und Eid gegenüber Alexios (1097). Folge = Vierter Kreuzzug / Plünderung 1204 — andere Expedition und Jahrhundert (Tier C).",
     "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 184,
+    "songId": "saxon-witches-of-salem",
+    "reason": "Song = Hexenprozesse von Salem (Massachusetts, 1692). Folge = Katharina Kepler in Leonberg/Württemberg — gleiches Thema Hexerei, andere Personen, Ort und Jahrhundert (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 184,
+    "songId": "burning-witches-executed",
+    "reason": "Song = Anna Göldi (Glarus, „letzte Hexenhinrichtung“ der Schweiz). Folge = Katharina Kepler — andere Person und Ort, nur loser Hexenprozess-Bezug (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 40,
+    "songId": "saxon-kubla-khan-and-the-merchant-of-venice",
+    "reason": "Song = Marco Polo / Kublai Khan / Seidenstraßen-Reise nach Xanadu. Folge = Ursprung der Seidenstraße (u. a. Pfeil und Bogen) — gleiches Stichwort Seidenstraße, anderer Erzählfokus und Epoche (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
   }
 ]

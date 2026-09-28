@@ -3435,13 +3435,129 @@
       "1204"
     ],
     "era": "1204",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM",
     "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
     "sources": [
       {
         "type": "lyrics",
         "url": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
         "note": "Explicit Fourth Crusade / fall of Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "blazon-stone-the-tale-of-vasa",
+    "band": "Blazon Stone",
+    "title": "The Tale of Vasa",
+    "entities": [
+      "Vasa",
+      "Wasa",
+      "Stockholm",
+      "1628"
+    ],
+    "era": "1628",
+    "spotifyUrl": "https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gp2mokffolk",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://blazonstone.bandcamp.com/album/return-to-port-royal-definitive-edition",
+        "note": "Maiden voyage / capsizing; close: total disaster, treasured forever / back in the docks for us to see"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Blazon_Stone/Return_to_Port_Royal/611361",
+        "note": "Return to Port Royal (2013); Definitive Edition 2020"
+      }
+    ]
+  },
+  {
+    "id": "feuerschwanz-malleus-maleficarum",
+    "band": "Feuerschwanz",
+    "title": "Malleus Maleficarum",
+    "entities": [
+      "Malleus Maleficarum",
+      "Hexenhammer",
+      "Heinrich Kramer",
+      "Henricus Institoris",
+      "1486"
+    ],
+    "era": "1486",
+    "spotifyUrl": "https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OigEnWlVN14",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://muzikum.eu/index.php/en/feuerschwanz/malleus-maleficarum-lyrics",
+        "note": "1486 Hexenhammer / Institoris propaganda"
+      },
+      {
+        "type": "band",
+        "url": "https://metalshockfinland.com/2020/08/04/feuerschwanz-release-music-video-for-malleus-malficarum/",
+        "note": "Official: pamphlet legitimizing witch hunts"
+      }
+    ]
+  },
+  {
+    "id": "saxon-witches-of-salem",
+    "band": "Saxon",
+    "title": "Witches Of Salem",
+    "entities": [
+      "Salem",
+      "Hexenprozesse",
+      "Gallows Hill",
+      "1692"
+    ],
+    "era": "1692",
+    "spotifyUrl": "https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mN5mfBDUNMQ",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://oldielyrics.com/lyrics/saxon/witches_of_salem.html",
+        "note": "Salem witch trials / Massachusetts"
+      }
+    ]
+  },
+  {
+    "id": "burning-witches-executed",
+    "band": "Burning Witches",
+    "title": "Executed",
+    "entities": [
+      "Anna Göldi",
+      "Glarus",
+      "1782"
+    ],
+    "era": "1782",
+    "spotifyUrl": "https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=840vcVzth-0",
+    "sources": [
+      {
+        "type": "news",
+        "url": "https://blabbermouth.net/news/burning-witches-executed-lyric-video",
+        "note": "Band: last Swiss witch Anna Göldi"
+      }
+    ]
+  },
+  {
+    "id": "saxon-kubla-khan-and-the-merchant-of-venice",
+    "band": "Saxon",
+    "title": "Kubla Khan And The Merchant Of Venice",
+    "entities": [
+      "Marco Polo",
+      "Kublai Khan",
+      "Seidenstraße",
+      "Xanadu",
+      "Venedig"
+    ],
+    "era": "13. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://oldielyrics.com/lyrics/saxon/kubla_khan_and_the_merchant_of_venice.html",
+        "note": "Marco Polo / Kubla Khan / Silk Road journey"
       }
     ]
   }
