@@ -1,7 +1,7 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-28 21:41:24 +0200  
-**JSON-Status:** 2026-09-28 21:41:24 +0200  
+**Compile-Datum:** 2026-09-28 21:54:38 +0200  
+**JSON-Status:** 2026-09-28 21:46:59 +0200  
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -25,6 +25,7 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | A | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | A | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Serenity | Wings of Madness | A | [link](https://www.youtube.com/watch?v=k2QH9L42OY0) | [link](https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ) |
+| [255](https://gadg.fm/255) | Die 47 Ronin | Nightstryke | The Story of the Forty Seven Ronin | A | [link](https://www.youtube.com/watch?v=RX-tdo2q-DQ) | [link](https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | [link](https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | B | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
@@ -54,3 +55,4 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) |
+| [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |

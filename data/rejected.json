@@ -222,5 +222,12 @@
     "reason": "Song = generisches Konquistadoren-/Abenteuerbild. Folge = Eldorado-Legende, Pizarro und Atahualpa — anderer Fokus (Tier C).",
     "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 242,
+    "songId": "warkings-battle-of-marathon",
+    "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
   }
 ]

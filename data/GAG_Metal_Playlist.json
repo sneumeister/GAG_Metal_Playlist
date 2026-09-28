@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28 21:41:24 +0200",
+  "updatedAt": "2026-09-28 21:46:59 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -805,6 +805,45 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
       "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 569,
+      "episodeTitle": "HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru",
+      "episodeUrl": "https://gadg.fm/569",
+      "songId": "almanac-red-flag",
+      "band": "Almanac",
+      "songTitle": "Red Flag",
+      "matchTier": "A",
+      "justification": "Beide behandeln Zheng Yisao / Ching Shih, die Piratin der Roten Flagge. Folge (Hörbuchteil): Zheng Yisao und ihre Flotte. Song laut Liner notes explizit Ching Shih und die Red-Flag-Flotte.",
+      "sharedEntities": [
+        "Zheng Yisao",
+        "Ching Shih",
+        "Rote Flagge"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 255,
+      "episodeTitle": "Die 47 Ronin",
+      "episodeUrl": "https://gadg.fm/255",
+      "songId": "nightstryke-the-story-of-the-forty-seven-ronin",
+      "band": "Nightstryke",
+      "songTitle": "The Story of the Forty Seven Ronin",
+      "matchTier": "A",
+      "justification": "Beide behandeln die 47 Ronin (Akō, 1701–1703): Asanos Tod, Rache an Kira und ritueller Tod. Folge und Song erzählen denselben Nationalmythos.",
+      "sharedEntities": [
+        "47 Ronin",
+        "Asano",
+        "Kira",
+        "1703"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     }

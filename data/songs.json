@@ -3250,5 +3250,100 @@
         "note": "Port Royal (1988) — generisches Konquistadoren-Abenteuer"
       }
     ]
+  },
+  {
+    "id": "almanac-red-flag",
+    "band": "Almanac",
+    "title": "Red Flag",
+    "entities": [
+      "Zheng Yisao",
+      "Ching Shih",
+      "Rote Flagge",
+      "Piratin",
+      "Südchinesisches Meer"
+    ],
+    "era": "um 1801–1810 / 1775–1844",
+    "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/almanac-red-flag-188059",
+        "note": "Liner: Ching Shih / Red Flag fleet, undefeated pirate lord"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Almanac/Kingslayer/669417",
+        "note": "Kingslayer (2017), Track 10"
+      }
+    ]
+  },
+  {
+    "id": "nightstryke-the-story-of-the-forty-seven-ronin",
+    "band": "Nightstryke",
+    "title": "The Story of the Forty Seven Ronin",
+    "entities": [
+      "47 Ronin",
+      "Asano Naganori",
+      "Kira Yoshinaka",
+      "Akō",
+      "Edo"
+    ],
+    "era": "1701–1703",
+    "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/nightstryke/the-story-of-the-forty-seven-ronin-lyrics/",
+        "note": "Asano, Kira, revenge of the 47 ronin"
+      },
+      {
+        "type": "secondary",
+                "url": "https://www.metal-archives.com/albums/Nightstryke/Power_Shall_Prevail/676890",
+                "note": "Power Shall Prevail (2017)"
+      }
+    ]
+  },
+  {
+    "id": "warkings-battle-of-marathon",
+    "band": "Warkings",
+    "title": "Battle of Marathon",
+    "entities": [
+      "Schlacht bei Marathon",
+      "Marathon",
+      "Perserkriege",
+      "490 v. Chr."
+    ],
+    "era": "490 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/warkings-battle-of-marathon-225931",
+        "note": "Battle of Marathon / messenger run"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-impaler",
+    "band": "Sabaton",
+    "title": "Impaler",
+    "entities": [
+      "Vlad Țepeș",
+      "Vlad der Pfähler",
+      "Wallachei"
+    ],
+    "era": "15. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=YrEAN63NFgQ",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/",
+        "note": "Legends (2025) — Vlad the Impaler"
+      }
+    ]
   }
 ]
