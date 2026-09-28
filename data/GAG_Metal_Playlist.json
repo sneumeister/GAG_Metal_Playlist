@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:59:54+02:00",
+  "updatedAt": "2026-09-28 21:41:24 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -729,6 +729,82 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
       "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 191,
+      "episodeTitle": "Aethelfled - Warrior Queen of Mercia",
+      "episodeUrl": "https://gadg.fm/191",
+      "songId": "forefather-cween-of-the-mark",
+      "band": "Forefather",
+      "songTitle": "Cween of the Mark",
+      "matchTier": "A",
+      "justification": "Beide behandeln Æthelflæd / Aethelfled, Lady of Mercia (Tochter Alfreds). Folge: ihre Rolle gegen die Wikinger und als Herrscherin Merciens. Song laut Band explizit Tribute an Athelflæd of Mercia („Cween of the Mark“).",
+      "sharedEntities": [
+        "Æthelflæd",
+        "Mercia",
+        "Lady of Mercia"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 399,
+      "episodeTitle": "John Brown und sein gescheiterter Sklavenaufstand",
+      "episodeUrl": "https://gadg.fm/399",
+      "songId": "rancid-meteor-of-war",
+      "band": "Rancid",
+      "songTitle": "Meteor of War",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Abolitionisten John Brown. Folge: Harpers Ferry und der gescheiterte Sklavenaufstand. Song nennt Brown namentlich als „meteor in a guilty land“ (Melville-Bild) und Abolitionisten-Fokus.",
+      "sharedEntities": [
+        "John Brown",
+        "Abolitionismus",
+        "Harpers Ferry"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
+      "songId": "warkings-sparta",
+      "band": "Warkings",
+      "songTitle": "Sparta",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Schlacht an den Thermopylen / die Spartaner (Leonidas). Zweiter enger Thermopylen-Track neben Sabaton „Sparta“.",
+      "sharedEntities": [
+        "Thermopylen",
+        "Sparta",
+        "Leonidas",
+        "480 v. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MeOSgsJJ12M",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 133,
+      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
+      "episodeUrl": "https://gadg.fm/133",
+      "songId": "warkings-azrael",
+      "band": "Warkings",
+      "songTitle": "Azrael",
+      "matchTier": "B",
+      "justification": "Gemeinsamer Rahmen: ein Kreuzzug gen Jerusalem. Folge: Entstehung des Ersten Kreuzzugs (Alexios I., Urban II.). Song: generischer Marsch durch die Wüste nach Jerusalem und die Sinnfrage, für einen „heiligen“ Feldzug zu kämpfen und zu sterben — kein Bezug zu Alexios/Urban oder 1095–1099 im Einzelnen → Tier B.",
+      "sharedEntities": [
+        "Kreuzzug",
+        "Jerusalem"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     }

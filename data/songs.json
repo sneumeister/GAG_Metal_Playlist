@@ -2657,6 +2657,60 @@
     ]
   },
   {
+    "id": "savatage-complaint-in-the-system-veronica-guerin",
+    "band": "Savatage",
+    "title": "Complaint in the System (Veronica Guerin)",
+    "entities": [
+      "Veronica Guerin",
+      "Irland",
+      "Drogenhandel",
+      "Investigativjournalismus",
+      "1996"
+    ],
+    "era": "1996",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://web.archive.org/web/20190914002802/www.savatage.com/bandinfo/albums/wakeofmagellan/info.html",
+        "note": "The Wake of Magellan: Irish reporter Veronica Guerin"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Wake_of_Magellan",
+        "note": "Concept album; Guerin as one of two real events"
+      }
+    ]
+  },
+  {
+    "id": "savatage-the-wake-of-magellan",
+    "band": "Savatage",
+    "title": "The Wake of Magellan",
+    "entities": [
+      "Magellan",
+      "Fernão de Magalhães",
+      "Maersk Dubai",
+      "blinde Passagiere",
+      "Seefahrt"
+    ],
+    "era": "1996–1997 (Konzept; Magellan-Rahmen)",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://web.archive.org/web/20190914002802/www.savatage.com/bandinfo/albums/wakeofmagellan/info.html",
+        "note": "Konzept: Maersk Dubai + fiktiver Magellan-Seemann; nicht historische Weltumsegelung"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Wake_of_Magellan",
+        "note": "Title track of 1997 concept album"
+      }
+    ]
+  },
+  {
     "id": "scimitar-knights-collapse",
     "band": "Scimitar",
     "title": "Knights Collapse",
@@ -3034,6 +3088,166 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
         "note": "Revolution (2021)"
+      }
+    ]
+  },
+  {
+    "id": "forefather-cween-of-the-mark",
+    "band": "Forefather",
+    "title": "Cween of the Mark",
+    "entities": [
+      "Æthelflæd",
+      "Aethelflaed",
+      "Mercia",
+      "Lady of Mercia",
+      "Alfred der Große"
+    ],
+    "era": "um 910–918",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://motolyrics.com/forefather/cween-of-the-mark-lyrics.html",
+        "note": "Band: Tribute to Athelflæd of Mercia, daughter of King Alfred"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Steadfast_(Forefather_album)",
+        "note": "Steadfast (2008), Track 2"
+      }
+    ]
+  },
+  {
+    "id": "rancid-meteor-of-war",
+    "band": "Rancid",
+    "title": "Meteor of War",
+    "entities": [
+      "John Brown",
+      "Abolitionismus",
+      "Harpers Ferry",
+      "US-Sezessionskrieg"
+    ],
+    "era": "1859",
+    "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://readdork.com/lyrics/rancid-meteor-of-war",
+        "note": "John Brown / abolitionist / meteor imagery (Melville)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
+        "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "warkings-sparta",
+    "band": "Warkings",
+    "title": "Sparta",
+    "entities": [
+      "Sparta",
+      "Thermopylen",
+      "Leonidas",
+      "Perserkriege"
+    ],
+    "era": "480 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MeOSgsJJ12M",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
+        "note": "Reborn (2018); Sparta / Thermopylae — Video-Version auch feat. The Queen of the Damned"
+      }
+    ]
+  },
+  {
+    "id": "warkings-azrael",
+    "band": "Warkings",
+    "title": "Azrael",
+    "entities": [
+      "Kreuzzüge",
+      "Jerusalem",
+      "Heiliger Krieg"
+    ],
+    "era": "Kreuzzugszeit",
+    "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/warkings-azrael-225930",
+        "note": "March against Jerusalem / Deus lo vult / holy crusade"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/42TpmcDVleyQR0dEJJ6dhe",
+        "note": "Revenge (2020)"
+      }
+    ]
+  },
+  {
+    "id": "warkings-fight-in-the-shade",
+    "band": "Warkings",
+    "title": "Fight in the Shade",
+    "entities": [
+      "Varusschlacht",
+      "Teutoburger Wald",
+      "Arminius",
+      "Varus"
+    ],
+    "era": "9 n. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/4vLX79K7l6bK1OqvsqkaaM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5PWVOywu5Dg",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Warkings-fight-in-the-shade-lyrics",
+        "note": "Titel alludiert Thermopylen-Spruch; Text = Arminius/Varus/Teutoburg"
+      }
+    ]
+  },
+  {
+    "id": "alestorm-magellans-expedition",
+    "band": "Alestorm",
+    "title": "Magellan's Expedition",
+    "entities": [
+      "Magellan",
+      "Weltumsegelung",
+      "Magellanstraße"
+    ],
+    "era": "1519–1522",
+    "spotifyUrl": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gsHmOb36-Js",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
+        "note": "Seventh Rum of a Seventh Rum (2022) — Magellan circumnavigation"
+      }
+    ]
+  },
+  {
+    "id": "running-wild-conquistadores",
+    "band": "Running Wild",
+    "title": "Conquistadores",
+    "entities": [
+      "Konquistadoren",
+      "Spanische Eroberung",
+      "Neue Welt"
+    ],
+    "era": "16. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Port_Royal_(album)",
+        "note": "Port Royal (1988) — generisches Konquistadoren-Abenteuer"
       }
     ]
   }

@@ -84,6 +84,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 320,
+    "songId": "savatage-complaint-in-the-system-veronica-guerin",
+    "reason": "Song = Veronica Guerin (Irland, Drogenkartell, Mord 1996). Folge = Nellie Bly / Weltreise 1889 — beide Investigativjournalistinnen, andere Person und Epoche (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 333,
     "songId": "iron-maiden-alexander-the-great",
     "reason": "Folge fokussiert die Stadt Alexandria (Gründung/Kulturzentrum, Umsetzung nach Alexanders Tod); Song ist chronologische Biografie Alexanders als Feldherr. Alexander ist nur Rahmen/Gründer — Fokus wie bei Vasa/Lion zu lose (Tier C).",
@@ -109,6 +116,13 @@
     "songId": "ex-deo-the-final-war-the-battle-of-actium",
     "reason": "Song = Seeschlacht bei Actium 31 v. Chr. (Antonius, Kleopatra, Octavian). Folge-Protagonistin = Kleopatra Selene (Nachgeschichte ab 30 v. Chr., Mauretanien). Actium ist nur Vorgeschichte/Auslöser, nicht Erzählfokus — zu lose (Tier C).",
     "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 407,
+    "songId": "savatage-the-wake-of-magellan",
+    "reason": "Album/Song-Konzept = Maersk Dubai 1990er + fiktiver Magellan-Seemann (Offizielle Savatage-Story). Folge = Puerto del Hambre / Cavendish 1587 an der Magellanstraße — nur Namens-/Ortsanklang „Magellan“, anderer Erzählfokus (Tier C).",
+    "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
   },
   {
@@ -140,6 +154,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 527,
+    "songId": "savatage-the-wake-of-magellan",
+    "reason": "Folge = Bougainville/Baret-Weltumseglung 18. Jh. Song/Album = Maersk Dubai + fiktiver Magellan-Rahmen 1990er — nur loser „Weltreise/Seefahrt“-Rahmen (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 537,
     "songId": "temple-of-oblivion-das-wunder-von-koniggratz",
     "reason": "Song = Schlacht bei Königgrätz 1866 (Deutscher Krieg). Folge = Fontane 1870 im Deutsch-Französischen Krieg (Gefängnis in Frankreich) — anderer Krieg/Jahr/Fokus (Tier C).",
@@ -161,6 +182,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 551,
+    "songId": "savatage-the-wake-of-magellan",
+    "reason": "Folge = SMS Novara / Habsburg-Weltumseglung 1857. Song/Album = Maersk Dubai + fiktiver Magellan-Rahmen 1990er — nur loser „Weltumseglung/Seefahrt“-Rahmen (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 554,
     "songId": "iced-earth-attila",
     "reason": "Song = Attila als Eroberer (Glorious Burden). Folge speziell Honoria/Gesandtschaften 449 — nur Personenname Attila gemeinsam (Tier C).",
@@ -172,6 +200,27 @@
     "songId": "saxon-atila-the-hun",
     "reason": "Song = generische Attila-/Hunnen-Schreckensbilder. Folge = 449: Attila, Honoria und zwei römische Gesandtschaften — anderer Fokus/Ereignis (Tier C).",
     "rejectedAt": "2026-09-27",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 462,
+    "songId": "warkings-fight-in-the-shade",
+    "reason": "Titel alludiert den Thermopylen-Spruch („fight in the shade“), der Text handelt aber von Arminius, Varus und der Varusschlacht im Teutoburger Wald — andere Schlacht/Entity (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 407,
+    "songId": "alestorm-magellans-expedition",
+    "reason": "Song = Magellans Weltumsegelung. Folge = spanische Kolonie in der Magellanstraße unter Pedro Sarmiento de Gamboa / Cavendish findet Geisterstadt — nur geografische Magellan-Assoziation, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 436,
+    "songId": "running-wild-conquistadores",
+    "reason": "Song = generisches Konquistadoren-/Abenteuerbild. Folge = Eldorado-Legende, Pizarro und Atahualpa — anderer Fokus (Tier C).",
+    "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
   }
 ]
