@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:50:34+02:00",
+  "updatedAt": "2026-09-28T20:46:48+02:00",
   "entries": [
     {
       "episodeId": 4,
@@ -193,23 +193,6 @@
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
-      "songId": "serenity-wings-of-madness",
-      "band": "Serenity",
-      "songTitle": "Wings of Madness",
-      "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
-      "sharedEntities": [
-        "Elisabeth Báthory"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
-      "matchedAt": "2026-09-26",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 229,
-      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-      "episodeUrl": "https://gadg.fm/229",
       "songId": "venom-countess-bathory",
       "band": "Venom",
       "songTitle": "Countess Bathory",
@@ -220,6 +203,23 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
       "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "serenity-wings-of-madness",
+      "band": "Serenity",
+      "songTitle": "Wings of Madness",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin (Serenity War-of-Ages-Konzept).",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -359,24 +359,6 @@
       "episodeId": 377,
       "episodeTitle": "Aufstieg und Fall des Templerordens",
       "episodeUrl": "https://gadg.fm/377",
-      "songId": "grave-digger-the-curse-of-jacques",
-      "band": "Grave Digger",
-      "songTitle": "The Curse of Jacques",
-      "matchTier": "A",
-      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
-      "sharedEntities": [
-        "Jacques de Molay",
-        "Templerorden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
-      "matchedAt": "2026-09-26",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 377,
-      "episodeTitle": "Aufstieg und Fall des Templerordens",
-      "episodeUrl": "https://gadg.fm/377",
       "songId": "sabaton-templars",
       "band": "Sabaton",
       "songTitle": "Templars",
@@ -390,6 +372,24 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-the-curse-of-jacques",
+      "band": "Grave Digger",
+      "songTitle": "The Curse of Jacques",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
+      "sharedEntities": [
+        "Jacques de Molay",
+        "Templerorden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -428,6 +428,25 @@
       "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
       "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 466,
+      "episodeTitle": "Julia Felix und das Ende Pompejis",
+      "episodeUrl": "https://gadg.fm/466",
+      "songId": "stratovarius-frozen-in-time",
+      "band": "Stratovarius",
+      "songTitle": "Frozen in Time",
+      "matchTier": "B",
+      "justification": "Lyrics nennen Pompeji nicht (Paar, „buried alive“, Asche, Bebentöner). Entity über Band-Aussage: Kotipelto — „It’s the only song on the album that is inspired by historical events. It’s about what happened in Pompeii.“ (u. a. Musical Fortress / Stratovarius-Promo). Folge: Untergang Pompejis plus Julia Felix/Ausgrabungen — gleicher Kern, anderer Fokus → B.",
+      "sharedEntities": [
+        "Pompeji",
+        "Vesuv",
+        "79 n. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R8OYRZDHK4s",
+      "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
     {
@@ -503,6 +522,27 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 476,
+      "episodeTitle": "Boabdil und das Ende Granadas",
+      "episodeUrl": "https://gadg.fm/476",
+      "songId": "dark-moor-el-ultimo-rey",
+      "band": "Dark Moor",
+      "songTitle": "El Último Rey",
+      "matchTier": "A",
+      "justification": "Beide behandeln Boabdil (Muhammad XII.), den letzten Nasridenkönig, und den Fall Granadas 1492 (Alhambra/Albaicín, Verlust der Stadt).",
+      "sharedEntities": [
+        "Boabdil",
+        "Granada",
+        "Alhambra",
+        "1492",
+        "Nasriden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IeqHGDjmD0g",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 493,
       "episodeTitle": "Kernspaltung und Schwerwasser-Sabotage",
       "episodeUrl": "https://gadg.fm/493",
@@ -519,6 +559,26 @@
       "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
       "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 503,
+      "episodeTitle": "Die Schlacht bei Kadesch",
+      "episodeUrl": "https://gadg.fm/503",
+      "songId": "ottone-pesante-battle-of-qadesh",
+      "band": "Ottone Pesante",
+      "songTitle": "Battle of Qadesh",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Schlacht bei Kadesch 1274 v. Chr. (Ramses II. vs. Hethiter) und den außergewöhnlichen Friedensvertrag danach.",
+      "sharedEntities": [
+        "Schlacht bei Kadesch",
+        "Ramses II.",
+        "Hethiter",
+        "1274 v. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8Q00PZR2_og",
+      "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
     {

@@ -1,7 +1,7 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-27 18:50:09 +0200  
-**JSON-Status:** 2026-09-27T14:50:34+02:00  
+**Compile-Datum:** 2026-09-28 20:46:48 +0200  
+**JSON-Status:** 2026-09-28T20:46:48+02:00  
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -34,11 +34,14 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | The Curse of Jacques | A | [link](https://www.youtube.com/watch?v=4C84PeWW8UI) | [link](https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
+| [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Carolus Rex | A | [link](https://www.youtube.com/watch?v=nxwv8-oAasI) | [link](https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Long Live the King | A | [link](https://www.youtube.com/watch?v=rMnGYDi7Li0) | [link](https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Poltava | A | [link](https://www.youtube.com/watch?v=xfGe07IzsK4) | [link](https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Ruina Imperii | B | [link](https://www.youtube.com/watch?v=c898WyjHDx4) | [link](https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X) |
+| [476](https://gadg.fm/476) | Boabdil und das Ende Granadas | Dark Moor | El Último Rey | A | [link](https://www.youtube.com/watch?v=IeqHGDjmD0g) | [link](https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ) |
 | [493](https://gadg.fm/493) | Kernspaltung und Schwerwasser-Sabotage | Sabaton | Saboteurs | A | [link](https://www.youtube.com/watch?v=OlOdefB5Kyk) | [link](https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf) |
+| [503](https://gadg.fm/503) | Die Schlacht bei Kadesch | Ottone Pesante | Battle of Qadesh | A | [link](https://www.youtube.com/watch?v=8Q00PZR2_og) | [link](https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V) |
 | [508](https://gadg.fm/508) | HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft | Sabaton | Father | A | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Serenity | Symphony for the Quiet | B | [link](https://www.youtube.com/watch?v=vaMBn0GsgLY) | [link](https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | The March of the Varangian Guard | A | [link](https://www.youtube.com/watch?v=8kIv7ZJOyB4) | [link](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |

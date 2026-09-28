@@ -56,6 +56,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 296,
+    "songId": "powerwolf-joan-of-arc",
+    "reason": "Song = Jeanne d'Arc / Jungfrau von Orléans. Folge = Johanna von Flandern („Jeanne la Flamme“) im bretonischen Erbfolgekrieg — Namens-/Beiname-Anklang, andere Person und Konflikt (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 333,
     "songId": "iron-maiden-alexander-the-great",
     "reason": "Folge fokussiert die Stadt Alexandria (Gründung/Kulturzentrum, Umsetzung nach Alexanders Tod); Song ist chronologische Biografie Alexanders als Feldherr. Alexander ist nur Rahmen/Gründer — Fokus wie bei Vasa/Lion zu lose (Tier C).",

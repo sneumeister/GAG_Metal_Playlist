@@ -81,6 +81,35 @@
     ]
   },
   {
+    "id": "dark-moor-el-ultimo-rey",
+    "band": "Dark Moor",
+    "title": "El Último Rey",
+    "entities": [
+      "Boabdil",
+      "Muhammad XII.",
+      "Granada",
+      "Alhambra",
+      "Nasriden",
+      "1492",
+      "Reconquista"
+    ],
+    "era": "1492",
+    "spotifyUrl": "https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IeqHGDjmD0g",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.letras.com/dark-moor/el-ultimo-rey/english.html",
+        "note": "Boabdil / last Nasrid king; Alhambra, Albaicín, fall of Granada"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ars_Musica_(album)",
+        "note": "Ars Musica (2013)"
+      }
+    ]
+  },
+  {
     "id": "ex-deo-ad-victoriam-the-battle-of-zama",
     "band": "Ex Deo",
     "title": "Ad Victoriam (The Battle of Zama)",
@@ -574,6 +603,33 @@
         "type": "metal-archives",
         "url": "https://www.metal-archives.com/albums/Judicator/The_Last_Emperor/700506",
         "note": "The Last Emperor (2018)"
+      }
+    ]
+  },
+  {
+    "id": "ottone-pesante-battle-of-qadesh",
+    "band": "Ottone Pesante",
+    "title": "Battle of Qadesh",
+    "entities": [
+      "Schlacht bei Kadesch",
+      "Ramses II.",
+      "Hethiter",
+      "1274 v. Chr.",
+      "Friedensvertrag von Kadesch"
+    ],
+    "era": "-1274",
+    "spotifyUrl": "https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V",
+    "youtubeUrl": "https://www.youtube.com/watch?v=8Q00PZR2_og",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://ottonepesante.bandcamp.com/track/battle-of-qadesh",
+        "note": "Scrolls of War (2024); Battle of Qadesh / peace treaty"
+      },
+      {
+        "type": "news",
+        "url": "https://www.impattosonoro.it/2024/09/13/news/ottone-pesante-il-nuovo-singolo-battle-of-qadesh-con-lili-refrain/",
+        "note": "Official single about Qadesh 1274 BCE and later peace treaty"
       }
     ]
   },
@@ -2638,6 +2694,42 @@
         "type": "bandcamp",
         "url": "https://trueskelator.bandcamp.com/track/victory-henry-v",
         "note": "Death to All Nations / Victory (Henry V)"
+      }
+    ]
+  },
+  {
+    "id": "stratovarius-frozen-in-time",
+    "band": "Stratovarius",
+    "title": "Frozen in Time",
+    "entities": [
+      "Pompeji",
+      "Vesuv",
+      "79 n. Chr.",
+      "Vulkanausbruch"
+    ],
+    "era": "79",
+    "spotifyUrl": "https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3",
+    "youtubeUrl": "https://www.youtube.com/watch?v=R8OYRZDHK4s",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://musicalfortress.com/2022/09/20/stratovarius-shares-single-inspired-by-the-pompeii-tragedy-frozen-in-time/",
+        "note": "Kotipelto: „It’s the only song on the album that is inspired by historical events. It’s about what happened in Pompeii.“"
+      },
+      {
+        "type": "band",
+        "url": "https://www.facebook.com/stratovarius/videos/frozen-in-time-is-the-only-song-on-the-album-which-is-inspired-by-historical-eve/2956537347825464/",
+        "note": "Stratovarius Facebook-Promo mit derselben Pompeji-Aussage"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/videos/stratovarius-frozen-in-time-audio-32618",
+        "note": "Lyrics ohne Ortsname Pompeji; buried alive / ashes / ground shaking"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Survive_(Stratovarius_album)",
+        "note": "Survive (2022)"
       }
     ]
   },
