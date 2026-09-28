@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28 21:46:59 +0200",
+  "updatedAt": "2026-09-28 21:59:54 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -844,6 +844,83 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
       "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 107,
+      "episodeTitle": "Eine kurze Geschichte der Guillotine",
+      "episodeUrl": "https://gadg.fm/107",
+      "songId": "saxon-madame-guillotine",
+      "band": "Saxon",
+      "songTitle": "Madame Guillotine",
+      "matchTier": "A",
+      "justification": "Beide behandeln die Guillotine in der Französischen Revolution. Folge: Entstehung, Guillotin und Wandel zum Symbol der Schreckensherrschaft. Song: die Guillotine als Stimme (u. a. Marie Antoinette, Mob) — derselbe Gegenstand und Kontext.",
+      "sharedEntities": [
+        "Guillotine",
+        "Französische Revolution",
+        "Marie Antoinette"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 289,
+      "episodeTitle": "Ein Kreuzzug, der einen ungeahnten Verlauf nahm",
+      "episodeUrl": "https://gadg.fm/289",
+      "songId": "bolt-thrower-the-ivth-crusade",
+      "band": "Bolt Thrower",
+      "songTitle": "The IVth Crusade",
+      "matchTier": "A",
+      "justification": "Beide behandeln denselben Kern: Vierter Kreuzzug und Fall/Plünderung Konstantinopels 1204. Fokus der Folge: Verlauf ab Venedig — geplantes Jerusalem, Umleitung, Kampf gegen Christen. Fokus des Songs: Opferperspektive der Stadtbewohner auf denselben Fall (u. a. Absurdität, dass Kreuzfahrer denselben Gott anbeten). Trotzdem Tier A.",
+      "sharedEntities": [
+        "Vierter Kreuzzug",
+        "Konstantinopel",
+        "1204"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4GPFduVKuEg",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 289,
+      "episodeTitle": "Ein Kreuzzug, der einen ungeahnten Verlauf nahm",
+      "episodeUrl": "https://gadg.fm/289",
+      "songId": "battle-symphony-the-fall-of-the-queen-of-cities",
+      "band": "Battle Symphony",
+      "songTitle": "The Fall of the Queen of Cities",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Fall Konstantinopels im Vierten Kreuzzug 1204. Fokus der Folge: der Weg des Kreuzzugs von Venedig nach Konstantinopel (Umleitung vom geplanten Jerusalem-Zug). Fokus des Songs: Plünderung und Leid in der Stadt — Lyrics nennen den Fourth Crusade explizit.",
+      "sharedEntities": [
+        "Vierter Kreuzzug",
+        "Konstantinopel",
+        "1204"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "episodeTitle": "Olga von Kiew oder Mit den Spatzen kam der Tod",
+      "episodeUrl": "https://gadg.fm/198",
+      "songId": "gorod-birds-of-sulphur",
+      "band": "Gorod",
+      "songTitle": "Birds of Sulphur",
+      "matchTier": "A",
+      "justification": "Beide behandeln Olga von Kiew und die Rache an den Derevljanen mit den Brandvögeln (Iskorosten). Folge-Titel: „Mit den Spatzen kam der Tod“. Song (Konzeptalbum A Perfect Absolution) erzählt genau diese Episode — keine nüchterne Nacherzählung, sondern Olgas Rache als drastischer Metal-Monolog.",
+      "sharedEntities": [
+        "Olga von Kiew",
+        "Iskorosten",
+        "Brandvögel",
+        "Derevljanen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     }

@@ -3300,8 +3300,8 @@
       },
       {
         "type": "secondary",
-                "url": "https://www.metal-archives.com/albums/Nightstryke/Power_Shall_Prevail/676890",
-                "note": "Power Shall Prevail (2017)"
+        "url": "https://www.metal-archives.com/albums/Nightstryke/Power_Shall_Prevail/676890",
+        "note": "Power Shall Prevail (2017)"
       }
     ]
   },
@@ -3343,6 +3343,105 @@
         "type": "sabaton-official",
         "url": "https://www.sabaton.net/discography/legends/",
         "note": "Legends (2025) — Vlad the Impaler"
+      }
+    ]
+  },
+  {
+    "id": "saxon-madame-guillotine",
+    "band": "Saxon",
+    "title": "Madame Guillotine",
+    "entities": [
+      "Guillotine",
+      "Französische Revolution",
+      "Marie Antoinette",
+      "Schreckensherrschaft"
+    ],
+    "era": "1789–1799",
+    "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+        "note": "Official: guillotine as voice of French Revolution / Marie Antoinette"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/4DcQ33Fg2ZYJSkhoehGI21",
+        "note": "Hell, Fire And Damnation (2024)"
+      }
+    ]
+  },
+  {
+    "id": "bolt-thrower-the-ivth-crusade",
+    "band": "Bolt Thrower",
+    "title": "The IVth Crusade",
+    "entities": [
+      "Vierter Kreuzzug",
+      "Konstantinopel",
+      "1204",
+      "Plünderung Konstantinopels"
+    ],
+    "era": "1202–1204",
+    "spotifyUrl": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4GPFduVKuEg",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Bolt-thrower-the-ivth-crusade-lyrics",
+        "note": "Byzantine POV / sack of Constantinople by crusaders"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_IVth_Crusade",
+        "note": "Album artwork: Delacroix Entry of the Crusaders in Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "gorod-birds-of-sulphur",
+    "band": "Gorod",
+    "title": "Birds of Sulphur",
+    "entities": [
+      "Olga von Kiew",
+      "Iskorosten",
+      "Derevljanen",
+      "Kiewer Rus",
+      "Brandtauben"
+    ],
+    "era": "945–946",
+    "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.reddit.com/r/Metal/comments/wcejr/the_explanation_of_themes_in_gorods_latest_album/",
+        "note": "A Perfect Absolution concept: Olga's revenge; Birds of Sulphur = firebirds vs Iskorosten"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/67a4jDUviofnhh2xCw2CsW",
+        "note": "A Perfect Absolution (2012)"
+      }
+    ]
+  },
+  {
+    "id": "battle-symphony-the-fall-of-the-queen-of-cities",
+    "band": "Battle Symphony",
+    "title": "The Fall of the Queen of Cities",
+    "entities": [
+      "Vierter Kreuzzug",
+      "Konstantinopel",
+      "1204"
+    ],
+    "era": "1204",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
+        "note": "Explicit Fourth Crusade / fall of Constantinople"
       }
     ]
   }

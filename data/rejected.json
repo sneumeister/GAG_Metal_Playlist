@@ -229,5 +229,12 @@
     "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier C).",
     "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 289,
+    "songId": "judicator-the-queen-of-all-cities",
+    "reason": "Song = Erster Kreuzzug / Ankunft in Konstantinopel und Eid gegenüber Alexios (1097). Folge = Vierter Kreuzzug / Plünderung 1204 — andere Expedition und Jahrhundert (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
   }
 ]
