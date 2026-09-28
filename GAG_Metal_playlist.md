@@ -1,7 +1,7 @@
 # GAG Metal Playlist
 
-**Compile-Datum:** 2026-09-28 20:46:48 +0200  
-**JSON-Status:** 2026-09-28T20:46:48+02:00  
+**Compile-Datum:** 2026-09-28 20:59:54 +0200  
+**JSON-Status:** 2026-09-28T20:59:54+02:00  
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -35,6 +35,7 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
+| [467](https://gadg.fm/467) | Das Leben der Lucrezia Borgia | Dorsal Atlântica | Lucrécia Bórgia | A | [link](https://www.youtube.com/watch?v=IzT-MlXlmVc) | — |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Carolus Rex | A | [link](https://www.youtube.com/watch?v=nxwv8-oAasI) | [link](https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Long Live the King | A | [link](https://www.youtube.com/watch?v=rMnGYDi7Li0) | [link](https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Poltava | A | [link](https://www.youtube.com/watch?v=xfGe07IzsK4) | [link](https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf) |
@@ -47,3 +48,5 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | The March of the Varangian Guard | A | [link](https://www.youtube.com/watch?v=8kIv7ZJOyB4) | [link](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Turisas | Venetoi! – Prasinoi! | B | [link](https://www.youtube.com/watch?v=8DDnNhpNRoI) | [link](https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
+| [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) |
+| [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) |

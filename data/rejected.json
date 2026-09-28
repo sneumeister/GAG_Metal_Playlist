@@ -22,6 +22,13 @@
   },
   {
     "episodeId": 216,
+    "songId": "civil-war-i-will-rule-the-universe",
+    "reason": "Song = Napoleon I. als Kaiser. Folge = Biografie Napoleon II. (König von Rom / Reichstadt) — Vater≠Sohn (Tier C), analog Judicator King of Rome.",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 216,
     "songId": "judicator-king-of-rome",
     "reason": "Song gehört zum Waterloo-Konzept: Napoleon I. auf dem Schlachtfeld, Refrain „King of Rome“ = Motivation/Erbe. Folge ist die Biografie Napoleon II. (König von Rom → Reichstadt). Titel-Anklang, aber Erzählfokus Vater-Schlacht ≠ Sohn-Leben — zu lose (Tier C), analog Art of War/Exil.",
     "rejectedAt": "2026-09-26",
@@ -36,6 +43,13 @@
   },
   {
     "episodeId": 272,
+    "songId": "civil-war-i-will-rule-the-universe",
+    "reason": "Song = Napoleon als Kaiser (1804, Weltherrschafts-Ambition). Folge explizit Exil auf St. Helena — gleiche Person, falsche Phase (Tier C), analog Serenity The Art of War / Crystallion Hundred Days.",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 272,
     "songId": "crystallion-hundred-days",
     "reason": "Album/Song = Napoleons Hundert Tage (Rückkehr von Elba bis Waterloo). Folge = letzte Jahre im Exil auf St. Helena — gleiche Person, falsche Phase/Fokus (Tier C), analog Serenity The Art of War.",
     "rejectedAt": "2026-09-27",
@@ -46,6 +60,13 @@
     "songId": "serenity-the-art-of-war",
     "reason": "Folge explizit über Napoleons Exil (nicht Schlachten/Kriegsmeisterschaft); Serenity „The Art of War“ zielt auf Napoleon als Feldherr — Fokus weicht ab.",
     "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 287,
+    "songId": "iron-maiden-empire-of-the-clouds",
+    "reason": "Song = Absturz des Luftschiffs R101 (1930). Folge = allgemeine Geschichte Ballonfahrt/Fallschirmspringen ab 18. Jh. — kein R101, nur loser Luftfahrt-Rahmen (Tier C).",
+    "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
   },
   {
@@ -116,6 +137,13 @@
     "songId": "turisas-stand-up-and-fight",
     "reason": "Titeltrack: allgemeine Motivations-/Lebens-Hymne (Lyrics ohne Warägergarde/Byzanz/Kreuzzug). Album-Rahmen Konstantinopel reicht nicht; Match nur über Albumnähe — zu lose. Bleibt: The March of the Varangian Guard.",
     "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 537,
+    "songId": "temple-of-oblivion-das-wunder-von-koniggratz",
+    "reason": "Song = Schlacht bei Königgrätz 1866 (Deutscher Krieg). Folge = Fontane 1870 im Deutsch-Französischen Krieg (Gefängnis in Frankreich) — anderer Krieg/Jahr/Fokus (Tier C).",
+    "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
   },
   {

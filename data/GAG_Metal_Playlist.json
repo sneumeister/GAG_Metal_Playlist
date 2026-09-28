@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:46:48+02:00",
+  "updatedAt": "2026-09-28T20:59:54+02:00",
   "entries": [
     {
       "episodeId": 4,
@@ -450,6 +450,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 467,
+      "episodeTitle": "Das Leben der Lucrezia Borgia",
+      "episodeUrl": "https://gadg.fm/467",
+      "songId": "dorsal-atlantica-lucrecia-borgia",
+      "band": "Dorsal Atlântica",
+      "songTitle": "Lucrécia Bórgia",
+      "matchTier": "A",
+      "justification": "Song und Folge behandeln Lucrezia Borgia als politische Schachfigur (Papsttochter, Ehen, Cesare, Ruf als Giftmischerin).",
+      "sharedEntities": [
+        "Lucrezia Borgia",
+        "Cesare Borgia",
+        "Alexander VI.",
+        "Borgia"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=IzT-MlXlmVc",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 471,
       "episodeTitle": "Karl XII. und das Ende des Schwedischen Reichs",
       "episodeUrl": "https://gadg.fm/471",
@@ -671,6 +691,45 @@
       "spotifyUrl": "https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8",
       "youtubeUrl": "https://www.youtube.com/watch?v=jbCJXVemRgc",
       "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 565,
+      "episodeTitle": "Nofretete und Echnaton",
+      "episodeUrl": "https://gadg.fm/565",
+      "songId": "nightfall-akhenaton-the-9th-pharaoh-of-the-18th-dynasty",
+      "band": "Nightfall",
+      "songTitle": "Akhenaton, the 9th Pharaoh of the 18th Dynasty",
+      "matchTier": "A",
+      "justification": "Song ist die Biografie/Reform Echnatons (Aton-Kult); Folge behandelt Echnaton und Nofretete in der Amarna-Zeit — gleicher Herrscher und Periode.",
+      "sharedEntities": [
+        "Echnaton",
+        "Aton",
+        "Amarna",
+        "18. Dynastie"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 565,
+      "episodeTitle": "Nofretete und Echnaton",
+      "episodeUrl": "https://gadg.fm/565",
+      "songId": "aeternam-goddess-of-masr",
+      "band": "Aeternam",
+      "songTitle": "Goddess of Masr",
+      "matchTier": "A",
+      "justification": "Lyrics nennen explizit die Ära Akhenatens und die Herrschaft Nefertitis; Folge behandelt Nofretete und Echnaton (Amarna) inkl. Büste.",
+      "sharedEntities": [
+        "Nofretete",
+        "Echnaton",
+        "Amarna"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+      "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     }
   ]

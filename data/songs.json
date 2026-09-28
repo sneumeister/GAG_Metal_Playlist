@@ -1,5 +1,53 @@
 [
   {
+    "id": "aeternam-goddess-of-masr",
+    "band": "Aeternam",
+    "title": "Goddess of Masr",
+    "entities": [
+      "Nofretete",
+      "Nefertiti",
+      "Echnaton",
+      "Akhenaten",
+      "Amarna"
+    ],
+    "era": "-14. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/aeternam-goddess-of-masr-15039",
+        "note": "Lyrics: era of Akhenaten / reign of Nefertiti"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Aeternam/Disciples_of_the_Unseen/231819",
+        "note": "Disciples of the Unseen (2010)"
+      }
+    ]
+  },
+  {
+    "id": "civil-war-i-will-rule-the-universe",
+    "band": "Civil War",
+    "title": "I Will Rule the Universe",
+    "entities": [
+      "Napoleon",
+      "Napoleon Bonaparte",
+      "1804",
+      "Kaiserkrönung"
+    ],
+    "era": "1804",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZgKll_1JgPQ",
+    "sources": [
+      {
+        "type": "news",
+        "url": "http://www.metalunderground.com/news/details.cfm?newsid=90866",
+        "note": "Song about Napoleon becoming more powerful than God"
+      }
+    ]
+  },
+  {
     "id": "crystallion-hougoumont",
     "band": "Crystallion",
     "title": "Hougoumont",
@@ -106,6 +154,33 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ars_Musica_(album)",
         "note": "Ars Musica (2013)"
+      }
+    ]
+  },
+  {
+    "id": "dorsal-atlantica-lucrecia-borgia",
+    "band": "Dorsal Atlântica",
+    "title": "Lucrécia Bórgia",
+    "entities": [
+      "Lucrezia Borgia",
+      "Cesare Borgia",
+      "Alexander VI.",
+      "Borgia",
+      "Ferrara"
+    ],
+    "era": "15.–16. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=IzT-MlXlmVc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/dorsal-atl%C3%A2ntica-lucrecia-borgia-160267",
+        "note": "Daughter of a pope; Cesare; political marriages"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Dorsal_Atl%C3%A2ntica/Dividir_%26_Conquistar/6389",
+        "note": "Dividir & Conquistar (1988)"
       }
     ]
   },
@@ -603,6 +678,28 @@
         "type": "metal-archives",
         "url": "https://www.metal-archives.com/albums/Judicator/The_Last_Emperor/700506",
         "note": "The Last Emperor (2018)"
+      }
+    ]
+  },
+  {
+    "id": "nightfall-akhenaton-the-9th-pharaoh-of-the-18th-dynasty",
+    "band": "Nightfall",
+    "title": "Akhenaton, the 9th Pharaoh of the 18th Dynasty",
+    "entities": [
+      "Echnaton",
+      "Akhenaten",
+      "Aton",
+      "18. Dynastie",
+      "Amarna"
+    ],
+    "era": "-14. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/nightfall/akhenaton-the-9th-pharaoh-of-the-18th-dynasty-lyrics/",
+        "note": "Akhenaton / Aton cult; Cassiopeia (2013)"
       }
     ]
   },
@@ -2730,6 +2827,27 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Survive_(Stratovarius_album)",
         "note": "Survive (2022)"
+      }
+    ]
+  },
+  {
+    "id": "temple-of-oblivion-das-wunder-von-koniggratz",
+    "band": "Temple of Oblivion",
+    "title": "Das Wunder von Königgrätz",
+    "entities": [
+      "Schlacht bei Königgrätz",
+      "1866",
+      "Moltke",
+      "Deutscher Krieg"
+    ],
+    "era": "1866",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9m4GvNCnVmI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/temple-of-oblivion-das-wunder-von-k%C3%B6niggr%C3%A4tz-182147",
+        "note": "Via Falsa 1866 EP; Battle of Königgrätz"
       }
     ]
   },
