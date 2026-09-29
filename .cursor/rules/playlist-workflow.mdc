@@ -1,0 +1,49 @@
+---
+description: Workflow für Playlist-Matching, Daten-JSONs, Export und Wegwerfskripte
+alwaysApply: true
+---
+
+# GAG Metal Playlist – Daten- und Matching-Workflow
+
+## Git
+
+- **Commit und Push nur auf ausdrücklichen Zuruf** des Users.
+- Commit-Messages auf Deutsch (siehe Rule `commits-deutsch`).
+
+## Wegwerfskripte
+
+- Einmal-Skripte nur unter `scripts/_tmp_*` (z. B. `scripts/_tmp_round11_scan.py`).
+- Nach Gebrauch **löschen**; dauerhafte Hilfen ohne `_tmp_`-Präfix (z. B. `expand_catalog.py`).
+- Vor Commit prüfen: keine `_tmp_*` committen.
+
+## Welche Datei wofür
+
+| Datei | Inhalt | Wann schreiben |
+| --- | --- | --- |
+| `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) | Neuer Song oder Link-/Quellen-Update |
+| `data/GAG_Metal_Playlist.json` | Kanonische **A/B-Treffer** (`entries` + `updatedAt`) | Neuer/geänderter Match; Begründung schärfen |
+| `data/rejected.json` | Geprüfte **C-/Absagen** (`episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
+| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | Nur bei bewusstem Snapshot-Update |
+| `GAG_Metal_playlist.md` / `.html` | Lesbare Exporte | **Nie handeditieren** – nur via Export |
+
+- JSON immer mit `ensure_ascii=False` schreiben.
+- Song muss in `songs.json` stehen, bevor er in der Playlist referenziert wird.
+- **Jeder** geprüfte Non-Match → `rejected.json` (nicht nur im Chat erwähnen), damit er nicht wieder vorgeschlagen wird.
+
+## Matching-Stufen (kurz)
+
+- **A**: Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).
+- **B**: gemeinsamer historischer Rahmen, klar anderer Fokus oder nur Inspiration/Metapher.
+- **C**: zu lose → `rejected.json`, nicht in die Playlist.
+
+Begründungen ohne Matching-Jargon wo möglich; bei Grenzfällen Schluss klar („— Tier B.“).
+
+## Export (pflicht nach Daten-Update)
+
+Nach jeder Änderung an Matches, Songs (mit Playlist-Bezug), Rejects oder Begründungen:
+
+```bash
+python data/export_playlist.py
+```
+
+Erzeugt `GAG_Metal_playlist.md` und `GAG_Metal_playlist.html` im Repo-Root.

@@ -1,0 +1,47 @@
+---
+description: Commit-Messages in diesem Projekt auf Deutsch schreiben
+alwaysApply: true
+---
+
+# Commits auf Deutsch
+
+Gilt zusätzlich zur globalen Git-Commit-Rule. **Workflow, Safety-Protokoll und HEREDOC-Schema bleiben gleich** – nur die Sprache der Commit-Message ändert sich.
+
+## Sprache
+
+- Commit-Messages **immer auf Deutsch** schreiben.
+- Kurz (1–2 Sätze), Fokus auf das **Warum**, nicht auf eine Dateiliste.
+- Präzise Verben: z. B. „ergänze“, „aktualisiere“, „korrigiere“, „entferne“ (entspricht add/update/fix/remove).
+
+## Schema (wie global, Text auf Deutsch)
+
+```bash
+git commit -m "$(cat <<'EOF'
+Kurz die Motivation der Änderung.
+
+EOF
+)"
+```
+
+Unter Windows/PowerShell alternativ:
+
+```powershell
+git commit -m @"
+Kurz die Motivation der Änderung.
+
+"@
+```
+
+## Beispiele
+
+```text
+# gut
+Ergänze Sabaton-Songs als Hilfsdaten fürs Entity-Matching.
+
+Korrigiere den Episoden-Snapshot und dokumentiere das Abrufdatum.
+
+# schlecht
+Update files
+Add stuff
+WIP
+```

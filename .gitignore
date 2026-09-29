@@ -1,5 +1,9 @@
 # Lokal / nicht versionieren
 plans/
-.cursor/
 __pycache__/
 *.py[cod]
+
+# Cursor: lokal lassen, aber Projekt-Rules versionieren
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
