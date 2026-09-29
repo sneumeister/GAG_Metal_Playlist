@@ -1,0 +1,70 @@
+# Automatischer Abgleich neuer Playlist-Vorschläge gegen Katalog / Matches / Rejects.
+# Läuft nur bei Issues mit Label "vorschlag" (Issue-Formular "Playlist: Vorschlag").
+name: Issue Triage
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  triage:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'vorschlag') ||
+      startsWith(github.event.issue.title, '[Vorschlag]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Issue-Body prüfen
+        id: triage
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          printf '%s' "$ISSUE_BODY" > /tmp/issue_body.md
+          python scripts/issue_triage.py \
+            --body-file /tmp/issue_body.md \
+            --comment-file /tmp/triage_comment.md \
+            --labels-file /tmp/triage_labels.txt \
+            --json-out /tmp/triage.json
+          echo "Kommentar-Länge: $(wc -c < /tmp/triage_comment.md)"
+          echo "Labels: $(tr '\n' ' ' < /tmp/triage_labels.txt)"
+          cat /tmp/triage.json
+
+      - name: Labels sicherstellen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ensure_label() {
+            local name="$1" color="$2" desc="$3"
+            gh label create "$name" --color "$color" --description "$desc" 2>/dev/null \
+              || gh label edit "$name" --color "$color" --description "$desc" 2>/dev/null \
+              || true
+          }
+          ensure_label "triage-matched" "0E8A16" "Song/Folge schon in der Playlist"
+          ensure_label "triage-rejected" "B60205" "Song/Folge schon in rejected.json"
+          ensure_label "triage-unknown" "FBCA04" "Song nicht in songs.json"
+          ensure_label "triage-new" "1D76DB" "Kein bestehender Match/Reject"
+          ensure_label "triage-unparseable" "D93F0B" "Band/Titel im Issue nicht lesbar"
+
+      - name: Kommentar schreiben und Labels setzen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue comment "${{ github.event.issue.number }}" \
+            --body-file /tmp/triage_comment.md
+
+          if [ -s /tmp/triage_labels.txt ]; then
+            # shellcheck disable=SC2046
+            gh issue edit "${{ github.event.issue.number }}" \
+              --add-label "$(paste -sd, /tmp/triage_labels.txt)"
+          fi
