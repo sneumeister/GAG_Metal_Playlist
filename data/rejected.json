@@ -257,5 +257,26 @@
     "reason": "Song = Marco Polo / Kublai Khan / Seidenstraßen-Reise nach Xanadu. Folge = Ursprung der Seidenstraße (u. a. Pfeil und Bogen) — gleiches Stichwort Seidenstraße, anderer Erzählfokus und Epoche (Tier C).",
     "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 199,
+    "songId": "sabaton-wolfpack",
+    "reason": "Song = U-Boot-Rudelkrieg WWII / Convoy ONS-92 (Mai 1942). Folge = UC 71 und U-Boot-Krieg im Ersten Weltkrieg — gleiches Thema U-Boote, anderer Krieg und anderes Boot (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 197,
+    "songId": "sabaton-talvisota",
+    "reason": "Song = Winterkrieg 1939/40 (Sowjetunion vs. Finnland). Folge = kurzlebiges Königreich Finnland / Friedrich Karl von Hessen 1918 — anderes Ereignis und Jahrzehnt (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 514,
+    "songId": "turisas-miklagard-overture",
+    "reason": "Song = generische Waräger-/Miklagard-(Konstantinopel-)Reise. Folge = Anna Komnene / Alexias — nur loser Byzanz-Bezug, andere Person und Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
   }
 ]

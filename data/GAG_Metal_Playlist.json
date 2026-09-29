@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28 22:30:28 +0200",
+  "updatedAt": "2026-09-29 18:23:06 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -453,6 +453,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 296,
+      "episodeTitle": "Jeanne la Flamme und der bretonische Erbfolgekrieg",
+      "episodeUrl": "https://gadg.fm/296",
+      "songId": "herzel-la-flamme",
+      "band": "Herzel",
+      "songTitle": "La Flamme",
+      "matchTier": "A",
+      "justification": "Beide behandeln Johanna von Flandern („Jeanne la Flamme“) und die Verteidigung von Hennebont im bretonischen Erbfolgekrieg: Belagerung, Ausfall und Brand des Feindlagers. Lyrics nennen Hennebont und den Beinamen; Band bestätigt den Bezug im Interview.",
+      "sharedEntities": [
+        "Jeanne la Flamme",
+        "Johanna von Flandern",
+        "Hennebont",
+        "Bretonischer Erbfolgekrieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ciDI4za9eCU",
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 309,
       "episodeTitle": "Die Bestie des Gévaudan",
       "episodeUrl": "https://gadg.fm/309",
@@ -864,6 +884,24 @@
       "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
       "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 528,
+      "episodeTitle": "Die Katalanische Kompanie",
+      "episodeUrl": "https://gadg.fm/528",
+      "songId": "lurte-venganza-almugavar",
+      "band": "Lurte",
+      "songTitle": "Venganza Almugavar",
+      "matchTier": "B",
+      "justification": "Gemeinsamer Rahmen: Almogavaren / Katalanische Kompanie. Folge: Roger de Flor führt die Kompanie ins Byzantinische Reich. Song (Album Neopatria über die almogavarischen Eroberungen in Griechenland): Almogavaren-Rache — gleiche Kompanie, späterer Fokus nach Rogers Ermordung → Tier B.",
+      "sharedEntities": [
+        "Katalanische Kompanie",
+        "Almogavaren"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
+      "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
     {

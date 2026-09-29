@@ -3560,5 +3560,104 @@
         "note": "Marco Polo / Kubla Khan / Silk Road journey"
       }
     ]
+  },
+  {
+    "id": "herzel-la-flamme",
+    "band": "Herzel",
+    "title": "La Flamme",
+    "entities": [
+      "Jeanne la Flamme",
+      "Johanna von Flandern",
+      "Hennebont",
+      "Bretonischer Erbfolgekrieg"
+    ],
+    "era": "1342",
+    "spotifyUrl": "https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ciDI4za9eCU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://azlyrics.biz/h/herzel-lyrics/herzel-la-flamme-lyrics/",
+        "note": "Hennebont siege; Jeanne la Flamme; succession war"
+      },
+      {
+        "type": "interview",
+        "url": "https://nattskog.com/2021/11/18/interview-herzel/",
+        "note": "Band: Jeanne de Flandre / Jeanne La Flamme, Breton succession war"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Herzel/Le_dernier_rempart/919374",
+        "note": "Le dernier rempart (2021)"
+      }
+    ]
+  },
+  {
+    "id": "lurte-venganza-almugavar",
+    "band": "Lurte",
+    "title": "Venganza Almugavar",
+    "entities": [
+      "Almogavaren",
+      "Katalanische Kompanie",
+      "Neopatria",
+      "Katalanische Rache"
+    ],
+    "era": "14. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://lurte.org/presentamos-en-huesca-nuestras-nuevas-conquistas-en-neopatria/",
+        "note": "Album Neopatria: Almogavar/Catalan Company conquests in Greece"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/622736412",
+        "note": "Deezer: Venganza Almugavar / Neopatria (2011)"
+      }
+    ]
+  },
+  {
+    "id": "saxon-1066",
+    "band": "Saxon",
+    "title": "1066",
+    "entities": [
+      "Hastings",
+      "1066",
+      "Wilhelm der Eroberer",
+      "Harold Godwinson",
+      "Stamford Bridge"
+    ],
+    "era": "1066",
+    "spotifyUrl": "https://open.spotify.com/track/0HBWWM8w2WSCgMBL1EgV7e",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-QOREbJ4D70",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyricsify.com/lyrics/saxon/1066",
+        "note": "Hastings / Stamford Bridge / Norman conquest"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-the-duelist",
+    "band": "Sabaton",
+    "title": "The Duelist",
+    "entities": [
+      "Miyamoto Musashi",
+      "Sasaki Kojiro",
+      "Niten Ichi-ryū"
+    ],
+    "era": "17. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/2mz3lcK6rYGTlNUtkgZm4f",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/the-duelist-lyrics/",
+        "note": "Official: Miyamoto Musashi"
+      }
+    ]
   }
 ]
