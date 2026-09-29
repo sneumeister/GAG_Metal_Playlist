@@ -1,0 +1,20 @@
+---
+description: Match-Begründungen nur mit Tier A/B, ohne Exact-Entity-Jargon
+alwaysApply: true
+---
+
+# Match-Begründungen (Playlist / Rejects)
+
+Gilt beim Schreiben und Ändern von `justification` in `data/GAG_Metal_Playlist.json` und `reason` in `data/rejected.json`, sowie bei Match-Vorschlägen im Chat.
+
+## Stufe nur als Tier-Label
+
+- Die Zuordnung heißt **Tier A** oder **Tier B** (Playlist) bzw. bei Absagen **Tier C**.
+- In Begründungen **nicht** schreiben: „Exact-Entity“, „Strong“, „eher A“, „eher B“, „A oder B“, „tendenziell A/B“.
+- Entscheidung klar treffen: entweder Tier A, Tier B oder Reject (Tier C) — keine Unentschieden-Formulierung.
+
+## Begründungstext
+
+- Kurz beschreiben, **warum** Song und Folge zusammenpassen (gemeinsame Person/Schlacht/Ereignis/Fokus).
+- Die Stufe steht im Feld `matchTier` (`"A"` / `"B"`); im Fließtext der `justification` reicht bei Bedarf ein knappes „Tier A“ / „Tier B“, oft genügt die inhaltliche Begründung allein.
+- Kein Meta-Jargon aus dem Matching-Schema nachplappern.

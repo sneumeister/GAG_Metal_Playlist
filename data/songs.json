@@ -106,6 +106,29 @@
     ]
   },
   {
+    "id": "arch-enemy-the-eagle-flies-alone",
+    "band": "Arch Enemy",
+    "title": "The Eagle Flies Alone",
+    "entities": [
+      "Individualismus"
+    ],
+    "era": "2017 (Metal-Kultur)",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=mjF1rmSV1dM",
+    "sources": [
+      {
+        "type": "interview",
+        "url": "https://www.loudersound.com/features/arch-enemy-how-heavy-metal-can-change-the-world",
+        "note": "Amott: individualism / staying true to yourself"
+      },
+      {
+        "type": "band",
+        "url": "https://blabbermouth.net/news/arch-enemy-releases-video-for-new-song-the-eagle-flies-alone",
+        "note": "Will to Power (2017); anthemic warcry to individualists"
+      }
+    ]
+  },
+  {
     "id": "battle-symphony-the-fall-of-the-queen-of-cities",
     "band": "Battle Symphony",
     "title": "The Fall of the Queen of Cities",
@@ -352,6 +375,34 @@
         "type": "band",
         "url": "https://www.metal-archives.com/albums/Dorsal_Atl%C3%A2ntica/Dividir_%26_Conquistar/6389",
         "note": "Dividir & Conquistar (1988)"
+      }
+    ]
+  },
+  {
+    "id": "elvenking-the-voynich-manuscript",
+    "band": "Elvenking",
+    "title": "The Voynich Manuscript",
+    "entities": [
+      "Voynich-Manuskript"
+    ],
+    "era": "15. Jh. (Titelbezug)",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=y8DB-MpxMTs",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.elvenking.net/album/secrets-of-the-magick-grimoire/",
+        "note": "Secrets of the Magick Grimoire (2017), Track 9"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.facebook.com/groups/elvenlegions/posts/1167633220034881/",
+        "note": "Aydan: Lyrics nicht explizit am Manuskript, sondern Metapher für unerklärliche eigene Taten"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/elvenking/secretsofthemagickgrimoire.html",
+        "note": "Okkult/persönlich; kein Kodex-/Entschlüsselungs-Fokus"
       }
     ]
   },
@@ -986,6 +1037,57 @@
     ]
   },
   {
+    "id": "kamelot-elizabeth",
+    "band": "Kamelot",
+    "title": "Elizabeth (Parts I–III)",
+    "entities": [
+      "Elisabeth Báthory",
+      "Blutgräfin",
+      "Ungarn"
+    ],
+    "era": "ca. 1610",
+    "spotifyUrl": "https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ecvHBLadaxM",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://kamelot.com/release/karma/",
+        "note": "Karma (2001): Mirror Mirror / Requiem for the Innocent / Fall from Grace — Báthory-Trilogie"
+      },
+      {
+        "type": "interview",
+        "url": "http://www.metal-rules.com/interviews/Kamelot_Karma.htm",
+        "note": "Youngblood: Elizabeth Bathory; vanity / race against time"
+      }
+    ]
+  },
+  {
+    "id": "knorkator-konrad",
+    "band": "Knorkator",
+    "title": "Konrad",
+    "entities": [
+      "Struwwelpeter",
+      "Daumenlutscher",
+      "Heinrich Hoffmann",
+      "Konrad"
+    ],
+    "era": "1845",
+    "spotifyUrl": "https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Js4pGy_q35k",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://de.wikisource.org/wiki/Der_Struwwelpeter/Die_Geschichte_vom_Daumenlutscher",
+        "note": "Vertonung von Hoffmanns Daumenlutscher-Text"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Struwwelpeter",
+        "note": "Knorkator adaptiert Konrad auf We Want Mohr (2014)"
+      }
+    ]
+  },
+  {
     "id": "lurte-venganza-almugavar",
     "band": "Lurte",
     "title": "Venganza Almugavar",
@@ -1030,6 +1132,25 @@
         "type": "lyrics",
         "url": "https://www.songlyrics.com/nightfall/akhenaton-the-9th-pharaoh-of-the-18th-dynasty-lyrics/",
         "note": "Akhenaton / Aton cult; Cassiopeia (2013)"
+      }
+    ]
+  },
+  {
+    "id": "manowar-kings-of-metal",
+    "band": "Manowar",
+    "title": "Kings of Metal",
+    "entities": [
+      "Heavy Metal",
+      "Manowar"
+    ],
+    "era": "1988 (Metal-Kultur)",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://en.wikipedia.org/wiki/Kings_of_Metal",
+        "note": "Title track: self-referential metal anthem, not historical narrative"
       }
     ]
   },
@@ -3176,6 +3297,27 @@
     ]
   },
   {
+    "id": "saxon-denim-and-leather",
+    "band": "Saxon",
+    "title": "Denim and Leather",
+    "entities": [
+      "NWOBHM",
+      "Heavy-Metal-Fans",
+      "Denim",
+      "Leather"
+    ],
+    "era": "1981 (Metal-Kultur)",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Denim_And_Leather",
+        "note": "Tribute to NWOBHM fans / denim-leather look, not jeans invention history"
+      }
+    ]
+  },
+  {
     "id": "saxon-kubla-khan-and-the-merchant-of-venice",
     "band": "Saxon",
     "title": "Kubla Khan And The Merchant Of Venice",
@@ -3353,6 +3495,30 @@
     ]
   },
   {
+    "id": "six-feet-under-420",
+    "band": "Six Feet Under",
+    "title": "4:20",
+    "entities": [
+      "Cannabis",
+      "420"
+    ],
+    "era": "1997 (Cannabis-Kultur)",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyrics.camp/six-feet-under/4-20.html",
+        "note": "Stoner anthem; Warpath (1997)"
+      },
+      {
+        "type": "interview",
+        "url": "https://loudwire.com/six-feet-under-chris-barnes-stop-smoking-weed/",
+        "note": "Barnes: 4:20 as cannabis salute"
+      }
+    ]
+  },
+  {
     "id": "skelator-victory-henry-v",
     "band": "Skelator",
     "title": "Victory (Henry V)",
@@ -3415,6 +3581,31 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Survive_(Stratovarius_album)",
         "note": "Survive (2022)"
+      }
+    ]
+  },
+  {
+    "id": "sunn-o-bathory-erzsebet",
+    "band": "Sunn O)))",
+    "title": "Báthory Erzsébet",
+    "entities": [
+      "Elisabeth Báthory",
+      "Blutgräfin",
+      "Ungarn"
+    ],
+    "era": "ca. 1610",
+    "spotifyUrl": "https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WKlK7x9x3uk",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://sunn.bandcamp.com/track/b-thory-erz-bet",
+        "note": "Black One (2005); Titel = ungarischer Name der Gräfin"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Black_One_(album)",
+        "note": "Closure track; also tribute to Quorthon/Bathory band + countess"
       }
     ]
   },

@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-09-29 19:03:53 +0200  </small>
-<small>**JSON-Status:** 2026-09-29 19:03:00 +0200  </small>
+<small>**Compile-Datum:** 2026-09-29 19:30:16 +0200  </small>
+<small>**JSON-Status:** 2026-09-29 19:29:59 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -29,7 +29,9 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | A | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
+| [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | A | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) |
+| [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Kamelot | Elizabeth (Parts I–III) | A | [link](https://www.youtube.com/watch?v=ecvHBLadaxM) | [link](https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Serenity | Wings of Madness | A | [link](https://www.youtube.com/watch?v=k2QH9L42OY0) | [link](https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ) |
 | [255](https://gadg.fm/255) | Die 47 Ronin | Nightstryke | The Story of the Forty Seven Ronin | A | [link](https://www.youtube.com/watch?v=RX-tdo2q-DQ) | [link](https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
@@ -41,6 +43,7 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Herzel | La Flamme | A | [link](https://www.youtube.com/watch?v=ciDI4za9eCU) | [link](https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD) |
 | [309](https://gadg.fm/309) | Die Bestie des Gévaudan | Powerwolf | Beast of Gévaudan | A | [link](https://www.youtube.com/watch?v=po-u-V6GiEk) | [link](https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
+| [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Inquisition | A | [link](https://www.youtube.com/watch?v=IKGbWrpn474) | [link](https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Monks of War | A | [link](https://www.youtube.com/watch?v=Omzyyj401ys) | [link](https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Sabaton | Templars | A | [link](https://www.youtube.com/watch?v=B10ECkQXQtU) | [link](https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy) |

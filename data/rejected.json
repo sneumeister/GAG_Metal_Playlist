@@ -35,6 +35,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 222,
+    "songId": "elvenking-the-voynich-manuscript",
+    "reason": "Titel nennt das Voynich-Manuskript, Folge behandelt genau dieses Artefakt. Band (Aydan): Lyrics nicht explizit am Manuskriptinhalt, sondern Metapher für unerklärliche eigene Taten — kein gemeinsamer Erzählfokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 255,
     "songId": "sabaton-shiroyama",
     "reason": "47 Ronin (Akō 1703) ≠ Schlacht von Shiroyama / Satsuma-Rebellion 1877 — anderes Ereignis, nur loser Samurai-Bezug.",
@@ -91,6 +98,13 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 324,
+    "songId": "arch-enemy-the-eagle-flies-alone",
+    "reason": "Song = Individualismus-Hymne (Amott: eigener Weg / anti-Konformität), keine historische Erzählung. Folge = Andrées Polarexpedition 1897 / Ballon Örnen („Adler“) — nur Wortbrücke Adler↔Örnen, kein Entity-Match (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 333,
     "songId": "iron-maiden-alexander-the-great",
     "reason": "Folge fokussiert die Stadt Alexandria (Gründung/Kulturzentrum, Umsetzung nach Alexanders Tod); Song ist chronologische Biografie Alexanders als Feldherr. Alexander ist nur Rahmen/Gründer — Fokus wie bei Vasa/Lion zu lose (Tier C).",
@@ -133,10 +147,31 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 420,
+    "songId": "six-feet-under-420",
+    "reason": "Song = Stoner-Hymne („4:20“ / Cannabis-Konsum). Folge = Harry Anslinger und Anti-Cannabis-Kampagne 1930er. Gemeinsam nur Thema Cannabis plus Zahlen-Gag Folgennummer 420 — kein gemeinsamer Erzählfokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 490,
     "songId": "warkings-spartacus",
     "reason": "Song = Spartacus / Dritter Sklavenkrieg (73–71 v. Chr.). Folge = Eunus und Erster Sklavenkrieg auf Sizilien (135–132 v. Chr.) — anderer Aufstand/andere Person (Tier C).",
     "rejectedAt": "2026-09-27",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 501,
+    "songId": "manowar-kings-of-metal",
+    "reason": "Song = Metal-Selbstinszenierung („Kings of Metal“). Folge = Entstehung der Jeans im 19. Jh. (Kalifornien) — kein gemeinsames Ereignis/Person (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 501,
+    "songId": "saxon-denim-and-leather",
+    "reason": "Song = NWOBHM-Fan-Hymne / Denim-and-Leather-Look der Metal-Szene (1981). Folge = Erfindung/Geschichte der Jeans im 19. Jh. — nur Wortanklang „Denim/Jeans“, anderer Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   },
   {
@@ -311,6 +346,41 @@
     "episodeId": 542,
     "songId": "crystallion-hundred-days",
     "reason": "Song = Napoleons Hundert Tage (Elba–Waterloo). Folge = Kaiserin Eugénie — andere Person/Phase (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 291,
+    "songId": "iron-maiden-run-to-the-hills",
+    "reason": "Song = Kolonisierung Nordamerikas / First Nations. Folge = Schlacht von Adua 1896 (Menelik II. / Äthiopien gegen Italien) — nur loser Anti-Kolonial-Rahmen, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 306,
+    "songId": "iron-maiden-empire-of-the-clouds",
+    "reason": "Song = Absturz des britischen Luftschiffs R101 (1930). Folge = Camillo Castiglioni (u. a. Habsburger Militärluftschiff mit Porsche) — nur loser Luftschiff-Rahmen, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 323,
+    "songId": "sabaton-shiroyama",
+    "reason": "Song = Schlacht von Shiroyama / Satsuma-Rebellion 1877 (Saigō Takamori). Folge = Republik Ezo / Boshin-Krieg 1868–69 (Enomoto) — verwandte Meiji-Ära, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "sabaton-i-emperor",
+    "reason": "Song = Napoleon I. (Kaiser-/Eroberer-Karriere). Folge = Kaiserin Eugénie — andere Person (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "serenity-the-art-of-war",
+    "reason": "Song = Napoleonische Kriege / Napoleon I. Folge = Kaiserin Eugénie — andere Person (Tier C).",
     "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   }

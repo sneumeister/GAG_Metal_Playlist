@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29 19:03:00 +0200",
+  "updatedAt": "2026-09-29 19:29:59 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -377,6 +377,40 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "sunn-o-bathory-erzsebet",
+      "band": "Sunn O)))",
+      "songTitle": "Báthory Erzsébet",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin. Songtitel = ungarischer Name (Báthory Erzsébet); Black One (2005) evoziert die Figur explizit.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WKlK7x9x3uk",
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "kamelot-elizabeth",
+      "band": "Kamelot",
+      "songTitle": "Elizabeth (Parts I–III)",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin. Karma-Trilogie (Mirror Mirror, Requiem for the Innocent, Fall from Grace) erzählt den Blut-/Jugend-Mythos als ein Werk.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ecvHBLadaxM",
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 255,
       "episodeTitle": "Die 47 Ronin",
       "episodeUrl": "https://gadg.fm/255",
@@ -566,6 +600,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv",
       "youtubeUrl": "https://www.youtube.com/watch?v=gp2mokffolk",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 369,
+      "episodeTitle": "Der Struwwelpeter",
+      "episodeUrl": "https://gadg.fm/369",
+      "songId": "knorkator-konrad",
+      "band": "Knorkator",
+      "songTitle": "Konrad",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Struwwelpeter. Folge: Heinrich Hoffmann und Entstehung des Kinderbuchs. Song „Konrad“ (We Want Mohr) vertont die Geschichte vom Daumenlutscher nahezu mit dem Originaltext.",
+      "sharedEntities": [
+        "Struwwelpeter",
+        "Daumenlutscher",
+        "Heinrich Hoffmann"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Js4pGy_q35k",
+      "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
     {
