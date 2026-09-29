@@ -61,7 +61,7 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GAG Metal Playlist</title>
+<title>GAG Metal Playlist: Metal-Song trifft GAG-Folge</title>
 <style>
 :root {{
   --bg: #121417;
@@ -100,6 +100,10 @@ h1 {{
   margin-bottom: 1.25rem;
 }}
 .meta div {{ margin: 0.15rem 0; }}
+.meta-dates {{
+  font-size: 0.85rem;
+}}
+.meta-dates div {{ margin: 0.15rem 0; }}
 .wrap {{
   overflow-x: auto;
   border: 1px solid var(--line);
@@ -226,10 +230,12 @@ tr.row-justification[hidden] {{
 </head>
 <body>
 <main>
-  <h1>GAG Metal Playlist</h1>
+  <h1>GAG Metal Playlist: Metal-Song trifft GAG-Folge</h1>
   <div class="meta">
-    <div><strong>Compile-Datum:</strong> {_esc(compiled_at)}</div>
-    <div><strong>JSON-Status:</strong> {_esc(json_line)}</div>
+    <div class="meta-dates">
+      <div><strong>Compile-Datum:</strong> {_esc(compiled_at)}</div>
+      <div><strong>JSON-Status:</strong> {_esc(json_line)}</div>
+    </div>
     <div>{_esc(REPO_INTRO)} <a href="{_esc(REPO_URL)}">{_esc(REPO_LINK_LABEL)}</a>.</div>
     <div>{_esc(MITMACHEN_INTRO)} <a href="{_esc(ISSUES_NEW_CHOOSE_URL)}">{_esc(MITMACHEN_LINK_LABEL)}</a></div>
   </div>

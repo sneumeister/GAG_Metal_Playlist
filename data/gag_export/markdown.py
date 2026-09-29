@@ -43,10 +43,10 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
     json_line = json_date if json_date else "noch nicht gesetzt"
 
     lines = [
-        "# GAG Metal Playlist",
+        "# GAG Metal Playlist: Metal-Song trifft GAG-Folge",
         "",
-        f"**Compile-Datum:** {compiled_at}  ",
-        f"**JSON-Status:** {json_line}  ",
+        f"<small>**Compile-Datum:** {compiled_at}  </small>",
+        f"<small>**JSON-Status:** {json_line}  </small>",
         f"{REPO_INTRO} [{REPO_LINK_LABEL}]({REPO_URL}).",
         "",
         f"{MITMACHEN_INTRO} [{MITMACHEN_LINK_LABEL}]({ISSUES_NEW_CHOOSE_URL})",
