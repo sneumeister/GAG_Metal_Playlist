@@ -1,20 +1,36 @@
 ---
-description: Match-Begründungen nur mit Tier A/B, ohne Exact-Entity-Jargon
+description: Begründungen für Matches und Rejects — Tier-Labels, kein Matching-Jargon
 alwaysApply: true
 ---
 
-# Match-Begründungen (Playlist / Rejects)
+# Match- und Reject-Begründungen
 
-Gilt beim Schreiben und Ändern von `justification` in `data/GAG_Metal_Playlist.json` und `reason` in `data/rejected.json`, sowie bei Match-Vorschlägen im Chat.
+Gilt beim Schreiben und Ändern von:
+
+- `justification` in `data/GAG_Metal_Playlist.json` (Treffer)
+- `reason` in `data/rejected.json` (Absagen)
+- Match-/Reject-Vorschlägen im Chat (gleiche Formulierung wie in den JSONs)
 
 ## Stufe nur als Tier-Label
 
-- Die Zuordnung heißt **Tier A** oder **Tier B** (Playlist) bzw. bei Absagen **Tier C**.
-- In Begründungen **nicht** schreiben: „Exact-Entity“, „Strong“, „eher A“, „eher B“, „A oder B“, „tendenziell A/B“.
-- Entscheidung klar treffen: entweder Tier A, Tier B oder Reject (Tier C) — keine Unentschieden-Formulierung.
+- Playlist: **Tier A** oder **Tier B** (`matchTier`: `"A"` / `"B"`).
+- Absage: **Tier C** (kein `matchTier`-Feld; Stufe nur im Fließtext, falls nötig).
+- In Begründungen **nicht** schreiben: „Exact-Entity“, „Strong“, „eher A“, „eher B“, „A oder B“, „tendenziell A/B“, „eher C“.
+- Entscheidung klar treffen: Tier A, Tier B oder Reject (Tier C) — keine Unentschieden-Formulierung.
 
-## Begründungstext
+## Begründungstext (Matches und Rejects gleich)
 
-- Kurz beschreiben, **warum** Song und Folge zusammenpassen (gemeinsame Person/Schlacht/Ereignis/Fokus).
-- Die Stufe steht im Feld `matchTier` (`"A"` / `"B"`); im Fließtext der `justification` reicht bei Bedarf ein knappes „Tier A“ / „Tier B“, oft genügt die inhaltliche Begründung allein.
+- Kurz und inhaltlich: Song-Fokus vs. Folgen-Fokus benennen (Person / Schlacht / Ereignis / Phase).
 - Kein Meta-Jargon aus dem Matching-Schema nachplappern.
+- Die Stufe steht bei Matches im Feld `matchTier`; im Fließtext reicht bei Bedarf ein knappes „Tier A“ / „Tier B“ / „Tier C“, oft genügt die inhaltliche Begründung allein.
+- Bei Grenzfällen Schluss klar setzen (z. B. „— Tier B.“ bzw. „— Tier C.“).
+
+### Matches (`justification`)
+
+- Beschreiben, **warum** Song und Folge zusammenpassen (gemeinsamer Kerngegenstand bzw. klarer gemeinsamer Rahmen).
+
+### Rejects (`reason`)
+
+- Dieselbe Klarheit wie bei Matches: kurz sagen, **warum nicht** — typisch andere Person, anderes Ereignis, andere Phase/Fokus, nur Namens-/Zahlenanklang oder Metapher ohne historischen Erzählfokus.
+- Nicht nur „passt nicht“ oder „zu lose“ ohne die konkrete Abweichung.
+- Formulierungs-Muster wie bei guten Absagen: „Song = … Folge = … — … (Tier C).“
