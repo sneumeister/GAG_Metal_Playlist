@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-09-29 18:35:33 +0200  </small>
-<small>**JSON-Status:** 2026-09-29 18:23:06 +0200  </small>
+<small>**Compile-Datum:** 2026-09-29 19:03:53 +0200  </small>
+<small>**JSON-Status:** 2026-09-29 19:03:00 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -15,6 +15,9 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | B | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
 | [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | — |
 | [107](https://gadg.fm/107) | Eine kurze Geschichte der Guillotine | Saxon | Madame Guillotine | A | [link](https://www.youtube.com/watch?v=Tfca2Kz4064) | [link](https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz) |
+| [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Antrisch | IIII Ultima Ratio | A | — | [link](https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9) |
+| [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Unleash the Archers | Northwest Passage | B | [link](https://www.youtube.com/watch?v=XRD3vrSLPaw) | [link](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) |
+| [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Iron Maiden | Stranger in a Strange Land | B | [link](https://www.youtube.com/watch?v=UJsl-bB7lmk) | [link](https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Warkings | Azrael | B | [link](https://www.youtube.com/watch?v=BXOM-CQGV0E) | [link](https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | B | [link](https://www.youtube.com/watch?v=SGj0HvYXxT4) | [link](https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Ex Deo | The Fall of Claudius | B | [link](https://www.youtube.com/watch?v=GLjmLlsBl9M) | [link](https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b) |

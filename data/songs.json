@@ -27,6 +27,177 @@
     ]
   },
   {
+    "id": "alestorm-magellans-expedition",
+    "band": "Alestorm",
+    "title": "Magellan's Expedition",
+    "entities": [
+      "Magellan",
+      "Weltumsegelung",
+      "Magellanstraße"
+    ],
+    "era": "1519–1522",
+    "spotifyUrl": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gsHmOb36-Js",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
+        "note": "Seventh Rum of a Seventh Rum (2022) — Magellan circumnavigation"
+      }
+    ]
+  },
+  {
+    "id": "almanac-red-flag",
+    "band": "Almanac",
+    "title": "Red Flag",
+    "entities": [
+      "Zheng Yisao",
+      "Ching Shih",
+      "Rote Flagge",
+      "Piratin",
+      "Südchinesisches Meer"
+    ],
+    "era": "um 1801–1810 / 1775–1844",
+    "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/almanac-red-flag-188059",
+        "note": "Liner: Ching Shih / Red Flag fleet, undefeated pirate lord"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Almanac/Kingslayer/669417",
+        "note": "Kingslayer (2017), Track 10"
+      }
+    ]
+  },
+  {
+    "id": "antrisch-iiii-ultima-ratio",
+    "band": "Antrisch",
+    "title": "IIII Ultima Ratio",
+    "entities": [
+      "Franklin-Expedition",
+      "HMS Erebus",
+      "HMS Terror",
+      "Nordwestpassage",
+      "Francis Crozier"
+    ],
+    "era": "1845–1848",
+    "spotifyUrl": "https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://antrisch.bandcamp.com/album/expedition-ii-die-passage",
+        "note": "Expedition II: Die Passage — Franklin / Erebus & Terror concept"
+      },
+      {
+        "type": "interview",
+        "url": "https://arrowlordsofmetal.nl/antrisch-interview-met-maurice-wilson/",
+        "note": "Band: six chapters of Franklin expedition incl. cannibalism"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://azlyrics.biz/a/antrisch-lyrics/antrisch-iiii-ultima-ratio-lyrics/",
+        "note": "Kannibalismus / Ultima Ratio der Überlebenden"
+      }
+    ]
+  },
+  {
+    "id": "battle-symphony-the-fall-of-the-queen-of-cities",
+    "band": "Battle Symphony",
+    "title": "The Fall of the Queen of Cities",
+    "entities": [
+      "Vierter Kreuzzug",
+      "Konstantinopel",
+      "1204"
+    ],
+    "era": "1204",
+    "spotifyUrl": "https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
+        "note": "Explicit Fourth Crusade / fall of Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "blazon-stone-the-tale-of-vasa",
+    "band": "Blazon Stone",
+    "title": "The Tale of Vasa",
+    "entities": [
+      "Vasa",
+      "Wasa",
+      "Stockholm",
+      "1628"
+    ],
+    "era": "1628",
+    "spotifyUrl": "https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gp2mokffolk",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://blazonstone.bandcamp.com/album/return-to-port-royal-definitive-edition",
+        "note": "Maiden voyage / capsizing; close: total disaster, treasured forever / back in the docks for us to see"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Blazon_Stone/Return_to_Port_Royal/611361",
+        "note": "Return to Port Royal (2013); Definitive Edition 2020"
+      }
+    ]
+  },
+  {
+    "id": "bolt-thrower-the-ivth-crusade",
+    "band": "Bolt Thrower",
+    "title": "The IVth Crusade",
+    "entities": [
+      "Vierter Kreuzzug",
+      "Konstantinopel",
+      "1204",
+      "Plünderung Konstantinopels"
+    ],
+    "era": "1202–1204",
+    "spotifyUrl": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4GPFduVKuEg",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Bolt-thrower-the-ivth-crusade-lyrics",
+        "note": "Byzantine POV / sack of Constantinople by crusaders"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_IVth_Crusade",
+        "note": "Album artwork: Delacroix Entry of the Crusaders in Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "burning-witches-executed",
+    "band": "Burning Witches",
+    "title": "Executed",
+    "entities": [
+      "Anna Göldi",
+      "Glarus",
+      "1782"
+    ],
+    "era": "1782",
+    "spotifyUrl": "https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=840vcVzth-0",
+    "sources": [
+      {
+        "type": "news",
+        "url": "https://blabbermouth.net/news/burning-witches-executed-lyric-video",
+        "note": "Band: last Swiss witch Anna Göldi"
+      }
+    ]
+  },
+  {
     "id": "civil-war-i-will-rule-the-universe",
     "band": "Civil War",
     "title": "I Will Rule the Universe",
@@ -284,6 +455,33 @@
     ]
   },
   {
+    "id": "feuerschwanz-malleus-maleficarum",
+    "band": "Feuerschwanz",
+    "title": "Malleus Maleficarum",
+    "entities": [
+      "Malleus Maleficarum",
+      "Hexenhammer",
+      "Heinrich Kramer",
+      "Henricus Institoris",
+      "1486"
+    ],
+    "era": "1486",
+    "spotifyUrl": "https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OigEnWlVN14",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://muzikum.eu/index.php/en/feuerschwanz/malleus-maleficarum-lyrics",
+        "note": "1486 Hexenhammer / Institoris propaganda"
+      },
+      {
+        "type": "band",
+        "url": "https://metalshockfinland.com/2020/08/04/feuerschwanz-release-music-video-for-malleus-malficarum/",
+        "note": "Official: pamphlet legitimizing witch hunts"
+      }
+    ]
+  },
+  {
     "id": "fireforce-fly-arrow-fly-crecy-1346",
     "band": "Fireforce",
     "title": "Fly Arrow Fly (Crécy 1346)",
@@ -307,6 +505,33 @@
         "type": "metal-archives",
         "url": "https://www.metal-archives.com/albums/FireForce/March_On/296247",
         "note": "March On (2011)"
+      }
+    ]
+  },
+  {
+    "id": "forefather-cween-of-the-mark",
+    "band": "Forefather",
+    "title": "Cween of the Mark",
+    "entities": [
+      "Æthelflæd",
+      "Aethelflaed",
+      "Mercia",
+      "Lady of Mercia",
+      "Alfred der Große"
+    ],
+    "era": "um 910–918",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://motolyrics.com/forefather/cween-of-the-mark-lyrics.html",
+        "note": "Band: Tribute to Athelflæd of Mercia, daughter of King Alfred"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Steadfast_(Forefather_album)",
+        "note": "Steadfast (2008), Track 2"
       }
     ]
   },
@@ -338,6 +563,33 @@
         "type": "secondary",
         "url": "https://metalgoddesses.com/2020/03/01/we-are-very-different-but-we-also-come-together-and-find-something-in-the-middle-where-everyone-is-happy-interview-with-frantic-amber/",
         "note": "Band: song about Irish pirate queen"
+      }
+    ]
+  },
+  {
+    "id": "gorod-birds-of-sulphur",
+    "band": "Gorod",
+    "title": "Birds of Sulphur",
+    "entities": [
+      "Olga von Kiew",
+      "Iskorosten",
+      "Derevljanen",
+      "Kiewer Rus",
+      "Brandtauben"
+    ],
+    "era": "945–946",
+    "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.reddit.com/r/Metal/comments/wcejr/the_explanation_of_themes_in_gorods_latest_album/",
+        "note": "A Perfect Absolution concept: Olga's revenge; Birds of Sulphur = firebirds vs Iskorosten"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/67a4jDUviofnhh2xCw2CsW",
+        "note": "A Perfect Absolution (2012)"
       }
     ]
   },
@@ -431,6 +683,37 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
         "note": "Hinrichtung Jacques de Molay / Fluch"
+      }
+    ]
+  },
+  {
+    "id": "herzel-la-flamme",
+    "band": "Herzel",
+    "title": "La Flamme",
+    "entities": [
+      "Jeanne la Flamme",
+      "Johanna von Flandern",
+      "Hennebont",
+      "Bretonischer Erbfolgekrieg"
+    ],
+    "era": "1342",
+    "spotifyUrl": "https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ciDI4za9eCU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://azlyrics.biz/h/herzel-lyrics/herzel-la-flamme-lyrics/",
+        "note": "Hennebont siege; Jeanne la Flamme; succession war"
+      },
+      {
+        "type": "interview",
+        "url": "https://nattskog.com/2021/11/18/interview-herzel/",
+        "note": "Band: Jeanne de Flandre / Jeanne La Flamme, Breton succession war"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Herzel/Le_dernier_rempart/919374",
+        "note": "Le dernier rempart (2021)"
       }
     ]
   },
@@ -591,6 +874,27 @@
     ]
   },
   {
+    "id": "iron-maiden-stranger-in-a-strange-land",
+    "band": "Iron Maiden",
+    "title": "Stranger in a Strange Land",
+    "entities": [
+      "Franklin-Expedition",
+      "John Torrington",
+      "Arktis",
+      "Nordwestpassage"
+    ],
+    "era": "1845 / 1984 Fund",
+    "spotifyUrl": "https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UJsl-bB7lmk",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land_(Iron_Maiden_song)",
+        "note": "Adrian Smith: newspaper report on exhumation of John Torrington (Franklin)"
+      }
+    ]
+  },
+  {
     "id": "iron-maiden-the-longest-day",
     "band": "Iron Maiden",
     "title": "The Longest Day",
@@ -682,6 +986,32 @@
     ]
   },
   {
+    "id": "lurte-venganza-almugavar",
+    "band": "Lurte",
+    "title": "Venganza Almugavar",
+    "entities": [
+      "Almogavaren",
+      "Katalanische Kompanie",
+      "Neopatria",
+      "Katalanische Rache"
+    ],
+    "era": "14. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://lurte.org/presentamos-en-huesca-nuestras-nuevas-conquistas-en-neopatria/",
+        "note": "Album Neopatria: Almogavar/Catalan Company conquests in Greece"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/622736412",
+        "note": "Deezer: Venganza Almugavar / Neopatria (2011)"
+      }
+    ]
+  },
+  {
     "id": "nightfall-akhenaton-the-9th-pharaoh-of-the-18th-dynasty",
     "band": "Nightfall",
     "title": "Akhenaton, the 9th Pharaoh of the 18th Dynasty",
@@ -700,6 +1030,33 @@
         "type": "lyrics",
         "url": "https://www.songlyrics.com/nightfall/akhenaton-the-9th-pharaoh-of-the-18th-dynasty-lyrics/",
         "note": "Akhenaton / Aton cult; Cassiopeia (2013)"
+      }
+    ]
+  },
+  {
+    "id": "nightstryke-the-story-of-the-forty-seven-ronin",
+    "band": "Nightstryke",
+    "title": "The Story of the Forty Seven Ronin",
+    "entities": [
+      "47 Ronin",
+      "Asano Naganori",
+      "Kira Yoshinaka",
+      "Akō",
+      "Edo"
+    ],
+    "era": "1701–1703",
+    "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/nightstryke/the-story-of-the-forty-seven-ronin-lyrics/",
+        "note": "Asano, Kira, revenge of the 47 ronin"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Nightstryke/Power_Shall_Prevail/676890",
+        "note": "Power Shall Prevail (2017)"
       }
     ]
   },
@@ -787,6 +1144,52 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Powerwolf_discography",
         "note": "Joan of Arc (2024/25 album track)"
+      }
+    ]
+  },
+  {
+    "id": "rancid-meteor-of-war",
+    "band": "Rancid",
+    "title": "Meteor of War",
+    "entities": [
+      "John Brown",
+      "Abolitionismus",
+      "Harpers Ferry",
+      "US-Sezessionskrieg"
+    ],
+    "era": "1859",
+    "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://readdork.com/lyrics/rancid-meteor-of-war",
+        "note": "John Brown / abolitionist / meteor imagery (Melville)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
+        "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "running-wild-conquistadores",
+    "band": "Running Wild",
+    "title": "Conquistadores",
+    "entities": [
+      "Konquistadoren",
+      "Spanische Eroberung",
+      "Neue Welt"
+    ],
+    "era": "16. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Port_Royal_(album)",
+        "note": "Port Royal (1988) — generisches Konquistadoren-Abenteuer"
       }
     ]
   },
@@ -1438,6 +1841,26 @@
         "type": "sabaton-official",
         "url": "https://www.sabaton.net/discography/legends/i-emperor-lyrics/",
         "note": "Historic Fact: Napoleon Bonaparte, Code, Waterloo, Exil St. Helena"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-impaler",
+    "band": "Sabaton",
+    "title": "Impaler",
+    "entities": [
+      "Vlad Țepeș",
+      "Vlad der Pfähler",
+      "Wallachei"
+    ],
+    "era": "15. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=YrEAN63NFgQ",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/",
+        "note": "Legends (2025) — Vlad the Impaler"
       }
     ]
   },
@@ -2223,6 +2646,26 @@
     ]
   },
   {
+    "id": "sabaton-the-duelist",
+    "band": "Sabaton",
+    "title": "The Duelist",
+    "entities": [
+      "Miyamoto Musashi",
+      "Sasaki Kojiro",
+      "Niten Ichi-ryū"
+    ],
+    "era": "17. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/2mz3lcK6rYGTlNUtkgZm4f",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/the-duelist-lyrics/",
+        "note": "Official: Miyamoto Musashi"
+      }
+    ]
+  },
+  {
     "id": "sabaton-the-end-of-the-war-to-end-all-wars",
     "band": "Sabaton",
     "title": "The End of the War to End All Wars",
@@ -2638,25 +3081,6 @@
     ]
   },
   {
-    "id": "saxon-atila-the-hun",
-    "band": "Saxon",
-    "title": "Atila the Hun",
-    "entities": [
-      "Attila",
-      "Hunnen"
-    ],
-    "era": "5. Jh.",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/saxon/atila-the-hun-lyrics/",
-        "note": "generic Attila scourge imagery"
-      }
-    ]
-  },
-  {
     "id": "savatage-complaint-in-the-system-veronica-guerin",
     "band": "Savatage",
     "title": "Complaint in the System (Veronica Guerin)",
@@ -2707,6 +3131,116 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/The_Wake_of_Magellan",
         "note": "Title track of 1997 concept album"
+      }
+    ]
+  },
+  {
+    "id": "saxon-1066",
+    "band": "Saxon",
+    "title": "1066",
+    "entities": [
+      "Hastings",
+      "1066",
+      "Wilhelm der Eroberer",
+      "Harold Godwinson",
+      "Stamford Bridge"
+    ],
+    "era": "1066",
+    "spotifyUrl": "https://open.spotify.com/track/0HBWWM8w2WSCgMBL1EgV7e",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-QOREbJ4D70",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyricsify.com/lyrics/saxon/1066",
+        "note": "Hastings / Stamford Bridge / Norman conquest"
+      }
+    ]
+  },
+  {
+    "id": "saxon-atila-the-hun",
+    "band": "Saxon",
+    "title": "Atila the Hun",
+    "entities": [
+      "Attila",
+      "Hunnen"
+    ],
+    "era": "5. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/saxon/atila-the-hun-lyrics/",
+        "note": "generic Attila scourge imagery"
+      }
+    ]
+  },
+  {
+    "id": "saxon-kubla-khan-and-the-merchant-of-venice",
+    "band": "Saxon",
+    "title": "Kubla Khan And The Merchant Of Venice",
+    "entities": [
+      "Marco Polo",
+      "Kublai Khan",
+      "Seidenstraße",
+      "Xanadu",
+      "Venedig"
+    ],
+    "era": "13. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://oldielyrics.com/lyrics/saxon/kubla_khan_and_the_merchant_of_venice.html",
+        "note": "Marco Polo / Kubla Khan / Silk Road journey"
+      }
+    ]
+  },
+  {
+    "id": "saxon-madame-guillotine",
+    "band": "Saxon",
+    "title": "Madame Guillotine",
+    "entities": [
+      "Guillotine",
+      "Französische Revolution",
+      "Marie Antoinette",
+      "Schreckensherrschaft"
+    ],
+    "era": "1789–1799",
+    "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+        "note": "Official: guillotine as voice of French Revolution / Marie Antoinette"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/4DcQ33Fg2ZYJSkhoehGI21",
+        "note": "Hell, Fire And Damnation (2024)"
+      }
+    ]
+  },
+  {
+    "id": "saxon-witches-of-salem",
+    "band": "Saxon",
+    "title": "Witches Of Salem",
+    "entities": [
+      "Salem",
+      "Hexenprozesse",
+      "Gallows Hill",
+      "1692"
+    ],
+    "era": "1692",
+    "spotifyUrl": "https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mN5mfBDUNMQ",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://oldielyrics.com/lyrics/saxon/witches_of_salem.html",
+        "note": "Salem witch trials / Massachusetts"
       }
     ]
   },
@@ -3047,6 +3581,32 @@
     ]
   },
   {
+    "id": "unleash-the-archers-northwest-passage",
+    "band": "Unleash the Archers",
+    "title": "Northwest Passage",
+    "entities": [
+      "Nordwestpassage",
+      "Franklin-Expedition",
+      "Sir John Franklin",
+      "Beaufort Sea"
+    ],
+    "era": "19. Jh. / Stan Rogers 1981",
+    "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
+        "note": "Official video (Napalm); cover of Stan Rogers"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Stan-rogers-northwest-passage-lyrics",
+        "note": "Original lyrics name Franklin and Beaufort Sea; cover keeps them"
+      }
+    ]
+  },
+  {
     "id": "venom-countess-bathory",
     "band": "Venom",
     "title": "Countess Bathory",
@@ -3063,105 +3623,6 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Countess_Bathory_(song)",
         "note": "Elizabeth Báthory / Black Metal (1982)"
-      }
-    ]
-  },
-  {
-    "id": "warkings-spartacus",
-    "band": "Warkings",
-    "title": "Spartacus",
-    "entities": [
-      "Spartacus",
-      "Dritter Sklavenkrieg",
-      "Rom"
-    ],
-    "era": "73–71 v. Chr.",
-    "spotifyUrl": "https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RAqzE1TWzvk",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://brutalplanetmag.com/the-mighty-warkings-release-new-video-for-spartacus-feat-the-lost-lord/",
-        "note": "Spartacus slave uprising vs Rome"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
-        "note": "Revolution (2021)"
-      }
-    ]
-  },
-  {
-    "id": "forefather-cween-of-the-mark",
-    "band": "Forefather",
-    "title": "Cween of the Mark",
-    "entities": [
-      "Æthelflæd",
-      "Aethelflaed",
-      "Mercia",
-      "Lady of Mercia",
-      "Alfred der Große"
-    ],
-    "era": "um 910–918",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://motolyrics.com/forefather/cween-of-the-mark-lyrics.html",
-        "note": "Band: Tribute to Athelflæd of Mercia, daughter of King Alfred"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Steadfast_(Forefather_album)",
-        "note": "Steadfast (2008), Track 2"
-      }
-    ]
-  },
-  {
-    "id": "rancid-meteor-of-war",
-    "band": "Rancid",
-    "title": "Meteor of War",
-    "entities": [
-      "John Brown",
-      "Abolitionismus",
-      "Harpers Ferry",
-      "US-Sezessionskrieg"
-    ],
-    "era": "1859",
-    "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
-    "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://readdork.com/lyrics/rancid-meteor-of-war",
-        "note": "John Brown / abolitionist / meteor imagery (Melville)"
-      },
-      {
-        "type": "secondary",
-        "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
-        "note": "Rancid (2000), Track 17"
-      }
-    ]
-  },
-  {
-    "id": "warkings-sparta",
-    "band": "Warkings",
-    "title": "Sparta",
-    "entities": [
-      "Sparta",
-      "Thermopylen",
-      "Leonidas",
-      "Perserkriege"
-    ],
-    "era": "480 v. Chr.",
-    "spotifyUrl": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
-    "youtubeUrl": "https://www.youtube.com/watch?v=MeOSgsJJ12M",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
-        "note": "Reborn (2018); Sparta / Thermopylae — Video-Version auch feat. The Queen of the Damned"
       }
     ]
   },
@@ -3191,121 +3652,6 @@
     ]
   },
   {
-    "id": "warkings-fight-in-the-shade",
-    "band": "Warkings",
-    "title": "Fight in the Shade",
-    "entities": [
-      "Varusschlacht",
-      "Teutoburger Wald",
-      "Arminius",
-      "Varus"
-    ],
-    "era": "9 n. Chr.",
-    "spotifyUrl": "https://open.spotify.com/track/4vLX79K7l6bK1OqvsqkaaM",
-    "youtubeUrl": "https://www.youtube.com/watch?v=5PWVOywu5Dg",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://genius.com/Warkings-fight-in-the-shade-lyrics",
-        "note": "Titel alludiert Thermopylen-Spruch; Text = Arminius/Varus/Teutoburg"
-      }
-    ]
-  },
-  {
-    "id": "alestorm-magellans-expedition",
-    "band": "Alestorm",
-    "title": "Magellan's Expedition",
-    "entities": [
-      "Magellan",
-      "Weltumsegelung",
-      "Magellanstraße"
-    ],
-    "era": "1519–1522",
-    "spotifyUrl": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
-    "youtubeUrl": "https://www.youtube.com/watch?v=gsHmOb36-Js",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
-        "note": "Seventh Rum of a Seventh Rum (2022) — Magellan circumnavigation"
-      }
-    ]
-  },
-  {
-    "id": "running-wild-conquistadores",
-    "band": "Running Wild",
-    "title": "Conquistadores",
-    "entities": [
-      "Konquistadoren",
-      "Spanische Eroberung",
-      "Neue Welt"
-    ],
-    "era": "16. Jh.",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://en.wikipedia.org/wiki/Port_Royal_(album)",
-        "note": "Port Royal (1988) — generisches Konquistadoren-Abenteuer"
-      }
-    ]
-  },
-  {
-    "id": "almanac-red-flag",
-    "band": "Almanac",
-    "title": "Red Flag",
-    "entities": [
-      "Zheng Yisao",
-      "Ching Shih",
-      "Rote Flagge",
-      "Piratin",
-      "Südchinesisches Meer"
-    ],
-    "era": "um 1801–1810 / 1775–1844",
-    "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
-    "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.metalkingdom.net/lyrics-song/almanac-red-flag-188059",
-        "note": "Liner: Ching Shih / Red Flag fleet, undefeated pirate lord"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Almanac/Kingslayer/669417",
-        "note": "Kingslayer (2017), Track 10"
-      }
-    ]
-  },
-  {
-    "id": "nightstryke-the-story-of-the-forty-seven-ronin",
-    "band": "Nightstryke",
-    "title": "The Story of the Forty Seven Ronin",
-    "entities": [
-      "47 Ronin",
-      "Asano Naganori",
-      "Kira Yoshinaka",
-      "Akō",
-      "Edo"
-    ],
-    "era": "1701–1703",
-    "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/nightstryke/the-story-of-the-forty-seven-ronin-lyrics/",
-        "note": "Asano, Kira, revenge of the 47 ronin"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Nightstryke/Power_Shall_Prevail/676890",
-        "note": "Power Shall Prevail (2017)"
-      }
-    ]
-  },
-  {
     "id": "warkings-battle-of-marathon",
     "band": "Warkings",
     "title": "Battle of Marathon",
@@ -3327,336 +3673,69 @@
     ]
   },
   {
-    "id": "sabaton-impaler",
-    "band": "Sabaton",
-    "title": "Impaler",
+    "id": "warkings-fight-in-the-shade",
+    "band": "Warkings",
+    "title": "Fight in the Shade",
     "entities": [
-      "Vlad Țepeș",
-      "Vlad der Pfähler",
-      "Wallachei"
+      "Varusschlacht",
+      "Teutoburger Wald",
+      "Arminius",
+      "Varus"
     ],
-    "era": "15. Jh.",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=YrEAN63NFgQ",
-    "sources": [
-      {
-        "type": "sabaton-official",
-        "url": "https://www.sabaton.net/discography/legends/",
-        "note": "Legends (2025) — Vlad the Impaler"
-      }
-    ]
-  },
-  {
-    "id": "saxon-madame-guillotine",
-    "band": "Saxon",
-    "title": "Madame Guillotine",
-    "entities": [
-      "Guillotine",
-      "Französische Revolution",
-      "Marie Antoinette",
-      "Schreckensherrschaft"
-    ],
-    "era": "1789–1799",
-    "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=Tfca2Kz4064",
-        "note": "Official: guillotine as voice of French Revolution / Marie Antoinette"
-      },
-      {
-        "type": "secondary",
-        "url": "https://open.spotify.com/album/4DcQ33Fg2ZYJSkhoehGI21",
-        "note": "Hell, Fire And Damnation (2024)"
-      }
-    ]
-  },
-  {
-    "id": "bolt-thrower-the-ivth-crusade",
-    "band": "Bolt Thrower",
-    "title": "The IVth Crusade",
-    "entities": [
-      "Vierter Kreuzzug",
-      "Konstantinopel",
-      "1204",
-      "Plünderung Konstantinopels"
-    ],
-    "era": "1202–1204",
-    "spotifyUrl": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
-    "youtubeUrl": "https://www.youtube.com/watch?v=4GPFduVKuEg",
+    "era": "9 n. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/4vLX79K7l6bK1OqvsqkaaM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5PWVOywu5Dg",
     "sources": [
       {
         "type": "lyrics",
-        "url": "https://genius.com/Bolt-thrower-the-ivth-crusade-lyrics",
-        "note": "Byzantine POV / sack of Constantinople by crusaders"
+        "url": "https://genius.com/Warkings-fight-in-the-shade-lyrics",
+        "note": "Titel alludiert Thermopylen-Spruch; Text = Arminius/Varus/Teutoburg"
+      }
+    ]
+  },
+  {
+    "id": "warkings-sparta",
+    "band": "Warkings",
+    "title": "Sparta",
+    "entities": [
+      "Sparta",
+      "Thermopylen",
+      "Leonidas",
+      "Perserkriege"
+    ],
+    "era": "480 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MeOSgsJJ12M",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
+        "note": "Reborn (2018); Sparta / Thermopylae — Video-Version auch feat. The Queen of the Damned"
+      }
+    ]
+  },
+  {
+    "id": "warkings-spartacus",
+    "band": "Warkings",
+    "title": "Spartacus",
+    "entities": [
+      "Spartacus",
+      "Dritter Sklavenkrieg",
+      "Rom"
+    ],
+    "era": "73–71 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RAqzE1TWzvk",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://brutalplanetmag.com/the-mighty-warkings-release-new-video-for-spartacus-feat-the-lost-lord/",
+        "note": "Spartacus slave uprising vs Rome"
       },
       {
         "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_IVth_Crusade",
-        "note": "Album artwork: Delacroix Entry of the Crusaders in Constantinople"
-      }
-    ]
-  },
-  {
-    "id": "gorod-birds-of-sulphur",
-    "band": "Gorod",
-    "title": "Birds of Sulphur",
-    "entities": [
-      "Olga von Kiew",
-      "Iskorosten",
-      "Derevljanen",
-      "Kiewer Rus",
-      "Brandtauben"
-    ],
-    "era": "945–946",
-    "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
-    "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.reddit.com/r/Metal/comments/wcejr/the_explanation_of_themes_in_gorods_latest_album/",
-        "note": "A Perfect Absolution concept: Olga's revenge; Birds of Sulphur = firebirds vs Iskorosten"
-      },
-      {
-        "type": "secondary",
-        "url": "https://open.spotify.com/album/67a4jDUviofnhh2xCw2CsW",
-        "note": "A Perfect Absolution (2012)"
-      }
-    ]
-  },
-  {
-    "id": "battle-symphony-the-fall-of-the-queen-of-cities",
-    "band": "Battle Symphony",
-    "title": "The Fall of the Queen of Cities",
-    "entities": [
-      "Vierter Kreuzzug",
-      "Konstantinopel",
-      "1204"
-    ],
-    "era": "1204",
-    "spotifyUrl": "https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM",
-    "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
-        "note": "Explicit Fourth Crusade / fall of Constantinople"
-      }
-    ]
-  },
-  {
-    "id": "blazon-stone-the-tale-of-vasa",
-    "band": "Blazon Stone",
-    "title": "The Tale of Vasa",
-    "entities": [
-      "Vasa",
-      "Wasa",
-      "Stockholm",
-      "1628"
-    ],
-    "era": "1628",
-    "spotifyUrl": "https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv",
-    "youtubeUrl": "https://www.youtube.com/watch?v=gp2mokffolk",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://blazonstone.bandcamp.com/album/return-to-port-royal-definitive-edition",
-        "note": "Maiden voyage / capsizing; close: total disaster, treasured forever / back in the docks for us to see"
-      },
-      {
-        "type": "band",
-        "url": "https://www.metal-archives.com/albums/Blazon_Stone/Return_to_Port_Royal/611361",
-        "note": "Return to Port Royal (2013); Definitive Edition 2020"
-      }
-    ]
-  },
-  {
-    "id": "feuerschwanz-malleus-maleficarum",
-    "band": "Feuerschwanz",
-    "title": "Malleus Maleficarum",
-    "entities": [
-      "Malleus Maleficarum",
-      "Hexenhammer",
-      "Heinrich Kramer",
-      "Henricus Institoris",
-      "1486"
-    ],
-    "era": "1486",
-    "spotifyUrl": "https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OigEnWlVN14",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://muzikum.eu/index.php/en/feuerschwanz/malleus-maleficarum-lyrics",
-        "note": "1486 Hexenhammer / Institoris propaganda"
-      },
-      {
-        "type": "band",
-        "url": "https://metalshockfinland.com/2020/08/04/feuerschwanz-release-music-video-for-malleus-malficarum/",
-        "note": "Official: pamphlet legitimizing witch hunts"
-      }
-    ]
-  },
-  {
-    "id": "saxon-witches-of-salem",
-    "band": "Saxon",
-    "title": "Witches Of Salem",
-    "entities": [
-      "Salem",
-      "Hexenprozesse",
-      "Gallows Hill",
-      "1692"
-    ],
-    "era": "1692",
-    "spotifyUrl": "https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr",
-    "youtubeUrl": "https://www.youtube.com/watch?v=mN5mfBDUNMQ",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://oldielyrics.com/lyrics/saxon/witches_of_salem.html",
-        "note": "Salem witch trials / Massachusetts"
-      }
-    ]
-  },
-  {
-    "id": "burning-witches-executed",
-    "band": "Burning Witches",
-    "title": "Executed",
-    "entities": [
-      "Anna Göldi",
-      "Glarus",
-      "1782"
-    ],
-    "era": "1782",
-    "spotifyUrl": "https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1",
-    "youtubeUrl": "https://www.youtube.com/watch?v=840vcVzth-0",
-    "sources": [
-      {
-        "type": "news",
-        "url": "https://blabbermouth.net/news/burning-witches-executed-lyric-video",
-        "note": "Band: last Swiss witch Anna Göldi"
-      }
-    ]
-  },
-  {
-    "id": "saxon-kubla-khan-and-the-merchant-of-venice",
-    "band": "Saxon",
-    "title": "Kubla Khan And The Merchant Of Venice",
-    "entities": [
-      "Marco Polo",
-      "Kublai Khan",
-      "Seidenstraße",
-      "Xanadu",
-      "Venedig"
-    ],
-    "era": "13. Jh.",
-    "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
-    "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://oldielyrics.com/lyrics/saxon/kubla_khan_and_the_merchant_of_venice.html",
-        "note": "Marco Polo / Kubla Khan / Silk Road journey"
-      }
-    ]
-  },
-  {
-    "id": "herzel-la-flamme",
-    "band": "Herzel",
-    "title": "La Flamme",
-    "entities": [
-      "Jeanne la Flamme",
-      "Johanna von Flandern",
-      "Hennebont",
-      "Bretonischer Erbfolgekrieg"
-    ],
-    "era": "1342",
-    "spotifyUrl": "https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ciDI4za9eCU",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://azlyrics.biz/h/herzel-lyrics/herzel-la-flamme-lyrics/",
-        "note": "Hennebont siege; Jeanne la Flamme; succession war"
-      },
-      {
-        "type": "interview",
-        "url": "https://nattskog.com/2021/11/18/interview-herzel/",
-        "note": "Band: Jeanne de Flandre / Jeanne La Flamme, Breton succession war"
-      },
-      {
-        "type": "band",
-        "url": "https://www.metal-archives.com/albums/Herzel/Le_dernier_rempart/919374",
-        "note": "Le dernier rempart (2021)"
-      }
-    ]
-  },
-  {
-    "id": "lurte-venganza-almugavar",
-    "band": "Lurte",
-    "title": "Venganza Almugavar",
-    "entities": [
-      "Almogavaren",
-      "Katalanische Kompanie",
-      "Neopatria",
-      "Katalanische Rache"
-    ],
-    "era": "14. Jh.",
-    "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://lurte.org/presentamos-en-huesca-nuestras-nuevas-conquistas-en-neopatria/",
-        "note": "Album Neopatria: Almogavar/Catalan Company conquests in Greece"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.deezer.com/track/622736412",
-        "note": "Deezer: Venganza Almugavar / Neopatria (2011)"
-      }
-    ]
-  },
-  {
-    "id": "saxon-1066",
-    "band": "Saxon",
-    "title": "1066",
-    "entities": [
-      "Hastings",
-      "1066",
-      "Wilhelm der Eroberer",
-      "Harold Godwinson",
-      "Stamford Bridge"
-    ],
-    "era": "1066",
-    "spotifyUrl": "https://open.spotify.com/track/0HBWWM8w2WSCgMBL1EgV7e",
-    "youtubeUrl": "https://www.youtube.com/watch?v=-QOREbJ4D70",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.lyricsify.com/lyrics/saxon/1066",
-        "note": "Hastings / Stamford Bridge / Norman conquest"
-      }
-    ]
-  },
-  {
-    "id": "sabaton-the-duelist",
-    "band": "Sabaton",
-    "title": "The Duelist",
-    "entities": [
-      "Miyamoto Musashi",
-      "Sasaki Kojiro",
-      "Niten Ichi-ryū"
-    ],
-    "era": "17. Jh.",
-    "spotifyUrl": "https://open.spotify.com/track/2mz3lcK6rYGTlNUtkgZm4f",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "sabaton-official",
-        "url": "https://www.sabaton.net/discography/legends/the-duelist-lyrics/",
-        "note": "Official: Miyamoto Musashi"
+        "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
+        "note": "Revolution (2021)"
       }
     ]
   }

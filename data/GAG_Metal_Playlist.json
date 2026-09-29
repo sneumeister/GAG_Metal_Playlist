@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29 18:23:06 +0200",
+  "updatedAt": "2026-09-29 19:03:00 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -80,21 +80,61 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 133,
-      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
-      "episodeUrl": "https://gadg.fm/133",
-      "songId": "warkings-azrael",
-      "band": "Warkings",
-      "songTitle": "Azrael",
-      "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: ein Kreuzzug gen Jerusalem. Folge: Entstehung des Ersten Kreuzzugs (Alexios I., Urban II.). Song: generischer Marsch durch die Wüste nach Jerusalem und die Sinnfrage, für einen „heiligen“ Feldzug zu kämpfen und zu sterben — kein Bezug zu Alexios/Urban oder 1095–1099 im Einzelnen → Tier B.",
+      "episodeId": 126,
+      "episodeTitle": "Für immer im Eis – die Franklin Expedition",
+      "episodeUrl": "https://gadg.fm/126",
+      "songId": "antrisch-iiii-ultima-ratio",
+      "band": "Antrisch",
+      "songTitle": "IIII Ultima Ratio",
+      "matchTier": "A",
+      "justification": "Konzeptalbum Expedition II: Die Passage erzählt die Franklin-Expedition (Erebus/Terror, Packeis, Crozier). Folge: dieselbe Expedition und ihr Ende im Eis. Dieser Track behandelt den Kannibalismus der Überlebenden — Exact-Entity.",
       "sharedEntities": [
-        "Kreuzzug",
-        "Jerusalem"
+        "Franklin-Expedition",
+        "HMS Erebus",
+        "HMS Terror",
+        "Nordwestpassage"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
-      "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
-      "matchedAt": "2026-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9",
+      "youtubeUrl": null,
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 126,
+      "episodeTitle": "Für immer im Eis – die Franklin Expedition",
+      "episodeUrl": "https://gadg.fm/126",
+      "songId": "iron-maiden-stranger-in-a-strange-land",
+      "band": "Iron Maiden",
+      "songTitle": "Stranger in a Strange Land",
+      "matchTier": "B",
+      "justification": "Adrian Smith schrieb den Song laut Interview nach einem Zeitungsbericht über die Exhumierung des im Eis konservierten John Torrington von der Franklin-Expedition. Folge erzählt dieselbe Expedition und die mumifizierten Toten im Eis; im Text bleibt Franklin ungenannt — gemeinsamer Rahmen, anderer Fokus — Tier B.",
+      "sharedEntities": [
+        "Franklin-Expedition",
+        "John Torrington",
+        "Arktis"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UJsl-bB7lmk",
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 126,
+      "episodeTitle": "Für immer im Eis – die Franklin Expedition",
+      "episodeUrl": "https://gadg.fm/126",
+      "songId": "unleash-the-archers-northwest-passage",
+      "band": "Unleash the Archers",
+      "songTitle": "Northwest Passage",
+      "matchTier": "B",
+      "justification": "Gemeinsamer Rahmen: Franklin und die Suche nach der Nordwestpassage. Folge: Franklin-Expedition, Erebus/Terror, Scheitern im Eis. Song (Stan-Rogers-Cover) nennt Franklin und die Passage im Refrain, erzählt aber vor allem die Metapher Tour/Überlandreise = Entdeckerexpedition (Band und Original: Kanada-Touren) — Tier B.",
+      "sharedEntities": [
+        "Franklin-Expedition",
+        "Sir John Franklin",
+        "Nordwestpassage"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
+      "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
     {
@@ -114,6 +154,24 @@
       "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
       "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 133,
+      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
+      "episodeUrl": "https://gadg.fm/133",
+      "songId": "warkings-azrael",
+      "band": "Warkings",
+      "songTitle": "Azrael",
+      "matchTier": "B",
+      "justification": "Gemeinsamer Rahmen: ein Kreuzzug gen Jerusalem. Folge: Entstehung des Ersten Kreuzzugs (Alexios I., Urban II.). Song: generischer Marsch durch die Wüste nach Jerusalem und die Sinnfrage, für einen „heiligen“ Feldzug zu kämpfen und zu sterben — kein Bezug zu Alexios/Urban oder 1095–1099 im Einzelnen → Tier B.",
+      "sharedEntities": [
+        "Kreuzzug",
+        "Jerusalem"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
+      "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
     {
@@ -288,23 +346,6 @@
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
-      "songId": "venom-countess-bathory",
-      "band": "Venom",
-      "songTitle": "Countess Bathory",
-      "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
-      "sharedEntities": [
-        "Elisabeth Báthory"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
-      "matchedAt": "2026-09-26",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 229,
-      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-      "episodeUrl": "https://gadg.fm/229",
       "songId": "serenity-wings-of-madness",
       "band": "Serenity",
       "songTitle": "Wings of Madness",
@@ -315,6 +356,23 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
       "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "venom-countess-bathory",
+      "band": "Venom",
+      "songTitle": "Countess Bathory",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -552,6 +610,24 @@
       "episodeId": 377,
       "episodeTitle": "Aufstieg und Fall des Templerordens",
       "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-the-curse-of-jacques",
+      "band": "Grave Digger",
+      "songTitle": "The Curse of Jacques",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
+      "sharedEntities": [
+        "Jacques de Molay",
+        "Templerorden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
       "songId": "sabaton-templars",
       "band": "Sabaton",
       "songTitle": "Templars",
@@ -565,24 +641,6 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 377,
-      "episodeTitle": "Aufstieg und Fall des Templerordens",
-      "episodeUrl": "https://gadg.fm/377",
-      "songId": "grave-digger-the-curse-of-jacques",
-      "band": "Grave Digger",
-      "songTitle": "The Curse of Jacques",
-      "matchTier": "A",
-      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
-      "sharedEntities": [
-        "Jacques de Molay",
-        "Templerorden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
-      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -947,6 +1005,25 @@
       "episodeId": 565,
       "episodeTitle": "Nofretete und Echnaton",
       "episodeUrl": "https://gadg.fm/565",
+      "songId": "aeternam-goddess-of-masr",
+      "band": "Aeternam",
+      "songTitle": "Goddess of Masr",
+      "matchTier": "A",
+      "justification": "Lyrics nennen explizit die Ära Akhenatens und die Herrschaft Nefertitis; Folge behandelt Nofretete und Echnaton (Amarna) inkl. Büste.",
+      "sharedEntities": [
+        "Nofretete",
+        "Echnaton",
+        "Amarna"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 565,
+      "episodeTitle": "Nofretete und Echnaton",
+      "episodeUrl": "https://gadg.fm/565",
       "songId": "nightfall-akhenaton-the-9th-pharaoh-of-the-18th-dynasty",
       "band": "Nightfall",
       "songTitle": "Akhenaton, the 9th Pharaoh of the 18th Dynasty",
@@ -960,25 +1037,6 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
       "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
-      "matchedAt": "2026-09-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 565,
-      "episodeTitle": "Nofretete und Echnaton",
-      "episodeUrl": "https://gadg.fm/565",
-      "songId": "aeternam-goddess-of-masr",
-      "band": "Aeternam",
-      "songTitle": "Goddess of Masr",
-      "matchTier": "A",
-      "justification": "Lyrics nennen explizit die Ära Akhenatens und die Herrschaft Nefertitis; Folge behandelt Nofretete und Echnaton (Amarna) inkl. Büste.",
-      "sharedEntities": [
-        "Nofretete",
-        "Echnaton",
-        "Amarna"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },

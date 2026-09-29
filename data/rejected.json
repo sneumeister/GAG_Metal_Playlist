@@ -278,5 +278,40 @@
     "reason": "Song = generische Waräger-/Miklagard-(Konstantinopel-)Reise. Folge = Anna Komnene / Alexias — nur loser Byzanz-Bezug, andere Person und Fokus (Tier C).",
     "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 105,
+    "songId": "iron-maiden-alexander-the-great",
+    "reason": "Song = Biografie Alexanders des Großen. Folge = Skanderbeg (Gjergj Kastrioti), nur als „neuer Alexander“ tituliert — Namensanklang, andere Person (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 241,
+    "songId": "sabaton-1648",
+    "reason": "Song = Westfälischer Friede / Ende des Dreißigjährigen Kriegs. Folge = Königsmarcks Prager Kunstraub 1648 während der Friedensverhandlungen — gleiches Jahr, anderer Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 323,
+    "songId": "sabaton-the-duelist",
+    "reason": "Song = Miyamoto Musashi / Duell mit Sasaki Kojiro. Folge = Republik Ezo und Ende des Shogunats — anderes Ereignis, nur loser Japan-Rahmen (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "civil-war-i-will-rule-the-universe",
+    "reason": "Song = Napoleon I. und die Kaiserkrönung. Folge = Kaiserin Eugénie — andere Person/Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "crystallion-hundred-days",
+    "reason": "Song = Napoleons Hundert Tage (Elba–Waterloo). Folge = Kaiserin Eugénie — andere Person/Phase (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
   }
 ]
