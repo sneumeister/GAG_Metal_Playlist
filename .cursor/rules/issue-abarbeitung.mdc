@@ -5,28 +5,60 @@ alwaysApply: true
 
 # Issue-Abarbeitung
 
-Gilt, wenn ein GitHub-Issue (oder dessen Inhalt) bearbeitet oder bewertet wird. Dateien und Matching-Stufen wie in `playlist-workflow` / `match-begruendungen`.
+Gilt, wenn ein GitHub-Issue bearbeitet oder bewertet wird. Dateien/Stufen: `playlist-workflow`, `match-begruendungen`.
 
 ## Einstieg (immer zuerst)
 
-1. Issue-Typ am Label/Titel erkennen: `vorschlag` / `korrektur` / `sonstiges`.
-2. **Episoden-Snapshot prüfen:** Upstream `episodes.jsonl` (ideadapt) mit lokalem Stand (`episodes.meta.json` / letzte ID) vergleichen; bei neueren Folgen **lokal aktualisieren** (`episodes.jsonl` + `.meta.json`), bevor Folge-Bezüge bewertet werden.
-3. Auto-Triage-Kommentar und Labels (`triage-*`) zur Kenntnis nehmen – ersetzen keine redaktionelle Prüfung.
+1. Typ am Label/Titel: `vorschlag` / `korrektur` / `sonstiges`.
+2. **Episoden-Snapshot:** Upstream `episodes.jsonl` (ideadapt) vs. lokal (`episodes.meta.json` / letzte ID); bei neueren Folgen lokal aktualisieren.
+3. Auto-Triage (`triage-*`) nur als Hinweis – keine redaktionelle Entscheidung.
 
 ## Playlist: Vorschlag
 
-1. **Vollständigkeit:** Band, Songtitel, Folge, Begründung vorhanden und parsebar?
-2. **Plausibilität:** Song zur Band? Band/Song im Genre **Rock/Metal** (Projektfokus)?
-3. **Katalog:** Band+Song ok → mindestens in `songs.json` eintragen (Links/Quellen mitnehmen), auch wenn später Reject.
-4. **Genre nein** → Reject (Tier C) in `rejected.json`; in der `reason` kurz vermerken, **welche Stufe (A/B/C) bei passendem Genre** plausibel wäre.
-5. **Begründung vs. Folge:** Passt die Issue-Begründung zur angegebenen Folge (Titel/Beschreibung/Transcript)?
-6. **Eigene Recherche (Web):** Lyrics, Bandtexte, Interviews, Ankündigungen – Song-Inhalt/Intention klären; gegen Folgeninhalt/Transcript prüfen; Tier A/B/C festlegen (Begründungs-Rule beachten).
-7. **Ergebnis:** Genre ok und A/B → Playlist-Eintrag + Export. Genre nein oder C → `rejected.json` (mit hypothetischer Stufe bei Genre-Fail, siehe oben). Issue-Kommentar/Chat: Entscheidung kurz begründen; Issue schließen nur auf Zuruf bzw. nach Absprache.
+1. Vollständigkeit (Band, Song, Folge, Begründung).
+2. Plausibilität: Song zur Band? Genre **Rock/Metal**?
+3. Band+Song ok → mindestens in `songs.json` (auch bei späterem Reject).
+4. Genre nein → `rejected.json` (Tier C); in `reason` vermerken, welche Stufe bei passendem Genre plausibel wäre.
+5. Issue-Begründung vs. Folge prüfen; **Web-Recherche** (Lyrics, Bandtexte, Interviews) gegen Folgeninhalt; Tier A/B/C festlegen.
+6. A/B → Playlist + Export. C / Genre-Fail → `rejected.json`.
+7. Zwischenergebnis **nur im Chat** mit dem User – **kein** vorzeitiger Issue-Kommentar.
 
 ## Playlist: Korrektur
 
-Wie Vorschlag recherchieren und gegen Daten/Links/Stufe prüfen – **keine selbständigen Datenänderungen**. Nur Empfehlung an den User (Soll-Zustand, Belege, vorgeschlagene Diff-Skizze).
+Recherche wie beim Vorschlag; Soll vs. Ist prüfen. **Keine selbständigen Datenänderungen** – erst Empfehlung im Chat. Nach Freigabe umsetzen (Export bei Datenänderung). Abschluss analog Vorschlag (Commit → Close-Kommentar), aber der Kommentar begründet die **Korrektur-Entscheidung** (was geändert/abgelehnt wurde), nicht den Song-Inhalt.
 
 ## Sonstiges
 
-Intention des Erstellers klären, bei Bedarf recherchieren – **keine selbständigen Änderungen**. Konkreten Umsetzungsvorschlag an den User formulieren.
+Intention klären, recherchieren – **keine selbständigen Änderungen**. Vorschlag nur im Chat. Nach Freigabe/Commit Abschluss wie unten (Kommentar = Entscheidungsbegründung).
+
+## Abschluss (Vorschlag / Korrektur / Sonstiges)
+
+Reihenfolge fest:
+
+1. Datenentscheidung mit User geklärt.
+2. **Commit** der zugehörigen Änderungen (Push darf gebündelt später folgen).
+3. Erst dann Issue **schließen** und dabei den Entscheidungskommentar setzen.
+
+### Entscheidungskommentar (Issue)
+
+- **Kurz**, für den Issue-Ersteller; **nach** Commit.
+- Inhalt: Ergebnis + 1–2 Sätze Begründung.
+  - Vorschlag: Match-/Reject-Begründung (Song vs. Folge / Genre).
+  - Korrektur / Sonstiges: Begründung der **Entscheidung** (übernommen, abgelehnt, angepasst) – nicht zwingend Song-Analyse.
+- **Nicht** rein: Dateipfade, „lokal geändert“, Commit-/Push-/Agent-Meta, interne Todos.
+
+Beispiel Vorschlag:
+
+```markdown
+**Ergebnis: Tier B** – in Katalog und Playlist übernommen.
+
+Folge #575 = Keichō-Gesandtschaft (Hasekura); Song = Masamune-Porträt. Gemeinsame Person, anderer Fokus.
+```
+
+### Labels beim Schließen
+
+- `triage-*` **entfernen**.
+- Genau eines setzen:
+  - `entscheidung-uebernommen` – wie vorgeschlagen (Begründung höchstens redaktionell geschärft)
+  - `entscheidung-abgelehnt` – Reject / keine Änderung
+  - `entscheidung-angepasst` – übernommen, aber Stufe/Folge/Song/Inhalt gegenüber dem Vorschlag geändert
