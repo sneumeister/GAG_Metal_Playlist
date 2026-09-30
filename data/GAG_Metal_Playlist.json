@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29 19:29:59 +0200",
+  "updatedAt": "2026-09-30 19:22:57 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -346,6 +346,23 @@
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
+      "songId": "kamelot-elizabeth",
+      "band": "Kamelot",
+      "songTitle": "Elizabeth (Parts I–III)",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin. Karma-Trilogie (Mirror Mirror, Requiem for the Innocent, Fall from Grace) erzählt den Blut-/Jugend-Mythos als ein Werk.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ecvHBLadaxM",
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
       "songId": "serenity-wings-of-madness",
       "band": "Serenity",
       "songTitle": "Wings of Madness",
@@ -356,23 +373,6 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
       "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
-      "matchedAt": "2026-09-26",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 229,
-      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-      "episodeUrl": "https://gadg.fm/229",
-      "songId": "venom-countess-bathory",
-      "band": "Venom",
-      "songTitle": "Countess Bathory",
-      "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
-      "sharedEntities": [
-        "Elisabeth Báthory"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -397,17 +397,17 @@
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
-      "songId": "kamelot-elizabeth",
-      "band": "Kamelot",
-      "songTitle": "Elizabeth (Parts I–III)",
+      "songId": "venom-countess-bathory",
+      "band": "Venom",
+      "songTitle": "Countess Bathory",
       "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin. Karma-Trilogie (Mirror Mirror, Requiem for the Innocent, Fall from Grace) erzählt den Blut-/Jugend-Mythos als ein Werk.",
+      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
       "sharedEntities": [
         "Elisabeth Báthory"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ecvHBLadaxM",
-      "matchedAt": "2026-09-29",
+      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -1110,6 +1110,25 @@
       "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 575,
+      "episodeTitle": "Hasekura Tsunenaga und die Keichō-Gesandtschaft",
+      "episodeUrl": "https://gadg.fm/575",
+      "songId": "onmyo-za-aoki-dokugan",
+      "band": "Onmyō-za",
+      "songTitle": "蒼き独眼 (Aoki Dokugan)",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Date Masamune. Folge erzählt die von Masamune entsandte Keichō-Gesandtschaft (Hasekura Tsunenaga, 1613, Handel/Mission in Europa). Song „蒼き独眼“ ist ein Tribut an Masamune selbst (Dokuganryū / Einäugiger; fiktionalisierte Krieger-Perspektive) — nicht an die Gesandtschaft. — Tier B.",
+      "sharedEntities": [
+        "Date Masamune",
+        "Japan",
+        "frühes 17. Jahrhundert"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
+      "matchedAt": "2026-09-30",
       "curatedBy": "manual"
     }
   ]

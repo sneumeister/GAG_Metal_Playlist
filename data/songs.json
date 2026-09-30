@@ -1182,6 +1182,42 @@
     ]
   },
   {
+    "id": "onmyo-za-aoki-dokugan",
+    "band": "Onmyō-za",
+    "title": "蒼き独眼 (Aoki Dokugan)",
+    "entities": [
+      "Date Masamune",
+      "Dokuganryū",
+      "Einäugiger Drache",
+      "Sendai"
+    ],
+    "era": "um 1567–1636 / Sengoku–Edo",
+    "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.generasia.com/wiki/Aoki_Dokugan",
+        "note": "Single 2009: title track is a tribute to Date Masamune"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Onmyo-Za",
+        "note": "Aoki Dokugan written for CR Sengoku-ranbu Aoki Dokugan / Date Masamune tribute"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.uta-net.com/song/84503/",
+        "note": "Lyrics (Matatabi): warrior/fate imagery, aoki manazashi (blue gaze)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/bands/%E9%99%B0%E9%99%BD%E5%BA%A7/18168",
+        "note": "陰陽座 / Onmyo-za — Heavy/Folk Metal (Osaka)"
+      }
+    ]
+  },
+  {
     "id": "ottone-pesante-battle-of-qadesh",
     "band": "Ottone Pesante",
     "title": "Battle of Qadesh",
