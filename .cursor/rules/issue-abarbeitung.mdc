@@ -1,0 +1,32 @@
+---
+description: Abarbeitung von GitHub-Issues (Vorschlag, Korrektur, Sonstiges)
+alwaysApply: true
+---
+
+# Issue-Abarbeitung
+
+Gilt, wenn ein GitHub-Issue (oder dessen Inhalt) bearbeitet oder bewertet wird. Dateien und Matching-Stufen wie in `playlist-workflow` / `match-begruendungen`.
+
+## Einstieg (immer zuerst)
+
+1. Issue-Typ am Label/Titel erkennen: `vorschlag` / `korrektur` / `sonstiges`.
+2. **Episoden-Snapshot prüfen:** Upstream `episodes.jsonl` (ideadapt) mit lokalem Stand (`episodes.meta.json` / letzte ID) vergleichen; bei neueren Folgen **lokal aktualisieren** (`episodes.jsonl` + `.meta.json`), bevor Folge-Bezüge bewertet werden.
+3. Auto-Triage-Kommentar und Labels (`triage-*`) zur Kenntnis nehmen – ersetzen keine redaktionelle Prüfung.
+
+## Playlist: Vorschlag
+
+1. **Vollständigkeit:** Band, Songtitel, Folge, Begründung vorhanden und parsebar?
+2. **Plausibilität:** Song zur Band? Band/Song im Genre **Rock/Metal** (Projektfokus)?
+3. **Katalog:** Band+Song ok → mindestens in `songs.json` eintragen (Links/Quellen mitnehmen), auch wenn später Reject.
+4. **Genre nein** → Reject (Tier C) in `rejected.json`; in der `reason` kurz vermerken, **welche Stufe (A/B/C) bei passendem Genre** plausibel wäre.
+5. **Begründung vs. Folge:** Passt die Issue-Begründung zur angegebenen Folge (Titel/Beschreibung/Transcript)?
+6. **Eigene Recherche (Web):** Lyrics, Bandtexte, Interviews, Ankündigungen – Song-Inhalt/Intention klären; gegen Folgeninhalt/Transcript prüfen; Tier A/B/C festlegen (Begründungs-Rule beachten).
+7. **Ergebnis:** Genre ok und A/B → Playlist-Eintrag + Export. Genre nein oder C → `rejected.json` (mit hypothetischer Stufe bei Genre-Fail, siehe oben). Issue-Kommentar/Chat: Entscheidung kurz begründen; Issue schließen nur auf Zuruf bzw. nach Absprache.
+
+## Playlist: Korrektur
+
+Wie Vorschlag recherchieren und gegen Daten/Links/Stufe prüfen – **keine selbständigen Datenänderungen**. Nur Empfehlung an den User (Soll-Zustand, Belege, vorgeschlagene Diff-Skizze).
+
+## Sonstiges
+
+Intention des Erstellers klären, bei Bedarf recherchieren – **keine selbständigen Änderungen**. Konkreten Umsetzungsvorschlag an den User formulieren.
