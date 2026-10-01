@@ -352,6 +352,38 @@
     ]
   },
   {
+    "id": "dark-moor-houdinis-great-escapade",
+    "band": "Dark Moor",
+    "title": "Houdini's Great Escapade",
+    "entities": [
+      "Harry Houdini",
+      "Houdini",
+      "Spiritismus",
+      "Séance",
+      "Medium"
+    ],
+    "era": "1920er / Houdini 1874–1926",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=o8ML-EGLNCE",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/dark-moor/houdini-s-great-escapade-lyrics/",
+        "note": "Lyrics: escapologist; mother's death; medium session / escape from afterlife"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Beyond_the_Sea_(Dark_Moor_album)",
+        "note": "Beyond the Sea (2005), track 3 — power/symphonic metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/houdinis-great-escapade/1615080953?i=1615080964",
+        "note": "Apple Music"
+      }
+    ]
+  },
+  {
     "id": "dorsal-atlantica-lucrecia-borgia",
     "band": "Dorsal Atlântica",
     "title": "Lucrécia Bórgia",
@@ -788,6 +820,38 @@
     ]
   },
   {
+    "id": "imari-tones-sengoku-christians",
+    "band": "Imari Tones",
+    "title": "Sengoku Christians",
+    "entities": [
+      "Hosokawa Gracia",
+      "Takayama Ukon",
+      "Kirishitan",
+      "Sengoku",
+      "Japan"
+    ],
+    "era": "Sengoku / späte 16. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://imaritones.tokyo/2022/12/06/%e6%88%a6%e5%9b%bd%e3%82%ad%e3%83%aa%e3%82%b7%e3%82%bf%e3%83%b3mv/",
+        "note": "MV-Ankündigung: Verse zu Hosokawa Gracia und Takayama Ukon; engl. Titel Sengoku Christians"
+      },
+      {
+        "type": "secondary",
+        "url": "https://imaritones.bandcamp.com/album/nabeshima",
+        "note": "Nabeshima (2021), Disc 2 — Christian metal / hard rock"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/sengoku-christians/1784247099?i=1784247104",
+        "note": "Apple Music"
+      }
+    ]
+  },
+  {
     "id": "iron-maiden-aces-high",
     "band": "Iron Maiden",
     "title": "Aces High",
@@ -1182,6 +1246,31 @@
     ]
   },
   {
+    "id": "noriko-kishi-hasekura-bonds-beyond-the-seas-and-time",
+    "band": "Noriko Kishi",
+    "title": "Hasekura: Bonds Beyond the Seas and Time",
+    "entities": [
+      "Hasekura Tsunenaga",
+      "Keichō-Gesandtschaft",
+      "Date Masamune"
+    ],
+    "era": "1613–1620",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://linkco.re/tR4BBDTM?lang=en",
+        "note": "Latin-Jazz-Ballade / Tribut an Hasekura und die Keichō-Gesandtschaft"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/hasekura-bonds-beyond-the-seas-and-time/1818505596?i=1818505649",
+        "note": "Apple Music Single"
+      }
+    ]
+  },
+  {
     "id": "onmyo-za-aoki-dokugan",
     "band": "Onmyō-za",
     "title": "蒼き独眼 (Aoki Dokugan)",
@@ -1327,6 +1416,26 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
         "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "rodrigo-rodriguez-the-road-of-hasekura-tsunenaga",
+    "band": "Rodrigo Rodriguez",
+    "title": "The Road of Hasekura Tsunenaga",
+    "entities": [
+      "Hasekura Tsunenaga",
+      "Keichō-Gesandtschaft",
+      "Sendai"
+    ],
+    "era": "1613–1620",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.farsidemusic.com/acatalog/The-Road-of-Hasekura-Tsunenaga-FSD6365.html",
+        "note": "Shakuhachi-Album (Weltmusik/traditionell), dem Hasekura Tsunenaga gewidmet"
       }
     ]
   },

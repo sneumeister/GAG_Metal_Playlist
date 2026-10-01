@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30 19:22:57 +0200",
+  "updatedAt": "2026-10-01 07:19:34 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1110,6 +1110,25 @@
       "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 572,
+      "episodeTitle": "Houdini und der Spiritismus",
+      "episodeUrl": "https://gadg.fm/572",
+      "songId": "dark-moor-houdinis-great-escapade",
+      "band": "Dark Moor",
+      "songTitle": "Houdini's Great Escapade",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Harry Houdini und Spiritismus/Séancen. Folge: Atlantic-City-Séance 1922 mit Conan Doyle (Kontaktversuch zur Mutter) und der Bruch der Freundschaft. Song: Houdini als Escapologist, Mutter-Tod und Medium-Séance / Flucht aus dem Jenseits — anderer Erzählfokus. — Tier B.",
+      "sharedEntities": [
+        "Harry Houdini",
+        "Spiritismus",
+        "Séance"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=o8ML-EGLNCE",
+      "matchedAt": "2026-10-01",
       "curatedBy": "manual"
     },
     {
