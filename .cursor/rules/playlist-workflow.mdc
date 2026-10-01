@@ -23,7 +23,7 @@ alwaysApply: true
 | `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) | Neuer Song oder Link-/Quellen-Update |
 | `data/GAG_Metal_Playlist.json` | Kanonische **A/B-Treffer** (`entries` + `updatedAt`) | Neuer/geänderter Match; Begründung schärfen |
 | `data/rejected.json` | Geprüfte **C-/Absagen** (`episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
-| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | Nur bei bewusstem Snapshot-Update |
+| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | Bewusstes Snapshot-Update; bei Issue-Abarbeitung zuerst prüfen/aktualisieren (siehe `issue-abarbeitung`) |
 | `GAG_Metal_playlist.md` / `.html` | Lesbare Exporte | **Nie handeditieren** – nur via Export |
 
 - JSON immer mit `ensure_ascii=False` schreiben.

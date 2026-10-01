@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-09-29 19:30:16 +0200  </small>
-<small>**JSON-Status:** 2026-09-29 19:29:59 +0200  </small>
+<small>**Compile-Datum:** 2026-10-01 07:19:34 +0200  </small>
+<small>**JSON-Status:** 2026-10-01 07:19:34 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -70,3 +70,5 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |
+| [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=o8ML-EGLNCE) | — |
+| [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Onmyō-za | 蒼き独眼 (Aoki Dokugan) | B | [link](https://www.youtube.com/watch?v=j6GJdnEaZQ8) | [link](https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ) |

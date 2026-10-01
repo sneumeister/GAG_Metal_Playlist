@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29 23:37:47 +0200",
+  "updatedAt": "2026-10-01 11:09:46 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -138,25 +138,6 @@
       "episodeId": 126,
       "episodeTitle": "Für immer im Eis – die Franklin Expedition",
       "episodeUrl": "https://gadg.fm/126",
-      "songId": "unleash-the-archers-northwest-passage",
-      "band": "Unleash the Archers",
-      "songTitle": "Northwest Passage",
-      "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: Franklin und die Suche nach der Nordwestpassage. Folge: Franklin-Expedition, Erebus/Terror, Scheitern im Eis. Song (Stan-Rogers-Cover) nennt Franklin und die Passage im Refrain, erzählt aber vor allem die Metapher Tour/Überlandreise = Entdeckerexpedition (Band und Original: Kanada-Touren) — Tier B.",
-      "sharedEntities": [
-        "Franklin-Expedition",
-        "Sir John Franklin",
-        "Nordwestpassage"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
-      "matchedAt": "2026-09-29",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 126,
-      "episodeTitle": "Für immer im Eis – die Franklin Expedition",
-      "episodeUrl": "https://gadg.fm/126",
       "songId": "iron-maiden-stranger-in-a-strange-land",
       "band": "Iron Maiden",
       "songTitle": "Stranger in a Strange Land",
@@ -173,21 +154,22 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 133,
-      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
-      "episodeUrl": "https://gadg.fm/133",
-      "songId": "warkings-azrael",
-      "band": "Warkings",
-      "songTitle": "Azrael",
+      "episodeId": 126,
+      "episodeTitle": "Für immer im Eis – die Franklin Expedition",
+      "episodeUrl": "https://gadg.fm/126",
+      "songId": "unleash-the-archers-northwest-passage",
+      "band": "Unleash the Archers",
+      "songTitle": "Northwest Passage",
       "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: ein Kreuzzug gen Jerusalem. Folge: Entstehung des Ersten Kreuzzugs (Alexios I., Urban II.). Song: generischer Marsch durch die Wüste nach Jerusalem und die Sinnfrage, für einen „heiligen“ Feldzug zu kämpfen und zu sterben — kein Bezug zu Alexios/Urban oder 1095–1099 im Einzelnen → Tier B.",
+      "justification": "Gemeinsamer Rahmen: Franklin und die Suche nach der Nordwestpassage. Folge: Franklin-Expedition, Erebus/Terror, Scheitern im Eis. Song (Stan-Rogers-Cover) nennt Franklin und die Passage im Refrain, erzählt aber vor allem die Metapher Tour/Überlandreise = Entdeckerexpedition (Band und Original: Kanada-Touren) — Tier B.",
       "sharedEntities": [
-        "Kreuzzug",
-        "Jerusalem"
+        "Franklin-Expedition",
+        "Sir John Franklin",
+        "Nordwestpassage"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
-      "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
-      "matchedAt": "2026-09-28",
+      "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
+      "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
     {
@@ -207,6 +189,24 @@
       "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
       "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 133,
+      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
+      "episodeUrl": "https://gadg.fm/133",
+      "songId": "warkings-azrael",
+      "band": "Warkings",
+      "songTitle": "Azrael",
+      "matchTier": "B",
+      "justification": "Gemeinsamer Rahmen: ein Kreuzzug gen Jerusalem. Folge: Entstehung des Ersten Kreuzzugs (Alexios I., Urban II.). Song: generischer Marsch durch die Wüste nach Jerusalem und die Sinnfrage, für einen „heiligen“ Feldzug zu kämpfen und zu sterben — kein Bezug zu Alexios/Urban oder 1095–1099 im Einzelnen → Tier B.",
+      "sharedEntities": [
+        "Kreuzzug",
+        "Jerusalem"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
+      "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
     {
@@ -381,40 +381,6 @@
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
-      "songId": "sunn-o-bathory-erzsebet",
-      "band": "Sunn O)))",
-      "songTitle": "Báthory Erzsébet",
-      "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin. Songtitel = ungarischer Name (Báthory Erzsébet); Black One (2005) evoziert die Figur explizit.",
-      "sharedEntities": [
-        "Elisabeth Báthory"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2",
-      "youtubeUrl": "https://www.youtube.com/watch?v=WKlK7x9x3uk",
-      "matchedAt": "2026-09-29",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 229,
-      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-      "episodeUrl": "https://gadg.fm/229",
-      "songId": "venom-countess-bathory",
-      "band": "Venom",
-      "songTitle": "Countess Bathory",
-      "matchTier": "A",
-      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
-      "sharedEntities": [
-        "Elisabeth Báthory"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
-      "matchedAt": "2026-09-26",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 229,
-      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
-      "episodeUrl": "https://gadg.fm/229",
       "songId": "kamelot-elizabeth",
       "band": "Kamelot",
       "songTitle": "Elizabeth (Parts I–III)",
@@ -442,6 +408,40 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
       "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "sunn-o-bathory-erzsebet",
+      "band": "Sunn O)))",
+      "songTitle": "Báthory Erzsébet",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory / die Blutgräfin. Songtitel = ungarischer Name (Báthory Erzsébet); Black One (2005) evoziert die Figur explizit.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WKlK7x9x3uk",
+      "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 229,
+      "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
+      "episodeUrl": "https://gadg.fm/229",
+      "songId": "venom-countess-bathory",
+      "band": "Venom",
+      "songTitle": "Countess Bathory",
+      "matchTier": "A",
+      "justification": "Beide behandeln Elisabeth Báthory und den Mythos der Blutgräfin.",
+      "sharedEntities": [
+        "Elisabeth Báthory"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -709,23 +709,6 @@
       "episodeId": 351,
       "episodeTitle": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
       "episodeUrl": "https://gadg.fm/351",
-      "songId": "burial-in-the-sky-an-orphaned-city",
-      "band": "Burial in the Sky",
-      "songTitle": "An Orphaned City",
-      "matchTier": "B",
-      "justification": "Setzt das Saxophon in einer Bridge ein; die Folge behandelt das Instrument und seinen Erfinder.",
-      "sharedEntities": [
-        "Saxophon"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/7Kjvta0k7JUZTzIWuM8gxg",
-      "youtubeUrl": null,
-      "matchedAt": "2026-09-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 351,
-      "episodeTitle": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
-      "episodeUrl": "https://gadg.fm/351",
       "songId": "black-sabbath-breakout",
       "band": "Black Sabbath",
       "songTitle": "Breakout",
@@ -743,6 +726,23 @@
       "episodeId": 351,
       "episodeTitle": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
       "episodeUrl": "https://gadg.fm/351",
+      "songId": "burial-in-the-sky-an-orphaned-city",
+      "band": "Burial in the Sky",
+      "songTitle": "An Orphaned City",
+      "matchTier": "B",
+      "justification": "Setzt das Saxophon in einer Bridge ein; die Folge behandelt das Instrument und seinen Erfinder.",
+      "sharedEntities": [
+        "Saxophon"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7Kjvta0k7JUZTzIWuM8gxg",
+      "youtubeUrl": null,
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 351,
+      "episodeTitle": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
+      "episodeUrl": "https://gadg.fm/351",
       "songId": "burial-in-the-sky-mountains-pt-2-empathy",
       "band": "Burial in the Sky",
       "songTitle": "Mountains, Pt. 2 (Empathy)",
@@ -752,23 +752,6 @@
         "Saxophon"
       ],
       "spotifyUrl": "https://open.spotify.com/track/3f9qR5TR8UveWhhfI24FT1",
-      "youtubeUrl": null,
-      "matchedAt": "2026-09-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 351,
-      "episodeTitle": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
-      "episodeUrl": "https://gadg.fm/351",
-      "songId": "schweisser-pausenclown",
-      "band": "Schweisser",
-      "songTitle": "Pausenclown",
-      "matchTier": "B",
-      "justification": "Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder.",
-      "sharedEntities": [
-        "Saxophon"
-      ],
-      "spotifyUrl": null,
       "youtubeUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
@@ -831,6 +814,23 @@
       "songId": "schweisser-ich-bin-du-2",
       "band": "Schweisser",
       "songTitle": "ich bin du 2",
+      "matchTier": "B",
+      "justification": "Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder.",
+      "sharedEntities": [
+        "Saxophon"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 351,
+      "episodeTitle": "Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax",
+      "episodeUrl": "https://gadg.fm/351",
+      "songId": "schweisser-pausenclown",
+      "band": "Schweisser",
+      "songTitle": "Pausenclown",
       "matchTier": "B",
       "justification": "Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder.",
       "sharedEntities": [
@@ -922,6 +922,24 @@
       "episodeId": 377,
       "episodeTitle": "Aufstieg und Fall des Templerordens",
       "episodeUrl": "https://gadg.fm/377",
+      "songId": "grave-digger-the-curse-of-jacques",
+      "band": "Grave Digger",
+      "songTitle": "The Curse of Jacques",
+      "matchTier": "A",
+      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
+      "sharedEntities": [
+        "Jacques de Molay",
+        "Templerorden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
       "songId": "sabaton-templars",
       "band": "Sabaton",
       "songTitle": "Templars",
@@ -935,24 +953,6 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 377,
-      "episodeTitle": "Aufstieg und Fall des Templerordens",
-      "episodeUrl": "https://gadg.fm/377",
-      "songId": "grave-digger-the-curse-of-jacques",
-      "band": "Grave Digger",
-      "songTitle": "The Curse of Jacques",
-      "matchTier": "A",
-      "justification": "Beide behandeln den Untergang des Templerordens und Jacques de Molay (Verurteilung/Hinrichtung).",
-      "sharedEntities": [
-        "Jacques de Molay",
-        "Templerorden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
-      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -1187,6 +1187,23 @@
       "episodeId": 498,
       "episodeTitle": "Eine kleine Geschichte des Grimoires",
       "episodeUrl": "https://gadg.fm/498",
+      "songId": "hexekration-rites-the-grimoire-of-insanity",
+      "band": "Hexekration Rites",
+      "songTitle": "The Grimoire of Insanity",
+      "matchTier": "B",
+      "justification": "Ein Grimoire und die ihm zugeschriebene magische Macht stehen im Zentrum des Songs; die Folge behandelt Grimoires historisch.",
+      "sharedEntities": [
+        "Grimoire"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://youtu.be/g9kcU7kcY7Q?feature=shared",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 498,
+      "episodeTitle": "Eine kleine Geschichte des Grimoires",
+      "episodeUrl": "https://gadg.fm/498",
       "songId": "in-extremo-merseburger-zauberspruche-1",
       "band": "In Extremo",
       "songTitle": "Merseburger Zaubersprüche 1",
@@ -1237,19 +1254,20 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 498,
-      "episodeTitle": "Eine kleine Geschichte des Grimoires",
-      "episodeUrl": "https://gadg.fm/498",
-      "songId": "hexekration-rites-the-grimoire-of-insanity",
-      "band": "Hexekration Rites",
-      "songTitle": "The Grimoire of Insanity",
+      "episodeId": 501,
+      "episodeTitle": "Wie die Jeans entstand",
+      "episodeUrl": "https://gadg.fm/501",
+      "songId": "manowar-kings-of-metal",
+      "band": "Manowar",
+      "songTitle": "Kings of Metal",
       "matchTier": "B",
-      "justification": "Ein Grimoire und die ihm zugeschriebene magische Macht stehen im Zentrum des Songs; die Folge behandelt Grimoires historisch.",
+      "justification": "Nennt Jeans und Leder als Kleidung der Metal-Gemeinschaft; die Folge behandelt die Entstehung der Jeans.",
       "sharedEntities": [
-        "Grimoire"
+        "Jeans",
+        "Denim"
       ],
       "spotifyUrl": null,
-      "youtubeUrl": "https://youtu.be/g9kcU7kcY7Q?feature=shared",
+      "youtubeUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1265,24 +1283,6 @@
       "sharedEntities": [
         "Denim",
         "Jeans"
-      ],
-      "spotifyUrl": null,
-      "youtubeUrl": null,
-      "matchedAt": "2026-09-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 501,
-      "episodeTitle": "Wie die Jeans entstand",
-      "episodeUrl": "https://gadg.fm/501",
-      "songId": "manowar-kings-of-metal",
-      "band": "Manowar",
-      "songTitle": "Kings of Metal",
-      "matchTier": "B",
-      "justification": "Nennt Jeans und Leder als Kleidung der Metal-Gemeinschaft; die Folge behandelt die Entstehung der Jeans.",
-      "sharedEntities": [
-        "Jeans",
-        "Denim"
       ],
       "spotifyUrl": null,
       "youtubeUrl": null,
@@ -1423,6 +1423,25 @@
       "episodeId": 565,
       "episodeTitle": "Nofretete und Echnaton",
       "episodeUrl": "https://gadg.fm/565",
+      "songId": "aeternam-goddess-of-masr",
+      "band": "Aeternam",
+      "songTitle": "Goddess of Masr",
+      "matchTier": "A",
+      "justification": "Lyrics nennen explizit die Ära Akhenatens und die Herrschaft Nefertitis; Folge behandelt Nofretete und Echnaton (Amarna) inkl. Büste.",
+      "sharedEntities": [
+        "Nofretete",
+        "Echnaton",
+        "Amarna"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+      "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 565,
+      "episodeTitle": "Nofretete und Echnaton",
+      "episodeUrl": "https://gadg.fm/565",
       "songId": "nightfall-akhenaton-the-9th-pharaoh-of-the-18th-dynasty",
       "band": "Nightfall",
       "songTitle": "Akhenaton, the 9th Pharaoh of the 18th Dynasty",
@@ -1436,25 +1455,6 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
       "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
-      "matchedAt": "2026-09-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 565,
-      "episodeTitle": "Nofretete und Echnaton",
-      "episodeUrl": "https://gadg.fm/565",
-      "songId": "aeternam-goddess-of-masr",
-      "band": "Aeternam",
-      "songTitle": "Goddess of Masr",
-      "matchTier": "A",
-      "justification": "Lyrics nennen explizit die Ära Akhenatens und die Herrschaft Nefertitis; Folge behandelt Nofretete und Echnaton (Amarna) inkl. Büste.",
-      "sharedEntities": [
-        "Nofretete",
-        "Echnaton",
-        "Amarna"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1492,6 +1492,44 @@
       "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 572,
+      "episodeTitle": "Houdini und der Spiritismus",
+      "episodeUrl": "https://gadg.fm/572",
+      "songId": "dark-moor-houdinis-great-escapade",
+      "band": "Dark Moor",
+      "songTitle": "Houdini's Great Escapade",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Harry Houdini und Spiritismus/Séancen. Folge: Atlantic-City-Séance 1922 mit Conan Doyle (Kontaktversuch zur Mutter) und der Bruch der Freundschaft. Song: Houdini als Escapologist, Mutter-Tod und Medium-Séance / Flucht aus dem Jenseits — anderer Erzählfokus. — Tier B.",
+      "sharedEntities": [
+        "Harry Houdini",
+        "Spiritismus",
+        "Séance"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=o8ML-EGLNCE",
+      "matchedAt": "2026-10-01",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 575,
+      "episodeTitle": "Hasekura Tsunenaga und die Keichō-Gesandtschaft",
+      "episodeUrl": "https://gadg.fm/575",
+      "songId": "onmyo-za-aoki-dokugan",
+      "band": "Onmyō-za",
+      "songTitle": "蒼き独眼 (Aoki Dokugan)",
+      "matchTier": "B",
+      "justification": "Gemeinsam: Date Masamune. Folge erzählt die von Masamune entsandte Keichō-Gesandtschaft (Hasekura Tsunenaga, 1613, Handel/Mission in Europa). Song „蒼き独眼“ ist ein Tribut an Masamune selbst (Dokuganryū / Einäugiger; fiktionalisierte Krieger-Perspektive) — nicht an die Gesandtschaft. — Tier B.",
+      "sharedEntities": [
+        "Date Masamune",
+        "Japan",
+        "frühes 17. Jahrhundert"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
+      "matchedAt": "2026-09-30",
       "curatedBy": "manual"
     }
   ]

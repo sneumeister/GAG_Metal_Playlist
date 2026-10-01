@@ -1,5 +1,19 @@
 [
   {
+    "episodeId": 40,
+    "songId": "saxon-kubla-khan-and-the-merchant-of-venice",
+    "reason": "Song = Marco Polo / Kublai Khan / Seidenstraßen-Reise nach Xanadu. Folge = Ursprung der Seidenstraße (u. a. Pfeil und Bogen) — gleiches Stichwort Seidenstraße, anderer Erzählfokus und Epoche (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 105,
+    "songId": "iron-maiden-alexander-the-great",
+    "reason": "Song = Biografie Alexanders des Großen. Folge = Skanderbeg (Gjergj Kastrioti), nur als „neuer Alexander“ tituliert — Namensanklang, andere Person (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 118,
     "songId": "powerwolf-1589",
     "reason": "Unterschiedliche Werwolf-Fälle: Folge = Thiess in Livland; Song = Peter Stumpp / Bedburg 1589.",
@@ -14,10 +28,38 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 184,
+    "songId": "burning-witches-executed",
+    "reason": "Song = Anna Göldi (Glarus, „letzte Hexenhinrichtung“ der Schweiz). Folge = Katharina Kepler — andere Person und Ort, nur loser Hexenprozess-Bezug (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 184,
+    "songId": "saxon-witches-of-salem",
+    "reason": "Song = Hexenprozesse von Salem (Massachusetts, 1692). Folge = Katharina Kepler in Leonberg/Württemberg — gleiches Thema Hexerei, andere Personen, Ort und Jahrhundert (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 197,
+    "songId": "sabaton-talvisota",
+    "reason": "Song = Winterkrieg 1939/40 (Sowjetunion vs. Finnland). Folge = kurzlebiges Königreich Finnland / Friedrich Karl von Hessen 1918 — anderes Ereignis und Jahrzehnt (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 198,
     "songId": "turisas-in-the-court-of-jarisleif",
     "reason": "Folge = Olga von Kiew / Igor (10. Jh.). Song = Hof Jaroslaws des Weisen (11. Jh.). Gleiche Rus-/Waräger-Welt, andere Person und Generation — zu lose (Tier C).",
     "rejectedAt": "2026-09-26",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 199,
+    "songId": "sabaton-wolfpack",
+    "reason": "Song = U-Boot-Rudelkrieg WWII / Convoy ONS-92 (Mai 1942). Folge = UC 71 und U-Boot-Krieg im Ersten Weltkrieg — gleiches Thema U-Boote, anderer Krieg und anderes Boot (Tier C).",
+    "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   },
   {
@@ -39,6 +81,20 @@
     "songId": "elvenking-the-voynich-manuscript",
     "reason": "Titel nennt das Voynich-Manuskript, Folge behandelt genau dieses Artefakt. Band (Aydan): Lyrics nicht explizit am Manuskriptinhalt, sondern Metapher für unerklärliche eigene Taten — kein gemeinsamer Erzählfokus (Tier C).",
     "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 241,
+    "songId": "sabaton-1648",
+    "reason": "Song = Westfälischer Friede / Ende des Dreißigjährigen Kriegs. Folge = Königsmarcks Prager Kunstraub 1648 während der Friedensverhandlungen — gleiches Jahr, anderer Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 242,
+    "songId": "warkings-battle-of-marathon",
+    "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-28",
     "rejectedBy": "manual"
   },
   {
@@ -84,6 +140,20 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 289,
+    "songId": "judicator-the-queen-of-all-cities",
+    "reason": "Song = Erster Kreuzzug / Ankunft in Konstantinopel und Eid gegenüber Alexios (1097). Folge = Vierter Kreuzzug / Plünderung 1204 — andere Expedition und Jahrhundert (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 291,
+    "songId": "iron-maiden-run-to-the-hills",
+    "reason": "Song = Kolonisierung Nordamerikas / First Nations. Folge = Schlacht von Adua 1896 (Menelik II. / Äthiopien gegen Italien) — nur loser Anti-Kolonial-Rahmen, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 296,
     "songId": "powerwolf-joan-of-arc",
     "reason": "Song = Jeanne d'Arc / Jungfrau von Orléans. Folge = Johanna von Flandern („Jeanne la Flamme“) im bretonischen Erbfolgekrieg — Namens-/Beiname-Anklang, andere Person und Konflikt (Tier C).",
@@ -91,10 +161,31 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 306,
+    "songId": "iron-maiden-empire-of-the-clouds",
+    "reason": "Song = Absturz des britischen Luftschiffs R101 (1930). Folge = Camillo Castiglioni (u. a. Habsburger Militärluftschiff mit Porsche) — nur loser Luftschiff-Rahmen, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 320,
     "songId": "savatage-complaint-in-the-system-veronica-guerin",
     "reason": "Song = Veronica Guerin (Irland, Drogenkartell, Mord 1996). Folge = Nellie Bly / Weltreise 1889 — beide Investigativjournalistinnen, andere Person und Epoche (Tier C).",
     "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 323,
+    "songId": "sabaton-shiroyama",
+    "reason": "Song = Schlacht von Shiroyama / Satsuma-Rebellion 1877 (Saigō Takamori). Folge = Republik Ezo / Boshin-Krieg 1868–69 (Enomoto) — verwandte Meiji-Ära, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 323,
+    "songId": "sabaton-the-duelist",
+    "reason": "Song = Miyamoto Musashi / Duell mit Sasaki Kojiro. Folge = Republik Ezo und Ende des Shogunats — anderes Ereignis, nur loser Japan-Rahmen (Tier C).",
+    "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   },
   {
@@ -134,6 +225,13 @@
   },
   {
     "episodeId": 407,
+    "songId": "alestorm-magellans-expedition",
+    "reason": "Song = Magellans Weltumsegelung. Folge = spanische Kolonie in der Magellanstraße unter Pedro Sarmiento de Gamboa / Cavendish findet Geisterstadt — nur geografische Magellan-Assoziation, anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 407,
     "songId": "savatage-the-wake-of-magellan",
     "reason": "Album/Song-Konzept = Maersk Dubai 1990er + fiktiver Magellan-Seemann (Offizielle Savatage-Story). Folge = Puerto del Hambre / Cavendish 1587 an der Magellanstraße — nur Namens-/Ortsanklang „Magellan“, anderer Erzählfokus (Tier C).",
     "rejectedAt": "2026-09-28",
@@ -154,6 +252,20 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 436,
+    "songId": "running-wild-conquistadores",
+    "reason": "Song = generisches Konquistadoren-/Abenteuerbild. Folge = Eldorado-Legende, Pizarro und Atahualpa — anderer Fokus (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 462,
+    "songId": "warkings-fight-in-the-shade",
+    "reason": "Titel alludiert den Thermopylen-Spruch („fight in the shade“), der Text handelt aber von Arminius, Varus und der Varusschlacht im Teutoburger Wald — andere Schlacht/Entity (Tier C).",
+    "rejectedAt": "2026-09-28",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 490,
     "songId": "warkings-spartacus",
     "reason": "Song = Spartacus / Dritter Sklavenkrieg (73–71 v. Chr.). Folge = Eunus und Erster Sklavenkrieg auf Sizilien (135–132 v. Chr.) — anderer Aufstand/andere Person (Tier C).",
@@ -171,6 +283,13 @@
     "episodeId": 501,
     "songId": "saxon-denim-and-leather",
     "reason": "Song = NWOBHM-Fan-Hymne / Denim-and-Leather-Look der Metal-Szene (1981). Folge = Erfindung/Geschichte der Jeans im 19. Jh. — nur Wortanklang „Denim/Jeans“, anderer Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 514,
+    "songId": "turisas-miklagard-overture",
+    "reason": "Song = generische Waräger-/Miklagard-(Konstantinopel-)Reise. Folge = Anna Komnene / Alexias — nur loser Byzanz-Bezug, andere Person und Fokus (Tier C).",
     "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   },
@@ -217,6 +336,34 @@
     "rejectedBy": "manual"
   },
   {
+    "episodeId": 542,
+    "songId": "civil-war-i-will-rule-the-universe",
+    "reason": "Song = Napoleon I. und die Kaiserkrönung. Folge = Kaiserin Eugénie — andere Person/Fokus (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "crystallion-hundred-days",
+    "reason": "Song = Napoleons Hundert Tage (Elba–Waterloo). Folge = Kaiserin Eugénie — andere Person/Phase (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "sabaton-i-emperor",
+    "reason": "Song = Napoleon I. (Kaiser-/Eroberer-Karriere). Folge = Kaiserin Eugénie — andere Person (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 542,
+    "songId": "serenity-the-art-of-war",
+    "reason": "Song = Napoleonische Kriege / Napoleon I. Folge = Kaiserin Eugénie — andere Person (Tier C).",
+    "rejectedAt": "2026-09-29",
+    "rejectedBy": "manual"
+  },
+  {
     "episodeId": 551,
     "songId": "savatage-the-wake-of-magellan",
     "reason": "Folge = SMS Novara / Habsburg-Weltumseglung 1857. Song/Album = Maersk Dubai + fiktiver Magellan-Rahmen 1990er — nur loser „Weltumseglung/Seefahrt“-Rahmen (Tier C).",
@@ -238,150 +385,38 @@
     "rejectedBy": "manual"
   },
   {
-    "episodeId": 462,
-    "songId": "warkings-fight-in-the-shade",
-    "reason": "Titel alludiert den Thermopylen-Spruch („fight in the shade“), der Text handelt aber von Arminius, Varus und der Varusschlacht im Teutoburger Wald — andere Schlacht/Entity (Tier C).",
-    "rejectedAt": "2026-09-28",
+    "episodeId": 575,
+    "songId": "imari-tones-sengoku-christians",
+    "reason": "Song = Hosokawa Gracia und Takayama Ukon (Sengoku-Kirishitan). Folge = Hasekura Tsunenaga / Keichō-Gesandtschaft — andere Personen und Ereignis, nur gemeinsamer Rahmen Christentum in Japan (Tier C).",
+    "rejectedAt": "2026-10-01",
     "rejectedBy": "manual"
   },
   {
-    "episodeId": 407,
-    "songId": "alestorm-magellans-expedition",
-    "reason": "Song = Magellans Weltumsegelung. Folge = spanische Kolonie in der Magellanstraße unter Pedro Sarmiento de Gamboa / Cavendish findet Geisterstadt — nur geografische Magellan-Assoziation, anderes Ereignis (Tier C).",
-    "rejectedAt": "2026-09-28",
+    "episodeId": 575,
+    "songId": "nightstryke-the-story-of-the-forty-seven-ronin",
+    "reason": "Song = 47 Ronin / Akō-Vendetta (frühes 18. Jh.). Folge = Hasekura / Keichō-Gesandtschaft 1613 — anderes Ereignis (Tier C).",
+    "rejectedAt": "2026-10-01",
     "rejectedBy": "manual"
   },
   {
-    "episodeId": 436,
-    "songId": "running-wild-conquistadores",
-    "reason": "Song = generisches Konquistadoren-/Abenteuerbild. Folge = Eldorado-Legende, Pizarro und Atahualpa — anderer Fokus (Tier C).",
-    "rejectedAt": "2026-09-28",
+    "episodeId": 575,
+    "songId": "noriko-kishi-hasekura-bonds-beyond-the-seas-and-time",
+    "reason": "Song = expliziter Tribut an Hasekura und die Keichō-Gesandtschaft — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier C).",
+    "rejectedAt": "2026-10-01",
     "rejectedBy": "manual"
   },
   {
-    "episodeId": 242,
-    "songId": "warkings-battle-of-marathon",
-    "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier C).",
-    "rejectedAt": "2026-09-28",
+    "episodeId": 575,
+    "songId": "rodrigo-rodriguez-the-road-of-hasekura-tsunenaga",
+    "reason": "Album dem Hasekura Tsunenaga / der Gesandtschaft gewidmet — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Shakuhachi / Weltmusik, kein Rock/Metal (Tier C).",
+    "rejectedAt": "2026-10-01",
     "rejectedBy": "manual"
   },
   {
-    "episodeId": 289,
-    "songId": "judicator-the-queen-of-all-cities",
-    "reason": "Song = Erster Kreuzzug / Ankunft in Konstantinopel und Eid gegenüber Alexios (1097). Folge = Vierter Kreuzzug / Plünderung 1204 — andere Expedition und Jahrhundert (Tier C).",
-    "rejectedAt": "2026-09-28",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 184,
-    "songId": "saxon-witches-of-salem",
-    "reason": "Song = Hexenprozesse von Salem (Massachusetts, 1692). Folge = Katharina Kepler in Leonberg/Württemberg — gleiches Thema Hexerei, andere Personen, Ort und Jahrhundert (Tier C).",
-    "rejectedAt": "2026-09-28",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 184,
-    "songId": "burning-witches-executed",
-    "reason": "Song = Anna Göldi (Glarus, „letzte Hexenhinrichtung“ der Schweiz). Folge = Katharina Kepler — andere Person und Ort, nur loser Hexenprozess-Bezug (Tier C).",
-    "rejectedAt": "2026-09-28",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 40,
-    "songId": "saxon-kubla-khan-and-the-merchant-of-venice",
-    "reason": "Song = Marco Polo / Kublai Khan / Seidenstraßen-Reise nach Xanadu. Folge = Ursprung der Seidenstraße (u. a. Pfeil und Bogen) — gleiches Stichwort Seidenstraße, anderer Erzählfokus und Epoche (Tier C).",
-    "rejectedAt": "2026-09-28",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 199,
-    "songId": "sabaton-wolfpack",
-    "reason": "Song = U-Boot-Rudelkrieg WWII / Convoy ONS-92 (Mai 1942). Folge = UC 71 und U-Boot-Krieg im Ersten Weltkrieg — gleiches Thema U-Boote, anderer Krieg und anderes Boot (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 197,
-    "songId": "sabaton-talvisota",
-    "reason": "Song = Winterkrieg 1939/40 (Sowjetunion vs. Finnland). Folge = kurzlebiges Königreich Finnland / Friedrich Karl von Hessen 1918 — anderes Ereignis und Jahrzehnt (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 514,
-    "songId": "turisas-miklagard-overture",
-    "reason": "Song = generische Waräger-/Miklagard-(Konstantinopel-)Reise. Folge = Anna Komnene / Alexias — nur loser Byzanz-Bezug, andere Person und Fokus (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 105,
-    "songId": "iron-maiden-alexander-the-great",
-    "reason": "Song = Biografie Alexanders des Großen. Folge = Skanderbeg (Gjergj Kastrioti), nur als „neuer Alexander“ tituliert — Namensanklang, andere Person (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 241,
-    "songId": "sabaton-1648",
-    "reason": "Song = Westfälischer Friede / Ende des Dreißigjährigen Kriegs. Folge = Königsmarcks Prager Kunstraub 1648 während der Friedensverhandlungen — gleiches Jahr, anderer Fokus (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 323,
-    "songId": "sabaton-the-duelist",
-    "reason": "Song = Miyamoto Musashi / Duell mit Sasaki Kojiro. Folge = Republik Ezo und Ende des Shogunats — anderes Ereignis, nur loser Japan-Rahmen (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 542,
-    "songId": "civil-war-i-will-rule-the-universe",
-    "reason": "Song = Napoleon I. und die Kaiserkrönung. Folge = Kaiserin Eugénie — andere Person/Fokus (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 542,
-    "songId": "crystallion-hundred-days",
-    "reason": "Song = Napoleons Hundert Tage (Elba–Waterloo). Folge = Kaiserin Eugénie — andere Person/Phase (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 291,
-    "songId": "iron-maiden-run-to-the-hills",
-    "reason": "Song = Kolonisierung Nordamerikas / First Nations. Folge = Schlacht von Adua 1896 (Menelik II. / Äthiopien gegen Italien) — nur loser Anti-Kolonial-Rahmen, anderes Ereignis (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 306,
-    "songId": "iron-maiden-empire-of-the-clouds",
-    "reason": "Song = Absturz des britischen Luftschiffs R101 (1930). Folge = Camillo Castiglioni (u. a. Habsburger Militärluftschiff mit Porsche) — nur loser Luftschiff-Rahmen, anderes Ereignis (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 323,
+    "episodeId": 575,
     "songId": "sabaton-shiroyama",
-    "reason": "Song = Schlacht von Shiroyama / Satsuma-Rebellion 1877 (Saigō Takamori). Folge = Republik Ezo / Boshin-Krieg 1868–69 (Enomoto) — verwandte Meiji-Ära, anderes Ereignis (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 542,
-    "songId": "sabaton-i-emperor",
-    "reason": "Song = Napoleon I. (Kaiser-/Eroberer-Karriere). Folge = Kaiserin Eugénie — andere Person (Tier C).",
-    "rejectedAt": "2026-09-29",
-    "rejectedBy": "manual"
-  },
-  {
-    "episodeId": 542,
-    "songId": "serenity-the-art-of-war",
-    "reason": "Song = Napoleonische Kriege / Napoleon I. Folge = Kaiserin Eugénie — andere Person (Tier C).",
-    "rejectedAt": "2026-09-29",
+    "reason": "Song = Schlacht von Shiroyama / Satsuma-Rebellion 1877 (Saigō Takamori). Folge = Keichō-Gesandtschaft 1613 (Hasekura) — anderes Jahrhundert und Ereignis (Tier C).",
+    "rejectedAt": "2026-10-01",
     "rejectedBy": "manual"
   }
 ]
