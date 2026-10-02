@@ -74,6 +74,29 @@
     ]
   },
   {
+    "id": "antrisch-i-festgefroren",
+    "band": "Antrisch",
+    "title": "I Festgefroren",
+    "entities": [
+      "Franklin-Expedition"
+    ],
+    "era": "1845–1848",
+    "spotifyUrl": "https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NUOy8idWfxw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=NUOy8idWfxw",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Teil einer EP über die Franklin-Expedition; die Folge behandelt dieselbe Expedition."
+      }
+    ]
+  },
+  {
     "id": "antrisch-iiii-ultima-ratio",
     "band": "Antrisch",
     "title": "IIII Ultima Ratio",
@@ -149,6 +172,29 @@
     ]
   },
   {
+    "id": "black-sabbath-breakout",
+    "band": "Black Sabbath",
+    "title": "Breakout",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "1987 (Saxophon-Einsatz)",
+    "spotifyUrl": "https://open.spotify.com/track/77JrHaXsxcufEjh5mfMmR3",
+    "youtubeUrl": "https://youtu.be/I6mLrmcIbck",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://youtu.be/I6mLrmcIbck",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Enthält ein markantes Saxophonsolo; die Folge behandelt Erfindung, Klang und Wirkung des Saxophons."
+      }
+    ]
+  },
+  {
     "id": "blazon-stone-the-tale-of-vasa",
     "band": "Blazon Stone",
     "title": "The Tale of Vasa",
@@ -197,6 +243,42 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/The_IVth_Crusade",
         "note": "Album artwork: Delacroix Entry of the Crusaders in Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "burial-in-the-sky-an-orphaned-city",
+    "band": "Burial in the Sky",
+    "title": "An Orphaned City",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/7Kjvta0k7JUZTzIWuM8gxg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=51sdrAx5cTY",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Setzt das Saxophon in einer Bridge ein; die Folge behandelt das Instrument und seinen Erfinder."
+      }
+    ]
+  },
+  {
+    "id": "burial-in-the-sky-mountains-pt-2-empathy",
+    "band": "Burial in the Sky",
+    "title": "Mountains, Pt. 2 (Empathy)",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/3f9qR5TR8UveWhhfI24FT1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QvR99n2CeW8",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Rückt das Saxophon in einer längeren melodischen Passage in den Vordergrund; die Folge behandelt das Instrument und seinen Erfinder."
       }
     ]
   },
@@ -801,6 +883,29 @@
     ]
   },
   {
+    "id": "hexekration-rites-the-grimoire-of-insanity",
+    "band": "Hexekration Rites",
+    "title": "The Grimoire of Insanity",
+    "entities": [
+      "Grimoire"
+    ],
+    "era": "Grimoire-Motiv (modern)",
+    "spotifyUrl": "https://open.spotify.com/track/4pHpgkyk3siT8W0Wjf8Gr5",
+    "youtubeUrl": "https://youtu.be/g9kcU7kcY7Q?feature=shared",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://youtu.be/g9kcU7kcY7Q?feature=shared",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Ein Grimoire und die ihm zugeschriebene magische Macht stehen im Zentrum des Songs; die Folge behandelt Grimoires historisch."
+      }
+    ]
+  },
+  {
     "id": "iced-earth-attila",
     "band": "Iced Earth",
     "title": "Attila",
@@ -852,6 +957,44 @@
     ]
   },
   {
+    "id": "in-extremo-merseburger-zauberspruche-1",
+    "band": "In Extremo",
+    "title": "Merseburger Zaubersprüche 1",
+    "entities": [
+      "Merseburger Zaubersprüche",
+      "Zaubertext"
+    ],
+    "era": "Frühmittelalter (Merseburger Zaubersprüche)",
+    "spotifyUrl": "https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rGa2woc4uig",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Vertont einen der Merseburger Zaubersprüche; die Folge behandelt schriftlich überlieferte Zaubertexte und Grimoires."
+      }
+    ]
+  },
+  {
+    "id": "in-extremo-merseburger-zauberspruche-2",
+    "band": "In Extremo",
+    "title": "Merseburger Zaubersprüche 2",
+    "entities": [
+      "Merseburger Zaubersprüche",
+      "Zaubertext"
+    ],
+    "era": "Frühmittelalter (Merseburger Zaubersprüche)",
+    "spotifyUrl": "https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=CEmCyG4tvds",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Vertont einen der Merseburger Zaubersprüche; die Folge behandelt schriftlich überlieferte Zaubertexte und Grimoires."
+      }
+    ]
+  },
+  {
     "id": "iron-maiden-aces-high",
     "band": "Iron Maiden",
     "title": "Aces High",
@@ -881,8 +1024,8 @@
       "Alexandria"
     ],
     "era": "356–323 v. Chr.",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6BH9HvZx3nI",
     "sources": [
       {
         "type": "wikipedia",
@@ -1178,6 +1321,43 @@
     ]
   },
   {
+    "id": "metallica-the-call-of-ktulu",
+    "band": "Metallica",
+    "title": "The Call of Ktulu",
+    "entities": [
+      "H. P. Lovecraft"
+    ],
+    "era": "Lovecraft-Motiv (1984)",
+    "spotifyUrl": "https://open.spotify.com/track/4qPgSwPUGigsmx6gUV2dnU",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3vSH9pMzHm0",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Bezug auf H. P. Lovecraft, der in der Grimoire-Folge erwähnt wird; kein direkter Bezug zur Geschichte der Grimoires."
+      }
+    ]
+  },
+  {
+    "id": "nanowar-of-steel-uranus",
+    "band": "Nanowar of Steel",
+    "title": "Uranus",
+    "entities": [
+      "Wilhelm Herschel",
+      "Entdeckung des Uranus"
+    ],
+    "era": "18./19. Jh. (Herschel)",
+    "spotifyUrl": "https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OSWszdSHkyE",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Erwähnt die Entdeckung des Uranus durch Wilhelm Herschel; die Folge porträtiert Wilhelm und Caroline Herschel umfassender."
+      }
+    ]
+  },
+  {
     "id": "nightfall-akhenaton-the-9th-pharaoh-of-the-18th-dynasty",
     "band": "Nightfall",
     "title": "Akhenaton, the 9th Pharaoh of the 18th Dynasty",
@@ -1208,8 +1388,8 @@
       "Manowar"
     ],
     "era": "1988 (Metal-Kultur)",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RSSmwXy98IY",
     "sources": [
       {
         "type": "band",
@@ -1334,6 +1514,53 @@
     ]
   },
   {
+    "id": "panopticon-black-sood-and-red-blood",
+    "band": "Panopticon",
+    "title": "Black Soot and Red Blood",
+    "entities": [
+      "Arbeitskampf",
+      "Gewerkschaften"
+    ],
+    "era": "frühes 20. Jh. / Kentucky",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://youtu.be/9WrlRYJjBwU",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://youtu.be/9WrlRYJjBwU",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://youtu.be/9WrlRYJjBwU",
+        "note": "PR-Schreibweise songId „Sood“; korrekter Tracktitel „Soot“"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Behandelt historische Arbeitskämpfe, gewerkschaftliche Organisierung und Gewalt gegen Bergleute in Kentucky; die Folge behandelt dieselben Kernthemen am Beispie"
+      }
+    ]
+  },
+  {
+    "id": "panzerballett-take-five",
+    "band": "Panzerballett",
+    "title": "Take Five",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/2aGqhiRrIH5GJe6oFcpayP",
+    "youtubeUrl": "https://www.youtube.com/watch?v=emraZn3dYNM",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Die Metal-Jazz-Bearbeitung führt Saxophon in der offiziellen Besetzung; die Folge behandelt das Instrument und seinen Erfinder."
+      }
+    ]
+  },
+  {
     "id": "powerwolf-1589",
     "band": "Powerwolf",
     "title": "1589",
@@ -1416,6 +1643,47 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
         "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "rivers-of-nihil-the-silent-life",
+    "band": "Rivers of Nihil",
+    "title": "The Silent Life",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/4iDQzPpa7FJ1RYfIGdH49e",
+    "youtubeUrl": "https://www.youtube.com/watch?v=N6_WKGTeWH8",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Das Saxophon wurde für diesen Track gezielt als neues Klangmittel aufgenommen; die Folge behandelt das Instrument und seinen Erfinder."
+      }
+    ]
+  },
+  {
+    "id": "rivers-of-nihil-where-owls-know-my-name",
+    "band": "Rivers of Nihil",
+    "title": "Where Owls Know My Name",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/6NgRSCfGt18L0ZbpHVBZWW",
+    "youtubeUrl": "https://youtu.be/LBAXZto7uVc",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://youtu.be/LBAXZto7uVc",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Der Track gehört zu dem Album, auf dem die Band Saxophon prominent in ihren Death Metal integrierte; die Folge behandelt das Instrument und seinen Erfinder."
       }
     ]
   },
@@ -3452,8 +3720,8 @@
       "Leather"
     ],
     "era": "1981 (Metal-Kultur)",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0rSUGG0uqjgKSEc7jgezpf",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0x313jU1XMc",
     "sources": [
       {
         "type": "wikipedia",
@@ -3528,6 +3796,66 @@
         "type": "lyrics",
         "url": "https://oldielyrics.com/lyrics/saxon/witches_of_salem.html",
         "note": "Salem witch trials / Massachusetts"
+      }
+    ]
+  },
+  {
+    "id": "scent-of-amber-custom-of-the-sea",
+    "band": "Scent of Amber",
+    "title": "Custom of the Sea",
+    "entities": [
+      "Der Fall der „Mignonette“",
+      "Richard Parker"
+    ],
+    "era": "1884",
+    "spotifyUrl": "https://open.spotify.com/track/5epQW1revzqLK58ffFcwac",
+    "youtubeUrl": "https://www.youtube.com/watch?v=P_KOPhWUXcw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=P_KOPhWUXcw",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Durch den Fall der „Mignonette“ und die Perspektive Richard Parkers inspiriert; die Folge behandelt denselben Fall."
+      }
+    ]
+  },
+  {
+    "id": "schweisser-ich-bin-du-2",
+    "band": "Schweisser",
+    "title": "ich bin du 2",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/6Fes7eGlr1Xg7kuUq7jROg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xpFUpcb6E98",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder."
+      }
+    ]
+  },
+  {
+    "id": "schweisser-pausenclown",
+    "band": "Schweisser",
+    "title": "Pausenclown",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/43CMOV9TVTRVLtughonQEo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=G7dQZ4TyMfw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder."
       }
     ]
   },
@@ -3776,6 +4104,24 @@
     ]
   },
   {
+    "id": "tool-lateralus",
+    "band": "Tool",
+    "title": "Lateralus",
+    "entities": [
+      "Fibonacci-Folge"
+    ],
+    "era": " Mathematik / Fibonacci (Song 2001)",
+    "spotifyUrl": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Y7JG63IuaWs",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Fibonacci-Folge als Grundlage der Silbenstruktur; die Episode behandelt ihre Geschichte."
+      }
+    ]
+  },
+  {
     "id": "turisas-in-the-court-of-jarisleif",
     "band": "Turisas",
     "title": "In the Court of Jarisleif",
@@ -3959,6 +4305,47 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Countess_Bathory_(song)",
         "note": "Elizabeth Báthory / Black Metal (1982)"
+      }
+    ]
+  },
+  {
+    "id": "visions-of-atlantis-return-to-lemuria",
+    "band": "Visions of Atlantis",
+    "title": "Return to Lemuria",
+    "entities": [
+      "Lemuria"
+    ],
+    "era": "Mythos / 19.–20. Jh. Lemuria-Idee",
+    "spotifyUrl": "https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4tJAdUahyTA",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=4tJAdUahyTA",
+        "note": "YouTube (aus PR)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Bezug auf den versunkenen Kontinent Lemuria; zugleich Gegenstand der Folge."
+      }
+    ]
+  },
+  {
+    "id": "volbeat-lola-montez",
+    "band": "Volbeat",
+    "title": "Lola Montez",
+    "entities": [
+      "Lola Montez"
+    ],
+    "era": "19. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GWOIDN-akrY",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Lola Montez und ihre öffentliche Inszenierung stehen in Song und Folge im Zentrum."
       }
     ]
   },

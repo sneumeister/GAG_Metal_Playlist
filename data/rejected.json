@@ -198,7 +198,7 @@
   {
     "episodeId": 333,
     "songId": "iron-maiden-alexander-the-great",
-    "reason": "Folge fokussiert die Stadt Alexandria (Gründung/Kulturzentrum, Umsetzung nach Alexanders Tod); Song ist chronologische Biografie Alexanders als Feldherr. Alexander ist nur Rahmen/Gründer — Fokus wie bei Vasa/Lion zu lose (Tier C).",
+    "reason": "Song = Alexanders Aufstieg, Perserfeldzug, Indienzug und Tod in Babylon (Alexandria nur als Gründungszeile). Folge = Alexandria als Nachlassprojekt — Stadt durch seine Nachfolger zum antiken Kultur- und Wissenszentrum. Gemeinsame Person und Gründungsrahmen, aber kein gemeinsamer Erzählgegenstand — Tier C.",
     "rejectedAt": "2026-09-26",
     "rejectedBy": "manual"
   },
@@ -275,14 +275,14 @@
   {
     "episodeId": 501,
     "songId": "manowar-kings-of-metal",
-    "reason": "Song = Metal-Selbstinszenierung („Kings of Metal“). Folge = Entstehung der Jeans im 19. Jh. (Kalifornien) — kein gemeinsames Ereignis/Person (Tier C).",
+    "reason": "Song = Metal-Selbstinszenierung („Kings of Metal“); Jeans/Leather nur als Szene-Look („Wearin' jeans and leather“). Folge = Entstehung der Jeans im 19. Jh. (Kalifornien) — Wortanklang ohne Erfindungsgeschichte — Tier C.",
     "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   },
   {
     "episodeId": 501,
     "songId": "saxon-denim-and-leather",
-    "reason": "Song = NWOBHM-Fan-Hymne / Denim-and-Leather-Look der Metal-Szene (1981). Folge = Erfindung/Geschichte der Jeans im 19. Jh. — nur Wortanklang „Denim/Jeans“, anderer Fokus (Tier C).",
+    "reason": "Song = Fan-Hymne der New Wave of British Heavy Metal / Denim-and-Leather-Look der Metal-Szene (1981). Folge = Erfindung/Geschichte der Jeans im 19. Jh. — nur Wortanklang „Denim/Jeans“, anderer Fokus — Tier C.",
     "rejectedAt": "2026-09-29",
     "rejectedBy": "manual"
   },
@@ -417,6 +417,83 @@
     "songId": "sabaton-shiroyama",
     "reason": "Song = Schlacht von Shiroyama / Satsuma-Rebellion 1877 (Saigō Takamori). Folge = Keichō-Gesandtschaft 1613 (Hasekura) — anderes Jahrhundert und Ereignis (Tier C).",
     "rejectedAt": "2026-10-01",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 310,
+    "songId": "panopticon-black-sood-and-red-blood",
+    "reason": "Song = Bloody Harlan / Kentucky-Kohlebergbau (Union, Streik, „black lungs“, ~1930er). Folge = Paula Thiede und die frühe deutsche Gewerkschaftsbewegung (Druckbranche, um 1900). Motive Streik/Organisation überschneiden sich, aber Land, Zeit, Branche und Person sind andere — Themenparallel ohne gemeinsamen historischen Kern — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "black-sabbath-breakout",
+    "reason": "Song = Instrumentalstück mit Bläserarrangement; kein nachweisbarer Bezug zu Saxophon-Erfindung oder Adolphe Sax. Folge = Adolphe Sax und Erfindungs-/Patent-/Vermarktungs-/Rezeptionsgeschichte des Saxophons — nur Instrumentklang — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "burial-in-the-sky-an-orphaned-city",
+    "reason": "Song = Track eines modernen Prog-/Tech-Death-Albums; Saxophonist Zach Strouse spielt darauf mit. Folge = Adolphe Sax und die Erfindungsgeschichte des Saxophons — Sax nur als Arrangement, kein historischer Erzählfokus — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "burial-in-the-sky-mountains-pt-2-empathy",
+    "reason": "Song = psychologisch-existenzielle Lyrics auf einem Prog-/Tech-Death-Album; Saxophon allenfalls als Klangfarbe. Folge = Adolphe Sax und die Erfindungsgeschichte des Saxophons — kein Bezug zu Erfindung, Patent oder Person — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "panzerballett-take-five",
+    "reason": "Song = moderne Metal-/Jazz-Bearbeitung eines Jazzstandards. Folge = Adolphe Sax und die Erfindungsgeschichte des Saxophons — musikalische Sax-Verwendung ≠ Biografie/Erfindung — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "rivers-of-nihil-the-silent-life",
+    "reason": "Song enthält ein Saxophon-Solo, weil die Band Zach Strouse als befreundeten Saxophonisten kannte und eine offene Passage klanglich füllen wollte. Folge = Adolphe Sax und die Erfindungsgeschichte des Saxophons — kein Erzählbezug zu Erfindung oder Person — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "rivers-of-nihil-where-owls-know-my-name",
+    "reason": "Song/Album = dystopisch-existenzielle Geschichte über Verlust, Altern und den letzten Menschen; Saxophon als Atmosphäre. Folge = Adolphe Sax und die Erfindungsgeschichte des Saxophons — kein gemeinsamer historischer Kern — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "schweisser-ich-bin-du-2",
+    "reason": "Song = Saxophon allenfalls als stilistisches Mittel. Folge = Adolphe Sax und die Erfindungs-/Patent-/Vermarktungsgeschichte des Saxophons — Instrumentklang ≠ Erfindungsgeschichte — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 351,
+    "songId": "schweisser-pausenclown",
+    "reason": "Song = Saxophon allenfalls als stilistisches Mittel. Folge = Adolphe Sax und die Erfindungs-/Patent-/Vermarktungsgeschichte des Saxophons — Instrumentklang ≠ Erfindungsgeschichte — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 498,
+    "songId": "hexekration-rites-the-grimoire-of-insanity",
+    "reason": "Song = fiktives Okkult-Narrativ („book of dementia“, Chaosmacht, Megalith); Band (H.R. Arkyon): spontane Hate-Ritual-Texte, Album als eigenes „magical ritual book / desecration manifesto“ — nicht historische Zauberbücher. Folge = Kulturgeschichte realer Grimoires (u. a. Honorius, Faustus, Batak). Nur Wort/Motiv „Grimoire“, kein gemeinsamer historischer Kern — Tier C.",
+    "rejectedAt": "2026-10-02",
+    "rejectedBy": "manual"
+  },
+  {
+    "episodeId": 498,
+    "songId": "metallica-the-call-of-ktulu",
+    "reason": "Song = Instrumental, Lovecraft-Hommage an The Call of Cthulhu und dessen fiktiven Horror-Mythos. Folge = reale historische Grimoires und ihre Überlieferung. Kein gemeinsames historisches Werk, keine Person und keine Texttradition — Tier C.",
+    "rejectedAt": "2026-10-02",
     "rejectedBy": "manual"
   }
 ]

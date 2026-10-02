@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-01 07:19:34 +0200  </small>
-<small>**JSON-Status:** 2026-10-01 07:19:34 +0200  </small>
+<small>**Compile-Datum:** 2026-10-02 19:50:12 +0200  </small>
+<small>**JSON-Status:** 2026-10-02 19:18:31 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -13,8 +13,10 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | ---: | --- | --- | --- | :---: | :---: | :---: |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Hougoumont | B | [link](https://www.youtube.com/watch?v=AeRLXiYmt_c) | [link](https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | B | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
+| [100](https://gadg.fm/100) | Der Fall der „Mignonette“ und seine Folgen | Scent of Amber | Custom of the Sea | A | [link](https://www.youtube.com/watch?v=P_KOPhWUXcw) | [link](https://open.spotify.com/track/5epQW1revzqLK58ffFcwac) |
 | [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | — |
 | [107](https://gadg.fm/107) | Eine kurze Geschichte der Guillotine | Saxon | Madame Guillotine | A | [link](https://www.youtube.com/watch?v=Tfca2Kz4064) | [link](https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz) |
+| [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Antrisch | I Festgefroren | A | [link](https://www.youtube.com/watch?v=NUOy8idWfxw) | [link](https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Antrisch | IIII Ultima Ratio | A | — | [link](https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Unleash the Archers | Northwest Passage | B | [link](https://www.youtube.com/watch?v=XRD3vrSLPaw) | [link](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Iron Maiden | Stranger in a Strange Land | B | [link](https://www.youtube.com/watch?v=UJsl-bB7lmk) | [link](https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2) |
@@ -37,11 +39,14 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | [link](https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | B | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
+| [280](https://gadg.fm/280) | Der versunkene Kontinent Lemuria | Visions of Atlantis | Return to Lemuria | B | [link](https://www.youtube.com/watch?v=4tJAdUahyTA) | [link](https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr) |
+| [283](https://gadg.fm/283) | Lola Montez | Volbeat | Lola Montez | A | [link](https://www.youtube.com/watch?v=GWOIDN-akrY) | [link](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) |
 | [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Battle Symphony | The Fall of the Queen of Cities | A | [link](https://www.youtube.com/watch?v=KQyYkMbEZP4) | [link](https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM) |
 | [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Bolt Thrower | The IVth Crusade | A | [link](https://www.youtube.com/watch?v=4GPFduVKuEg) | [link](https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo) |
 | [290](https://gadg.fm/290) | Der Angriff der Leichten Brigade | Iron Maiden | The Trooper | A | [link](https://www.youtube.com/watch?v=X4bgXH3sJ2Q) | [link](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) |
 | [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Herzel | La Flamme | A | [link](https://www.youtube.com/watch?v=ciDI4za9eCU) | [link](https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD) |
 | [309](https://gadg.fm/309) | Die Bestie des Gévaudan | Powerwolf | Beast of Gévaudan | A | [link](https://www.youtube.com/watch?v=po-u-V6GiEk) | [link](https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ) |
+| [313](https://gadg.fm/313) | Die Geschwister Herschel | Nanowar of Steel | Uranus | B | [link](https://www.youtube.com/watch?v=OSWszdSHkyE) | [link](https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Inquisition | A | [link](https://www.youtube.com/watch?v=IKGbWrpn474) | [link](https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ) |
@@ -60,6 +65,8 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Ruina Imperii | B | [link](https://www.youtube.com/watch?v=c898WyjHDx4) | [link](https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X) |
 | [476](https://gadg.fm/476) | Boabdil und das Ende Granadas | Dark Moor | El Último Rey | A | [link](https://www.youtube.com/watch?v=IeqHGDjmD0g) | [link](https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ) |
 | [493](https://gadg.fm/493) | Kernspaltung und Schwerwasser-Sabotage | Sabaton | Saboteurs | A | [link](https://www.youtube.com/watch?v=OlOdefB5Kyk) | [link](https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf) |
+| [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 1 | B | [link](https://www.youtube.com/watch?v=rGa2woc4uig) | [link](https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q) |
+| [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 2 | B | [link](https://www.youtube.com/watch?v=CEmCyG4tvds) | [link](https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz) |
 | [503](https://gadg.fm/503) | Die Schlacht bei Kadesch | Ottone Pesante | Battle of Qadesh | A | [link](https://www.youtube.com/watch?v=8Q00PZR2_og) | [link](https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V) |
 | [508](https://gadg.fm/508) | HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft | Sabaton | Father | A | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Serenity | Symphony for the Quiet | B | [link](https://www.youtube.com/watch?v=vaMBn0GsgLY) | [link](https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c) |
@@ -69,6 +76,7 @@ Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues I
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) |
+| [567](https://gadg.fm/567) | Die Fibonacci-Folge | Tool | Lateralus | B | [link](https://www.youtube.com/watch?v=Y7JG63IuaWs) | [link](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=o8ML-EGLNCE) | — |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Onmyō-za | 蒼き独眼 (Aoki Dokugan) | B | [link](https://www.youtube.com/watch?v=j6GJdnEaZQ8) | [link](https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ) |

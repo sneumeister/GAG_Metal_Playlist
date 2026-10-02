@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01 07:19:34 +0200",
+  "updatedAt": "2026-10-02 19:18:31 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -41,6 +41,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 100,
+      "episodeTitle": "Der Fall der „Mignonette“ und seine Folgen",
+      "episodeUrl": "https://gadg.fm/100",
+      "songId": "scent-of-amber-custom-of-the-sea",
+      "band": "Scent of Amber",
+      "songTitle": "Custom of the Sea",
+      "matchTier": "A",
+      "justification": "Song verarbeitet den Mignonette-Fall 1884: Schiffbruch, Hunger im Rettungsboot, Kannibalismus und den als Rechtfertigung bemühten „custom of the sea“. Folge erzählt denselben Fall und seine juristische Folge R v Dudley and Stephens.",
+      "sharedEntities": [
+        "Der Fall der „Mignonette“",
+        "Richard Parker"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5epQW1revzqLK58ffFcwac",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P_KOPhWUXcw",
+      "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 104,
       "episodeTitle": "Crécy - Chronik eines Versagens",
       "episodeUrl": "https://gadg.fm/104",
@@ -77,6 +95,23 @@
       "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
       "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 126,
+      "episodeTitle": "Für immer im Eis – die Franklin Expedition",
+      "episodeUrl": "https://gadg.fm/126",
+      "songId": "antrisch-i-festgefroren",
+      "band": "Antrisch",
+      "songTitle": "I Festgefroren",
+      "matchTier": "A",
+      "justification": "Auftakt vom Album Expedition II: Die Passage („I FESTGEFROREN – Packeisfalle“): schildert die Fahrt von Erebus und Terror ins Packeis. Folge erzählt dieselbe Franklin-Expedition und ihr Scheitern bei der Suche nach der Nordwestpassage.",
+      "sharedEntities": [
+        "Franklin-Expedition"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NUOy8idWfxw",
+      "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
     {
@@ -488,6 +523,40 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 280,
+      "episodeTitle": "Der versunkene Kontinent Lemuria",
+      "episodeUrl": "https://gadg.fm/280",
+      "songId": "visions-of-atlantis-return-to-lemuria",
+      "band": "Visions of Atlantis",
+      "songTitle": "Return to Lemuria",
+      "matchTier": "B",
+      "justification": "Song = Lemuria als mystisch-utopischer, im Meer versunkener Kontinent (Liebes-/Reise-Erzählung). Folge = wissenschaftliche Lemuria-Hypothese Philip Sclaters (1864) und ihre spätere esoterische Umdeutung. Gemeinsamer Mythosbegriff, anderer historischer Kern und Erzählfokus — Tier B.",
+      "sharedEntities": [
+        "Lemuria"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4tJAdUahyTA",
+      "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 283,
+      "episodeTitle": "Lola Montez",
+      "episodeUrl": "https://gadg.fm/283",
+      "songId": "volbeat-lola-montez",
+      "band": "Volbeat",
+      "songTitle": "Lola Montez",
+      "matchTier": "A",
+      "justification": "Song porträtiert Lola Montez als provokante Tänzerin und Skandalfigur (Spider Dance, erotische Bühnenpersona, u. a. Goldfelder-/Seekamp-Anspielungen). Folge erzählt ihre Biografie umfassender; gleiche Person und derselbe öffentliche Figuren- und Karrierefokus.",
+      "sharedEntities": [
+        "Lola Montez"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GWOIDN-akrY",
+      "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 289,
       "episodeTitle": "Ein Kreuzzug, der einen ungeahnten Verlauf nahm",
       "episodeUrl": "https://gadg.fm/289",
@@ -580,6 +649,24 @@
       "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 313,
+      "episodeTitle": "Die Geschwister Herschel",
+      "episodeUrl": "https://gadg.fm/313",
+      "songId": "nanowar-of-steel-uranus",
+      "band": "Nanowar of Steel",
+      "songTitle": "Uranus",
+      "matchTier": "B",
+      "justification": "Primär Comedy (Wortspiel Uranus/your anus; Text: „An old joke still deserves a song“). Historischer Mini-Rahmen explizit: 6,2″-Teleskop in William Herschels Händen, Entdeckung/Sichtbarkeit; Astro-Amateure. Folge = Geschwister Herschel (Wilhelm/Caroline), nicht nur Uranus. Gemeinsame Person/1781, anderer Fokus — Tier B.",
+      "sharedEntities": [
+        "Wilhelm Herschel",
+        "Entdeckung des Uranus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OSWszdSHkyE",
+      "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
     {
@@ -925,6 +1012,42 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 498,
+      "episodeTitle": "Eine kleine Geschichte des Grimoires",
+      "episodeUrl": "https://gadg.fm/498",
+      "songId": "in-extremo-merseburger-zauberspruche-1",
+      "band": "In Extremo",
+      "songTitle": "Merseburger Zaubersprüche 1",
+      "matchTier": "B",
+      "justification": "Song vertont den 1. Merseburger Zauberspruch (reale AHD-Beschwörungsformel, Eintrag ca. 10. Jh. in christlicher Sakramentar-Handschrift); dazu Band-Rahmen. Folge = Geschichte der Grimoires / magische Schrifttradition — gleicher Quellenbereich, aber die Sprüche sind kein typisches Grimoire und nicht Fokus der Folge — Tier B.",
+      "sharedEntities": [
+        "Merseburger Zaubersprüche",
+        "Zaubertext"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rGa2woc4uig",
+      "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 498,
+      "episodeTitle": "Eine kleine Geschichte des Grimoires",
+      "episodeUrl": "https://gadg.fm/498",
+      "songId": "in-extremo-merseburger-zauberspruche-2",
+      "band": "In Extremo",
+      "songTitle": "Merseburger Zaubersprüche 2",
+      "matchTier": "B",
+      "justification": "Song vertont den 2. Merseburger Zauberspruch (reale AHD-Beschwörungsformel, Eintrag ca. 10. Jh. in christlicher Sakramentar-Handschrift); dazu Band-Rahmen. Folge = Geschichte der Grimoires / magische Schrifttradition — gleicher Quellenbereich, aber die Sprüche sind kein typisches Grimoire und nicht Fokus der Folge — Tier B.",
+      "sharedEntities": [
+        "Merseburger Zaubersprüche",
+        "Zaubertext"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CEmCyG4tvds",
+      "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 503,
       "episodeTitle": "Die Schlacht bei Kadesch",
       "episodeUrl": "https://gadg.fm/503",
@@ -1091,6 +1214,23 @@
       "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
       "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 567,
+      "episodeTitle": "Die Fibonacci-Folge",
+      "episodeUrl": "https://gadg.fm/567",
+      "songId": "tool-lateralus",
+      "band": "Tool",
+      "songTitle": "Lateralus",
+      "matchTier": "B",
+      "justification": "Song baut Verse und Rhythmus nach der Fibonacci-Folge auf (Silbenzahlen; Chorus 9/8–8/8–7/8 → „987“; Band bestätigt Absicht). Folge = Geschichte der Fibonacci-Folge um Leonardo von Pisa und indisch-arabische Ziffern. Identisches mathematisches Objekt; Song = formale künstlerische Anwendung, Folge = historische Herkunft und Wissensgeschichte — Tier B.",
+      "sharedEntities": [
+        "Fibonacci-Folge"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y7JG63IuaWs",
+      "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
     {
