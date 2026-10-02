@@ -10,6 +10,10 @@ alwaysApply: true
 - **Commit und Push nur auf ausdrücklichen Zuruf** des Users.
 - Commit-Messages auf Deutsch (siehe Rule `commits-deutsch`).
 
+## Pull Requests
+
+Bei PRs mit Song-/Playlist-Vorschlägen: Ablauf laut lokalem Plan `plans/pr-abarbeitung.md` (Branch von aktuellem `main`, Diff zuerst, Roh-PR nicht blind mergen).
+
 ## Wegwerfskripte
 
 - Einmal-Skripte nur unter `scripts/_tmp_*` (z. B. `scripts/_tmp_round11_scan.py`).
