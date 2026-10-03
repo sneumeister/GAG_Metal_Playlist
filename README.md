@@ -11,6 +11,14 @@ Ziel ist eine Trefferliste: **Folge ↔ Song ↔ Begründung ↔ Spotify/YouTube
 
 Die Live-Ansicht läuft über GitHub Pages und rendert die HTML-Datei im Browser.
 
+## Matching-Stufen
+
+- **A** – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).
+- **B** – gemeinsamer historischer Rahmen, klar anderer Fokus oder nur Inspiration/Metapher.
+- **C** – zu lose / Absage → `data/rejected.json` (Sammler für alles Geprüfte, das nicht in die Playlist kommt).
+
+In der Playlist erscheinen nur Stufe A und B; Stufe C ist der Reject-Sammler.
+
 ## Mitmachen
 
 Songvorschläge, Korrekturen und anderes Feedback: über [GitHub Issues](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose) (Formular wählen).
@@ -21,7 +29,7 @@ Dies ist ein **unabhängiges Fan-Projekt** und steht in keiner Verbindung zur Ge
 
 Podcast-Titel, Folgeninhalte sowie Band- und Songnamen bleiben bei den jeweiligen Rechteinhabern. Hier entstehen nur Zuordnungen und Begründungen; es werden **keine** Audio-/Videodateien bereitgestellt, sondern Links zu Spotify und YouTube.
 
-Die Einstufung (Stufe A/B) und die Begründungen sind **redaktionelle Einschätzungen**. Für Richtigkeit, Vollständigkeit und erreichbare externe Links wird keine Haftung übernommen.
+Die Einstufung (Stufe A/B/C) und die Begründungen sind **redaktionelle Einschätzungen**. Für Richtigkeit, Vollständigkeit und erreichbare externe Links wird keine Haftung übernommen.
 
 ### Quellen
 

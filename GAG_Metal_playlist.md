@@ -1,13 +1,13 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-02 19:50:12 +0200  </small>
+<small>**Compile-Datum:** 2026-10-03 12:44:45 +0200  </small>
 <small>**JSON-Status:** 2026-10-02 19:18:31 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
 
-**Stufe A** – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).  
-**Stufe B** – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.
+**Stufe A** – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).  
+**Stufe B** – gemeinsamer historischer Rahmen, klar anderer Fokus oder nur Inspiration/Metapher.
 
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |

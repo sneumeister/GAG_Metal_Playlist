@@ -240,8 +240,8 @@ tr.row-justification[hidden] {{
     <div>{_esc(MITMACHEN_INTRO)} <a href="{_esc(ISSUES_NEW_CHOOSE_URL)}">{_esc(MITMACHEN_LINK_LABEL)}</a></div>
   </div>
   <div class="legend">
-    <p><strong>Stufe A</strong> – Exact: dieselbe Person / Schlacht / benanntes Ereignis (gleicher Erzählfokus).</p>
-    <p><strong>Stufe B</strong> – Strong: eng verwandte Entity oder gleicher Kern mit abweichendem Fokus.</p>
+    <p><strong>Stufe A</strong> – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).</p>
+    <p><strong>Stufe B</strong> – gemeinsamer historischer Rahmen, klar anderer Fokus oder nur Inspiration/Metapher.</p>
     <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>
   </div>
   <div class="wrap">
