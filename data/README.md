@@ -6,7 +6,7 @@ Arbeitsdaten und Export für die GAG-Metal-Playlist. Matching-Regeln und Quellen
 | --- | --- |
 | `GAG_Metal_Playlist.json` | **Kanonische Trefferliste** – Objekt mit `updatedAt` und `entries` (Folge ↔ Song ↔ Begründung ↔ Links ↔ Tier) |
 | `songs.json` | Song-Katalog: Band, Titel, Entities, Era, Spotify/YouTube, Quellen |
-| `rejected.json` | Geprüfte Absagen (`episodeId` + `songId` + Begründung), damit Kandidaten nicht erneut vorgeschlagen werden |
+| `rejected.json` | Geprüfte Absagen – Objekt mit `updatedAt` und `entries` (`episodeId` + `songId` + `reason` + …), damit Kandidaten nicht erneut vorgeschlagen werden |
 | `episodes.jsonl` | Snapshot der GAG-Folgen (Titel, Beschreibung, Orte, Zeit) |
 | `episodes.meta.json` | Meta zum Snapshot (`sourceUrl`, `fetchedAt`) |
 | `export_playlist.py` | Einstieg: JSON → Markdown/HTML im Repo-Root |

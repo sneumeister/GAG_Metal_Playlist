@@ -22,6 +22,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
+if str(DATA) not in sys.path:
+    sys.path.insert(0, str(DATA))
+
+from gag_export.common import entries_from_raw  # noqa: E402
 
 EMPTY_MARKERS = {"", "_no response_", "n/a", "none", "-", "–"}
 
@@ -230,9 +234,10 @@ def triage(
 ) -> TriageResult:
     songs = load_json(data_dir / "songs.json")
     playlist = load_json(data_dir / "GAG_Metal_Playlist.json")
-    rejected = load_json(data_dir / "rejected.json")
+    rejected_raw = load_json(data_dir / "rejected.json")
     episodes = load_episodes(data_dir / "episodes.jsonl")
-    entries: list[dict] = playlist.get("entries") or []
+    entries: list[dict] = entries_from_raw(playlist, path_hint=data_dir / "GAG_Metal_Playlist.json")
+    rejected: list[dict] = entries_from_raw(rejected_raw, path_hint=data_dir / "rejected.json")
 
     result = TriageResult(band=band.strip(), title=title.strip(), folge_raw=folge_raw.strip())
 

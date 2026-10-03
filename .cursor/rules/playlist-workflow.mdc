@@ -25,10 +25,16 @@ Bei PRs mit Song-/Playlist-Vorschlägen: Ablauf laut lokalem Plan `plans/pr-abar
 | Datei | Inhalt | Wann schreiben |
 | --- | --- | --- |
 | `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) | Neuer Song oder Link-/Quellen-Update |
-| `data/GAG_Metal_Playlist.json` | Kanonische **A/B-Treffer** (`entries` + `updatedAt`) | Neuer/geänderter Match; Begründung schärfen |
-| `data/rejected.json` | Geprüfte **C-/Absagen** (`episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
+| `data/GAG_Metal_Playlist.json` | Objekt: `updatedAt` + `entries` (kanonische **A/B-Treffer**) | Neuer/geänderter Match; Begründung schärfen |
+| `data/rejected.json` | Objekt: `updatedAt` + `entries` (geprüfte **C-/Absagen**: `episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
 | `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | Bewusstes Snapshot-Update; bei Issue-Abarbeitung zuerst prüfen/aktualisieren (siehe `issue-abarbeitung`) |
 | `GAG_Metal_playlist.md` / `.html` | Lesbare Exporte | **Nie handeditieren** – nur via Export |
+
+### `updatedAt` (Playlist und Rejects)
+
+- Pflicht auf Objektebene in `data/GAG_Metal_Playlist.json` und `data/rejected.json`.
+- Format: `YYYY-MM-DD HH:MM:SS ±ZZZZ` (lokale Zeit mit Offset), z. B. `2026-10-02 19:18:31 +0200`.
+- Bei **jeder** inhaltlichen Änderung der jeweiligen Datei neu setzen (nicht nur bei neuen Einträgen, auch bei geschärften Begründungen).
 
 - JSON immer mit `ensure_ascii=False` schreiben.
 - Song muss in `songs.json` stehen, bevor er in der Playlist referenziert wird.

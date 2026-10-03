@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Any
 
 JSON_NAME = "GAG_Metal_Playlist.json"
+REJECTED_JSON_NAME = "rejected.json"
 MD_NAME = "GAG_Metal_playlist.md"
 HTML_NAME = "GAG_Metal_playlist.html"
 
@@ -32,21 +33,58 @@ def output_dir() -> Path:
     return data_dir().parent
 
 
+def file_updated_at() -> str:
+    """Zeitstempel für Datei-`updatedAt` (Playlist, Rejects): YYYY-MM-DD HH:MM:SS ±ZZZZ."""
+    return datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S %z")
+
+
+def compile_timestamp() -> str:
+    # Alias: Export-Compile-Datum nutzt dasselbe Format wie Datei-`updatedAt`.
+    return file_updated_at()
+
+
+def entries_from_raw(raw: Any, *, path_hint: str | Path = "JSON") -> list[dict[str, Any]]:
+    """
+    Extrahiert Einträge aus Playlist-/Reject-Dokumenten.
+    Kanonisch: Objekt mit `entries`; nacktes Array nur als Fallback.
+    """
+    if isinstance(raw, dict) and "entries" in raw:
+        return list(raw.get("entries") or [])
+    if isinstance(raw, list):
+        return list(raw)
+    raise ValueError(f"Unerwartetes JSON-Format in {path_hint}")
+
+
+def wrap_entries_document(
+    entries: list[dict[str, Any]],
+    *,
+    updated_at: str | None = None,
+) -> dict[str, Any]:
+    """Objektform mit `updatedAt` + `entries` (Playlist / Rejects)."""
+    return {
+        "updatedAt": updated_at or file_updated_at(),
+        "entries": list(entries),
+    }
+
+
 def load_entries(path: Path | None = None) -> list[dict[str, Any]]:
     """Liest Match-Einträge. Kanonisch: Objekt mit `entries`; Array nur als Fallback."""
     json_path = path or (data_dir() / JSON_NAME)
     raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
-    if isinstance(raw, dict) and "entries" in raw:
-        return list(raw["entries"])
-    if isinstance(raw, list):
-        return raw
-    raise ValueError(f"Unerwartetes JSON-Format in {json_path}")
+    return entries_from_raw(raw, path_hint=json_path)
+
+
+def load_rejected_entries(path: Path | None = None) -> list[dict[str, Any]]:
+    """Liest Reject-Einträge. Kanonisch: Objekt mit `entries`; Array nur als Fallback."""
+    json_path = path or (data_dir() / REJECTED_JSON_NAME)
+    raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
+    return entries_from_raw(raw, path_hint=json_path)
 
 
 def json_status_date(path: Path | None = None) -> str | None:
     """
     Letzter Bearbeitungszeitpunkt der Playlist-JSON (`updatedAt`).
-    Erwartetes Format: YYYY-MM-DD HH:MM:SS ±ZZZZ (wie compile_timestamp).
+    Erwartetes Format: YYYY-MM-DD HH:MM:SS ±ZZZZ (wie file_updated_at).
     Fallback: ältere Meta-Keys bzw. Neben-Datei `*.meta.json`.
     """
     json_path = path or (data_dir() / JSON_NAME)
@@ -62,11 +100,6 @@ def json_status_date(path: Path | None = None) -> str | None:
             if meta.get(key):
                 return str(meta[key])
     return None
-
-
-def compile_timestamp() -> str:
-    # Offset statt lokalem Zonenname (vermeidet Encoding-Probleme in Konsolen)
-    return datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S %z")
 
 
 def sorted_by_episode(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:

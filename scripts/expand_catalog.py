@@ -4,17 +4,24 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 import unicodedata
-from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT = Path(r"d:\Projekte\GAG_Metal_Playlist")
+ROOT = Path(__file__).resolve().parents[1]
 TODAY = "2026-09-26"
+if str(ROOT / "data") not in sys.path:
+    sys.path.insert(0, str(ROOT / "data"))
 
+from gag_export.common import (  # noqa: E402
+    entries_from_raw,
+    file_updated_at,
+    wrap_entries_document,
+)
 
-def playlist_updated_at() -> str:
-    """Aktueller Zeitpunkt für Playlist-`updatedAt` (Datum + Uhrzeit + Offset)."""
-    return datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S %z")
+# Rückwärtskompatibel für bestehende Aufrufe im Skript
+playlist_updated_at = file_updated_at
+
 SRC_INDEX = {
     "type": "sabaton-index",
     "url": "https://elicarter.net/wiki/SabatonIndex",
@@ -483,12 +490,10 @@ def main() -> None:
             eps.append(json.loads(line))
     ep_by_id = {e["id"]: e for e in eps}
 
-    raw_matches = load_json(matches_path, {"updatedAt": playlist_updated_at(), "entries": []})
-    if isinstance(raw_matches, list):
-        matches = raw_matches
-    else:
-        matches = list(raw_matches.get("entries") or [])
-    rejected = load_json(rejected_path, [])
+    raw_matches = load_json(matches_path, wrap_entries_document([]))
+    matches = entries_from_raw(raw_matches, path_hint=matches_path)
+    raw_rejected = load_json(rejected_path, wrap_entries_document([]))
+    rejected = entries_from_raw(raw_rejected, path_hint=rejected_path)
     decided = {(m["episodeId"], m["songId"]) for m in matches}
     decided |= {(r["episodeId"], r["songId"]) for r in rejected}
 
@@ -703,8 +708,8 @@ def main() -> None:
 
     # Sort matches
     matches.sort(key=lambda m: (m["episodeId"], m["band"], m["songTitle"]))
-    save_json(matches_path, {"updatedAt": playlist_updated_at(), "entries": matches})
-    save_json(rejected_path, rejected)
+    save_json(matches_path, wrap_entries_document(matches))
+    save_json(rejected_path, wrap_entries_document(rejected))
 
     print(f"songs={len(songs)} matches={len(matches)} (+{new_m}) rejected={len(rejected)} (+{new_r})")
 
