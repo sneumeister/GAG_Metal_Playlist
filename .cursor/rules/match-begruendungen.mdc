@@ -13,33 +13,46 @@ Gilt beim Schreiben und Ändern von:
 
 ## Stufe nur als Tier-Label
 
-- Playlist: **Tier A** oder **Tier B** (`matchTier`: `"A"` / `"B"`).
-- Absage: **Tier C** (kein `matchTier`-Feld; Stufe nur im Fließtext, falls nötig).
-- In Begründungen **nicht** schreiben: „Exact-Entity“, „Strong“, „eher A“, „eher B“, „A oder B“, „tendenziell A/B“, „eher C“.
-- Entscheidung klar treffen: Tier A, Tier B oder Reject (Tier C) — keine Unentschieden-Formulierung.
+- Playlist: **Tier A**, **Tier B** oder **Tier C** (`matchTier`: `"A"` / `"B"` / `"C"`).
+- Absage: **Tier X** (kein `matchTier`-Feld; Stufe nur im Fließtext am Schluss).
+- In Begründungen **nicht** schreiben: „Exact-Entity“, „Strong“, „eher A“, „eher B“, „A oder B“, „tendenziell A/B“, „eher C“, „eher X“.
+- Entscheidung klar treffen: Tier A, Tier B, Tier C oder Reject (Tier X) — keine Unentschieden-Formulierung.
+
+## Schlussformel (Pflicht, einheitlich)
+
+Jede `justification` / `reason` endet mit der Stufe in Klammern, Punkt danach:
+
+- `(Tier A).` / `(Tier B).` / `(Tier C).` / `(Tier X).`
+
+**Nicht** verwenden: `— Tier B.`, `→ Tier B`, `Tier B` ohne Klammern am Ende, Pfeilschreibweise für die Stufe.
+
+Bei Matches steht die Stufe zusätzlich im Feld `matchTier`; der Klammer-Schluss im Fließtext bleibt trotzdem Pflicht.
 
 ## Begründungstext (Matches und Rejects gleich)
 
 - Kurz und inhaltlich: Song-Fokus vs. Folgen-Fokus benennen (Person / Schlacht / Ereignis / Phase).
 - Kein Meta-Jargon aus dem Matching-Schema nachplappern.
-- Die Stufe steht bei Matches im Feld `matchTier`; im Fließtext reicht bei Bedarf ein knappes „Tier A“ / „Tier B“ / „Tier C“, oft genügt die inhaltliche Begründung allein.
-- Bei Grenzfällen Schluss klar setzen (z. B. „— Tier B.“ bzw. „— Tier C.“).
 
 ### Matches (`justification`)
 
-- Beschreiben, **warum** Song und Folge zusammenpassen (gemeinsamer Kerngegenstand bzw. klarer gemeinsamer Rahmen).
+- Beschreiben, **warum** Song und Folge zusammenpassen:
+  - A/B: gemeinsamer Kerngegenstand bzw. klarer gemeinsamer historischer Rahmen;
+  - C: thematische/assoziative Nähe oder Inspiration/Metapher ohne gemeinsamen Erzählgegenstand.
+- Muster: „… — … (Tier B).“
 
 ### Rejects (`reason`)
 
-- Dieselbe Klarheit wie bei Matches: kurz sagen, **warum nicht** — typisch andere Person, anderes Ereignis, andere Phase/Fokus, nur Namens-/Zahlenanklang oder Metapher ohne historischen Erzählfokus.
+- Dieselbe Klarheit wie bei Matches: kurz sagen, **warum nicht** — typisch andere Person, anderes Ereignis, andere Phase/Fokus, nur Namens-/Zahlenanklang.
 - Nicht nur „passt nicht“ oder „zu lose“ ohne die konkrete Abweichung.
-- Formulierungs-Muster wie bei guten Absagen: „Song = … Folge = … — … (Tier C).“
+- Muster: „Song = … Folge = … — … (Tier X).“
 
 #### Genre-Fail
 
-Wenn der Bezug historisch passt (oder passen könnte), das Stück aber **kein Rock/Metal** ist → Absage (Tier C). In der Begründung **beides** nennen:
+Wenn der Bezug historisch passt (oder passen könnte), das Stück aber **kein Rock/Metal** ist → Absage (**Tier X**). In der Begründung **beides** nennen:
 
-1. **welche Stufe** bei Rock/Metal plausibel wäre (Tier A oder Tier B);
+1. **welche Stufe** bei Rock/Metal plausibel wäre (Tier A, Tier B oder Tier C);
 2. **welches Genre** dem Stück zugeordnet wird und dass es kein Rock/Metal ist.
 
-Beispielmuster: „Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier C).“
+Pflichtworting (filterbar): `Genre = …` und `kein Rock/Metal`, Schluss `(Tier X).`
+
+Beispielmuster: „Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier X).“

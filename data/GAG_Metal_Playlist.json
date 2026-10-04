@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02 19:18:31 +0200",
+  "updatedAt": "2026-10-04 19:46:21 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -9,7 +9,7 @@
       "band": "Crystallion",
       "songTitle": "Hougoumont",
       "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: Schlacht von Waterloo 1815 und Wellington. Folge fokussiert die Bein-Anekdote (Uxbridge/Paget); Song den Angriff auf den Hof Hougoumont (französische Perspektive, Jérôme) — analog Running Wild eher Tier B als A.",
+      "justification": "Folge und Song teilen die Schlacht von Waterloo 1815 mit Wellington: die Folge die Uxbridge-/Paget-Bein-Anekdote, der Song den Angriff auf den Hof Hougoumont aus französischer Sicht. (Tier B).",
       "sharedEntities": [
         "Schlacht bei Waterloo",
         "Wellington",
@@ -29,7 +29,7 @@
       "band": "Running Wild",
       "songTitle": "The Battle of Waterloo",
       "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: Schlacht von Waterloo 1815 und Wellington. Folge fokussiert die Bein-Anekdote (Uxbridge/Paget); der Song die Schlacht selbst (Wellington, Blücher, Napoleon).",
+      "justification": "Gemeinsam Schlacht von Waterloo 1815 und Wellington: Folge = Bein-Anekdote um Uxbridge/Paget; Song = Schlachtverlauf mit Wellington, Blücher und Napoleon. (Tier B).",
       "sharedEntities": [
         "Schlacht bei Waterloo",
         "Wellington",
@@ -38,6 +38,27 @@
       "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
       "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 40,
+      "episodeTitle": "Über den Ursprung der Seidenstraße",
+      "episodeUrl": "https://gadg.fm/40",
+      "songId": "saxon-kubla-khan-and-the-merchant-of-venice",
+      "band": "Saxon",
+      "songTitle": "Kubla Khan And The Merchant Of Venice",
+      "matchTier": "C",
+      "justification": "Song = Marco Polos Seidenstraßen-Reise zu Kublai Khan/Xanadu. Folge = Ursprung der Seidenstraße (u. a. Pfeil und Bogen) — gleiches Themenfeld Fernhandelsroute Ost–West, aber andere Epoche und anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Marco Polo",
+        "Kublai Khan",
+        "Seidenstraße",
+        "Xanadu",
+        "Venedig"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -98,6 +119,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 118,
+      "episodeTitle": "Ein Werwolf in Livland",
+      "episodeUrl": "https://gadg.fm/118",
+      "songId": "powerwolf-1589",
+      "band": "Powerwolf",
+      "songTitle": "1589",
+      "matchTier": "C",
+      "justification": "Song = Peter Stumpp / Werwolf von Bedburg 1589. Folge = Prozess um Thiess in Livland (spätes 17. Jh.) — gleicher Falltyp Werwolf-Prozess, andere Person, Ort und Jahrhundert (Tier C).",
+      "sharedEntities": [
+        "Peter Stumpp",
+        "Werwolf von Bedburg",
+        "1589"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5S0-oP9JsL0",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 126,
       "episodeTitle": "Für immer im Eis – die Franklin Expedition",
       "episodeUrl": "https://gadg.fm/126",
@@ -130,7 +170,7 @@
         "Nordwestpassage"
       ],
       "spotifyUrl": "https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=1ZD-_KLSSKg",
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -142,7 +182,7 @@
       "band": "Iron Maiden",
       "songTitle": "Stranger in a Strange Land",
       "matchTier": "B",
-      "justification": "Adrian Smith schrieb den Song laut Interview nach einem Zeitungsbericht über die Exhumierung des im Eis konservierten John Torrington von der Franklin-Expedition. Folge erzählt dieselbe Expedition und die mumifizierten Toten im Eis; im Text bleibt Franklin ungenannt — gemeinsamer Rahmen, anderer Fokus — Tier B.",
+      "justification": "Adrian Smith schrieb den Song nach dem Bericht über den im Eis konservierten John Torrington von der Franklin-Expedition. Folge: dieselbe Expedition und die mumifizierten Toten; im Text bleibt Franklin ungenannt – gemeinsames Ereignis, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Franklin-Expedition",
         "John Torrington",
@@ -161,7 +201,7 @@
       "band": "Unleash the Archers",
       "songTitle": "Northwest Passage",
       "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: Franklin und die Suche nach der Nordwestpassage. Folge: Franklin-Expedition, Erebus/Terror, Scheitern im Eis. Song (Stan-Rogers-Cover) nennt Franklin und die Passage im Refrain, erzählt aber vor allem die Metapher Tour/Überlandreise = Entdeckerexpedition (Band und Original: Kanada-Touren) — Tier B.",
+      "justification": "Lyrics nennen Franklin und die Suche nach der Nordwestpassage („hand of Franklin“, Beaufort Sea); Folge erzählt dieselbe Franklin-Expedition. Band und Stan-Rogers-Original rahmen die Tour als Entdeckermetapher – gemeinsames historisches Objekt, anderer Erzählfokus. (Tier B).",
       "sharedEntities": [
         "Franklin-Expedition",
         "Sir John Franklin",
@@ -180,7 +220,7 @@
       "band": "Judicator",
       "songTitle": "The Queen of All Cities",
       "matchTier": "B",
-      "justification": "Beide behandeln den Ersten Kreuzzug mit Alexios I. Komnenos in Konstantinopel. Folge: Alexios und Urban II. als Protagonisten der Kreuzzugsentstehung (ab 1095). Song: Kreuzfahrer-Perspektive bei Ankunft in Konstantinopel und Treueschwur gegenüber Alexios. Entity (Alexios + 1. Kreuzzug) klar; Fokus Entstehung vs. Ankunft/Schwur — Tier B.",
+      "justification": "Beide behandeln den Ersten Kreuzzug mit Alexios I. Komnenos in Konstantinopel: Folge die Entstehung ab 1095, Song Ankunft der Kreuzfahrer und den Treueschwur. Entity klar, Fokus Entstehung vs. Schwur. (Tier B).",
       "sharedEntities": [
         "Alexios I. Komnenos",
         "Erster Kreuzzug",
@@ -198,8 +238,8 @@
       "songId": "warkings-azrael",
       "band": "Warkings",
       "songTitle": "Azrael",
-      "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: ein Kreuzzug gen Jerusalem. Folge: Entstehung des Ersten Kreuzzugs (Alexios I., Urban II.). Song: generischer Marsch durch die Wüste nach Jerusalem und die Sinnfrage, für einen „heiligen“ Feldzug zu kämpfen und zu sterben — kein Bezug zu Alexios/Urban oder 1095–1099 im Einzelnen → Tier B.",
+      "matchTier": "C",
+      "justification": "Song = generischer heiliger Marsch gen Jerusalem („Deus lo vult“, Sinnfrage des Sterbens) ohne Alexios, Urban oder 1095–1099. Folge = Entstehung des Ersten Kreuzzugs. Nur thematische Kreuzzugs-/Jerusalem-Assoziation, kein gemeinsamer Erzählgegenstand. (Tier C).",
       "sharedEntities": [
         "Kreuzzug",
         "Jerusalem"
@@ -210,6 +250,27 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 157,
+      "episodeTitle": "Salpeter – Aufstieg und Fall einer chemischen Verbindung",
+      "episodeUrl": "https://gadg.fm/157",
+      "songId": "sabaton-father",
+      "band": "Sabaton",
+      "songTitle": "Father",
+      "matchTier": "C",
+      "justification": "Song = Fritz Haber (Haber-Bosch und Giftgas). Folge = Salpeterhandel/Chile und Zusammenbruch — Haber-Bosch nur als Endpunkt der Salpeter-Ära, kein gemeinsamer Erzählkern (Tier C).",
+      "sharedEntities": [
+        "Fritz Haber",
+        "Haber-Bosch-Verfahren",
+        "Giftgas",
+        "chemischer Krieg",
+        "Erster Weltkrieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 183,
       "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
       "episodeUrl": "https://gadg.fm/183",
@@ -217,7 +278,7 @@
       "band": "Ex Deo",
       "songTitle": "The Fall of Claudius",
       "matchTier": "B",
-      "justification": "Gemeinsam: Agrippina die Jüngere und der Sturz/die Vergiftung des Claudius. Folge: Agrippina-Biografie (Caligula–Claudius–Nero). Song: Claudius-Perspektive auf Agrippinas Intrige. Kernereignis geteilt, Erzählfokus Person (Agrippina) vs. Opfer (Claudius) — analog Matricide eher Tier B als A.",
+      "justification": "Gemeinsam Agrippina die Jüngere und der Sturz/die Vergiftung des Claudius. Folge: Agrippina-Biografie; Song: Claudius-Perspektive auf die Intrige. Kernereignis geteilt, Fokus unterschiedlich. (Tier B).",
       "sharedEntities": [
         "Agrippina die Jüngere",
         "Claudius"
@@ -235,7 +296,7 @@
       "band": "Ex Deo",
       "songTitle": "The Head of the Snake",
       "matchTier": "B",
-      "justification": "Gemeinsam: Agrippina und Neros Muttermord. Song: Nero tötet Agrippina („head of the snake“). Folge: Agrippina-Leben inkl. Nero-Verbindung. Gleicher Entity-Kern wie Serenity The Matricide; Fokus Tat vs. Biografie — Tier B.",
+      "justification": "Gemeinsam Agrippina und Neros Muttermord: Song die Tat („head of the snake“), Folge Agrippinas Leben inkl. Nero-Verbindung. Entity klar, Fokus Tat vs. Biografie. (Tier B).",
       "sharedEntities": [
         "Agrippina die Jüngere",
         "Nero",
@@ -254,7 +315,7 @@
       "band": "Serenity",
       "songTitle": "The Matricide",
       "matchTier": "B",
-      "justification": "Gemeinsam: Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Leben/Macht; Song ist Nero-Perspektive auf den Matricide — Entity klar, Erzählfokus unterschiedlich.",
+      "justification": "Gemeinsam Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Macht; Song die Nero-Perspektive auf den Matricide. (Tier B).",
       "sharedEntities": [
         "Agrippina die Jüngere",
         "Nero"
@@ -268,11 +329,30 @@
       "episodeId": 184,
       "episodeTitle": "Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit",
       "episodeUrl": "https://gadg.fm/184",
+      "songId": "burning-witches-executed",
+      "band": "Burning Witches",
+      "songTitle": "Executed",
+      "matchTier": "C",
+      "justification": "Song = Anna Göldi (Glarus, „letzte Hexenhinrichtung“ der Schweiz). Folge = Katharina Kepler in Leonberg/Württemberg — gleicher Falltyp Hexenprozess, andere Person, Ort und Jahrhundert (Tier C).",
+      "sharedEntities": [
+        "Anna Göldi",
+        "Glarus",
+        "1782"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=840vcVzth-0",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 184,
+      "episodeTitle": "Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit",
+      "episodeUrl": "https://gadg.fm/184",
       "songId": "feuerschwanz-malleus-maleficarum",
       "band": "Feuerschwanz",
       "songTitle": "Malleus Maleficarum",
-      "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: Hexenverfolgung in der Frühen Neuzeit. Folge: Prozess gegen Katharina Kepler (Leonberg/Württemberg, Verteidigung durch Johannes Kepler). Song: der Hexenhammer 1486 — Lyrics nennen Henricus Institoris (Kramer) und kritisieren dessen Frauenbild als von Hass, Angst und religiöser Rechtfertigung geprägt. Kein Kepler-Bezug, aber derselbe ideologische Rahmen → Tier B.",
+      "matchTier": "C",
+      "justification": "Song = Hexenhammer 1486 und Henricus Institoris (Kramer). Folge = Prozess gegen Katharina Kepler in Leonberg. Nur thematische Nähe früher Neuzeit-Hexenverfolgung, keine gemeinsame Person oder dasselbe Ereignis. (Tier C).",
       "sharedEntities": [
         "Hexenverfolgung",
         "Frühe Neuzeit",
@@ -284,6 +364,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 184,
+      "episodeTitle": "Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit",
+      "episodeUrl": "https://gadg.fm/184",
+      "songId": "saxon-witches-of-salem",
+      "band": "Saxon",
+      "songTitle": "Witches Of Salem",
+      "matchTier": "C",
+      "justification": "Song = Hexenprozesse von Salem (Massachusetts, 1692). Folge = Katharina Kepler in Leonberg — gleiches Thema Hexerei, andere Personen, Ort und Jahrhundert (Tier C).",
+      "sharedEntities": [
+        "Salem",
+        "Hexenprozesse",
+        "Gallows Hill",
+        "1692"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mN5mfBDUNMQ",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 189,
       "episodeTitle": "Die Schlacht bei Cannae",
       "episodeUrl": "https://gadg.fm/189",
@@ -291,7 +391,7 @@
       "band": "Sabaton",
       "songTitle": "Lightning at the Gates",
       "matchTier": "B",
-      "justification": "Sabaton Historic Fact (offiziell/YouTube) nennt Cannae als berühmtesten Erfolg Hannibals in dieser Kampagne; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang — Entity über Band-Historie, nicht nur Songzeilen.",
+      "justification": "Sabaton Historic Fact verortet den Song in Hannibals Italienfeldzug inkl. Cannae als berühmtestem Erfolg; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang – gemeinsamer Hannibal-/Cannae-Rahmen, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Hannibal",
         "Schlacht bei Cannae",
@@ -310,7 +410,7 @@
       "band": "Grave Digger",
       "songTitle": "Fanatic Assassins",
       "matchTier": "B",
-      "justification": "Beide behandeln die Assassinen / den „Alten vom Berge“. Der Song nutzt die westliche Hashisch-/Paradies-Legende, die die Folge kritisch einordnet — Entity klar, Narrativ legendär.",
+      "justification": "Beide behandeln die Assassinen und den „Alten vom Berge“. Der Song nutzt die westliche Hashisch-/Paradies-Legende, die die Folge kritisch einordnet – Entity klar, Narrativ legendär. (Tier B).",
       "sharedEntities": [
         "Assassinen",
         "Alter vom Berge"
@@ -375,6 +475,43 @@
       "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
       "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 216,
+      "episodeTitle": "Napoleon II. – Vom König von Rom zum Herzog von Reichstadt",
+      "episodeUrl": "https://gadg.fm/216",
+      "songId": "judicator-king-of-rome",
+      "band": "Judicator",
+      "songTitle": "King of Rome",
+      "matchTier": "C",
+      "justification": "Song = Waterloo-Konzept: Napoleon I. auf dem Schlachtfeld, Refrain „King of Rome“ = Motivation/Erbe. Folge = Biografie Napoleon II. — Titel- und Erben-Anklang ohne gemeinsamen Erzählfokus auf das Sohn-Leben (Tier C).",
+      "sharedEntities": [
+        "König von Rom",
+        "Napoleon II",
+        "Napoleon",
+        "Waterloo"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=t4maP9qGQPc",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 222,
+      "episodeTitle": "Das Voynich-Manuskript",
+      "episodeUrl": "https://gadg.fm/222",
+      "songId": "elvenking-the-voynich-manuscript",
+      "band": "Elvenking",
+      "songTitle": "The Voynich Manuscript",
+      "matchTier": "C",
+      "justification": "Titel nennt das Voynich-Manuskript, Folge behandelt genau dieses Artefakt. Band (Aydan): Lyrics nicht explizit am Manuskriptinhalt, sondern Metapher für unerklärliche eigene Taten — historisches Stichwort ohne gemeinsamen Erzählfokus (Tier C).",
+      "sharedEntities": [
+        "Voynich-Manuskript"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq",
+      "youtubeUrl": "https://www.youtube.com/watch?v=y8DB-MpxMTs",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -446,6 +583,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 241,
+      "episodeTitle": "General Königsmarck und der größte Kunstraub aller Zeiten",
+      "episodeUrl": "https://gadg.fm/241",
+      "songId": "sabaton-1648",
+      "band": "Sabaton",
+      "songTitle": "1648",
+      "matchTier": "B",
+      "justification": "Song = Schwedischer Sturm auf Prag 1648 (Königsmarck am Karlsbrücke/Karlův Most, Plünderungszug). Folge = Königsmarcks Prager Kunstraub 1648 — dieselbe Aktion/derselbe Rahmen, anderer Fokus (Schlachtverteidigung vs. Kunstraub) (Tier B).",
+      "sharedEntities": [
+        "Westfälischer Friede",
+        "Dreißigjähriger Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/02QVJ3jRCQ1S4UmO2HPi19",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NpVvM-PtEac",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 255,
       "episodeTitle": "Die 47 Ronin",
       "episodeUrl": "https://gadg.fm/255",
@@ -493,7 +648,7 @@
       "band": "Skelator",
       "songTitle": "Victory (Henry V)",
       "matchTier": "B",
-      "justification": "Gemeinsam: Heinrich V. und Agincourt (Crispin-Rede / „band of brothers“ = kulturell fest an Azincourt gebunden). Song: Shakespeare-Henry-V-Rahmen ohne expliziten Schlachtnamen. Folge: historische Schlacht und Langbogen-Mythos. Entity-Brücke stark genug für B, nicht A (Literatur-/Mythos-Perspektive vs. Historiografie).",
+      "justification": "Gemeinsam Heinrich V. und Agincourt (Crispin-/„band of brothers“-Rede fest an die Schlacht gebunden). Song: Shakespeare-Henry-V-Rahmen; Folge: historische Schlacht und Langbogen. (Tier B).",
       "sharedEntities": [
         "Heinrich V.",
         "Schlacht von Azincourt",
@@ -508,11 +663,32 @@
       "episodeId": 272,
       "episodeTitle": "Am Ende der Welt - Napoleons letzte Jahre im Exil",
       "episodeUrl": "https://gadg.fm/272",
+      "songId": "crystallion-hundred-days",
+      "band": "Crystallion",
+      "songTitle": "Hundred Days",
+      "matchTier": "C",
+      "justification": "Song/Album = Ende der Hundert Tage (Waterloo/Plancenoit) und Abschieben auf die Insel. Folge = Lebensjahre im Exil auf St. Helena — gleiche Person, Fokus bleibt Niederlage/Abtransport, nicht das Exil-Leben (Tier C).",
+      "sharedEntities": [
+        "Napoleon",
+        "Hundert Tage",
+        "Waterloo",
+        "Elba",
+        "St. Helena"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ywesScaX3lc",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 272,
+      "episodeTitle": "Am Ende der Welt - Napoleons letzte Jahre im Exil",
+      "episodeUrl": "https://gadg.fm/272",
       "songId": "sabaton-i-emperor",
       "band": "Sabaton",
       "songTitle": "I, Emperor",
-      "matchTier": "B",
-      "justification": "Gemeinsam: Napoleon Bonaparte. Folge fokussiert Exil auf St. Helena nach dem Kaisertum; Song (Historic Fact) die Kaiser-/Eroberer-Karriere inkl. Waterloo und Exil — Entity klar, Erzählfokus unterschiedlich.",
+      "matchTier": "C",
+      "justification": "Song = Napoleon als Kaiser und Eroberer (Code, Feldzüge; Abschied von der Alten Garde, Rückkehr) — St. Helena nur im Band-Steckbrief, nicht im Lyrics-Fokus. Folge = letzte Jahre im Exil auf St. Helena. Gleiche Person, aber kein gemeinsamer Erzählgegenstand Exil (Tier C).",
       "sharedEntities": [
         "Napoleon",
         "St. Helena"
@@ -529,8 +705,8 @@
       "songId": "visions-of-atlantis-return-to-lemuria",
       "band": "Visions of Atlantis",
       "songTitle": "Return to Lemuria",
-      "matchTier": "B",
-      "justification": "Song = Lemuria als mystisch-utopischer, im Meer versunkener Kontinent (Liebes-/Reise-Erzählung). Folge = wissenschaftliche Lemuria-Hypothese Philip Sclaters (1864) und ihre spätere esoterische Umdeutung. Gemeinsamer Mythosbegriff, anderer historischer Kern und Erzählfokus — Tier B.",
+      "matchTier": "C",
+      "justification": "Song = Lemuria als mystisches Liebes-/Reiseziel („dream called Lemuria“). Folge = Sclaters wissenschaftliche Lemuria-Hypothese und ihre esoterische Umdeutung. Nur Stichwort/Mythosassoziation, kein gemeinsamer historischer Erzählgegenstand. (Tier C).",
       "sharedEntities": [
         "Lemuria"
       ],
@@ -595,6 +771,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 289,
+      "episodeTitle": "Ein Kreuzzug, der einen ungeahnten Verlauf nahm",
+      "episodeUrl": "https://gadg.fm/289",
+      "songId": "judicator-the-queen-of-all-cities",
+      "band": "Judicator",
+      "songTitle": "The Queen of All Cities",
+      "matchTier": "C",
+      "justification": "Song = Erster Kreuzzug: Ankunft in Konstantinopel und Eid gegenüber Alexios. Folge = Vierter Kreuzzug / Plünderung 1204 — gleiche Stadt und Kreuzzugs-Rahmen, andere Expedition und Jahrhundert (Tier C).",
+      "sharedEntities": [
+        "Alexios I. Komnenos",
+        "Konstantinopel",
+        "Erster Kreuzzug"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 290,
       "episodeTitle": "Der Angriff der Leichten Brigade",
       "episodeUrl": "https://gadg.fm/290",
@@ -652,6 +847,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 310,
+      "episodeTitle": "Arbeitskampf, Streik und das Leben der Gewerkschaftspionierin Paula Thiede",
+      "episodeUrl": "https://gadg.fm/310",
+      "songId": "panopticon-black-sood-and-red-blood",
+      "band": "Panopticon",
+      "songTitle": "Black Soot and Red Blood",
+      "matchTier": "C",
+      "justification": "Song = Bloody Harlan / Kentucky-Kohlebergbau (Union, Streik, black lungs, ~1930er). Folge = Paula Thiede und frühe deutsche Gewerkschaftsbewegung (Druckbranche, um 1900) — Motive Streik/Organisation klar parallel, aber anderes Land, andere Zeit, andere Branche und Person (Tier C).",
+      "sharedEntities": [
+        "Arbeitskampf",
+        "Gewerkschaften"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/28OQVEP47BO0iG8e6heo4P",
+      "youtubeUrl": "https://youtu.be/9WrlRYJjBwU",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 313,
       "episodeTitle": "Die Geschwister Herschel",
       "episodeUrl": "https://gadg.fm/313",
@@ -659,7 +872,7 @@
       "band": "Nanowar of Steel",
       "songTitle": "Uranus",
       "matchTier": "B",
-      "justification": "Primär Comedy (Wortspiel Uranus/your anus; Text: „An old joke still deserves a song“). Historischer Mini-Rahmen explizit: 6,2″-Teleskop in William Herschels Händen, Entdeckung/Sichtbarkeit; Astro-Amateure. Folge = Geschwister Herschel (Wilhelm/Caroline), nicht nur Uranus. Gemeinsame Person/1781, anderer Fokus — Tier B.",
+      "justification": "Comedy-Wortspiel Uranus, aber mit historischem Mini-Rahmen: Herschels Teleskop und die Entdeckung. Folge = Geschwister Herschel. Gemeinsame Person/1781, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Wilhelm Herschel",
         "Entdeckung des Uranus"
@@ -667,6 +880,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol",
       "youtubeUrl": "https://www.youtube.com/watch?v=OSWszdSHkyE",
       "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 333,
+      "episodeTitle": "Alexandria",
+      "episodeUrl": "https://gadg.fm/333",
+      "songId": "iron-maiden-alexander-the-great",
+      "band": "Iron Maiden",
+      "songTitle": "Alexander the Great",
+      "matchTier": "C",
+      "justification": "Song = Alexanders Biografie (Aufstieg, Perserfeldzug, Indienzug, Tod in Babylon; Alexandria nur als Gründungszeile). Folge = Alexandria als Nachlass-/Kulturprojekt seiner Nachfolger — gemeinsame Gründungsperson, aber kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Alexander der Große",
+        "Makedonien",
+        "Alexandria"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6BH9HvZx3nI",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -784,6 +1016,27 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 390,
+      "episodeTitle": "Kleopatra Selene und das Ende der Römischen Republik",
+      "episodeUrl": "https://gadg.fm/390",
+      "songId": "ex-deo-the-final-war-the-battle-of-actium",
+      "band": "Ex Deo",
+      "songTitle": "The Final War (Battle of Actium)",
+      "matchTier": "B",
+      "justification": "Song = Seeschlacht bei Actium 31 v. Chr. (Antonius, Kleopatra VII, Octavian). Folge = Kleopatra Selene und das Ende der Römischen Republik (Nachgeschichte ab 30 v. Chr.) — gemeinsamer Rahmen Untergang Antonius/Kleopatra und Ende der Republik, klar anderer Fokus (Schlacht vs. Tochter/Mauretanien) (Tier B).",
+      "sharedEntities": [
+        "Schlacht bei Actium",
+        "Marcus Antonius",
+        "Kleopatra VII",
+        "Octavian",
+        "Actium"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qcfaltp8CL0",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 393,
       "episodeTitle": "Die Schlacht von Zama",
       "episodeUrl": "https://gadg.fm/393",
@@ -819,6 +1072,43 @@
       "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
       "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 420,
+      "episodeTitle": "Harry Anslinger und der erste \"War on Drugs\"",
+      "episodeUrl": "https://gadg.fm/420",
+      "songId": "six-feet-under-420",
+      "band": "Six Feet Under",
+      "songTitle": "4:20",
+      "matchTier": "C",
+      "justification": "Song = Stoner-Hymne („4:20“ / Cannabis-Konsum). Folge = Harry Anslinger und Anti-Cannabis-Kampagne 1930er — gemeinsames Thema Cannabis, aber kein gemeinsamer Erzählfokus (Person/Kampagne vs. Konsumanthem); Folgennummer 420 nur Gag (Tier C).",
+      "sharedEntities": [
+        "Cannabis",
+        "420"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rC31wCvTOao",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 436,
+      "episodeTitle": "Die Jagd nach El­do­ra­do",
+      "episodeUrl": "https://gadg.fm/436",
+      "songId": "running-wild-conquistadores",
+      "band": "Running Wild",
+      "songTitle": "Conquistadores",
+      "matchTier": "C",
+      "justification": "Song = generisches Bild spanischer Konquistadoren (Kirche, Goldgier, Gewalt gegen Indigene). Folge = Eldorado-Legende, Pizarro/Atahualpa und Welser-Züge — thematische Nähe spanische Eroberung/Goldsuche, aber kein gemeinsamer Kern (keine Eldorado-/Pizarro-Entity) (Tier C).",
+      "sharedEntities": [
+        "Konquistadoren",
+        "Spanische Eroberung",
+        "Neue Welt"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -868,7 +1158,7 @@
       "band": "Stratovarius",
       "songTitle": "Frozen in Time",
       "matchTier": "B",
-      "justification": "Lyrics nennen Pompeji nicht (Paar, „buried alive“, Asche, Bebentöner). Entity über Band-Aussage: Kotipelto — „It’s the only song on the album that is inspired by historical events. It’s about what happened in Pompeii.“ (u. a. Musical Fortress / Stratovarius-Promo). Folge: Untergang Pompejis plus Julia Felix/Ausgrabungen — gleicher Kern, anderer Fokus → B.",
+      "justification": "Band-Aussage: Song über Pompeji 79. Folge: Untergang Pompejis plus Julia Felix/Ausgrabungen. Gleicher Vesuv-/Pompeji-Kern, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Pompeji",
         "Vesuv",
@@ -961,7 +1251,7 @@
       "band": "Sabaton",
       "songTitle": "Ruina Imperii",
       "matchTier": "B",
-      "justification": "Die Folge thematisiert das Ende des schwedischen Großreichs nach Karl XII.; „Ruina Imperii“ ebenso.",
+      "justification": "Folge und Song behandeln das Ende des schwedischen Großreichs im Umfeld Karls XII. Gemeinsamer historischer Rahmen, klarer Entity-Bezug. (Tier B).",
       "sharedEntities": [
         "Ende des Schwedischen Reichs",
         "Karl XII."
@@ -1019,7 +1309,7 @@
       "band": "In Extremo",
       "songTitle": "Merseburger Zaubersprüche 1",
       "matchTier": "B",
-      "justification": "Song vertont den 1. Merseburger Zauberspruch (reale AHD-Beschwörungsformel, Eintrag ca. 10. Jh. in christlicher Sakramentar-Handschrift); dazu Band-Rahmen. Folge = Geschichte der Grimoires / magische Schrifttradition — gleicher Quellenbereich, aber die Sprüche sind kein typisches Grimoire und nicht Fokus der Folge — Tier B.",
+      "justification": "Song vertont den 1. Merseburger Zauberspruch (ahd. Beschwörungsformel in Sakramentar-Handschrift). Folge = Geschichte der Grimoires / magische Schrifttradition – gleicher Quellenbereich, Sprüche nicht Fokus der Folge. (Tier B).",
       "sharedEntities": [
         "Merseburger Zaubersprüche",
         "Zaubertext"
@@ -1037,7 +1327,7 @@
       "band": "In Extremo",
       "songTitle": "Merseburger Zaubersprüche 2",
       "matchTier": "B",
-      "justification": "Song vertont den 2. Merseburger Zauberspruch (reale AHD-Beschwörungsformel, Eintrag ca. 10. Jh. in christlicher Sakramentar-Handschrift); dazu Band-Rahmen. Folge = Geschichte der Grimoires / magische Schrifttradition — gleicher Quellenbereich, aber die Sprüche sind kein typisches Grimoire und nicht Fokus der Folge — Tier B.",
+      "justification": "Song vertont den 2. Merseburger Zauberspruch (ahd. Beschwörungsformel in Sakramentar-Handschrift). Folge = Geschichte der Grimoires / magische Schrifttradition – gleicher Quellenbereich, Sprüche nicht Fokus der Folge. (Tier B).",
       "sharedEntities": [
         "Merseburger Zaubersprüche",
         "Zaubertext"
@@ -1093,13 +1383,33 @@
       "band": "Serenity",
       "songTitle": "Symphony for the Quiet",
       "matchTier": "B",
-      "justification": "Beide kreisen um Ludwig van Beethoven. Folge: Entstehung der 3. Symphonie; Song: Gehörverlust / „Symphony for the Quiet“.",
+      "justification": "Beide kreisen um Ludwig van Beethoven: Folge die Entstehung der 3. Symphonie; Song den Gehörverlust („Symphony for the Quiet“). Gemeinsame Person, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Ludwig van Beethoven"
       ],
       "spotifyUrl": "https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c",
       "youtubeUrl": "https://www.youtube.com/watch?v=vaMBn0GsgLY",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 514,
+      "episodeTitle": "Anna Komnene – Prinzessin, Intellektuelle und Historikerin",
+      "episodeUrl": "https://gadg.fm/514",
+      "songId": "turisas-miklagard-overture",
+      "band": "Turisas",
+      "songTitle": "Miklagard Overture",
+      "matchTier": "C",
+      "justification": "Song = Waräger-Reise nach Miklagard/Konstantinopel (Golden Horn, Stadtporträt). Folge = Anna Komnene und die Alexias — gemeinsamer byzantinischer Ort/Rahmen, andere Person und Fokus (Tier C).",
+      "sharedEntities": [
+        "Miklagard",
+        "Konstantinopel",
+        "Waräger",
+        "Byzanz"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u5OvUSgUfRE",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -1128,7 +1438,7 @@
       "band": "Lurte",
       "songTitle": "Venganza Almugavar",
       "matchTier": "B",
-      "justification": "Gemeinsamer Rahmen: Almogavaren / Katalanische Kompanie. Folge: Roger de Flor führt die Kompanie ins Byzantinische Reich. Song (Album Neopatria über die almogavarischen Eroberungen in Griechenland): Almogavaren-Rache — gleiche Kompanie, späterer Fokus nach Rogers Ermordung → Tier B.",
+      "justification": "Gemeinsam Almogavaren / Katalanische Kompanie: Folge Roger de Flor und der Zug ins Byzantinische Reich; Song die Almogavaren-Rache nach Rogers Ermordung (Album Neopatria). Gleiche Kompanie, späterer Fokus. (Tier B).",
       "sharedEntities": [
         "Katalanische Kompanie",
         "Almogavaren"
@@ -1146,7 +1456,7 @@
       "band": "Turisas",
       "songTitle": "Venetoi! – Prasinoi!",
       "matchTier": "B",
-      "justification": "Beide behandeln die byzantinischen Zirkusparteien Venetoi/Prasinoi (Blau/Grün). Folge: Nika-Aufstand aus den Parteien; Song: Wagenrennen der Faktionen (ohne expliziten Nika-Bezug).",
+      "justification": "Beide behandeln die byzantinischen Zirkusparteien Venetoi/Prasinoi. Folge: Nika-Aufstand aus den Parteien; Song: Wagenrennen der Faktionen ohne expliziten Nika-Bezug. (Tier B).",
       "sharedEntities": [
         "Venetoi",
         "Prasinoi",
@@ -1175,6 +1485,42 @@
       "spotifyUrl": "https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8",
       "youtubeUrl": "https://www.youtube.com/watch?v=jbCJXVemRgc",
       "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 554,
+      "episodeTitle": "Attila, Honoria und zwei römische Gesandtschaften",
+      "episodeUrl": "https://gadg.fm/554",
+      "songId": "iced-earth-attila",
+      "band": "Iced Earth",
+      "songTitle": "Attila",
+      "matchTier": "C",
+      "justification": "Song = Attila als Eroberer und „Scourge of God“ (u. a. Zug nach Westen/Gallien). Folge = Hofdiplomatie 449 (Honoria, zwei Gesandtschaften). Gleiche Person, aber kein gemeinsamer Erzählgegenstand — kein geteiltes Ereignis, nur Namens-/Personenbezug (Tier C).",
+      "sharedEntities": [
+        "Attila",
+        "Hunnen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1FU-FDxx31k",
+      "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 554,
+      "episodeTitle": "Attila, Honoria und zwei römische Gesandtschaften",
+      "episodeUrl": "https://gadg.fm/554",
+      "songId": "saxon-atila-the-hun",
+      "band": "Saxon",
+      "songTitle": "Atila the Hun",
+      "matchTier": "C",
+      "justification": "Song = generisches Attila-/Hunnen-Schreckensbild („Scourge of God“, Ost–West-Eroberung). Folge = Hofdiplomatie 449 (Honoria, zwei Gesandtschaften). Gleiche Person, aber kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Attila",
+        "Hunnen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dwEXrFD8eKU",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -1224,7 +1570,7 @@
       "band": "Tool",
       "songTitle": "Lateralus",
       "matchTier": "B",
-      "justification": "Song baut Verse und Rhythmus nach der Fibonacci-Folge auf (Silbenzahlen; Chorus 9/8–8/8–7/8 → „987“; Band bestätigt Absicht). Folge = Geschichte der Fibonacci-Folge um Leonardo von Pisa und indisch-arabische Ziffern. Identisches mathematisches Objekt; Song = formale künstlerische Anwendung, Folge = historische Herkunft und Wissensgeschichte — Tier B.",
+      "justification": "Song baut Verse und Rhythmus nach der Fibonacci-Folge auf (u. a. Chorus 9/8–8/8–7/8). Folge = Geschichte der Folge um Leonardo von Pisa. Identisches mathematisches Objekt; Anwendung vs. Wissensgeschichte. (Tier B).",
       "sharedEntities": [
         "Fibonacci-Folge"
       ],
@@ -1260,15 +1606,36 @@
       "band": "Dark Moor",
       "songTitle": "Houdini's Great Escapade",
       "matchTier": "B",
-      "justification": "Gemeinsam: Harry Houdini und Spiritismus/Séancen. Folge: Atlantic-City-Séance 1922 mit Conan Doyle (Kontaktversuch zur Mutter) und der Bruch der Freundschaft. Song: Houdini als Escapologist, Mutter-Tod und Medium-Séance / Flucht aus dem Jenseits — anderer Erzählfokus. — Tier B.",
+      "justification": "Gemeinsam Harry Houdini und Spiritismus/Séancen: Folge die Atlantic-City-Séance 1922 mit Conan Doyle; Song Escapologist, Mutter-Tod und Medium-Séance. Andere Erzählperspektive, gleiche Person. (Tier B).",
       "sharedEntities": [
         "Harry Houdini",
         "Spiritismus",
         "Séance"
       ],
-      "spotifyUrl": null,
-      "youtubeUrl": "https://www.youtube.com/watch?v=o8ML-EGLNCE",
+      "spotifyUrl": "https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OYfdXL7sKVI",
       "matchedAt": "2026-10-01",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 575,
+      "episodeTitle": "Hasekura Tsunenaga und die Keichō-Gesandtschaft",
+      "episodeUrl": "https://gadg.fm/575",
+      "songId": "imari-tones-sengoku-christians",
+      "band": "Imari Tones",
+      "songTitle": "Sengoku Christians",
+      "matchTier": "C",
+      "justification": "Song = Hosokawa Gracia und Takayama Ukon (Sengoku-Kirishitan). Folge = Hasekura Tsunenaga / Keichō-Gesandtschaft — andere Personen und Ereignis, gemeinsamer Rahmen Christentum im Japan der Wende 16./17. Jh. (Tier C).",
+      "sharedEntities": [
+        "Hosokawa Gracia",
+        "Takayama Ukon",
+        "Kirishitan",
+        "Sengoku",
+        "Japan"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5hAibC2WxazzY7odFjgb88",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FKV4gwBRKVc",
+      "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
     {
@@ -1279,7 +1646,7 @@
       "band": "Onmyō-za",
       "songTitle": "蒼き独眼 (Aoki Dokugan)",
       "matchTier": "B",
-      "justification": "Gemeinsam: Date Masamune. Folge erzählt die von Masamune entsandte Keichō-Gesandtschaft (Hasekura Tsunenaga, 1613, Handel/Mission in Europa). Song „蒼き独眼“ ist ein Tribut an Masamune selbst (Dokuganryū / Einäugiger; fiktionalisierte Krieger-Perspektive) — nicht an die Gesandtschaft. — Tier B.",
+      "justification": "Gemeinsam Date Masamune: Folge die von ihm entsandte Keichō-Gesandtschaft (Hasekura); Song Tribut an Masamune selbst (Dokuganryū). Gleiche Person, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Date Masamune",
         "Japan",
