@@ -18,9 +18,9 @@ Gilt, wenn ein GitHub-Issue bearbeitet oder bewertet wird. Dateien/Stufen: `play
 1. Vollständigkeit (Band, Song, Folge, Begründung).
 2. Plausibilität: Song zur Band? Genre **Rock/Metal**?
 3. Band+Song ok → mindestens in `songs.json` (auch bei späterem Reject).
-4. Genre nein → `rejected.json` (Tier C); in `reason` vermerken, welche Stufe bei passendem Genre plausibel wäre.
-5. Issue-Begründung vs. Folge prüfen; **Web-Recherche** (Lyrics, Bandtexte, Interviews) gegen Folgeninhalt; Tier A/B/C festlegen.
-6. A/B → Playlist + Export. C / Genre-Fail → `rejected.json`.
+4. Genre nein → `rejected.json` (Tier X); in `reason` vermerken, welche Stufe bei passendem Genre plausibel wäre (A/B/C) sowie `Genre = …, kein Rock/Metal`.
+5. Issue-Begründung vs. Folge prüfen; **Web-Recherche** (Lyrics, Bandtexte, Interviews) gegen Folgeninhalt; Tier A/B/C/X festlegen.
+6. A/B/C → Playlist + Export. X / Genre-Fail → `rejected.json`.
 7. Zwischenergebnis **nur im Chat** mit dem User – **kein** vorzeitiger Issue-Kommentar.
 
 ## Playlist: Korrektur

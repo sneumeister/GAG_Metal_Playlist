@@ -9,8 +9,12 @@ from typing import Any
 
 JSON_NAME = "GAG_Metal_Playlist.json"
 REJECTED_JSON_NAME = "rejected.json"
+SONGS_JSON_NAME = "songs.json"
+EPISODES_JSONL_NAME = "episodes.jsonl"
 MD_NAME = "GAG_Metal_playlist.md"
 HTML_NAME = "GAG_Metal_playlist.html"
+REJECT_MD_NAME = "GAG_Metal_rejected.md"
+REJECT_HTML_NAME = "GAG_Metal_rejected.html"
 
 # Repo / Mitmachen (für HTML- und Markdown-Export)
 REPO_URL = "https://github.com/sneumeister/GAG_Metal_Playlist"
@@ -21,6 +25,10 @@ MITMACHEN_INTRO = (
     "Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues."
 )
 MITMACHEN_LINK_LABEL = "Neues Issue öffnen"
+
+# Gegenseitige Verweise Playlist ↔ Reject-Liste
+CROSSLINK_TO_REJECTS_INTRO = "Geprüfte Absagen (Stufe X):"
+CROSSLINK_TO_PLAYLIST_INTRO = "Trefferliste (Stufen A/B/C):"
 
 
 def data_dir() -> Path:
@@ -79,6 +87,70 @@ def load_rejected_entries(path: Path | None = None) -> list[dict[str, Any]]:
     json_path = path or (data_dir() / REJECTED_JSON_NAME)
     raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
     return entries_from_raw(raw, path_hint=json_path)
+
+
+def load_songs_by_id(path: Path | None = None) -> dict[str, dict[str, Any]]:
+    """Song-Katalog als `songId` → Eintrag."""
+    json_path = path or (data_dir() / SONGS_JSON_NAME)
+    raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
+    if not isinstance(raw, list):
+        raise ValueError(f"Unerwartetes songs.json-Format in {json_path}")
+    return {str(s["id"]): s for s in raw if s.get("id")}
+
+
+def load_episodes_by_id(path: Path | None = None) -> dict[int, dict[str, Any]]:
+    """Folien-Snapshot als `episodeId` → Eintrag."""
+    jsonl_path = path or (data_dir() / EPISODES_JSONL_NAME)
+    out: dict[int, dict[str, Any]] = {}
+    if not jsonl_path.exists():
+        return out
+    for line in jsonl_path.read_text(encoding="utf-8-sig").splitlines():
+        if not line.strip():
+            continue
+        e = json.loads(line)
+        eid = e.get("id")
+        if eid is not None:
+            out[int(eid)] = e
+    return out
+
+
+def enrich_rejected_entries(
+    entries: list[dict[str, Any]] | None = None,
+) -> list[dict[str, Any]]:
+    """
+    Reject-Rohdaten um Band/Titel/Links/Folgentitel anreichern
+    (Export-Format analog zur Playlist-Zeile, Stufe immer X).
+    """
+    if entries is None:
+        entries = load_rejected_entries()
+    songs = load_songs_by_id()
+    episodes = load_episodes_by_id()
+    enriched: list[dict[str, Any]] = []
+    for e in entries:
+        song_id = e.get("songId") or ""
+        song = songs.get(str(song_id), {})
+        eid = e.get("episodeId")
+        ep = episodes.get(int(eid), {}) if eid is not None else {}
+        ep_url = link_or_empty(ep.get("websiteUrl")) or (
+            f"https://gadg.fm/{eid}" if eid is not None else None
+        )
+        enriched.append(
+            {
+                "episodeId": eid,
+                "episodeTitle": ep.get("title") or "",
+                "episodeUrl": ep_url,
+                "songId": song_id,
+                "band": song.get("band") or "",
+                "songTitle": song.get("title") or song_id,
+                "matchTier": "X",
+                "justification": e.get("reason") or "",
+                "youtubeUrl": song.get("youtubeUrl"),
+                "spotifyUrl": song.get("spotifyUrl"),
+                "rejectedAt": e.get("rejectedAt"),
+                "rejectedBy": e.get("rejectedBy"),
+            }
+        )
+    return enriched
 
 
 def json_status_date(path: Path | None = None) -> str | None:

@@ -1,5 +1,6 @@
-# Stellt die sortierbare Playlist-HTML über GitHub Pages bereit.
-# Erreichbar unter: https://sneumeister.github.io/GAG_Metal_Playlist/
+# Stellt Playlist- und Reject-HTML über GitHub Pages bereit.
+# Playlist: https://sneumeister.github.io/GAG_Metal_Playlist/
+# Rejects:  https://sneumeister.github.io/GAG_Metal_Playlist/GAG_Metal_rejected.html
 #
 # Voraussetzung: Repo public + Settings → Pages → Source: GitHub Actions.
 # Solange das Repo privat ist, wird der Job übersprungen (kein Fail).
@@ -10,6 +11,7 @@ on:
     branches: [main]
     paths:
       - GAG_Metal_playlist.html
+      - GAG_Metal_rejected.html
       - .github/workflows/deploy-pages.yml
   workflow_dispatch:
 
@@ -38,6 +40,8 @@ jobs:
         run: |
           mkdir -p _site
           cp GAG_Metal_playlist.html _site/index.html
+          cp GAG_Metal_playlist.html _site/GAG_Metal_playlist.html
+          cp GAG_Metal_rejected.html _site/GAG_Metal_rejected.html
 
       - name: Pages konfigurieren
         uses: actions/configure-pages@v6

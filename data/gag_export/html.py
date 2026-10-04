@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Standalone-HTML-Export der GAG Metal Playlist (inline CSS/JS, sortierbare Spalten)."""
+"""Standalone-HTML-Export der GAG Metal Playlist und Reject-Liste."""
 from __future__ import annotations
 
 import html
@@ -7,14 +7,20 @@ import json
 from pathlib import Path
 
 from .common import (
+    CROSSLINK_TO_PLAYLIST_INTRO,
+    CROSSLINK_TO_REJECTS_INTRO,
     HTML_NAME,
     ISSUES_NEW_CHOOSE_URL,
     MITMACHEN_INTRO,
     MITMACHEN_LINK_LABEL,
+    REJECT_HTML_NAME,
+    REJECTED_JSON_NAME,
     REPO_INTRO,
     REPO_LINK_LABEL,
     REPO_URL,
     compile_timestamp,
+    data_dir,
+    enrich_rejected_entries,
     json_status_date,
     link_or_empty,
     load_entries,
@@ -29,15 +35,7 @@ def _esc(text: object | None) -> str:
     return html.escape(str(text), quote=True)
 
 
-def render_html(entries=None, *, compiled_at: str | None = None, json_date: str | None = None) -> str:
-    if entries is None:
-        entries = load_entries()
-    entries = sorted_by_episode(entries)
-    compiled_at = compiled_at or compile_timestamp()
-    if json_date is None:
-        json_date = json_status_date()
-    json_line = json_date if json_date else "noch nicht gesetzt"
-
+def _payload_rows(entries: list) -> list[dict]:
     payload = []
     for e in entries:
         payload.append(
@@ -53,7 +51,21 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
                 "spotifyUrl": link_or_empty(e.get("spotifyUrl")),
             }
         )
-    data_json = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
+    return payload
+
+
+def _render_page(
+    *,
+    title: str,
+    legend_html: str,
+    crosslink_html: str,
+    entries: list,
+    compiled_at: str,
+    json_line: str,
+    data_element_id: str,
+    table_id: str,
+) -> str:
+    data_json = json.dumps(_payload_rows(entries), ensure_ascii=False).replace("</", "<\\/")
     col_count = 7
 
     return f"""<!DOCTYPE html>
@@ -61,7 +73,7 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GAG Metal Playlist: Metal-Song trifft GAG-Folge</title>
+<title>{_esc(title)}</title>
 <style>
 :root {{
   --bg: #121417;
@@ -230,7 +242,7 @@ tr.row-justification[hidden] {{
 </head>
 <body>
 <main>
-  <h1>GAG Metal Playlist: Metal-Song trifft GAG-Folge</h1>
+  <h1>{_esc(title)}</h1>
   <div class="meta">
     <div class="meta-dates">
       <div><strong>Compile-Datum:</strong> {_esc(compiled_at)}</div>
@@ -238,14 +250,13 @@ tr.row-justification[hidden] {{
     </div>
     <div>{_esc(REPO_INTRO)} <a href="{_esc(REPO_URL)}">{_esc(REPO_LINK_LABEL)}</a>.</div>
     <div>{_esc(MITMACHEN_INTRO)} <a href="{_esc(ISSUES_NEW_CHOOSE_URL)}">{_esc(MITMACHEN_LINK_LABEL)}</a></div>
+    <div>{crosslink_html}</div>
   </div>
   <div class="legend">
-    <p><strong>Stufe A</strong> – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).</p>
-    <p><strong>Stufe B</strong> – gemeinsamer historischer Rahmen, klar anderer Fokus oder nur Inspiration/Metapher.</p>
-    <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>
+{legend_html}
   </div>
   <div class="wrap">
-    <table id="playlist">
+    <table id="{_esc(table_id)}">
       <colgroup>
         <col class="col-folge">
         <col class="col-episode">
@@ -270,12 +281,12 @@ tr.row-justification[hidden] {{
     </table>
   </div>
 </main>
-<script type="application/json" id="playlist-data">{data_json}</script>
+<script type="application/json" id="{_esc(data_element_id)}">{data_json}</script>
 <script>
 (function () {{
-  const raw = document.getElementById("playlist-data").textContent;
+  const raw = document.getElementById({json.dumps(data_element_id)}).textContent;
   let rows = JSON.parse(raw);
-  const tbody = document.querySelector("#playlist tbody");
+  const tbody = document.querySelector({json.dumps("#" + table_id)} + " tbody");
   const headers = Array.from(document.querySelectorAll("th.sortable"));
   const colCount = {col_count};
   let sortKey = "episodeId";
@@ -438,7 +449,74 @@ tr.row-justification[hidden] {{
 """
 
 
+def render_html(entries=None, *, compiled_at: str | None = None, json_date: str | None = None) -> str:
+    if entries is None:
+        entries = load_entries()
+    entries = sorted_by_episode(entries)
+    compiled_at = compiled_at or compile_timestamp()
+    if json_date is None:
+        json_date = json_status_date()
+    json_line = json_date if json_date else "noch nicht gesetzt"
+
+    crosslink = (
+        f'{_esc(CROSSLINK_TO_REJECTS_INTRO)} '
+        f'<a href="{_esc(REJECT_HTML_NAME)}">{_esc(REJECT_HTML_NAME)}</a>'
+    )
+    legend = """    <p><strong>Stufe A</strong> – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).</p>
+    <p><strong>Stufe B</strong> – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.</p>
+    <p><strong>Stufe C</strong> – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.</p>
+    <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
+
+    return _render_page(
+        title="GAG Metal Playlist: Metal-Song trifft GAG-Folge",
+        legend_html=legend,
+        crosslink_html=crosslink,
+        entries=entries,
+        compiled_at=compiled_at,
+        json_line=json_line,
+        data_element_id="playlist-data",
+        table_id="playlist",
+    )
+
+
+def render_rejected_html(
+    entries=None, *, compiled_at: str | None = None, json_date: str | None = None
+) -> str:
+    if entries is None:
+        entries = enrich_rejected_entries()
+    entries = sorted_by_episode(entries)
+    compiled_at = compiled_at or compile_timestamp()
+    if json_date is None:
+        json_date = json_status_date(data_dir() / REJECTED_JSON_NAME)
+    json_line = json_date if json_date else "noch nicht gesetzt"
+
+    crosslink = (
+        f'{_esc(CROSSLINK_TO_PLAYLIST_INTRO)} '
+        f'<a href="{_esc(HTML_NAME)}">{_esc(HTML_NAME)}</a>'
+    )
+    legend = """    <p><strong>Stufe X</strong> – kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Genre-Fail, …).</p>
+    <p>Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.</p>
+    <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
+
+    return _render_page(
+        title="GAG Metal Rejects: Geprüfte Absagen (Stufe X)",
+        legend_html=legend,
+        crosslink_html=crosslink,
+        entries=entries,
+        compiled_at=compiled_at,
+        json_line=json_line,
+        data_element_id="rejected-data",
+        table_id="rejected",
+    )
+
+
 def write_html(out_path: Path | None = None) -> Path:
     path = out_path or (output_dir() / HTML_NAME)
     path.write_text(render_html(), encoding="utf-8")
+    return path
+
+
+def write_rejected_html(out_path: Path | None = None) -> Path:
+    path = out_path or (output_dir() / REJECT_HTML_NAME)
+    path.write_text(render_rejected_html(), encoding="utf-8")
     return path
