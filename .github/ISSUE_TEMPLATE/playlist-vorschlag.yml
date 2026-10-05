@@ -1,12 +1,12 @@
 name: "Playlist: Vorschlag"
-description: Neuen Song ↔ GAG-Folge vorschlagen (enger historischer Bezug).
+description: Neuen Song ↔ GAG-Folge vorschlagen (historischer Bezug, Stufen A/B/C).
 title: "[Vorschlag] "
 labels: ["playlist", "vorschlag"]
 body:
   - type: markdown
     attributes:
       value: |
-        Nur Vorschläge mit **engem** Bezug (Person, Schlacht, Ereignis, Ort oder konkrete Sage/Figur). Lose „beide irgendwie WWII“-Themen werden in der Regel abgelehnt. Die Bewertung (A / B / Reject) trifft die Kuratierung.
+        Nur Vorschläge mit **erkennbarem** Bezug (Person, Schlacht, Ereignis, Ort oder konkrete Sage/Figur). Lose „beide irgendwie WWII“-Themen werden in der Regel abgelehnt. Die Stufung (A / B / C) trifft die Kuratierung.
   - type: input
     id: band
     attributes:
@@ -49,8 +49,9 @@ body:
       label: Vermutete Stufe
       options:
         - Unsicher
-        - A – sehr enger Bezug
-        - B – gemeinsamer Rahmen, Folge/Song fokussieren anders
+        - A – denselben Kerngegenstand
+        - B – gemeinsamer Rahmen, anderer Fokus
+        - C – thematische/assoziative Nähe
     validations:
       required: false
   - type: textarea

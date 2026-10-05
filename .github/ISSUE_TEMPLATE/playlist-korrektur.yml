@@ -15,7 +15,7 @@ body:
         - Tippfehler (Band, Titel, Text)
         - Falsche Folge zugeordnet
         - Matching zu schwach oder falsch
-        - Stufe A/B anpassen
+        - Stufe A/B/C anpassen oder auf Reject setzen
         - Link kaputt oder falsch (Spotify/YouTube)
         - Eintrag sollte entfernt werden
         - Sonstiges
@@ -34,7 +34,7 @@ body:
     attributes:
       label: Soll-Zustand
       description: Was sollte stattdessen stehen bzw. gelten?
-      placeholder: z. B. Folge 45 statt 44; Stufe B statt A; Eintrag streichen …
+      placeholder: z. B. Folge 45 statt 44; Stufe C statt B; Reject / Eintrag streichen …
     validations:
       required: true
   - type: textarea
