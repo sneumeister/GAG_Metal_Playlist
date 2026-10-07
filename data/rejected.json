@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 19:53:21 +0200",
+  "updatedAt": "2026-10-07 20:45:09 +0200",
   "entries": [
     {
       "episodeId": 105,
@@ -495,6 +495,34 @@
       "episodeId": 576,
       "songId": "skinny-puppy-hexonxonx",
       "reason": "Song = Exxon Valdez 1989 und Ölindustrie-Kritik. Folge = D'Arcy-Konzession und Petromoderne-Anfang 1901–1910 — anderes Ereignis und Jahrhundert; inhaltlich lose Öl-Nähe (bei Metal wäre eher Tier C). Genre = Industrial/EBM, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "revocation-fracked",
+      "reason": "Song = Fracking und moderne Tiefbohrung, Umweltzerstörung heute. Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (1901–1910, Lakeview) — anderes Setting und Technik, nur loser Öl-Bezug (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "ics-vortex-oil-in-water",
+      "reason": "Song = Öl-in-Wasser-/Spill-Metapher und psychische Krise, kein historischer Erzählkern. Folge = Petromoderne-Anfang (D'Arcy, Persien, Lakeview) — kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "abomination-blood-for-oil",
+      "reason": "Song = Golfkrieg und „trade our blood for oil“ (Hussein-Bezug). Folge = D'Arcy-Konzession und Persien-Öl Anfang — anderes Jahrhundert und Ereignis (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "attila-the-stockbroker-blood-for-oil",
+      "reason": "Song = Golfkrieg-Protest „Blood for oil“. Folge = D'Arcy-Konzession und Lakeview 1910 — anderes Ereignis und Phase; inhaltlich wie andere Golf-/Öl-Kriegs-Songs (bei Metal wäre eher Tier X). Genre = Folk/Punk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     }

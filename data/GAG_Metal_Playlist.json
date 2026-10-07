@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 19:50:40 +0200",
+  "updatedAt": "2026-10-07 21:20:27 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -94,7 +94,7 @@
         "Langbogen",
         "1346"
       ],
-      "spotifyUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX",
       "youtubeUrl": "https://www.youtube.com/watch?v=rnBBQPzwDxo",
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
@@ -1393,6 +1393,26 @@
       "spotifyUrl": "https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V",
       "youtubeUrl": "https://www.youtube.com/watch?v=8Q00PZR2_og",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 505,
+      "episodeTitle": "William H. Mumler, Geisterfotograf",
+      "episodeUrl": "https://gadg.fm/505",
+      "songId": "the-burned-over-the-last-great-awakening",
+      "band": "The Burned Over",
+      "songTitle": "The Last Great Awakening",
+      "matchTier": "B",
+      "justification": "Folge = Entstehung des US-Spiritismus (Fox-Schwestern, Hydesville) und Mumlers Geisterfotografie; Song = Séancen, Totenbeschwörung und Erweckung, Bandkonzept Burned-over District in New York — gemeinsamer Rahmen Spiritualismus in den USA, nicht Fox-Schwestern oder Mumler als Person. (Tier B).",
+      "sharedEntities": [
+        "Spiritismus",
+        "Séance",
+        "USA",
+        "19. Jh."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+      "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
     {

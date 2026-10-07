@@ -1,7 +1,7 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-07 19:53:21 +0200  </small>
-<small>**JSON-Status:** 2026-10-07 19:53:21 +0200  </small>
+<small>**Compile-Datum:** 2026-10-07 21:20:28 +0200  </small>
+<small>**JSON-Status:** 2026-10-07 20:45:09 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -71,15 +71,19 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Norther | Black Gold | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Point of Existence | Black Gold | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Tankard | Black Plague (BP) | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Abomination | Blood For Oil | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Attila the Stockbroker | Blood for Oil | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Sodom | Bloodtrails | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Eradikated | British Petroleum | X | [link](https://www.youtube.com/watch?v=lvLpXdF1yAE) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Horresque | Deepwater Horizon | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Mystik | Evil Oil | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Revocation | Fracked | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skinny Puppy | Hexonxonx | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Statoil | Hyper-capitalistic wet dream (finding the black gold) | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Shahin Najafi | Mosaddegh | X | [link](https://www.youtube.com/watch?v=jufKlgJgBLM) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | King Gizzard & The Lizard Wizard | Motor Spirit | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Tankard | Octane Warriors | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | ICS Vortex | Oil In Water | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Pro-Pain | Operation Blood for Oil | X | [link](https://www.youtube.com/watch?v=oN3fLTFqO9U) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Vatican Shadow | Persian Pillars of the Gasoline Era | X | [link](https://www.youtube.com/watch?v=6KvTK-Ee6b8) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Ministry | Rio Grande Blood | X | — | — |

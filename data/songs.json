@@ -1,5 +1,25 @@
 [
   {
+    "id": "abomination-blood-for-oil",
+    "band": "Abomination",
+    "title": "Blood For Oil",
+    "entities": [
+      "Golfkrieg",
+      "Öl",
+      "Hussein"
+    ],
+    "era": "spätes 20. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.mldb.org/song-68178-blood-for-oil.html",
+        "note": "Tragedy Strikes — Gulf War / trade our blood for oil"
+      }
+    ]
+  },
+  {
     "id": "aeternam-goddess-of-masr",
     "band": "Aeternam",
     "title": "Goddess of Masr",
@@ -174,6 +194,25 @@
         "type": "secondary",
         "url": "https://www.deezer.com/track/108576146",
         "note": "Deezer: Daybreaker (Deluxe)"
+      }
+    ]
+  },
+  {
+    "id": "attila-the-stockbroker-blood-for-oil",
+    "band": "Attila the Stockbroker",
+    "title": "Blood for Oil",
+    "entities": [
+      "Golfkrieg",
+      "Öl"
+    ],
+    "era": "1991",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://antiwarsongs.org/canzone.php?id=46261&lang=en",
+        "note": "Gulf War protest — Blood for oil"
       }
     ]
   },
@@ -765,7 +804,7 @@
       "1346"
     ],
     "era": "1346",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX",
     "youtubeUrl": "https://www.youtube.com/watch?v=rnBBQPzwDxo",
     "sources": [
       {
@@ -1053,6 +1092,25 @@
         "type": "band",
         "url": "https://icedearth.com/albums/the-glorious-burden/",
         "note": "The Glorious Burden"
+      }
+    ]
+  },
+  {
+    "id": "ics-vortex-oil-in-water",
+    "band": "ICS Vortex",
+    "title": "Oil In Water",
+    "entities": [
+      "Öl",
+      "Ölkatastrophe"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/ics-vortex-oil-in-water-57185",
+        "note": "Storm Seeker (2011) — crude oil in water, spill metaphor"
       }
     ]
   },
@@ -1912,6 +1970,26 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
         "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "revocation-fracked",
+    "band": "Revocation",
+    "title": "Fracked",
+    "entities": [
+      "Öl",
+      "Fracking",
+      "Bohrung"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metalsucks.net/2013/07/24/are-revocation-taking-a-stand-against-hydraulic-fracturing-in-new-song-fracked/",
+        "note": "Revocation (2013) — hydraulic fracturing / drilling critique"
       }
     ]
   },
@@ -4964,6 +5042,28 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
         "note": "Revolution (2021)"
+      }
+    ]
+  },
+  {
+    "id": "the-burned-over-the-last-great-awakening",
+    "band": "The Burned Over",
+    "title": "The Last Great Awakening",
+    "entities": [
+      "Spiritismus",
+      "Séance",
+      "Burned-over District",
+      "USA",
+      "19. Jh."
+    ],
+    "era": "19. Jh. / USA",
+    "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
+        "note": "Album The Last Great Awakening (2025), Title Track"
       }
     ]
   }
