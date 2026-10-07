@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 22:05:18 +0200",
+  "updatedAt": "2026-10-07 22:26:15 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1502,8 +1502,8 @@
       "songId": "serenity-reflections-of-ad",
       "band": "Serenity",
       "songTitle": "Reflections (of AD)",
-      "matchTier": "B",
-      "justification": "Folge = Nashorn als Statussymbol, Dürers Holzschnitt „Rhinocerus“ und die Clara-Tour; Song = „Reflections (of AD)“ vom Dürer-Konzeptalbum Nemesis AD — Selbstbild und bleibendes Künstlerwerk Dürers, ohne Nashorn. Gemeinsamer Rahmen Albrecht Dürer und Wirkung seiner Bilder, anderer Fokus. (Tier B).",
+      "matchTier": "C",
+      "justification": "Folge = Nashorn als Statussymbol, Dürers Holzschnitt „Rhinocerus“ und die Clara-Tour; Song = „Reflections (of AD)“ vom Dürer-Konzeptalbum Nemesis AD — Selbstbild und bleibendes Künstlerwerk, ohne Nashorn. Thematische Nähe über Dürer und nachwirkende Bilder, aber kein gemeinsamer Erzählgegenstand. (Tier C).",
       "sharedEntities": [
         "Albrecht Dürer",
         "Dürer",
