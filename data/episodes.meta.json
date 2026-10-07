@@ -1,5 +1,6 @@
 {
-    "lineCount": 575,
-    "fetchedAt": "2026-09-30T17:21:44Z",
-    "sourceUrl": "https://raw.githubusercontent.com/ideadapt/geschichten-aus-der-geschichte-data/refs/heads/main/data/episodes.jsonl"
+    "lineCount": 576,
+    "fetchedAt": "2026-10-07T16:50:27Z",
+    "sourceUrl": "https://raw.githubusercontent.com/ideadapt/geschichten-aus-der-geschichte-data/refs/heads/main/data/episodes.jsonl",
+    "note": "Episode 576 manuell aus geschichte.fm ergänzt (Upstream noch ohne 576)."
 }

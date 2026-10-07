@@ -152,6 +152,32 @@
     ]
   },
   {
+    "id": "architects-black-blood",
+    "band": "Architects",
+    "title": "Black Blood",
+    "entities": [
+      "Öl",
+      "Black Gold",
+      "Bohrung",
+      "Umweltzerstörung"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.musica.com/letras.asp?letra=2287735",
+        "note": "Daybreaker Deluxe (2013) — Öl-/Klima-Metaphern"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/108576146",
+        "note": "Deezer: Daybreaker (Deluxe)"
+      }
+    ]
+  },
+  {
     "id": "battle-symphony-the-fall-of-the-queen-of-cities",
     "band": "Battle Symphony",
     "title": "The Fall of the Queen of Cities",
@@ -168,6 +194,36 @@
         "type": "lyrics",
         "url": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
         "note": "Explicit Fourth Crusade / fall of Constantinople"
+      }
+    ]
+  },
+  {
+    "id": "bible-of-the-devil-greek-fire",
+    "band": "Bible of the Devil",
+    "title": "Greek Fire",
+    "entities": [
+      "Griechisches Feuer",
+      "Byzanz",
+      "Siphon"
+    ],
+    "era": "Byzanz / frühes Mittelalter",
+    "spotifyUrl": "https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bYMfPY6ZVmU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/b/bible-of-the-devil-lyrics/greek-fire-lyrics.html",
+        "note": "Siphons, Hafen, byzantine napalm shower, Rezept-/Laborbild"
+      },
+      {
+        "type": "secondary",
+        "url": "https://cruzdelsurmusic.bandcamp.com/album/freedom-metal",
+        "note": "Freedom Metal (2008), Track Greek Fire"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.metalunderground.com/reviews/details.cfm?releaseid=1744",
+        "note": "Review: Heavy/stoner metal"
       }
     ]
   },
@@ -521,6 +577,36 @@
     ]
   },
   {
+    "id": "eradikated-british-petroleum",
+    "band": "Eradikated",
+    "title": "British Petroleum",
+    "entities": [
+      "British Petroleum",
+      "BP",
+      "Ölindustrie"
+    ],
+    "era": "20./21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=lvLpXdF1yAE",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://metalcountdown.com/video/019c76f4-32eb-73bc-acb0-8c4b19d32f9a",
+        "note": "British Petroleum (2026) — moderne BP-/Ölkonzern-Kritik"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Eradikated/British_Petroleum/1414406",
+        "note": "Single / Wiring of Violence (Indie Recordings)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/british-petroleum/1849539778?i=1849540185",
+        "note": "Apple Music: British Petroleum - Single"
+      }
+    ]
+  },
+  {
     "id": "ex-deo-ad-victoriam-the-battle-of-zama",
     "band": "Ex Deo",
     "title": "Ad Victoriam (The Battle of Zama)",
@@ -616,6 +702,27 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/thethirteenyearsofnero.html",
         "note": "Nero kills Agrippina"
+      }
+    ]
+  },
+  {
+    "id": "exxon-black-blood",
+    "band": "Exxon",
+    "title": "Black Blood",
+    "entities": [
+      "Öl",
+      "Nigeria",
+      "Ogoni",
+      "Ken Saro-Wiwa"
+    ],
+    "era": "20. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://cats.metal-archives.com/albums/Exxon/Black_Blood/1087240",
+        "note": "Single (2016)"
       }
     ]
   },
@@ -902,6 +1009,31 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Ein Grimoire und die ihm zugeschriebene magische Macht stehen im Zentrum des Songs; die Folge behandelt Grimoires historisch."
+      }
+    ]
+  },
+  {
+    "id": "horresque-deepwater-horizon",
+    "band": "Horresque",
+    "title": "Deepwater Horizon",
+    "entities": [
+      "Deepwater Horizon",
+      "Öl",
+      "Ölkatastrophe"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/horresque-deepwater-horizon-280179",
+        "note": "Chasms Pt. I (2020) — Öl als Black Gold/Plague"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/2081311617",
+        "note": "Deezer: Chasms Pt. I"
       }
     ]
   },
@@ -1269,6 +1401,31 @@
     ]
   },
   {
+    "id": "king-gizzard-motor-spirit",
+    "band": "King Gizzard & The Lizard Wizard",
+    "title": "Motor Spirit",
+    "entities": [
+      "Benzin",
+      "Petroleum",
+      "Fossile Brennstoffe"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/King-gizzard-and-the-lizard-wizard-motor-spirit-lyrics",
+        "note": "PetroDragonic Apocalypse (2023) — Fossil-/Benzin-Apokalypse"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://kinggizzard.bandcamp.com/track/motor-spirit",
+        "note": "Album PetroDragonic Apocalypse"
+      }
+    ]
+  },
+  {
     "id": "knorkator-konrad",
     "band": "Knorkator",
     "title": "Konrad",
@@ -1321,6 +1478,25 @@
     ]
   },
   {
+    "id": "manowar-kings-of-metal",
+    "band": "Manowar",
+    "title": "Kings of Metal",
+    "entities": [
+      "Heavy Metal",
+      "Manowar"
+    ],
+    "era": "1988 (Metal-Kultur)",
+    "spotifyUrl": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RSSmwXy98IY",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://en.wikipedia.org/wiki/Kings_of_Metal",
+        "note": "Title track: self-referential metal anthem, not historical narrative"
+      }
+    ]
+  },
+  {
     "id": "metallica-the-call-of-ktulu",
     "band": "Metallica",
     "title": "The Call of Ktulu",
@@ -1335,6 +1511,45 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Bezug auf H. P. Lovecraft, der in der Grimoire-Folge erwähnt wird; kein direkter Bezug zur Geschichte der Grimoires."
+      }
+    ]
+  },
+  {
+    "id": "ministry-rio-grande-blood",
+    "band": "Ministry",
+    "title": "Rio Grande Blood",
+    "entities": [
+      "Öl",
+      "Irakkrieg",
+      "Exxon"
+    ],
+    "era": "2000er",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/ministry-rio-grande-blood-27256",
+        "note": "Rio Grande Blood (2006) — crude oil, Bush-Ära"
+      }
+    ]
+  },
+  {
+    "id": "mystik-evil-oil",
+    "band": "Mystik",
+    "title": "Evil Oil",
+    "entities": [
+      "Öl",
+      "Golfkrieg"
+    ],
+    "era": "spätes 20. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyrics.camp/mystik/evil-oil.html",
+        "note": "The Plot Sickens — Rohöl, Hussein-Metapher"
       }
     ]
   },
@@ -1376,25 +1591,6 @@
         "type": "lyrics",
         "url": "https://www.songlyrics.com/nightfall/akhenaton-the-9th-pharaoh-of-the-18th-dynasty-lyrics/",
         "note": "Akhenaton / Aton cult; Cassiopeia (2013)"
-      }
-    ]
-  },
-  {
-    "id": "manowar-kings-of-metal",
-    "band": "Manowar",
-    "title": "Kings of Metal",
-    "entities": [
-      "Heavy Metal",
-      "Manowar"
-    ],
-    "era": "1988 (Metal-Kultur)",
-    "spotifyUrl": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RSSmwXy98IY",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://en.wikipedia.org/wiki/Kings_of_Metal",
-        "note": "Title track: self-referential metal anthem, not historical narrative"
       }
     ]
   },
@@ -1447,6 +1643,29 @@
         "type": "secondary",
         "url": "https://music.apple.com/us/album/hasekura-bonds-beyond-the-seas-and-time/1818505596?i=1818505649",
         "note": "Apple Music Single"
+      }
+    ]
+  },
+  {
+    "id": "norther-black-gold",
+    "band": "Norther",
+    "title": "Black Gold",
+    "entities": [
+      "Black Gold"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/norther-black-gold-4914",
+        "note": "N (2008) — Liquid-Evil-Metapher, kein Erdölgeschichte"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/108605020",
+        "note": "Deezer: N"
       }
     ]
   },
@@ -1561,6 +1780,29 @@
     ]
   },
   {
+    "id": "point-of-existence-black-gold",
+    "band": "Point of Existence",
+    "title": "Black Gold",
+    "entities": [
+      "Black Gold"
+    ],
+    "era": null,
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/release/view/id/245956",
+        "note": "01 (2009) — Track 1, Lyrics nicht auffindbar"
+      },
+      {
+        "type": "secondary",
+        "url": "https://cats.metal-archives.com/reviews/Point_of_Existence/01/245956/bayern/81007",
+        "note": "Review: orientalische Klangfarbe, Titel Black Gold"
+      }
+    ]
+  },
+  {
     "id": "powerwolf-1589",
     "band": "Powerwolf",
     "title": "1589",
@@ -1617,6 +1859,33 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Powerwolf_discography",
         "note": "Joan of Arc (2024/25 album track)"
+      }
+    ]
+  },
+  {
+    "id": "pro-pain-operation-blood-for-oil",
+    "band": "Pro-Pain",
+    "title": "Operation Blood for Oil",
+    "entities": [
+      "Ölkriege",
+      "George H. W. Bush",
+      "George W. Bush",
+      "Golfkrieg",
+      "Irakkrieg"
+    ],
+    "era": "1991–2003",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=oN3fLTFqO9U",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/pro-pain-operation-blood-for-oil-282697",
+        "note": "Prophets of Doom (2005) — Bush-Dynastie, Golf-/Irakkrieg, Blood for Oil"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/operation-blood-for-oil/1741326330?i=1741326338",
+        "note": "Apple Music: Prophets of Doom"
       }
     ]
   },
@@ -1704,6 +1973,31 @@
         "type": "secondary",
         "url": "https://www.farsidemusic.com/acatalog/The-Road-of-Hasekura-Tsunenaga-FSD6365.html",
         "note": "Shakuhachi-Album (Weltmusik/traditionell), dem Hasekura Tsunenaga gewidmet"
+      }
+    ]
+  },
+  {
+    "id": "running-wild-black-gold",
+    "band": "Running Wild",
+    "title": "Black Gold",
+    "entities": [
+      "Öl",
+      "Black Gold",
+      "Rohstoffgier"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/running-wild-black-gold-40843",
+        "note": "Rogues En Vogue (2005) — generische Ölgier"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/15141687",
+        "note": "Deezer: Rogues En Vogue"
       }
     ]
   },
@@ -3968,6 +4262,32 @@
     ]
   },
   {
+    "id": "shahin-najafi-mosaddegh",
+    "band": "Shahin Najafi",
+    "title": "Mosaddegh",
+    "entities": [
+      "Mohammad Mossadegh",
+      "Mossadegh",
+      "Ölverstaatlichung Iran",
+      "Ahmadabad"
+    ],
+    "era": "1951–1953",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=jufKlgJgBLM",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/shahin-najafi/mosaddegh-lyrics/",
+        "note": "Radikal (2017) — Porträt Mossadegh / Ahmadabad"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/mosaddegh/1206546550?i=1206546853",
+        "note": "Apple Music: Radikal"
+      }
+    ]
+  },
+  {
     "id": "six-feet-under-420",
     "band": "Six Feet Under",
     "title": "4:20",
@@ -4018,6 +4338,94 @@
         "type": "bandcamp",
         "url": "https://trueskelator.bandcamp.com/track/victory-henry-v",
         "note": "Death to All Nations / Victory (Henry V)"
+      }
+    ]
+  },
+  {
+    "id": "skinny-puppy-hexonxonx",
+    "band": "Skinny Puppy",
+    "title": "Hexonxonx",
+    "entities": [
+      "Exxon Valdez",
+      "Ölindustrie"
+    ],
+    "era": "1989",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Rabies_(Skinny_Puppy_album)",
+        "note": "Rabies (1989) — Exxon-/Ölkatastrophen-Bezug"
+      }
+    ]
+  },
+  {
+    "id": "skyclad-salt-on-the-earth-another-mans-poison",
+    "band": "Skyclad",
+    "title": "Salt On The Earth (Another Man's Poison)",
+    "entities": [
+      "Öl",
+      "Black Gold"
+    ],
+    "era": "1992",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/skyclad/aburntofferingfortheboneidol.html",
+        "note": "A Burnt Offering for the Bone Idol (1992)"
+      }
+    ]
+  },
+  {
+    "id": "sodom-bloodtrails",
+    "band": "Sodom",
+    "title": "Bloodtrails",
+    "entities": [
+      "Golfkrieg",
+      "Desert Shield",
+      "Öl"
+    ],
+    "era": "1990",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyricsmania.com/bloodtrails_lyrics_sodom.html",
+        "note": "Better Off Dead (1990) — Desert Shield, treasure of the soil"
+      }
+    ]
+  },
+  {
+    "id": "statoil-hyper-capitalistic-wet-dream-finding-the-black-gold",
+    "band": "Statoil",
+    "title": "Hyper-capitalistic wet dream (finding the black gold)",
+    "entities": [
+      "Ölindustrie",
+      "Hyperkapitalismus",
+      "Petromoderne"
+    ],
+    "era": "20./21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://statiskoljemusikk.bandcamp.com/track/hyper-capitalistic-wet-dream-finding-the-black-gold",
+        "note": "Black Gold (2022) — Track 1"
+      },
+      {
+        "type": "secondary",
+        "url": "https://statiskoljemusikk.bandcamp.com/album/black-gold",
+        "note": "Albumtext: Geburt und Kollaps eines modernen Ölimperiums"
+      },
+      {
+        "type": "band",
+        "url": "https://statiskoljemusikk.net/",
+        "note": "Band-Bio: Rohstoffabbau, Kapital aus Öl"
       }
     ]
   },
@@ -4083,6 +4491,51 @@
     ]
   },
   {
+    "id": "tankard-black-plague-bp",
+    "band": "Tankard",
+    "title": "Black Plague (BP)",
+    "entities": [
+      "BP",
+      "Deepwater Horizon",
+      "Ölkatastrophe"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/tankard-black-plague-%28bp%29-26616",
+        "note": "Vol.(L)Ume 14 (2010) — Deepwater Horizon / BP"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/90592299",
+        "note": "Deezer: Vol.(L)Ume 14"
+      }
+    ]
+  },
+  {
+    "id": "tankard-octane-warriors",
+    "band": "Tankard",
+    "title": "Octane Warriors",
+    "entities": [
+      "Öl",
+      "OPEC",
+      "Ölkriege"
+    ],
+    "era": "2060 (fiktiv)",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/tankard-octane-warriors-26603",
+        "note": "Thirst (2008) — Ölkriege 2060, black gold"
+      }
+    ]
+  },
+  {
     "id": "temple-of-oblivion-das-wunder-von-koniggratz",
     "band": "Temple of Oblivion",
     "title": "Das Wunder von Königgrätz",
@@ -4118,6 +4571,31 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Fibonacci-Folge als Grundlage der Silbenstruktur; die Episode behandelt ihre Geschichte."
+      }
+    ]
+  },
+  {
+    "id": "turisas-greek-fire",
+    "band": "Turisas",
+    "title": "Greek Fire",
+    "entities": [
+      "Griechisches Feuer",
+      "Byzanz",
+      "Dromone"
+    ],
+    "era": "Byzanz / frühes Mittelalter",
+    "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/turisas/greek-fire-lyrics/",
+        "note": "Dromone, Greek fire, Wasser nährt die Flammen"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.rockfreaks.net/interviews/230",
+        "note": "Turisas2013: byzantinischer Rahmen, allegorische Ebenen"
       }
     ]
   },
@@ -4285,6 +4763,33 @@
         "type": "lyrics",
         "url": "https://genius.com/Stan-rogers-northwest-passage-lyrics",
         "note": "Original lyrics name Franklin and Beaufort Sea; cover keeps them"
+      }
+    ]
+  },
+  {
+    "id": "vatican-shadow-persian-pillars-of-the-gasoline-era",
+    "band": "Vatican Shadow",
+    "title": "Persian Pillars of the Gasoline Era",
+    "entities": [
+      "Iran",
+      "Ölpolitik",
+      "Teheran",
+      "Abadan",
+      "westliche Intervention"
+    ],
+    "era": "20. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=6KvTK-Ee6b8",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://20buckspin.bandcamp.com/album/persian-pillars-of-the-gasoline-era",
+        "note": "Album (2020) — Iran/Öl-Konzept über Tracktitel"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.twoguysmetalreviews.com/2020/08/vatican-shadow-persian-pillars-of.html",
+        "note": "Review: USA, Öl und Umsturz in Iran"
       }
     ]
   },
