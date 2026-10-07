@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 21:20:27 +0200",
+  "updatedAt": "2026-10-07 22:05:18 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -481,25 +481,6 @@
       "episodeId": 211,
       "episodeTitle": "Griechisches Feuer",
       "episodeUrl": "https://gadg.fm/211",
-      "songId": "turisas-greek-fire",
-      "band": "Turisas",
-      "songTitle": "Greek Fire",
-      "matchTier": "A",
-      "justification": "Song = Griechisches Feuer an Bord einer Dromone, geheimes Brandgemisch, Flammen die mit Wasser weiter brennen. Folge = Entwicklung, Einsatz und Bedeutung derselben byzantinischen Waffe — gemeinsamer Kerngegenstand (Tier A).",
-      "sharedEntities": [
-        "Griechisches Feuer",
-        "Byzanz",
-        "Dromone"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
-      "matchedAt": "2026-10-07",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 211,
-      "episodeTitle": "Griechisches Feuer",
-      "episodeUrl": "https://gadg.fm/211",
       "songId": "bible-of-the-devil-greek-fire",
       "band": "Bible of the Devil",
       "songTitle": "Greek Fire",
@@ -512,6 +493,25 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt",
       "youtubeUrl": "https://www.youtube.com/watch?v=bYMfPY6ZVmU",
+      "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 211,
+      "episodeTitle": "Griechisches Feuer",
+      "episodeUrl": "https://gadg.fm/211",
+      "songId": "turisas-greek-fire",
+      "band": "Turisas",
+      "songTitle": "Greek Fire",
+      "matchTier": "A",
+      "justification": "Song = Griechisches Feuer an Bord einer Dromone, geheimes Brandgemisch, Flammen die mit Wasser weiter brennen. Folge = Entwicklung, Einsatz und Bedeutung derselben byzantinischen Waffe — gemeinsamer Kerngegenstand (Tier A).",
+      "sharedEntities": [
+        "Griechisches Feuer",
+        "Byzanz",
+        "Dromone"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -1131,6 +1131,87 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 427,
+      "episodeTitle": "Das Große Erdbeben von Lissabon",
+      "episodeUrl": "https://gadg.fm/427",
+      "songId": "moonspell-1-de-novembro",
+      "band": "Moonspell",
+      "songTitle": "1 de Novembro",
+      "matchTier": "A",
+      "justification": "Folge = Erdbeben von Lissabon am 1. November 1755; Song = „1 de Novembro“ vom Konzeptalbum „1755“ — Allerheiligen-Datum, Einsturz, Wassereinbruch und Wiedergeburt der Stadt, Kapitel desselben Katastrophen-Konzepts. (Tier A).",
+      "sharedEntities": [
+        "Erdbeben von Lissabon",
+        "1. November 1755",
+        "Lissabon",
+        "Tsunami"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vh3Mvd9NGwQ",
+      "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 427,
+      "episodeTitle": "Das Große Erdbeben von Lissabon",
+      "episodeUrl": "https://gadg.fm/427",
+      "songId": "moonspell-1755",
+      "band": "Moonspell",
+      "songTitle": "1755",
+      "matchTier": "A",
+      "justification": "Folge = das Große Erdbeben von Lissabon am 1. November 1755 und seine geistesgeschichtliche Wirkung; Song = Titeltrack des Konzeptalbums „1755“ (komplett auf Portugiesisch) über die Zerstörung der Stadt — Lyrics und Bandaussagen (Ribeiro) zum selben Ereignis. (Tier A).",
+      "sharedEntities": [
+        "Erdbeben von Lissabon",
+        "Lissabon",
+        "1755",
+        "1. November 1755"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4O-SUiKyVtA",
+      "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 427,
+      "episodeTitle": "Das Große Erdbeben von Lissabon",
+      "episodeUrl": "https://gadg.fm/427",
+      "songId": "moonspell-evento",
+      "band": "Moonspell",
+      "songTitle": "Evento",
+      "matchTier": "A",
+      "justification": "Folge = Erdbeben von Lissabon 1755 und Folgen für Stadt und Denken; Song = „Evento“ vom Konzeptalbum „1755“ — Trümmer, Glaubenskrise und der Pragmatismus „Toten begraben, Lebende ernähren“, Kapitel desselben Katastrophen-Konzepts. (Tier A).",
+      "sharedEntities": [
+        "Erdbeben von Lissabon",
+        "Lissabon",
+        "1755",
+        "Wiederaufbau"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZEqKPJgM-HE",
+      "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 435,
+      "episodeTitle": "Die Schlacht bei Carrhae",
+      "episodeUrl": "https://gadg.fm/435",
+      "songId": "khshathra-war-drums",
+      "band": "Khshathra",
+      "songTitle": "War Drums",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht bei Carrhae 53 v. Chr. (Crassus vs. Surena/Parther) und Folgen für Rom; Song = dieselbe Schlacht aus parthischer und römischer Sicht — Kriegstrommeln, Pfeilregen, Einkreisung, Crassus' Tod. (Tier A).",
+      "sharedEntities": [
+        "Schlacht bei Carrhae",
+        "Crassus",
+        "Surena",
+        "Parther",
+        "53 v. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hv-XcocN0mc",
+      "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 436,
       "episodeTitle": "Die Jagd nach El­do­ra­do",
       "episodeUrl": "https://gadg.fm/436",
@@ -1147,6 +1228,25 @@
       "spotifyUrl": "https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail",
       "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 439,
+      "episodeTitle": "Kyros II. und die Entstehung eines Mythos",
+      "episodeUrl": "https://gadg.fm/439",
+      "songId": "arsames-cyrus-the-great",
+      "band": "Arsames",
+      "songTitle": "Cyrus the Great",
+      "matchTier": "A",
+      "justification": "Folge = Kyros II. und die Gründung des Achämenidenreichs sowie die Stilisierung zum Ideal-König; Song = Kyros der Große und das „first kingdom of the world“ / Perserreich — dieselbe Person und Reichsgründung (Band: Ancient Melodic Death Metal zu persischer Geschichte). (Tier A).",
+      "sharedEntities": [
+        "Kyros II.",
+        "Achämenidenreich",
+        "Perserreich"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=au4lTYwErDc",
+      "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
     {
@@ -1393,6 +1493,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V",
       "youtubeUrl": "https://www.youtube.com/watch?v=8Q00PZR2_og",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 504,
+      "episodeTitle": "Ein Nashorn auf großer Tour",
+      "episodeUrl": "https://gadg.fm/504",
+      "songId": "serenity-reflections-of-ad",
+      "band": "Serenity",
+      "songTitle": "Reflections (of AD)",
+      "matchTier": "B",
+      "justification": "Folge = Nashorn als Statussymbol, Dürers Holzschnitt „Rhinocerus“ und die Clara-Tour; Song = „Reflections (of AD)“ vom Dürer-Konzeptalbum Nemesis AD — Selbstbild und bleibendes Künstlerwerk Dürers, ohne Nashorn. Gemeinsamer Rahmen Albrecht Dürer und Wirkung seiner Bilder, anderer Fokus. (Tier B).",
+      "sharedEntities": [
+        "Albrecht Dürer",
+        "Dürer",
+        "Renaissance"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=G38B-vTBiPs",
+      "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
     {
