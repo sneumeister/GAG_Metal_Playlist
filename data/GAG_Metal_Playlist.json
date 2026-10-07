@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04 19:46:21 +0200",
+  "updatedAt": "2026-10-07 19:50:40 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -475,6 +475,44 @@
       "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
       "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 211,
+      "episodeTitle": "Griechisches Feuer",
+      "episodeUrl": "https://gadg.fm/211",
+      "songId": "turisas-greek-fire",
+      "band": "Turisas",
+      "songTitle": "Greek Fire",
+      "matchTier": "A",
+      "justification": "Song = Griechisches Feuer an Bord einer Dromone, geheimes Brandgemisch, Flammen die mit Wasser weiter brennen. Folge = Entwicklung, Einsatz und Bedeutung derselben byzantinischen Waffe — gemeinsamer Kerngegenstand (Tier A).",
+      "sharedEntities": [
+        "Griechisches Feuer",
+        "Byzanz",
+        "Dromone"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
+      "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 211,
+      "episodeTitle": "Griechisches Feuer",
+      "episodeUrl": "https://gadg.fm/211",
+      "songId": "bible-of-the-devil-greek-fire",
+      "band": "Bible of the Devil",
+      "songTitle": "Greek Fire",
+      "matchTier": "A",
+      "justification": "Song = Griechisches Feuer als byzantinische Geheimwaffe (Siphons, Hafen, Invasionsabwehr, Brandgemisch). Folge = Entwicklung und Einsatzgeschichte derselben Waffe — gemeinsamer Kerngegenstand (Tier A).",
+      "sharedEntities": [
+        "Griechisches Feuer",
+        "Byzanz",
+        "Siphon"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bYMfPY6ZVmU",
+      "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
     {

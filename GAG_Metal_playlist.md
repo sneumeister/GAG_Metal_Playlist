@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-04 19:51:34 +0200  </small>
-<small>**JSON-Status:** 2026-10-04 19:46:21 +0200  </small>
+<small>**Compile-Datum:** 2026-10-07 19:53:21 +0200  </small>
+<small>**JSON-Status:** 2026-10-07 19:50:40 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -39,6 +39,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | A | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
+| [211](https://gadg.fm/211) | Griechisches Feuer | Turisas | Greek Fire | A | [link](https://www.youtube.com/watch?v=NYoUaDLExV0) | [link](https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg) |
+| [211](https://gadg.fm/211) | Griechisches Feuer | Bible of the Devil | Greek Fire | A | [link](https://www.youtube.com/watch?v=bYMfPY6ZVmU) | [link](https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Judicator | King of Rome | C | [link](https://www.youtube.com/watch?v=t4maP9qGQPc) | [link](https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk) |
 | [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | C | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) |
