@@ -1,7 +1,7 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-07 19:53:21 +0200  </small>
-<small>**JSON-Status:** 2026-10-07 19:53:21 +0200  </small>
+<small>**Compile-Datum:** 2026-10-07 22:07:08 +0200  </small>
+<small>**JSON-Status:** 2026-10-07 22:07:08 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -52,34 +52,43 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [501](https://gadg.fm/501) | Wie die Jeans entstand | Manowar | Kings of Metal | X | [link](https://www.youtube.com/watch?v=RSSmwXy98IY) | [link](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | Stand Up and Fight | X | [link](https://www.youtube.com/watch?v=7woW7DmnR0E) | [link](https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
+| [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
 | [527](https://gadg.fm/527) | Botanik, Baret und Bougainville | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [537](https://gadg.fm/537) | Tinte, Blut und Eisen – Fontane an der Front | Temple of Oblivion | Das Wunder von Königgrätz | X | [link](https://www.youtube.com/watch?v=9m4GvNCnVmI) | [link](https://open.spotify.com/track/0shtet0BcnzRZ87nhjznUC) |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Iron Maiden | Genghis Khan | X | [link](https://www.youtube.com/watch?v=bcRLbh5CYek) | [link](https://open.spotify.com/track/3EstYjUGr9m3C7A4BAyJta) |
+| [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Warkings | Genghis Khan | X | — | — |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Sabaton | Hordes of Khan | X | [link](https://www.youtube.com/watch?v=Ug0isWpubjk) | [link](https://open.spotify.com/track/275EXSVi2oyj4S5SPMo9qx) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Crystallion | Hundred Days | X | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Serenity | The Art of War | X | [link](https://www.youtube.com/watch?v=U77UB9sRCxo) | [link](https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi) |
+| [550](https://gadg.fm/550) | Akbar und die Entstehung des Mogulreichs | Mughal-E-Funk | Akbar | X | — | [link](https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
+| [556](https://gadg.fm/556) | Galeas per Montes | Calicanto | Galeas par montes | X | — | — |
+| [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Noriko Kishi | Hasekura: Bonds Beyond the Seas and Time | X | [link](https://www.youtube.com/watch?v=yTEw9zh1-i8) | [link](https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Rodrigo Rodriguez | The Road of Hasekura Tsunenaga | X | [link](https://www.youtube.com/watch?v=zDmNPlyGMwM) | [link](https://open.spotify.com/album/2NYAwx9x0Hbj968fvosIsL) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Nightstryke | The Story of the Forty Seven Ronin | X | [link](https://www.youtube.com/watch?v=RX-tdo2q-DQ) | [link](https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0) |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Architects | Black Blood | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Exxon | Black Blood | X | — | — |
-| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Running Wild | Black Gold | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Norther | Black Gold | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Point of Existence | Black Gold | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Running Wild | Black Gold | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Tankard | Black Plague (BP) | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Abomination | Blood For Oil | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Attila the Stockbroker | Blood for Oil | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Sodom | Bloodtrails | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Eradikated | British Petroleum | X | [link](https://www.youtube.com/watch?v=lvLpXdF1yAE) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Horresque | Deepwater Horizon | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Mystik | Evil Oil | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Revocation | Fracked | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skinny Puppy | Hexonxonx | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Statoil | Hyper-capitalistic wet dream (finding the black gold) | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Shahin Najafi | Mosaddegh | X | [link](https://www.youtube.com/watch?v=jufKlgJgBLM) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | King Gizzard & The Lizard Wizard | Motor Spirit | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Tankard | Octane Warriors | X | — | — |
+| [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | ICS Vortex | Oil In Water | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Pro-Pain | Operation Blood for Oil | X | [link](https://www.youtube.com/watch?v=oN3fLTFqO9U) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Vatican Shadow | Persian Pillars of the Gasoline Era | X | [link](https://www.youtube.com/watch?v=6KvTK-Ee6b8) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Ministry | Rio Grande Blood | X | — | — |

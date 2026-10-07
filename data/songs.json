@@ -1,5 +1,25 @@
 [
   {
+    "id": "abomination-blood-for-oil",
+    "band": "Abomination",
+    "title": "Blood For Oil",
+    "entities": [
+      "Golfkrieg",
+      "Öl",
+      "Hussein"
+    ],
+    "era": "spätes 20. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.mldb.org/song-68178-blood-for-oil.html",
+        "note": "Tragedy Strikes — Gulf War / trade our blood for oil"
+      }
+    ]
+  },
+  {
     "id": "aeternam-goddess-of-masr",
     "band": "Aeternam",
     "title": "Goddess of Masr",
@@ -70,6 +90,24 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Almanac/Kingslayer/669417",
         "note": "Kingslayer (2017), Track 10"
+      }
+    ]
+  },
+  {
+    "id": "animal-collective-prester-john",
+    "band": "Animal Collective",
+    "title": "Prester John",
+    "entities": [
+      "Priesterkönig Johannes"
+    ],
+    "era": "Mittelalter / Legende",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://anmlcollectve.bandcamp.com/track/prester-john",
+        "note": "Time Skiffs (2022)"
       }
     ]
   },
@@ -174,6 +212,56 @@
         "type": "secondary",
         "url": "https://www.deezer.com/track/108576146",
         "note": "Deezer: Daybreaker (Deluxe)"
+      }
+    ]
+  },
+  {
+    "id": "arsames-cyrus-the-great",
+    "band": "Arsames",
+    "title": "Cyrus the Great",
+    "entities": [
+      "Kyros II.",
+      "Kyros der Große",
+      "Achämenidenreich",
+      "Perserreich"
+    ],
+    "era": "6. Jh. v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=au4lTYwErDc",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://arsames.bandcamp.com/album/immortal-identity",
+        "note": "Immortal Identity (2010) — Cyrus the Great, Lyrics"
+      },
+      {
+        "type": "secondary",
+        "url": "https://metalshockfinland.com/2011/09/10/interview-with-arsames-in-our-country-metal-is-illegal-but-the-support-of-our-worldwide-fans-encourages-us-to-carry-on-making-our-music/",
+        "note": "Interview: Kyros / persische Geschichte als Lyric-Thema"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arsames_(band)",
+        "note": "Iranian death metal, Mashhad"
+      }
+    ]
+  },
+  {
+    "id": "attila-the-stockbroker-blood-for-oil",
+    "band": "Attila the Stockbroker",
+    "title": "Blood for Oil",
+    "entities": [
+      "Golfkrieg",
+      "Öl"
+    ],
+    "era": "1991",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://antiwarsongs.org/canzone.php?id=46261&lang=en",
+        "note": "Gulf War protest — Blood for oil"
       }
     ]
   },
@@ -355,6 +443,26 @@
         "type": "news",
         "url": "https://blabbermouth.net/news/burning-witches-executed-lyric-video",
         "note": "Band: last Swiss witch Anna Göldi"
+      }
+    ]
+  },
+  {
+    "id": "calicanto-galeas-par-montes",
+    "band": "Calicanto",
+    "title": "Galeas par montes",
+    "entities": [
+      "Galeas per Montes",
+      "Venedig",
+      "Gardasee"
+    ],
+    "era": "1439",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Galeas_per_montes",
+        "note": "Historisches Ereignis; Calicanto-Kompilation (Folk)"
       }
     ]
   },
@@ -577,6 +685,26 @@
     ]
   },
   {
+    "id": "eno-barony-yaa-asantewaa",
+    "band": "Eno Barony",
+    "title": "Yaa Asantewaa",
+    "entities": [
+      "Yaa Asantewaa",
+      "Asante",
+      "Goldener Schemel"
+    ],
+    "era": "1900",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Yaa_Asantewaa",
+        "note": "Rap/Hip-Hop-Hommage an Yaa Asantewaa"
+      }
+    ]
+  },
+  {
     "id": "eradikated-british-petroleum",
     "band": "Eradikated",
     "title": "British Petroleum",
@@ -765,7 +893,7 @@
       "1346"
     ],
     "era": "1346",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX",
     "youtubeUrl": "https://www.youtube.com/watch?v=rnBBQPzwDxo",
     "sources": [
       {
@@ -1053,6 +1181,25 @@
         "type": "band",
         "url": "https://icedearth.com/albums/the-glorious-burden/",
         "note": "The Glorious Burden"
+      }
+    ]
+  },
+  {
+    "id": "ics-vortex-oil-in-water",
+    "band": "ICS Vortex",
+    "title": "Oil In Water",
+    "entities": [
+      "Öl",
+      "Ölkatastrophe"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/ics-vortex-oil-in-water-57185",
+        "note": "Storm Seeker (2011) — crude oil in water, spill metaphor"
       }
     ]
   },
@@ -1401,6 +1548,39 @@
     ]
   },
   {
+    "id": "khshathra-war-drums",
+    "band": "Khshathra",
+    "title": "War Drums",
+    "entities": [
+      "Schlacht bei Carrhae",
+      "Carrhae",
+      "Crassus",
+      "Surena",
+      "Parther",
+      "53 v. Chr."
+    ],
+    "era": "53 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hv-XcocN0mc",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.breathingthecore.com/2024/10/behind-tracks-khshathra-war-drums.html",
+        "note": "Bandtext: Carrhae 53 BCE, Surena vs. Crassus, Kriegstrommeln"
+      },
+      {
+        "type": "secondary",
+        "url": "https://mhf-mag.com/iranian-death-metal-band-khshathra-unleashes-debut-single-and-music-video-war-drums/",
+        "note": "Debütsingle War Drums (2024), Lyrics Kamyar Esmailzade"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.lirikcinta.com/k/khshathra/war-drums-khshathra/",
+        "note": "Surena-/Crassus-Perspektiven, Parthian sand, Crassus' Kopf"
+      }
+    ]
+  },
+  {
     "id": "king-gizzard-motor-spirit",
     "band": "King Gizzard & The Lizard Wizard",
     "title": "Motor Spirit",
@@ -1531,6 +1711,104 @@
         "type": "lyrics",
         "url": "https://www.metalkingdom.net/lyrics-song/ministry-rio-grande-blood-27256",
         "note": "Rio Grande Blood (2006) — crude oil, Bush-Ära"
+      }
+    ]
+  },
+  {
+    "id": "moonspell-1-de-novembro",
+    "band": "Moonspell",
+    "title": "1 de Novembro",
+    "entities": [
+      "Erdbeben von Lissabon",
+      "1. November 1755",
+      "Lissabon",
+      "Tsunami"
+    ],
+    "era": "1755",
+    "spotifyUrl": "https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vh3Mvd9NGwQ",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://moonspell.com/discography/-/1755-2017-13458/",
+        "note": "Konzeptalbum 1755 (2017) — Erdbeben von Lissabon"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/1755_(album)",
+        "note": "Konzeptalbum zum Erdbeben von Lissabon 1755"
+      }
+    ]
+  },
+  {
+    "id": "moonspell-1755",
+    "band": "Moonspell",
+    "title": "1755",
+    "entities": [
+      "Erdbeben von Lissabon",
+      "Lissabon",
+      "1755",
+      "1. November 1755",
+      "Portugal"
+    ],
+    "era": "1755",
+    "spotifyUrl": "https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4O-SUiKyVtA",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://moonspell.com/discography/-/1755-2017-13458/",
+        "note": "Konzeptalbum 1755 (2017) — Erdbeben von Lissabon"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/1755_(album)",
+        "note": "Konzeptalbum zum Erdbeben von Lissabon 1755"
+      }
+    ]
+  },
+  {
+    "id": "moonspell-evento",
+    "band": "Moonspell",
+    "title": "Evento",
+    "entities": [
+      "Erdbeben von Lissabon",
+      "Lissabon",
+      "1755",
+      "Wiederaufbau"
+    ],
+    "era": "1755",
+    "spotifyUrl": "https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZEqKPJgM-HE",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://moonspell.com/discography/-/1755-2017-13458/",
+        "note": "Konzeptalbum 1755 (2017) — Erdbeben von Lissabon"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/1755_(album)",
+        "note": "Konzeptalbum zum Erdbeben von Lissabon 1755"
+      }
+    ]
+  },
+  {
+    "id": "mughal-e-funk-akbar",
+    "band": "Mughal-E-Funk",
+    "title": "Akbar",
+    "entities": [
+      "Akbar",
+      "Mogulreich"
+    ],
+    "era": "16. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.dawn.com/news/1542798",
+        "note": "Instrumental / Funk — Sultanat EP"
       }
     ]
   },
@@ -1912,6 +2190,26 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
         "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "revocation-fracked",
+    "band": "Revocation",
+    "title": "Fracked",
+    "entities": [
+      "Öl",
+      "Fracking",
+      "Bohrung"
+    ],
+    "era": "21. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metalsucks.net/2013/07/24/are-revocation-taking-a-stand-against-hydraulic-fracturing-in-new-song-fracked/",
+        "note": "Revocation (2013) — hydraulic fracturing / drilling critique"
       }
     ]
   },
@@ -4175,6 +4473,36 @@
     ]
   },
   {
+    "id": "serenity-reflections-of-ad",
+    "band": "Serenity",
+    "title": "Reflections (of AD)",
+    "entities": [
+      "Albrecht Dürer",
+      "Dürer",
+      "Renaissance"
+    ],
+    "era": "um 1500 / Renaissance",
+    "spotifyUrl": "https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4",
+    "youtubeUrl": "https://www.youtube.com/watch?v=G38B-vTBiPs",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://serenityaustria.bandcamp.com/album/nemesis-ad",
+        "note": "Nemesis AD (2023) — Konzeptalbum Albrecht Dürer"
+      },
+      {
+        "type": "secondary",
+        "url": "https://deadrhetoric.com/features/serenity-following-the-passion/",
+        "note": "Hermsdörfer: Reflections als Teil von Dürers Leben"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=G38B-vTBiPs",
+        "note": "Official Video (Napalm)"
+      }
+    ]
+  },
+  {
     "id": "serenity-symphony-for-the-quiet",
     "band": "Serenity",
     "title": "Symphony for the Quiet",
@@ -4557,6 +4885,28 @@
     ]
   },
   {
+    "id": "the-burned-over-the-last-great-awakening",
+    "band": "The Burned Over",
+    "title": "The Last Great Awakening",
+    "entities": [
+      "Spiritismus",
+      "Séance",
+      "Burned-over District",
+      "USA",
+      "19. Jh."
+    ],
+    "era": "19. Jh. / USA",
+    "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
+        "note": "Album The Last Great Awakening (2025), Title Track"
+      }
+    ]
+  },
+  {
     "id": "tool-lateralus",
     "band": "Tool",
     "title": "Lateralus",
@@ -4918,6 +5268,25 @@
         "type": "lyrics",
         "url": "https://genius.com/Warkings-fight-in-the-shade-lyrics",
         "note": "Titel alludiert Thermopylen-Spruch; Text = Arminius/Varus/Teutoburg"
+      }
+    ]
+  },
+  {
+    "id": "warkings-genghis-khan",
+    "band": "Warkings",
+    "title": "Genghis Khan",
+    "entities": [
+      "Dschingis Khan",
+      "Mongolen"
+    ],
+    "era": "13. Jh.",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://kronosmortusnews.com/2025/05/08/warkings-return-with-thunderous-new-single-genghis-khan-feat-orden-ogan/",
+        "note": "Genghis Khan feat. Orden Ogan (Armageddon, 2025)"
       }
     ]
   },

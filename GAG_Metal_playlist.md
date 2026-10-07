@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-07 19:53:21 +0200  </small>
-<small>**JSON-Status:** 2026-10-07 19:50:40 +0200  </small>
+<small>**Compile-Datum:** 2026-10-07 22:07:08 +0200  </small>
+<small>**JSON-Status:** 2026-10-07 22:05:18 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -18,7 +18,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | B | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
 | [40](https://gadg.fm/40) | Über den Ursprung der Seidenstraße | Saxon | Kubla Khan And The Merchant Of Venice | C | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
 | [100](https://gadg.fm/100) | Der Fall der „Mignonette“ und seine Folgen | Scent of Amber | Custom of the Sea | A | [link](https://www.youtube.com/watch?v=P_KOPhWUXcw) | [link](https://open.spotify.com/track/5epQW1revzqLK58ffFcwac) |
-| [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | — |
+| [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | [link](https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX) |
 | [107](https://gadg.fm/107) | Eine kurze Geschichte der Guillotine | Saxon | Madame Guillotine | A | [link](https://www.youtube.com/watch?v=Tfca2Kz4064) | [link](https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz) |
 | [118](https://gadg.fm/118) | Ein Werwolf in Livland | Powerwolf | 1589 | C | [link](https://www.youtube.com/watch?v=5S0-oP9JsL0) | [link](https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Antrisch | I Festgefroren | A | [link](https://www.youtube.com/watch?v=NUOy8idWfxw) | [link](https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk) |
@@ -39,8 +39,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | A | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
-| [211](https://gadg.fm/211) | Griechisches Feuer | Turisas | Greek Fire | A | [link](https://www.youtube.com/watch?v=NYoUaDLExV0) | [link](https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg) |
 | [211](https://gadg.fm/211) | Griechisches Feuer | Bible of the Devil | Greek Fire | A | [link](https://www.youtube.com/watch?v=bYMfPY6ZVmU) | [link](https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt) |
+| [211](https://gadg.fm/211) | Griechisches Feuer | Turisas | Greek Fire | A | [link](https://www.youtube.com/watch?v=NYoUaDLExV0) | [link](https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Judicator | King of Rome | C | [link](https://www.youtube.com/watch?v=t4maP9qGQPc) | [link](https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk) |
 | [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | C | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) |
@@ -74,7 +74,12 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |
 | [420](https://gadg.fm/420) | Harry Anslinger und der erste "War on Drugs" | Six Feet Under | 4:20 | C | [link](https://www.youtube.com/watch?v=rC31wCvTOao) | [link](https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf) |
+| [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1 de Novembro | A | [link](https://www.youtube.com/watch?v=vh3Mvd9NGwQ) | [link](https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV) |
+| [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1755 | A | [link](https://www.youtube.com/watch?v=4O-SUiKyVtA) | [link](https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD) |
+| [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | Evento | A | [link](https://www.youtube.com/watch?v=ZEqKPJgM-HE) | [link](https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt) |
+| [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
+| [439](https://gadg.fm/439) | Kyros II. und die Entstehung eines Mythos | Arsames | Cyrus the Great | A | [link](https://www.youtube.com/watch?v=au4lTYwErDc) | [link](https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Sparta | A | [link](https://www.youtube.com/watch?v=MeOSgsJJ12M) | [link](https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
@@ -88,6 +93,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 1 | B | [link](https://www.youtube.com/watch?v=rGa2woc4uig) | [link](https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 2 | B | [link](https://www.youtube.com/watch?v=CEmCyG4tvds) | [link](https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz) |
 | [503](https://gadg.fm/503) | Die Schlacht bei Kadesch | Ottone Pesante | Battle of Qadesh | A | [link](https://www.youtube.com/watch?v=8Q00PZR2_og) | [link](https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V) |
+| [504](https://gadg.fm/504) | Ein Nashorn auf großer Tour | Serenity | Reflections (of AD) | B | [link](https://www.youtube.com/watch?v=G38B-vTBiPs) | [link](https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4) |
+| [505](https://gadg.fm/505) | William H. Mumler, Geisterfotograf | The Burned Over | The Last Great Awakening | B | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [508](https://gadg.fm/508) | HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft | Sabaton | Father | A | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Serenity | Symphony for the Quiet | B | [link](https://www.youtube.com/watch?v=vaMBn0GsgLY) | [link](https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c) |
 | [514](https://gadg.fm/514) | Anna Komnene – Prinzessin, Intellektuelle und Historikerin | Turisas | Miklagard Overture | C | [link](https://www.youtube.com/watch?v=u5OvUSgUfRE) | [link](https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1) |

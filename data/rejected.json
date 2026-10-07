@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 19:53:21 +0200",
+  "updatedAt": "2026-10-07 22:07:08 +0200",
   "entries": [
     {
       "episodeId": 105,
@@ -275,6 +275,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 521,
+      "songId": "eno-barony-yaa-asantewaa",
+      "reason": "Song = Hommage an Yaa Asantewaa und den Krieg um den Goldenen Schemel. Folge = Yaa Asantewaa und der Krieg um den Goldenen Schemel — inhaltlich eng (bei Metal wäre Tier A). Genre = Rap / Hip-Hop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 527,
       "songId": "savatage-the-wake-of-magellan",
       "reason": "Song/Album = Maersk-Dubai-Drama + fiktiver Magellan-Seemann (1990er). Folge = Bougainville/Baret-Weltumseglung 18. Jh. — nur loser Seefahrt-/Weltreise-Rahmen, anderes Ereignis (Tier X).",
@@ -300,6 +307,13 @@
       "songId": "sabaton-hordes-of-khan",
       "reason": "Song = Dschingis Khan/Temujin (Stammesvereinigung, Imperiumsgründung). Folge = 1241–1251 Mongolensturm und Neuausrichtung durch Herrscherwitwen nach Ögedei — Generation und Fokus anders (Tier X).",
       "rejectedAt": "2026-09-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 539,
+      "songId": "warkings-genghis-khan",
+      "reason": "Song = Dschingis Khan und die Mongolenkrieger. Folge = Mongolensturm 1241–1251 und Neuausrichtung durch Herrscherwitwen nach Ögedei — andere Generation und anderer Erzählfokus (Tier X).",
+      "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
     {
@@ -331,10 +345,31 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 550,
+      "songId": "mughal-e-funk-akbar",
+      "reason": "Song = Instrumentalstück zu Kaiser Akbar. Folge = Akbar und Entstehung des Mogulreichs — inhaltlich eng (bei Metal wäre Tier A). Genre = Funk / Instrumental-Fusion, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 551,
       "songId": "savatage-the-wake-of-magellan",
       "reason": "Song/Album = Maersk Dubai + fiktiver Magellan-Rahmen 1990er. Folge = SMS Novara / Habsburg-Weltumseglung 1857 — nur loser Weltumseglungs-/Seefahrt-Rahmen (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 556,
+      "songId": "calicanto-galeas-par-montes",
+      "reason": "Song = Galeas per Montes (Venedig zieht Schiffe über die Berge zum Gardasee). Folge = dieselbe venezianische Unternehmung 1438/39 — inhaltlich eng (bei Metal wäre Tier A). Genre = Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 561,
+      "songId": "animal-collective-prester-john",
+      "reason": "Song = Titel „Prester John“, Lyrics eher persönliche/abstrakte Bilder ohne Legendenchronik. Folge = Brief-Fälschung und Wirkungsgeschichte des Priesterkönigs Johannes — nur Namensanklang (bei Metal wäre eher Tier C). Genre = Experimental / Indie, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
     {
@@ -367,43 +402,8 @@
     },
     {
       "episodeId": 576,
-      "songId": "shahin-najafi-mosaddegh",
-      "reason": "Song = Mohammad Mossadegh / Ölverstaatlichung Iran 1951–53. Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (Lakeview 1910, Persien-Öl Anfang) — gleiche Öl-/Iran-Welt, andere Person und Phase (Tier X).",
-      "rejectedBy": "manual",
-      "rejectedAt": "2026-10-07"
-    },
-    {
-      "episodeId": 576,
-      "songId": "pro-pain-operation-blood-for-oil",
-      "reason": "Song = Bush-Dynastie / Golf- und Irakkrieg („Blood for Oil“, 1991+). Folge = D'Arcy-Konzession und Anfänge der Petromoderne — nur loser Öl-Bezug, anderes Jahrhundert und Ereignis (Tier X).",
-      "rejectedBy": "manual",
-      "rejectedAt": "2026-10-07"
-    },
-    {
-      "episodeId": 576,
-      "songId": "eradikated-british-petroleum",
-      "reason": "Song = moderne Anklage gegen BP/Ölkonzerne (Geldgier, Shareholder-Value). Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (Lakeview 1910, Persien) — nur Firmennamens-Anklang (APOC→BP) und generische Öl-Kritik, kein gemeinsamer Erzählgegenstand (Tier X).",
-      "rejectedBy": "manual",
-      "rejectedAt": "2026-10-07"
-    },
-    {
-      "episodeId": 576,
-      "songId": "statoil-hyper-capitalistic-wet-dream-finding-the-black-gold",
-      "reason": "Song = instrumentales Stück ohne erzählerischen Inhalt; nur Album- und Tracktitel zu abstrakter Öl- und Profitkritik (modernes Ölimperium, „black gold“). Folge = D'Arcy-Konzession, Lakeview Gusher, Persien 1901/1908 — kein Bezug zu Personen, Orten oder Ereignissen der Folge (Tier X).",
-      "rejectedBy": "manual",
-      "rejectedAt": "2026-10-07"
-    },
-    {
-      "episodeId": 576,
-      "songId": "vatican-shadow-persian-pillars-of-the-gasoline-era",
-      "reason": "Song = Iran, Öl und westliche Einflussnahme im 20. Jahrhundert (Nationalisierung, Intervention, „Gasoline Era“; Tracktitel u. a. Abadan, Teheran, Spionage). Folge = Anfänge der Petromoderne (D'Arcy 1901, Masjed Soleymān 1908, Lakeview 1910, Jacques de Morgan) — gleiche Öl-/Iran-Welt, andere Phase und kein gemeinsamer Erzählgegenstand (Tier X).",
-      "rejectedBy": "manual",
-      "rejectedAt": "2026-10-07"
-    },
-    {
-      "episodeId": 576,
-      "songId": "running-wild-black-gold",
-      "reason": "Song = allgemeine Ölgier und Profit („hunting for oil“, „black gold“). Folge = D'Arcy-Konzession, Masjed Soleymān 1908, Lakeview Gusher 1910 — kein Bezug zu Personen, Orten oder Ereignissen der Folge (Tier X).",
+      "songId": "abomination-blood-for-oil",
+      "reason": "Song = Golfkrieg und „trade our blood for oil“ (Hussein-Bezug). Folge = D'Arcy-Konzession und Persien-Öl Anfang — anderes Jahrhundert und Ereignis (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
@@ -416,15 +416,22 @@
     },
     {
       "episodeId": 576,
-      "songId": "king-gizzard-motor-spirit",
-      "reason": "Song = abstrakte Fossil-/Benzin-Apokalypse (Motor Spirit, Petroleum-Kult). Folge = konkrete Anfänge des Erdölzeitalters (D'Arcy 1901, Fund 1908, Lakeview 1910) — kein gemeinsamer Erzählgegenstand (Tier X).",
+      "songId": "attila-the-stockbroker-blood-for-oil",
+      "reason": "Song = Golfkrieg-Protest „Blood for oil“. Folge = D'Arcy-Konzession und Lakeview 1910 — anderes Ereignis und Phase; inhaltlich wie andere Golf-/Öl-Kriegs-Songs (bei Metal wäre eher Tier X). Genre = Folk/Punk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
     {
       "episodeId": 576,
-      "songId": "tankard-black-plague-bp",
-      "reason": "Song = Deepwater-Horizon-Katastrophe / BP 2010. Folge = D'Arcy-Konzession und Petromoderne-Anfang um 1901–1910 — anderes Ereignis und Jahrhundert (Tier X).",
+      "songId": "eradikated-british-petroleum",
+      "reason": "Song = moderne Anklage gegen BP/Ölkonzerne (Geldgier, Shareholder-Value). Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (Lakeview 1910, Persien) — nur Firmennamens-Anklang (APOC→BP) und generische Öl-Kritik, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedBy": "manual",
+      "rejectedAt": "2026-10-07"
+    },
+    {
+      "episodeId": 576,
+      "songId": "exxon-black-blood",
+      "reason": "Song = Öl/Umweltzerstörung im Nigeria-/Ogoni-Kontext (nicht Persien-Anfang). Folge = D'Arcy-Konzession und Lakeview Gusher — andere Region und Geschichte (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
@@ -437,43 +444,15 @@
     },
     {
       "episodeId": 576,
-      "songId": "exxon-black-blood",
-      "reason": "Song = Öl/Umweltzerstörung im Nigeria-/Ogoni-Kontext (nicht Persien-Anfang). Folge = D'Arcy-Konzession und Lakeview Gusher — andere Region und Geschichte (Tier X).",
+      "songId": "ics-vortex-oil-in-water",
+      "reason": "Song = Öl-in-Wasser-/Spill-Metapher und psychische Krise, kein historischer Erzählkern. Folge = Petromoderne-Anfang (D'Arcy, Persien, Lakeview) — kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
     {
       "episodeId": 576,
-      "songId": "norther-black-gold",
-      "reason": "Song = „Black Gold“ als Liquid-Evil-Metapher ohne Erdölgeschichte. Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters — nur Namensanklang (Tier X).",
-      "rejectedAt": "2026-10-07",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 576,
-      "songId": "point-of-existence-black-gold",
-      "reason": "Song = Titel „Black Gold“ und orientalische Klangfarbe; kein nachweisbarer Bezug zu D'Arcy, Lakeview oder Persien-Öl (Lyrics nicht auffindbar). Folge = Petromoderne-Anfang — nur Namens-/Klanganklang (Tier X).",
-      "rejectedAt": "2026-10-07",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 576,
-      "songId": "tankard-octane-warriors",
-      "reason": "Song = dystopische Ölkriege im Jahr 2060, OPEC und generische Energiekrise („black gold“). Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (1901–1910, Lakeview) — nur loser Öl-Bezug, anderes Setting (Tier X).",
-      "rejectedAt": "2026-10-07",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 576,
-      "songId": "sodom-bloodtrails",
-      "reason": "Song = Operation Desert Shield / Golfkrieg, „treasure of the soil“. Folge = D'Arcy-Konzession und Persien-Öl Anfang — gleiche Öl-Welt, anderes Jahrhundert und Ereignis (Tier X).",
-      "rejectedAt": "2026-10-07",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 576,
-      "songId": "skyclad-salt-on-the-earth-another-mans-poison",
-      "reason": "Song = „Black Gold“ und Öl-auf-„troubled waters“-Metapher, Kriegsgier. Folge = konkrete Petromoderne-Anfänge (D'Arcy, Lakeview) — kein Bezug zu Personen, Orten oder Ereignissen der Folge (Tier X).",
+      "songId": "king-gizzard-motor-spirit",
+      "reason": "Song = abstrakte Fossil-/Benzin-Apokalypse (Motor Spirit, Petroleum-Kult). Folge = konkrete Anfänge des Erdölzeitalters (D'Arcy 1901, Fund 1908, Lakeview 1910) — kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
     },
@@ -493,10 +472,94 @@
     },
     {
       "episodeId": 576,
+      "songId": "norther-black-gold",
+      "reason": "Song = „Black Gold“ als Liquid-Evil-Metapher ohne Erdölgeschichte. Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters — nur Namensanklang (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "point-of-existence-black-gold",
+      "reason": "Song = Titel „Black Gold“ und orientalische Klangfarbe; kein nachweisbarer Bezug zu D'Arcy, Lakeview oder Persien-Öl (Lyrics nicht auffindbar). Folge = Petromoderne-Anfang — nur Namens-/Klanganklang (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "pro-pain-operation-blood-for-oil",
+      "reason": "Song = Bush-Dynastie / Golf- und Irakkrieg („Blood for Oil“, 1991+). Folge = D'Arcy-Konzession und Anfänge der Petromoderne — nur loser Öl-Bezug, anderes Jahrhundert und Ereignis (Tier X).",
+      "rejectedBy": "manual",
+      "rejectedAt": "2026-10-07"
+    },
+    {
+      "episodeId": 576,
+      "songId": "revocation-fracked",
+      "reason": "Song = Fracking und moderne Tiefbohrung, Umweltzerstörung heute. Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (1901–1910, Lakeview) — anderes Setting und Technik, nur loser Öl-Bezug (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "running-wild-black-gold",
+      "reason": "Song = allgemeine Ölgier und Profit („hunting for oil“, „black gold“). Folge = D'Arcy-Konzession, Masjed Soleymān 1908, Lakeview Gusher 1910 — kein Bezug zu Personen, Orten oder Ereignissen der Folge (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "shahin-najafi-mosaddegh",
+      "reason": "Song = Mohammad Mossadegh / Ölverstaatlichung Iran 1951–53. Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (Lakeview 1910, Persien-Öl Anfang) — gleiche Öl-/Iran-Welt, andere Person und Phase (Tier X).",
+      "rejectedBy": "manual",
+      "rejectedAt": "2026-10-07"
+    },
+    {
+      "episodeId": 576,
       "songId": "skinny-puppy-hexonxonx",
       "reason": "Song = Exxon Valdez 1989 und Ölindustrie-Kritik. Folge = D'Arcy-Konzession und Petromoderne-Anfang 1901–1910 — anderes Ereignis und Jahrhundert; inhaltlich lose Öl-Nähe (bei Metal wäre eher Tier C). Genre = Industrial/EBM, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
       "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "skyclad-salt-on-the-earth-another-mans-poison",
+      "reason": "Song = „Black Gold“ und Öl-auf-„troubled waters“-Metapher, Kriegsgier. Folge = konkrete Petromoderne-Anfänge (D'Arcy, Lakeview) — kein Bezug zu Personen, Orten oder Ereignissen der Folge (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "sodom-bloodtrails",
+      "reason": "Song = Operation Desert Shield / Golfkrieg, „treasure of the soil“. Folge = D'Arcy-Konzession und Persien-Öl Anfang — gleiche Öl-Welt, anderes Jahrhundert und Ereignis (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "statoil-hyper-capitalistic-wet-dream-finding-the-black-gold",
+      "reason": "Song = instrumentales Stück ohne erzählerischen Inhalt; nur Album- und Tracktitel zu abstrakter Öl- und Profitkritik (modernes Ölimperium, „black gold“). Folge = D'Arcy-Konzession, Lakeview Gusher, Persien 1901/1908 — kein Bezug zu Personen, Orten oder Ereignissen der Folge (Tier X).",
+      "rejectedBy": "manual",
+      "rejectedAt": "2026-10-07"
+    },
+    {
+      "episodeId": 576,
+      "songId": "tankard-black-plague-bp",
+      "reason": "Song = Deepwater-Horizon-Katastrophe / BP 2010. Folge = D'Arcy-Konzession und Petromoderne-Anfang um 1901–1910 — anderes Ereignis und Jahrhundert (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "tankard-octane-warriors",
+      "reason": "Song = dystopische Ölkriege im Jahr 2060, OPEC und generische Energiekrise („black gold“). Folge = D'Arcy-Konzession und Anfänge des Erdölzeitalters (1901–1910, Lakeview) — nur loser Öl-Bezug, anderes Setting (Tier X).",
+      "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 576,
+      "songId": "vatican-shadow-persian-pillars-of-the-gasoline-era",
+      "reason": "Song = Iran, Öl und westliche Einflussnahme im 20. Jahrhundert (Nationalisierung, Intervention, „Gasoline Era“; Tracktitel u. a. Abadan, Teheran, Spionage). Folge = Anfänge der Petromoderne (D'Arcy 1901, Masjed Soleymān 1908, Lakeview 1910, Jacques de Morgan) — gleiche Öl-/Iran-Welt, andere Phase und kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedBy": "manual",
+      "rejectedAt": "2026-10-07"
     }
   ]
 }
