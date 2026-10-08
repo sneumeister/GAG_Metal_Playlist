@@ -32,19 +32,27 @@ Bei Matches steht die Stufe zusätzlich im Feld `matchTier`; der Klammer-Schluss
 
 - Kurz und inhaltlich: Song-Fokus vs. Folgen-Fokus benennen (Person / Schlacht / Ereignis / Phase).
 - Kein Meta-Jargon aus dem Matching-Schema nachplappern.
+- **Einheitliches Muster für neue Einträge** (Matches und Rejects):
+
+  `Folge = …; Song = … — … (Tier A).`
+
+  Reihenfolge fest: zuerst Folge, dann Song; Semikolon dazwischen; Gedankenstrich vor der Schlusswertung; Tier-Klammer am Ende.
+- Bestehende ältere Formulierungen nicht pauschal umschreiben — nur bei inhaltlicher Änderung mitziehen.
 
 ### Matches (`justification`)
 
 - Beschreiben, **warum** Song und Folge zusammenpassen:
   - A/B: gemeinsamer Kerngegenstand bzw. klarer gemeinsamer historischer Rahmen;
   - C: thematische/assoziative Nähe oder Inspiration/Metapher ohne gemeinsamen Erzählgegenstand.
-- Muster: „… — … (Tier B).“
+- Muster: `Folge = …; Song = … — … (Tier A).` / `(Tier B).` / `(Tier C).`
+
+Beispiel: „Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).“
 
 ### Rejects (`reason`)
 
 - Dieselbe Klarheit wie bei Matches: kurz sagen, **warum nicht** — typisch andere Person, anderes Ereignis, andere Phase/Fokus, nur Namens-/Zahlenanklang.
 - Nicht nur „passt nicht“ oder „zu lose“ ohne die konkrete Abweichung.
-- Muster: „Song = … Folge = … — … (Tier X).“
+- Muster: `Folge = …; Song = … — … (Tier X).`
 
 #### Genre-Fail
 
@@ -55,4 +63,4 @@ Wenn der Bezug historisch passt (oder passen könnte), das Stück aber **kein Ro
 
 Pflichtworting (filterbar): `Genre = …` und `kein Rock/Metal`, Schluss `(Tier X).`
 
-Beispielmuster: „Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier X).“
+Beispielmuster: „Folge = …; Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier X).“

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07 22:26:15 +0200",
+  "updatedAt": "2026-10-08 18:52:00 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1191,6 +1191,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 433,
+      "episodeTitle": "Der Schinderhannes",
+      "episodeUrl": "https://gadg.fm/433",
+      "songId": "dartagnan-schinderhannes",
+      "band": "dArtagnan",
+      "songTitle": "Schinderhannes",
+      "matchTier": "A",
+      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schinderhannes",
+        "Johannes Bückler",
+        "Hunsrück"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
+      "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 435,
       "episodeTitle": "Die Schlacht bei Carrhae",
       "episodeUrl": "https://gadg.fm/435",
@@ -1698,6 +1717,46 @@
       "spotifyUrl": "https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck",
       "youtubeUrl": "https://www.youtube.com/watch?v=dwEXrFD8eKU",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 560,
+      "episodeTitle": "HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand",
+      "episodeUrl": "https://gadg.fm/560",
+      "songId": "aephanemer-le-radeau-de-la-meduse",
+      "band": "Aephanemer",
+      "songTitle": "Le Radeau de La Méduse",
+      "matchTier": "A",
+      "justification": "Folge = Méduse-Katastrophe 1816 (Strandung, Floß, gekappte Leinen, Meuterei, Hunger/Kannibalismus, wenige Überlebende) und Géricault-Rahmen; Song = derselbe Floß-Ordeal — gemeinsamer Kern (Tier A).",
+      "sharedEntities": [
+        "Floß der Medusa",
+        "Méduse",
+        "1816",
+        "Meuterei",
+        "Géricault"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iEwdGd7Ywwg",
+      "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 560,
+      "episodeTitle": "HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand",
+      "episodeUrl": "https://gadg.fm/560",
+      "songId": "pogues-the-wake-of-the-medusa",
+      "band": "The Pogues",
+      "songTitle": "The Wake of the Medusa",
+      "matchTier": "B",
+      "justification": "Folge = Méduse 1816 und Entstehung/Rezeption von Géricaults „Floß der Medusa“; Song = Galerie vor demselben Gemälde und Traum auf dem Floß als Allegorie von Gleichgültigkeit und „cast adrift“ — gemeinsamer Kern, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Floß der Medusa",
+        "Méduse",
+        "Géricault"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+      "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
     {
