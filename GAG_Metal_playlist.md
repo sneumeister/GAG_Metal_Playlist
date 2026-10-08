@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-08 19:06:37 +0200  </small>
-<small>**JSON-Status:** 2026-10-08 19:06:25 +0200  </small>
+<small>**Compile-Datum:** 2026-10-08 20:12:45 +0200  </small>
+<small>**JSON-Status:** 2026-10-08 20:12:45 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -73,6 +73,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [390](https://gadg.fm/390) | Kleopatra Selene und das Ende der Römischen Republik | Ex Deo | The Final War (Battle of Actium) | B | [link](https://www.youtube.com/watch?v=qcfaltp8CL0) | [link](https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |
+| [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Goat of Mendes | Curse of Constantine | A | — | [link](https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine) |
 | [420](https://gadg.fm/420) | Harry Anslinger und der erste "War on Drugs" | Six Feet Under | 4:20 | C | [link](https://www.youtube.com/watch?v=rC31wCvTOao) | [link](https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1 de Novembro | A | [link](https://www.youtube.com/watch?v=vh3Mvd9NGwQ) | [link](https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1755 | A | [link](https://www.youtube.com/watch?v=4O-SUiKyVtA) | [link](https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD) |
@@ -105,6 +106,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Saxon | Atila the Hun | C | [link](https://www.youtube.com/watch?v=dwEXrFD8eKU) | [link](https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Iced Earth | Attila | C | [link](https://www.youtube.com/watch?v=1FU-FDxx31k) | [link](https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1) |
+| [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Stormlord | Aeneas | A | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Aephanemer | Le Radeau de La Méduse | A | [link](https://www.youtube.com/watch?v=iEwdGd7Ywwg) | [link](https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Levellers | Raft of the Medusa | A | [link](https://www.youtube.com/watch?v=nxb3THhAZK4) | [link](https://open.spotify.com/track/56Ibqjhl46vRDuO61Xp9DT) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | The Pogues | The Wake of the Medusa | B | [link](https://www.youtube.com/watch?v=Udh-1a-g3L4) | [link](https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb) |

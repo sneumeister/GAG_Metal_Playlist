@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08 19:06:25 +0200",
+  "updatedAt": "2026-10-08 20:12:45 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1113,6 +1113,28 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 403,
+      "episodeTitle": "Maxentius – Der letzte Kaiser in Rom",
+      "episodeUrl": "https://gadg.fm/403",
+      "songId": "goat-of-mendes-curse-of-constantine",
+      "band": "Goat of Mendes",
+      "songTitle": "Curse of Constantine",
+      "matchTier": "A",
+      "justification": "Folge = Maxentius, Tetrarchie und Niederlage an der Milvischen Brücke 312 (Tiber-Tod, Sol Invictus, christliche Schildeszeichen); Song = dieselbe Schlacht und dieselben Motive, danach pagane „Curse of Constantine“-Deutung — gemeinsamer Kern 312 (Tier A).",
+      "sharedEntities": [
+        "Maxentius",
+        "Milvische Brücke",
+        "Konstantin der Große",
+        "Sol Invictus",
+        "312",
+        "Tetrarchie"
+      ],
+      "spotifyUrl": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 420,
       "episodeTitle": "Harry Anslinger und der erste \"War on Drugs\"",
       "episodeUrl": "https://gadg.fm/420",
@@ -1717,6 +1739,26 @@
       "spotifyUrl": "https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck",
       "youtubeUrl": "https://www.youtube.com/watch?v=dwEXrFD8eKU",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 559,
+      "episodeTitle": "Vergil oder Wie ein Epos entsteht",
+      "episodeUrl": "https://gadg.fm/559",
+      "songId": "stormlord-aeneas",
+      "band": "Stormlord",
+      "songTitle": "Aeneas",
+      "matchTier": "A",
+      "justification": "Folge = Vergil und Entstehung/Rettung der Aeneis (inkl. Aeneas-Handlung, Augustus); Song = wörtliches Aeneis-Proömium („Arma virumque cano…“) — gemeinsamer Kern Aeneis (Tier A).",
+      "sharedEntities": [
+        "Vergil",
+        "Aeneis",
+        "Aeneas",
+        "Augustus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ym_Hjte7W7Q",
+      "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
     {

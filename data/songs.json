@@ -1038,6 +1038,39 @@
     ]
   },
   {
+    "id": "goat-of-mendes-curse-of-constantine",
+    "band": "Goat of Mendes",
+    "title": "Curse of Constantine",
+    "entities": [
+      "Konstantin der Große",
+      "Maxentius",
+      "Milvische Brücke",
+      "Sol Invictus",
+      "Tetrarchie",
+      "312"
+    ],
+    "era": "312",
+    "spotifyUrl": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
+        "note": "Consort of the Dying God (2011) — Curse Of Constantine (Bandcamp-Track); Lyrics: Maxentius/Milvian Bridge/Sol Invictus"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/goat-of-mendes-course-of-constantine-170959",
+        "note": "Metal Kingdom / MA-Titelvariante: Course of Constantine — vollständige Lyrics"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Goat_of_Mendes/Consort_of_the_Dying_God/324540",
+        "note": "Folk/Heavy Metal; Track 4 Course of Constantine"
+      }
+    ]
+  },
+  {
     "id": "gorod-birds-of-sulphur",
     "band": "Gorod",
     "title": "Birds of Sulphur",
@@ -2184,29 +2217,6 @@
     ]
   },
   {
-    "id": "point-of-existence-black-gold",
-    "band": "Point of Existence",
-    "title": "Black Gold",
-    "entities": [
-      "Black Gold"
-    ],
-    "era": null,
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://www.metal-archives.com/release/view/id/245956",
-        "note": "01 (2009) — Track 1, Lyrics nicht auffindbar"
-      },
-      {
-        "type": "secondary",
-        "url": "https://cats.metal-archives.com/reviews/Point_of_Existence/01/245956/bayern/81007",
-        "note": "Review: orientalische Klangfarbe, Titel Black Gold"
-      }
-    ]
-  },
-  {
     "id": "pogues-the-wake-of-the-medusa",
     "band": "The Pogues",
     "title": "The Wake of the Medusa",
@@ -2233,6 +2243,29 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
         "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
+      }
+    ]
+  },
+  {
+    "id": "point-of-existence-black-gold",
+    "band": "Point of Existence",
+    "title": "Black Gold",
+    "entities": [
+      "Black Gold"
+    ],
+    "era": null,
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/release/view/id/245956",
+        "note": "01 (2009) — Track 1, Lyrics nicht auffindbar"
+      },
+      {
+        "type": "secondary",
+        "url": "https://cats.metal-archives.com/reviews/Point_of_Existence/01/245956/bayern/81007",
+        "note": "Review: orientalische Klangfarbe, Titel Black Gold"
       }
     ]
   },
@@ -4929,6 +4962,44 @@
         "type": "band",
         "url": "https://statiskoljemusikk.net/",
         "note": "Band-Bio: Rohstoffabbau, Kapital aus Öl"
+      }
+    ]
+  },
+  {
+    "id": "stormlord-aeneas",
+    "band": "Stormlord",
+    "title": "Aeneas",
+    "entities": [
+      "Vergil",
+      "Aeneis",
+      "Aeneas",
+      "Troja",
+      "Rom",
+      "Augustus"
+    ],
+    "era": "29–19 v. Chr. (Aeneis)",
+    "spotifyUrl": "https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ym_Hjte7W7Q",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/stormlord-aeneas-120086",
+        "note": "Lyrics = Excerpt from Virgil Aeneid proem (Arma virumque cano…); Hesperia (2013)"
+      },
+      {
+        "type": "band",
+        "url": "https://metalitalia.com/intervista/stormlord-sic-itur-ad-astra/",
+        "note": "Bucci: opener Aeneas = Aeneis-Proömium in daktylischem Hexameter; Conceptalbum zur Aeneis"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Stormlord/Hesperia/381638",
+        "note": "Hesperia concept album about Virgil Aeneid; track 1 lyrics from Aeneid"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://stormlord.bandcamp.com/album/hesperia",
+        "note": "Hesperia (2013) — Aeneas track 1"
       }
     ]
   },
