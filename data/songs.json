@@ -20,42 +20,6 @@
     ]
   },
   {
-    "id": "aephanemer-le-radeau-de-la-meduse",
-    "band": "Aephanemer",
-    "title": "Le Radeau de La Méduse",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault",
-      "Schiffbruch"
-    ],
-    "era": "1816",
-    "spotifyUrl": "https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq",
-    "youtubeUrl": "https://www.youtube.com/watch?v=iEwdGd7Ywwg",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.metalkingdom.net/lyrics-song/aephanemer-le-radeau-de-la-m%C3%A9duse-253085",
-        "note": "Lyrics EN: Méduse off course, raft, abandonment, cannibalism, 15 survivors"
-      },
-      {
-        "type": "band",
-        "url": "https://metaladdicts.com/aephanemer-unleashes-new-lyric-video-for-le-radeau-de-la-meduse/",
-        "note": "Hamiche: named after the painting, tells the same French historical event; FR+EN versions"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://aephanemer.bandcamp.com/album/a-dream-of-wilderness",
-        "note": "A Dream of Wilderness (2021) — EN track + FR bonus"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=8EkqCdw1PoA",
-        "note": "Official lyric video — French version"
-      }
-    ]
-  },
-  {
     "id": "aeternam-goddess-of-masr",
     "band": "Aeternam",
     "title": "Goddess of Masr",
@@ -662,41 +626,6 @@
         "type": "secondary",
         "url": "https://music.apple.com/us/album/houdinis-great-escapade/1615080953?i=1615080964",
         "note": "Apple Music"
-      }
-    ]
-  },
-  {
-    "id": "dartagnan-schinderhannes",
-    "band": "dArtagnan",
-    "title": "Schinderhannes",
-    "entities": [
-      "Schinderhannes",
-      "Johannes Bückler",
-      "Hunsrück"
-    ],
-    "era": "um 1803",
-    "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.muzikum.eu/nl/dartagnan/schinderhannes-songtekst",
-        "note": "Lyrics: Johannes Bückler; „Doch ein Held, das war ich nicht“; Moritat-Perspektive Gefangennahme/Hinrichtung"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.lieder-archiv.de/schinderhannes-notenblatt_400193.html",
-        "note": "Fränkisches Volkslied/Moritat als Textvorlage"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://de.wikipedia.org/wiki/Johannes_B%C3%BCckler",
-        "note": "Erwähnung des dArtagnan-Tracks zur Anti-Helden-/Mythos-These"
-      },
-      {
-        "type": "band",
-        "url": "http://www.metalimperium.com/2023/03/interview-with-dartagnan.html",
-        "note": "Band: Folk Rock / Musketier-Rock"
       }
     ]
   },
@@ -2148,36 +2077,6 @@
         "type": "secondary",
         "url": "https://cats.metal-archives.com/reviews/Point_of_Existence/01/245956/bayern/81007",
         "note": "Review: orientalische Klangfarbe, Titel Black Gold"
-      }
-    ]
-  },
-  {
-    "id": "pogues-the-wake-of-the-medusa",
-    "band": "The Pogues",
-    "title": "The Wake of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault"
-    ],
-    "era": "1816 / Gemälde 1818–19",
-    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
-        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
-        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
-        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
