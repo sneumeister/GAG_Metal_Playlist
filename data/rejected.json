@@ -1,13 +1,6 @@
 {
-  "updatedAt": "2026-10-08 18:59:53 +0200",
+  "updatedAt": "2026-10-07 22:07:08 +0200",
   "entries": [
-    {
-      "episodeId": 31,
-      "songId": "iron-maiden-aces-high",
-      "reason": "Folge = Fußballsystemstreit unter dem Nationalsozialismus („Blitzkrieg im Fußballstadion“); Song = Luftkampf der RAF in der Schlacht um England 1940 (Spitfire, ME-109) — nur loses „Blitzkrieg“-/Kriegs-Stichwort, kein gemeinsamer Erzählgegenstand (Tier X).",
-      "rejectedAt": "2026-10-08",
-      "rejectedBy": "manual"
-    },
     {
       "episodeId": 105,
       "songId": "iron-maiden-alexander-the-great",
@@ -233,24 +226,10 @@
       "rejectedBy": "manual"
     },
     {
-      "episodeId": 483,
-      "songId": "running-wild-mutiny",
-      "reason": "Folge = Meuterei auf der Bounty 1789 und Rum-Rebellion (Bligh); Song = generische Seemans-Meuterei (Hunger, Peitsche, Rache) ohne Bounty, Bligh oder Brotfrucht — nur Motiv-Anklang Meuterei (Tier X).",
-      "rejectedAt": "2026-10-08",
-      "rejectedBy": "manual"
-    },
-    {
       "episodeId": 490,
       "songId": "warkings-spartacus",
       "reason": "Song = Spartacus / Dritter Sklavenkrieg (73–71 v. Chr.). Folge = Eunus und Erster Sklavenkrieg auf Sizilien (135–132 v. Chr.) — anderer Aufstand, andere Person (Tier X).",
       "rejectedAt": "2026-09-27",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 491,
-      "songId": "yves-duteil-dreyfus",
-      "reason": "Folge = Dreyfus-Affäre; Song = dieselbe Affäre (Unschuld, Guyane, Antisemitismus) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Chanson française / Folk, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-10-08",
       "rejectedBy": "manual"
     },
     {
@@ -384,13 +363,6 @@
       "songId": "calicanto-galeas-par-montes",
       "reason": "Song = Galeas per Montes (Venedig zieht Schiffe über die Berge zum Gardasee). Folge = dieselbe venezianische Unternehmung 1438/39 — inhaltlich eng (bei Metal wäre Tier A). Genre = Folk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 560,
-      "songId": "my-dying-bride-feel-the-misery",
-      "reason": "Folge = Méduse 1816 und Géricaults „Floß der Medusa“; Song = allgemeine Misery-/Tragödie-Bilder ohne Méduse, Floß oder 1816 — nur das Musikvideo greift das Gemälde lose auf (Tier X).",
-      "rejectedAt": "2026-10-08",
       "rejectedBy": "manual"
     },
     {

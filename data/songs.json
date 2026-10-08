@@ -1703,37 +1703,6 @@
     ]
   },
   {
-    "id": "levellers-raft-of-the-medusa",
-    "band": "Levellers",
-    "title": "Raft of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "1816",
-      "Argus"
-    ],
-    "era": "1816",
-    "spotifyUrl": "https://open.spotify.com/track/56Ibqjhl46vRDuO61Xp9DT",
-    "youtubeUrl": "https://www.youtube.com/watch?v=nxb3THhAZK4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://damnlyrics.com/lyrics/Raft-of-the-Medusa-Levellers-MD0pOtCs.html",
-        "note": "Lyrics: Medusa to Senegal 1816; raft; mutiny; cannibalism; Argus"
-      },
-      {
-        "type": "band",
-        "url": "https://louderthanwar.com/levellers-tour-dates-and-video-project/",
-        "note": "Band/Video: retells Méduse wreck; Géricault painting"
-      },
-      {
-        "type": "secondary",
-        "url": "https://en.wikipedia.org/wiki/Static_on_the_Airwaves",
-        "note": "Static on the Airwaves (2012) — folk punk / rock"
-      }
-    ]
-  },
-  {
     "id": "lurte-venganza-almugavar",
     "band": "Lurte",
     "title": "Venganza Almugavar",
@@ -1911,30 +1880,6 @@
         "type": "secondary",
         "url": "https://www.dawn.com/news/1542798",
         "note": "Instrumental / Funk — Sultanat EP"
-      }
-    ]
-  },
-  {
-    "id": "my-dying-bride-feel-the-misery",
-    "band": "My Dying Bride",
-    "title": "Feel the Misery",
-    "entities": [
-      "Misery",
-      "Tragödie"
-    ],
-    "era": null,
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://musinfo.net/lyrics/my-dying-bride/feel-the-misery",
-        "note": "Lyrics: abstract misery/tragedy/calamity — no Méduse/raft"
-      },
-      {
-        "type": "secondary",
-        "url": "https://peaceville.com/my-dying-bride-premiere-new-video-for-feel-the-misery/",
-        "note": "Video director: loosely based on Raft of Medusa + refugee analogy; song itself not about 1816"
       }
     ]
   },
@@ -2472,25 +2417,6 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Port_Royal_(album)",
         "note": "Port Royal (1988) — generisches Konquistadoren-Abenteuer"
-      }
-    ]
-  },
-  {
-    "id": "running-wild-mutiny",
-    "band": "Running Wild",
-    "title": "Mutiny",
-    "entities": [
-      "Meuterei",
-      "Seefahrt"
-    ],
-    "era": "18. Jh. (generisch)",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.metalkingdom.net/lyrics-song/running-wild-mutiny-40751",
-        "note": "Port Royal (1988): generic sailor mutiny — hunger, whip, no Bounty/Bligh"
       }
     ]
   },
@@ -5508,31 +5434,6 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
         "note": "Revolution (2021)"
-      }
-    ]
-  },
-  {
-    "id": "yves-duteil-dreyfus",
-    "band": "Yves Duteil",
-    "title": "Dreyfus",
-    "entities": [
-      "Dreyfus-Affäre",
-      "Alfred Dreyfus",
-      "Guyane"
-    ],
-    "era": "1894–1906",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.paroles.net/yves-duteil/paroles-dreyfus",
-        "note": "Lyrics: Affaire, Alsacien/juif/capitaine, Guyane, innocence"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://fr.wikipedia.org/wiki/Yves_Duteil",
-        "note": "Chanson française; petit-neveu du capitaine Dreyfus; Touché (1997)"
       }
     ]
   }
