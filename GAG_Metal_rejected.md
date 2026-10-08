@@ -1,7 +1,7 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-08 18:53:07 +0200  </small>
-<small>**JSON-Status:** 2026-10-07 22:07:08 +0200  </small>
+<small>**Compile-Datum:** 2026-10-08 19:06:37 +0200  </small>
+<small>**JSON-Status:** 2026-10-08 18:59:53 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -13,6 +13,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
+| [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [197](https://gadg.fm/197) | Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron | Sabaton | Talvisota | X | [link](https://www.youtube.com/watch?v=jtfBcDV7etA) | [link](https://open.spotify.com/track/3GhlV5FpkyZvNPMA7v3G1t) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Turisas | In the Court of Jarisleif | X | [link](https://www.youtube.com/watch?v=zcvW7dBKB0U) | [link](https://open.spotify.com/track/1HMcYg6gxITWNk9equYdE8) |
@@ -45,7 +46,9 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [407](https://gadg.fm/407) | Das katastrophale Ende einer Kolonie | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [414](https://gadg.fm/414) | Ibn Fadlān und die Reise zur Wolga | Turisas | To Holmgard and Beyond | X | [link](https://www.youtube.com/watch?v=CB1_60VTCVg) | [link](https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Fight in the Shade | X | [link](https://www.youtube.com/watch?v=5PWVOywu5Dg) | [link](https://open.spotify.com/track/4vLX79K7l6bK1OqvsqkaaM) |
+| [483](https://gadg.fm/483) | Bounty, Brotfrucht und die Rum-Rebellion | Running Wild | Mutiny | X | — | — |
 | [490](https://gadg.fm/490) | Eunus und der erste Sklavenkrieg | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
+| [491](https://gadg.fm/491) | Die Dreyfus-Affäre | Yves Duteil | Dreyfus | X | — | — |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Metallica | The Call of Ktulu | X | [link](https://www.youtube.com/watch?v=3vSH9pMzHm0) | [link](https://open.spotify.com/track/4qPgSwPUGigsmx6gUV2dnU) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Hexekration Rites | The Grimoire of Insanity | X | [link](https://youtu.be/g9kcU7kcY7Q?feature=shared) | [link](https://open.spotify.com/track/4pHpgkyk3siT8W0Wjf8Gr5) |
 | [501](https://gadg.fm/501) | Wie die Jeans entstand | Saxon | Denim and Leather | X | [link](https://www.youtube.com/watch?v=0x313jU1XMc) | [link](https://open.spotify.com/track/0rSUGG0uqjgKSEc7jgezpf) |
@@ -65,6 +68,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [550](https://gadg.fm/550) | Akbar und die Entstehung des Mogulreichs | Mughal-E-Funk | Akbar | X | — | [link](https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [556](https://gadg.fm/556) | Galeas per Montes | Calicanto | Galeas par montes | X | — | — |
+| [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | My Dying Bride | Feel the Misery | X | — | — |
 | [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Noriko Kishi | Hasekura: Bonds Beyond the Seas and Time | X | [link](https://www.youtube.com/watch?v=yTEw9zh1-i8) | [link](https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
