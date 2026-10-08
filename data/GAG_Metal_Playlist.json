@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08 18:52:00 +0200",
+  "updatedAt": "2026-10-08 19:06:25 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1737,6 +1737,26 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq",
       "youtubeUrl": "https://www.youtube.com/watch?v=iEwdGd7Ywwg",
+      "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 560,
+      "episodeTitle": "HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand",
+      "episodeUrl": "https://gadg.fm/560",
+      "songId": "levellers-raft-of-the-medusa",
+      "band": "Levellers",
+      "songTitle": "Raft of the Medusa",
+      "matchTier": "A",
+      "justification": "Folge = Méduse-Katastrophe 1816 (Strandung, Floß, Meuterei, Kannibalismus, Rettung); Song = derselbe Ordeal (Senegal 1816, Floß, Argus, Kannibalismus) — gemeinsamer Kern (Tier A).",
+      "sharedEntities": [
+        "Floß der Medusa",
+        "Méduse",
+        "1816",
+        "Argus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/56Ibqjhl46vRDuO61Xp9DT",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nxb3THhAZK4",
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
