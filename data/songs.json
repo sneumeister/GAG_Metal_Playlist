@@ -103,6 +103,31 @@
     ]
   },
   {
+    "id": "allerseelen-schwefelfaden-michael-kohlhaas",
+    "band": "Allerseelen",
+    "title": "Schwefelfaden (Michael Kohlhaas)",
+    "entities": [
+      "Michael Kohlhaas",
+      "Hans Kohlhase",
+      "Heinrich von Kleist"
+    ],
+    "era": "16. Jh. / Kleist 1810",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://mindonfireproduktionen.bandcamp.com/track/schwefelfaden-michael-kohlhaas",
+        "note": "Compilation Mysterium Tremendum (2025) — Track zu Michael Kohlhaas"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Allerseelen_(band)",
+        "note": "Genre: Neofolk / Martial industrial / Experimental"
+      }
+    ]
+  },
+  {
     "id": "almanac-red-flag",
     "band": "Almanac",
     "title": "Red Flag",
@@ -4422,6 +4447,38 @@
     ]
   },
   {
+    "id": "sarvekas-the-great-winter",
+    "band": "Sarvekas",
+    "title": "The Great Winter",
+    "entities": [
+      "Fimbulwinter",
+      "536",
+      "Vulkanwinter",
+      "Justinianische Pest",
+      "Ragnarök"
+    ],
+    "era": "536–539 n. Chr. / Fimbulwinter-Mythos",
+    "spotifyUrl": "https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://antichristmagazine.com/interview-with-sarvekas/",
+        "note": "Interview: The Great Winter = Fimbulwinter; Inspiration = Klimaereignis 536–539 und Justinianische Pest"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Sarvekas/Woven_Dark_Paths/1123024",
+        "note": "Woven Dark Paths (2023, Soulseller) — Track 8; Black Metal"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://soulsellerrecords.bandcamp.com/track/the-great-winter",
+        "note": "Soulseller Records Bandcamp — The Great Winter"
+      }
+    ]
+  },
+  {
     "id": "savatage-complaint-in-the-system-veronica-guerin",
     "band": "Savatage",
     "title": "Complaint in the System (Veronica Guerin)",
@@ -5038,6 +5095,38 @@
         "type": "bandcamp",
         "url": "https://stormlord.bandcamp.com/album/hesperia",
         "note": "Hesperia (2013) — Aeneas track 1"
+      }
+    ]
+  },
+  {
+    "id": "stormlord-mare-nostrum",
+    "band": "Stormlord",
+    "title": "Mare Nostrum",
+    "entities": [
+      "Rom",
+      "Karthago",
+      "Dritter Punischer Krieg",
+      "Scipio",
+      "Mare Nostrum"
+    ],
+    "era": "149–146 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/stormlord/mare-nostrum-lyrics/",
+        "note": "3. Punischer Krieg / Carthago delenda; Scipio führt Flotte"
+      },
+      {
+        "type": "secondary",
+        "url": "https://heavymetalclassicist.home.blog/2019/07/13/stormlord-mare-nostrum/",
+        "note": "Analyse: Romans setting sail for Carthage at start of Third Punic War"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://stormlord.bandcamp.com/album/mare-nostrum",
+        "note": "Mare Nostrum (2008) — Track 1"
       }
     ]
   },

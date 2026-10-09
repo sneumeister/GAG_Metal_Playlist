@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09 18:24:13 +0200",
+  "updatedAt": "2026-10-09 18:54:46 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1664,6 +1664,25 @@
       "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
       "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
       "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 535,
+      "episodeTitle": "Das Jahr 536 und die Spätantike Kleine Eiszeit",
+      "episodeUrl": "https://gadg.fm/535",
+      "songId": "sarvekas-the-great-winter",
+      "band": "Sarvekas",
+      "songTitle": "The Great Winter",
+      "matchTier": "B",
+      "justification": "Folge = Jahr 536 / spätantike kleine Eiszeit; Song = Fimbulwinter-Epos mit expliziter 536-Inspiration — gemeinsamer historischer Kern, anderer Erzählfokus (Tier B).",
+      "sharedEntities": [
+        "536",
+        "Vulkanwinter",
+        "Justinianische Pest"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
     {

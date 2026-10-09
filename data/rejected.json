@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08 18:59:53 +0200",
+  "updatedAt": "2026-10-09 18:59:32 +0200",
   "entries": [
     {
       "episodeId": 31,
@@ -282,6 +282,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 502,
+      "songId": "allerseelen-schwefelfaden-michael-kohlhaas",
+      "reason": "Folge = Fehde Hans Kohlhase; Song = Michael Kohlhaas (Kleist) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Neofolk / Martial Industrial, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-09",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 519,
       "songId": "sabaton-swedish-pagans",
       "reason": "Song = generische Wikinger-/Berserker-Hymne (Valhalla, Thor, Fenrir); Lyrics ohne Warägergarde, Byzanz oder Miklagard. Folge = Warägergarde am byzantinischen Hof — nur loser Skandinavien-Bezug (Tier X).",
@@ -398,6 +405,13 @@
       "songId": "animal-collective-prester-john",
       "reason": "Song = Titel „Prester John“, Lyrics eher persönliche/abstrakte Bilder ohne Legendenchronik. Folge = Brief-Fälschung und Wirkungsgeschichte des Priesterkönigs Johannes — nur Namensanklang (bei Metal wäre eher Tier C). Genre = Experimental / Indie, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 571,
+      "songId": "stormlord-mare-nostrum",
+      "reason": "Folge = Flottenkatastrophe vor Kamarina 255 v. Chr. (1. Punischer Krieg); Song = Ausfahrt gegen Karthago im 3. Punischen Krieg („Carthago delenda“) — gleiche Großkonflikt-Welt Rom/Karthago, anderes Ereignis und Jahrhundert (Tier X).",
+      "rejectedAt": "2026-10-09",
       "rejectedBy": "manual"
     },
     {
