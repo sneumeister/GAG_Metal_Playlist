@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-09 18:24:13 +0200  </small>
-<small>**JSON-Status:** 2026-10-09 18:24:13 +0200  </small>
+<small>**Compile-Datum:** 2026-10-09 19:03:08 +0200  </small>
+<small>**JSON-Status:** 2026-10-09 19:03:08 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -102,6 +102,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [514](https://gadg.fm/514) | Anna Komnene – Prinzessin, Intellektuelle und Historikerin | Turisas | Miklagard Overture | C | [link](https://www.youtube.com/watch?v=u5OvUSgUfRE) | [link](https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | The March of the Varangian Guard | A | [link](https://www.youtube.com/watch?v=8kIv7ZJOyB4) | [link](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
+| [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Turisas | Venetoi! – Prasinoi! | B | [link](https://www.youtube.com/watch?v=8DDnNhpNRoI) | [link](https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Saxon | Atila the Hun | C | [link](https://www.youtube.com/watch?v=dwEXrFD8eKU) | [link](https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck) |

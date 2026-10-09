@@ -1,7 +1,7 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-09 18:24:13 +0200  </small>
-<small>**JSON-Status:** 2026-10-08 18:59:53 +0200  </small>
+<small>**Compile-Datum:** 2026-10-09 19:03:08 +0200  </small>
+<small>**JSON-Status:** 2026-10-09 18:59:32 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -53,6 +53,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Hexekration Rites | The Grimoire of Insanity | X | [link](https://youtu.be/g9kcU7kcY7Q?feature=shared) | [link](https://open.spotify.com/track/4pHpgkyk3siT8W0Wjf8Gr5) |
 | [501](https://gadg.fm/501) | Wie die Jeans entstand | Saxon | Denim and Leather | X | [link](https://www.youtube.com/watch?v=0x313jU1XMc) | [link](https://open.spotify.com/track/0rSUGG0uqjgKSEc7jgezpf) |
 | [501](https://gadg.fm/501) | Wie die Jeans entstand | Manowar | Kings of Metal | X | [link](https://www.youtube.com/watch?v=RSSmwXy98IY) | [link](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) |
+| [502](https://gadg.fm/502) | Die Fehde und Kohlhase | Allerseelen | Schwefelfaden (Michael Kohlhaas) | X | — | — |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | Stand Up and Fight | X | [link](https://www.youtube.com/watch?v=7woW7DmnR0E) | [link](https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
@@ -70,6 +71,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [556](https://gadg.fm/556) | Galeas per Montes | Calicanto | Galeas par montes | X | — | — |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | My Dying Bride | Feel the Misery | X | — | — |
 | [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
+| [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Noriko Kishi | Hasekura: Bonds Beyond the Seas and Time | X | [link](https://www.youtube.com/watch?v=yTEw9zh1-i8) | [link](https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Rodrigo Rodriguez | The Road of Hasekura Tsunenaga | X | [link](https://www.youtube.com/watch?v=zDmNPlyGMwM) | [link](https://open.spotify.com/album/2NYAwx9x0Hbj968fvosIsL) |
