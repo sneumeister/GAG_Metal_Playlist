@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09 19:03:08 +0200",
+  "updatedAt": "2026-10-09 22:24:22 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -940,6 +940,43 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 345,
+      "episodeTitle": "Suffrajitsu",
+      "episodeUrl": "https://gadg.fm/345",
+      "songId": "chumbawamba-ah-men",
+      "band": "Chumbawamba",
+      "songTitle": "Ah-Men",
+      "matchTier": "C",
+      "justification": "Folge = Edith Garrud, Jiu-Jitsu und der WSPU-Bodyguard vor 1914; Song = Black Friday und Pankhurst als Stationen einer Absage an die Wahl — gleicher militanter Rahmen, anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "WSPU",
+        "Black Friday",
+        "Emmeline Pankhurst"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
+      "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 350,
+      "episodeTitle": "Der Bauernkrieg und die Revolution von 1525",
+      "episodeUrl": "https://gadg.fm/350",
+      "songId": "die-schnitter-thomas-muntzer",
+      "band": "Die Schnitter",
+      "songTitle": "Thomas Müntzer",
+      "matchTier": "C",
+      "justification": "Folge = Deutscher Bauernkrieg 1524–1526, Gaismair, Bauernjörg und die Niederschlagung; Song = Müntzer gegen Luther und die Schlacht bei Frankenhausen — gleicher Krieg, anderer Führer und anderes Ereignis (Tier C).",
+      "sharedEntities": [
+        "Bauernkrieg",
+        "1525"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR",
+      "youtubeUrl": "https://www.youtube.com/watch?v=J7uHye4hU1M",
+      "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 367,
       "episodeTitle": "Untergang und Comeback der VASA",
       "episodeUrl": "https://gadg.fm/367",
@@ -1232,6 +1269,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 433,
+      "episodeTitle": "Der Schinderhannes",
+      "episodeUrl": "https://gadg.fm/433",
+      "songId": "spessartraeuber-schinderhannes",
+      "band": "Spessarträuber",
+      "songTitle": "Schinderhannes",
+      "matchTier": "A",
+      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Biografie von Miehlen bis zum Schafott mit neunzehn Mann — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schinderhannes",
+        "Johannes Bückler",
+        "Miehlen",
+        "Mainz"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
+      "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 435,
       "episodeTitle": "Die Schlacht bei Carrhae",
       "episodeUrl": "https://gadg.fm/435",
@@ -1514,6 +1571,23 @@
       "spotifyUrl": "https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz",
       "youtubeUrl": "https://www.youtube.com/watch?v=CEmCyG4tvds",
       "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 499,
+      "episodeTitle": "Die wendungsreiche Karriere eines deutschen Revolutionärs in den USA",
+      "episodeUrl": "https://gadg.fm/499",
+      "songId": "pyogenesis-we-1848",
+      "band": "Pyogenesis",
+      "songTitle": "We (1848)",
+      "matchTier": "C",
+      "justification": "Folge = Carl Schurz, Badische Revolution 1849 und die US-Karriere; Song = Berliner März 1848, Nationalversammlung und Bismarcks „Eisen und Blut“ — gleicher Revolutionsrahmen 1848/49, anderes Ereignis und andere Person (Tier C).",
+      "sharedEntities": [
+        "Revolution 1848/49"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/025oz90TMxaKyJhP9VXDZG",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4y-JI5KEWhU",
+      "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
     {

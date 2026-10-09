@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-09 19:03:08 +0200  </small>
-<small>**JSON-Status:** 2026-10-09 19:03:08 +0200  </small>
+<small>**Compile-Datum:** 2026-10-09 22:25:17 +0200  </small>
+<small>**JSON-Status:** 2026-10-09 22:24:22 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -64,6 +64,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [310](https://gadg.fm/310) | Arbeitskampf, Streik und das Leben der Gewerkschaftspionierin Paula Thiede | Panopticon | Black Soot and Red Blood | C | [link](https://youtu.be/9WrlRYJjBwU) | [link](https://open.spotify.com/track/28OQVEP47BO0iG8e6heo4P) |
 | [313](https://gadg.fm/313) | Die Geschwister Herschel | Nanowar of Steel | Uranus | B | [link](https://www.youtube.com/watch?v=OSWszdSHkyE) | [link](https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol) |
 | [333](https://gadg.fm/333) | Alexandria | Iron Maiden | Alexander the Great | C | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
+| [345](https://gadg.fm/345) | Suffrajitsu | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
+| [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schnitter | Thomas Müntzer | C | [link](https://www.youtube.com/watch?v=J7uHye4hU1M) | [link](https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Inquisition | A | [link](https://www.youtube.com/watch?v=IKGbWrpn474) | [link](https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ) |
@@ -79,6 +81,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1755 | A | [link](https://www.youtube.com/watch?v=4O-SUiKyVtA) | [link](https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | Evento | A | [link](https://www.youtube.com/watch?v=ZEqKPJgM-HE) | [link](https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt) |
 | [433](https://gadg.fm/433) | Der Schinderhannes | dArtagnan | Schinderhannes | A | [link](https://www.youtube.com/watch?v=TH2IR4slz74) | [link](https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt) |
+| [433](https://gadg.fm/433) | Der Schinderhannes | Spessarträuber | Schinderhannes | A | [link](https://www.youtube.com/watch?v=XGvCtubo7cE) | [link](https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
 | [439](https://gadg.fm/439) | Kyros II. und die Entstehung eines Mythos | Arsames | Cyrus the Great | A | [link](https://www.youtube.com/watch?v=au4lTYwErDc) | [link](https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt) |
@@ -94,6 +97,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [493](https://gadg.fm/493) | Kernspaltung und Schwerwasser-Sabotage | Sabaton | Saboteurs | A | [link](https://www.youtube.com/watch?v=OlOdefB5Kyk) | [link](https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 1 | B | [link](https://www.youtube.com/watch?v=rGa2woc4uig) | [link](https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 2 | B | [link](https://www.youtube.com/watch?v=CEmCyG4tvds) | [link](https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz) |
+| [499](https://gadg.fm/499) | Die wendungsreiche Karriere eines deutschen Revolutionärs in den USA | Pyogenesis | We (1848) | C | [link](https://www.youtube.com/watch?v=4y-JI5KEWhU) | [link](https://open.spotify.com/track/025oz90TMxaKyJhP9VXDZG) |
 | [503](https://gadg.fm/503) | Die Schlacht bei Kadesch | Ottone Pesante | Battle of Qadesh | A | [link](https://www.youtube.com/watch?v=8Q00PZR2_og) | [link](https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V) |
 | [504](https://gadg.fm/504) | Ein Nashorn auf großer Tour | Serenity | Reflections (of AD) | C | [link](https://www.youtube.com/watch?v=G38B-vTBiPs) | [link](https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4) |
 | [505](https://gadg.fm/505) | William H. Mumler, Geisterfotograf | The Burned Over | The Last Great Awakening | B | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
