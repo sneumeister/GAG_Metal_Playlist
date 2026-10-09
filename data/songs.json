@@ -1191,6 +1191,43 @@
     ]
   },
   {
+    "id": "heimdall-ballad-of-the-queen",
+    "band": "Heimdall",
+    "title": "Ballad of the Queen",
+    "entities": [
+      "Vergil",
+      "Aeneis",
+      "Dido",
+      "Aeneas",
+      "Karthago"
+    ],
+    "era": "Aeneis / Buch IV (Dido)",
+    "spotifyUrl": "https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-ze1LkruSec",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/heimdall-ballad-of-the-queen-145590",
+        "note": "Albumnotiz: Dido/Aeneas Buch IV; Ich-Perspektive der Königin (Abschied, Fluch, Scheiterhaufen)"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Heimdall/Aeneid/364167",
+        "note": "Aeneid (2013, Scarlet) — Concept based on The Aeneid by Virgil; Track 5"
+      },
+      {
+        "type": "secondary",
+        "url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1002&context=classics",
+        "note": "Academic: Heavy Metal Dido — Ballad of the Queen als Dido-Erzählung aus Aeneis IV"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=-ze1LkruSec",
+        "note": "Fan-/Promo-Upload Aeneid Track 05 (2013)"
+      }
+    ]
+  },
+  {
     "id": "herzel-la-flamme",
     "band": "Herzel",
     "title": "La Flamme",
@@ -2213,36 +2250,6 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Die Metal-Jazz-Bearbeitung führt Saxophon in der offiziellen Besetzung; die Folge behandelt das Instrument und seinen Erfinder."
-      }
-    ]
-  },
-  {
-    "id": "pogues-the-wake-of-the-medusa",
-    "band": "The Pogues",
-    "title": "The Wake of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault"
-    ],
-    "era": "1816 / Gemälde 1818–19",
-    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
-        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
-        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
-        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -4824,6 +4831,37 @@
     ]
   },
   {
+    "id": "silver-bullet-the-thirteen-nails",
+    "band": "Silver Bullet",
+    "title": "The Thirteen Nails",
+    "entities": [
+      "Sarah Winchester",
+      "Winchester Mystery House",
+      "Winchester-Gewehr",
+      "San José"
+    ],
+    "era": "spätes 19. / frühes 20. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XLvDxovqb1U",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://grande-rock.com/interviews/silver-bullet-2023/",
+        "note": "Horma: final epic = haunting ghost story of Sarah Winchester"
+      },
+      {
+        "type": "band",
+        "url": "https://tuonelamagazine.com/silver-bullet-release-second-single-lyric-video/",
+        "note": "Band: closing epic journey into the life of Sarah Winchester / ghostly story"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=XLvDxovqb1U",
+        "note": "Official lyric video (Reaper Entertainment) — Shadowfall (2023)"
+      }
+    ]
+  },
+  {
     "id": "six-feet-under-420",
     "band": "Six Feet Under",
     "title": "4:20",
@@ -5149,6 +5187,36 @@
         "type": "bandcamp",
         "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
         "note": "Album The Last Great Awakening (2025), Title Track"
+      }
+    ]
+  },
+  {
+    "id": "pogues-the-wake-of-the-medusa",
+    "band": "The Pogues",
+    "title": "The Wake of the Medusa",
+    "entities": [
+      "Floß der Medusa",
+      "Méduse",
+      "Géricault"
+    ],
+    "era": "1816 / Gemälde 1818–19",
+    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
+        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
+        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
+        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },

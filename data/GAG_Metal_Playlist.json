@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08 20:12:45 +0200",
+  "updatedAt": "2026-10-09 18:24:13 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1762,6 +1762,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 559,
+      "episodeTitle": "Vergil oder Wie ein Epos entsteht",
+      "episodeUrl": "https://gadg.fm/559",
+      "songId": "heimdall-ballad-of-the-queen",
+      "band": "Heimdall",
+      "songTitle": "Ballad of the Queen",
+      "matchTier": "A",
+      "justification": "Folge = Vergil und Entstehung/Rettung der Aeneis; Song = Dido-Perspektive aus Aeneis Buch IV (Abschied, Fluch, Scheiterhaufen) — gemeinsamer Kern Aeneis (Tier A).",
+      "sharedEntities": [
+        "Vergil",
+        "Aeneis",
+        "Aeneas",
+        "Dido"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-ze1LkruSec",
+      "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 560,
       "episodeTitle": "HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand",
       "episodeUrl": "https://gadg.fm/560",
@@ -1819,6 +1839,25 @@
       "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
       "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
       "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 564,
+      "episodeTitle": "Sarah Winchester und ihr Mystery House",
+      "episodeUrl": "https://gadg.fm/564",
+      "songId": "silver-bullet-the-thirteen-nails",
+      "band": "Silver Bullet",
+      "songTitle": "The Thirteen Nails",
+      "matchTier": "A",
+      "justification": "Folge = Sarah Winchester, Mystery House und Entstehung der Geisterlegende; Song = dieselbe Figur/Haus-Legende als Geister-Epos („Thirteen Nails“) — gemeinsamer Kern (Tier A).",
+      "sharedEntities": [
+        "Sarah Winchester",
+        "Winchester Mystery House",
+        "Geisterlegende"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XLvDxovqb1U",
+      "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
     {
