@@ -528,6 +528,33 @@
     ]
   },
   {
+    "id": "chumbawamba-ah-men",
+    "band": "Chumbawamba",
+    "title": "Ah-Men",
+    "entities": [
+      "WSPU",
+      "Black Friday",
+      "Emmeline Pankhurst",
+      "H. H. Asquith",
+      "Frauenwahlrecht"
+    ],
+    "era": "1910–1914",
+    "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
+    "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyrics.az/chumbawamba/never-mind-the-ballots/ah-men.html",
+        "note": "Black Friday, Asquith, Pankhurst, Zwangsernährung; Schluss these: Wahlzettel als Falle"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Never_Mind_the_Ballots",
+        "note": "Never Mind the Ballots (1987, Agit-Prop) — Track 5 Ah-Men; Anarcho-Punk"
+      }
+    ]
+  },
+  {
     "id": "civil-war-i-will-rule-the-universe",
     "band": "Civil War",
     "title": "I Will Rule the Universe",
@@ -722,6 +749,32 @@
         "type": "band",
         "url": "http://www.metalimperium.com/2023/03/interview-with-dartagnan.html",
         "note": "Band: Folk Rock / Musketier-Rock"
+      }
+    ]
+  },
+  {
+    "id": "die-schnitter-thomas-muntzer",
+    "band": "Die Schnitter",
+    "title": "Thomas Müntzer",
+    "entities": [
+      "Thomas Müntzer",
+      "Schlacht bei Frankenhausen",
+      "Bauernkrieg",
+      "Martin Luther"
+    ],
+    "era": "1525",
+    "spotifyUrl": "https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR",
+    "youtubeUrl": "https://www.youtube.com/watch?v=J7uHye4hU1M",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyricf.com/lyrics_thomas-m-ntzer-lyrics-die-schnitter.html",
+        "note": "Müntzer gegen das sanftlebende Fleisch zu Wittenberg; Heer bei Frankenhausen am Kyffhäuser"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.musik-sammler.de/release/die-schnitter-arg-cd-57722/",
+        "note": "Arg (1998, Costbar) — Track 11 Thomas Müntzer; Folk-Punk"
       }
     ]
   },
@@ -2385,6 +2438,43 @@
         "type": "secondary",
         "url": "https://music.apple.com/us/album/operation-blood-for-oil/1741326330?i=1741326338",
         "note": "Apple Music: Prophets of Doom"
+      }
+    ]
+  },
+  {
+    "id": "pyogenesis-we-1848",
+    "band": "Pyogenesis",
+    "title": "We (1848)",
+    "entities": [
+      "Märzrevolution 1848",
+      "Berliner Märzgefallene",
+      "Nationalversammlung",
+      "Otto von Bismarck",
+      "Eisen und Blut"
+    ],
+    "era": "1848/49 / 1862",
+    "spotifyUrl": "https://open.spotify.com/track/025oz90TMxaKyJhP9VXDZG",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4y-JI5KEWhU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/pyogenesis/we-1848-lyrics/",
+        "note": "Berliner März 1848, erste Nationalversammlung, Schlusszitat Bismarck „Eisen und Blut“"
+      },
+      {
+        "type": "band",
+        "url": "https://laut.de/Pyogenesis/Interviews/Heutzutage-musst-du-Facebook-nutzen.-Ich-kanns-nicht-aendern-02-05-2017-1447",
+        "note": "Flo V. Schwarz, laut.de 2017-05-02: 254 Märzgefallene, keine Glorifizierung; Gothic/Alternative Metal"
+      },
+      {
+        "type": "metal-archives",
+        "url": "https://www.metal-archives.com/albums/Pyogenesis/A_Kingdom_to_Disappear/626578",
+        "note": "A Kingdom to Disappear (2017, AFM) — Track 7 We (1848)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.discogs.com/release/9839725-Pyogenesis-A-Kingdom-To-Disappear",
+        "note": "Discogs: Track 7 We [1848], 4:19; kein eigenes Video auf dem Release"
       }
     ]
   },
@@ -5027,6 +5117,33 @@
         "type": "lyrics",
         "url": "https://www.lyricsmania.com/bloodtrails_lyrics_sodom.html",
         "note": "Better Off Dead (1990) — Desert Shield, treasure of the soil"
+      }
+    ]
+  },
+  {
+    "id": "spessartraeuber-schinderhannes",
+    "band": "Spessarträuber",
+    "title": "Schinderhannes",
+    "entities": [
+      "Johannes Bückler",
+      "Schinderhannes",
+      "Miehlen",
+      "Mainz",
+      "Placken-Klos"
+    ],
+    "era": "1779–1803",
+    "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://derspessartraeuber.de/musik",
+        "note": "Ehrenbrüder (2021), Track 9: Miehlen, Pferdediebstahl, Placken-Klos, Schafott mit neunzehn Mann"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/de/song/schinderhannes/1576911374",
+        "note": "Apple Music: Ehrenbrüder, 17. September 2021"
       }
     ]
   },
