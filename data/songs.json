@@ -155,6 +155,31 @@
     ]
   },
   {
+    "id": "ancient-rites-13th-of-october-1307",
+    "band": "Ancient Rites",
+    "title": "13th of October 1307",
+    "entities": [
+      "Templerorden",
+      "Jacques de Molay",
+      "13. Oktober 1307"
+    ],
+    "era": "1307–1314",
+    "spotifyUrl": "https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3hL5cjgjZqY",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/ancient-rites-13th-of-october-1307-6630",
+        "note": "Templars / Jacques de Molay / Ile de la Cité"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.deezer.com/track/1587093342",
+        "note": "Fatherland (1998), Track 6"
+      }
+    ]
+  },
+  {
     "id": "animal-collective-prester-john",
     "band": "Animal Collective",
     "title": "Prester John",
@@ -169,6 +194,26 @@
         "type": "bandcamp",
         "url": "https://anmlcollectve.bandcamp.com/track/prester-john",
         "note": "Time Skiffs (2022)"
+      }
+    ]
+  },
+  {
+    "id": "annihilator-phantasmagoria",
+    "band": "Annihilator",
+    "title": "Phantasmagoria",
+    "entities": [
+      "Phantasmagoria",
+      "Geister",
+      "Alptraum"
+    ],
+    "era": null,
+    "spotifyUrl": "https://open.spotify.com/track/4078UGOgKIRJCz7GUqW8BR",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.mldb.org/song-70800-phantasmagoria.html",
+        "note": "Never, Neverland (1990); Liner: psychische Geistervisionen, nicht historische Show"
       }
     ]
   },
@@ -779,6 +824,26 @@
     ]
   },
   {
+    "id": "dieter-thomas-heck-henkersmahlzeit",
+    "band": "Dieter Thomas Heck",
+    "title": "Henkersmahlzeit",
+    "entities": [
+      "Stockholmer Blutbad",
+      "Schweden",
+      "Henkersmahlzeit"
+    ],
+    "era": "1520 (Erzählrahmen)",
+    "spotifyUrl": "https://open.spotify.com/track/1SzS4YpXr70ob5A4f1BtUv",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "http://hitparade.ch/song/Dieter-Thomas-Heck/Henkersmahlzeit-855664",
+        "note": "Es ist Mitternacht, John (1981); Charts-Blurb: schwedische Henkersmahlzeit-/Geister-Anekdote"
+      }
+    ]
+  },
+  {
     "id": "dorsal-atlantica-lucrecia-borgia",
     "band": "Dorsal Atlântica",
     "title": "Lucrécia Bórgia",
@@ -1058,6 +1123,26 @@
     ]
   },
   {
+    "id": "florentin-feat-lars-333",
+    "band": "Florentin feat. Lars",
+    "title": "333",
+    "entities": [
+      "Issos",
+      "Alexander der Große",
+      "333"
+    ],
+    "era": "333 v. Chr.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=4ANGTD-Bl9s",
+    "sources": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=4ANGTD-Bl9s",
+        "note": "Party-Song zum Merkspruch 333 bei Issos Keilerei; Kommentar GAG333"
+      }
+    ]
+  },
+  {
     "id": "forefather-cween-of-the-mark",
     "band": "Forefather",
     "title": "Cween of the Mark",
@@ -1112,6 +1197,32 @@
         "type": "secondary",
         "url": "https://metalgoddesses.com/2020/03/01/we-are-very-different-but-we-also-come-together-and-find-something-in-the-middle-where-everyone-is-happy-interview-with-frantic-amber/",
         "note": "Band: song about Irish pirate queen"
+      }
+    ]
+  },
+  {
+    "id": "freddy-quinn-st-helena",
+    "band": "Freddy Quinn",
+    "title": "St. Helena",
+    "entities": [
+      "Napoleon",
+      "St. Helena",
+      "Waterloo",
+      "Exil"
+    ],
+    "era": "1815–1821",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9pB-QZ5ytuY",
+    "sources": [
+      {
+        "type": "discography",
+        "url": "http://germancharts.de/showitem.asp?cat=s&interpret=Freddy&titel=St.+Helena",
+        "note": "Single Polydor 1971; Schlager über Napoleons Exil auf St. Helena"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/freddy-quinn/st-helena-lyrics/",
+        "note": "Lyrics: St. Helena, Kaiser, Waterloo, Exil"
       }
     ]
   },
@@ -1691,6 +1802,56 @@
     ]
   },
   {
+    "id": "jeff-beck-johnny-depp-this-is-a-song-for-miss-hedy-lamarr",
+    "band": "Jeff Beck & Johnny Depp",
+    "title": "This Is A Song For Miss Hedy Lamarr",
+    "entities": [
+      "Hedy Lamarr",
+      "Hollywood"
+    ],
+    "era": "1930er–1940er",
+    "spotifyUrl": "https://open.spotify.com/track/6zueINKfHroKC92vN1oSEm",
+    "youtubeUrl": "https://www.youtube.com/watch?v=maa1xTKu7aQ",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/This_Is_a_Song_for_Miss_Hedy_Lamarr",
+        "note": "Lead single from 18 (2022); rock homage to Hedy Lamarr"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=maa1xTKu7aQ",
+        "note": "Official music video (Jeff Beck channel)"
+      }
+    ]
+  },
+  {
+    "id": "joan-baez-battle-hymn-of-the-republic",
+    "band": "Joan Baez",
+    "title": "Battle Hymn of the Republic",
+    "entities": [
+      "Battle Hymn of the Republic",
+      "John Brown's Body",
+      "Amerikanischer Bürgerkrieg",
+      "Abolitionismus"
+    ],
+    "era": "1861–1865 / 1963",
+    "spotifyUrl": "https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YHforl6vnco",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Battle_Hymn_of_the_Republic",
+        "note": "Julia Ward Howe 1861; melody from John Brown's Body"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=YHforl6vnco",
+        "note": "Joan Baez in Concert, Part 2 (1963); Kommentar-Link"
+      }
+    ]
+  },
+  {
     "id": "judicator-king-of-rome",
     "band": "Judicator",
     "title": "King of Rome",
@@ -1763,6 +1924,34 @@
         "type": "interview",
         "url": "http://www.metal-rules.com/interviews/Kamelot_Karma.htm",
         "note": "Youngblood: Elizabeth Bathory; vanity / race against time"
+      }
+    ]
+  },
+  {
+    "id": "karl-heinz-weichert-affenschande",
+    "band": "Karl-Heinz Weichert und Rhythmusgruppe",
+    "title": "Affenschande",
+    "entities": [
+      "Schimpanse",
+      "Weltraum",
+      "Gagarin",
+      "Titow",
+      "Sowjetunion",
+      "USA"
+    ],
+    "era": "1961",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZIzvhZXhnlM",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://lieder-aus-der-ddr.de/affenschande-1961/",
+        "note": "FDJ-Lied 1961: US-Affen in Satelliten vs. SU/Gagarin („Im Weltraum siegte die SU“)"
+      },
+      {
+        "type": "discography",
+        "url": "https://hitparade.ch/song/Karl-Heinz-Weichert/Affenschande-1033862",
+        "note": "CD Die Partei hat immer Recht (1996)"
       }
     ]
   },
@@ -1882,6 +2071,91 @@
     ]
   },
   {
+    "id": "lorimer-burst-the-flight-of-ham-part-i-hero",
+    "band": "Lorimer Burst",
+    "title": "The Flight of Ham (Part I - Hero)",
+    "entities": [
+      "Ham",
+      "Schimpanse",
+      "Mercury-Redstone 2",
+      "Weltraum",
+      "1961"
+    ],
+    "era": "1961",
+    "spotifyUrl": "https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U",
+    "youtubeUrl": "https://www.youtube.com/watch?v=cw0fl3AFsLU",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-i-hero",
+        "note": "Dispersion (2019); Band/Kommentar: Flug von Ham als Inspiration"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.betreutesproggen.de/2019/07/lorimer-burst-dispersion/",
+        "note": "Review: Denkmal für Ham; Part I Hero / Part II Victim"
+      },
+      {
+        "type": "secondary",
+        "url": "https://lorimerburst.com/about-me-2-2/",
+        "note": "Instrumental Post-Rock (Hannover)"
+      }
+    ]
+  },
+  {
+    "id": "lorimer-burst-the-flight-of-ham-part-ii-victim",
+    "band": "Lorimer Burst",
+    "title": "The Flight of Ham (Part II - Victim)",
+    "entities": [
+      "Ham",
+      "Schimpanse",
+      "Mercury-Redstone 2",
+      "Weltraum",
+      "1961"
+    ],
+    "era": "1961",
+    "spotifyUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
+        "note": "Dispersion (2019); zweiter Teil zum Ham-Flug"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.betreutesproggen.de/2019/07/lorimer-burst-dispersion/",
+        "note": "Review: Part II Victim — Ängste des Astrochimps"
+      }
+    ]
+  },
+  {
+    "id": "louis-armstrong-muggles",
+    "band": "Louis Armstrong",
+    "title": "Muggles",
+    "entities": [
+      "Cannabis",
+      "Muggles",
+      "Jazz",
+      "USA"
+    ],
+    "era": "1928",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=R8TvgVTGkBQ",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://hightimes.com/culture/high-times-greats-louis-armstrong/",
+        "note": "1928 Chicago; „muggles“ = Cannabis-Slang; Reefer-Song-Tradition"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ab8IGsLckps",
+        "note": "Louis Armstrong and His Orchestra, Chicago 7.12.1928"
+      }
+    ]
+  },
+  {
     "id": "lurte-venganza-almugavar",
     "band": "Lurte",
     "title": "Venganza Almugavar",
@@ -1908,6 +2182,31 @@
     ]
   },
   {
+    "id": "lupo-claudia",
+    "band": "Lupo",
+    "title": "Claudia",
+    "entities": [
+      "Agrippina die Jüngere",
+      "Colonia Claudia Ara Agrippinensium",
+      "Köln"
+    ],
+    "era": "50 n. Chr. / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Lupo-claudia-lyrics",
+        "note": "Claudia (Agrippina) / CCAA / Colonia; Karneval-/Stadt-Hymne"
+      },
+      {
+        "type": "secondary",
+        "url": "https://de.wikipedia.org/wiki/Lupo_(Band)",
+        "note": "Kölschrock / Karneval; Single Claudia (2018)"
+      }
+    ]
+  },
+  {
     "id": "manowar-kings-of-metal",
     "band": "Manowar",
     "title": "Kings of Metal",
@@ -1923,6 +2222,50 @@
         "type": "band",
         "url": "https://en.wikipedia.org/wiki/Kings_of_Metal",
         "note": "Title track: self-referential metal anthem, not historical narrative"
+      }
+    ]
+  },
+  {
+    "id": "marlene-dietrich-ich-bin-die-fesche-lola",
+    "band": "Marlene Dietrich",
+    "title": "Ich bin die fesche Lola",
+    "entities": [
+      "Lola Lola",
+      "Der blaue Engel",
+      "Pianola"
+    ],
+    "era": "1930",
+    "spotifyUrl": "https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=yMbglXvNQGE",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://musicbrainz.org/release/0e11d508-33e1-45a8-bd6c-fa37badd9fd6",
+        "note": "Der blaue Engel (1930); Friedrich Hollaender / Robert Liebmann"
+      }
+    ]
+  },
+  {
+    "id": "marx-brothers-hail-hail-freedonia",
+    "band": "The Marx Brothers",
+    "title": "Hail, Hail Freedonia",
+    "entities": [
+      "Freedonia",
+      "Duck Soup"
+    ],
+    "era": "1933",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+    "sources": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
+      },
+      {
+        "type": "reference",
+        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
+        "note": "Hymn to Freedonia / Duck Soup"
       }
     ]
   },
@@ -2359,6 +2702,33 @@
     ]
   },
   {
+    "id": "peter-pringle-gilgamesh-lament-for-enkidu",
+    "band": "Peter Pringle",
+    "title": "Gilgamesh Lament for Enkidu",
+    "entities": [
+      "Gilgamesch",
+      "Enkidu",
+      "Uruk",
+      "Tafel VIII",
+      "Himmelsstier"
+    ],
+    "era": "2. Jt. v. Chr. (Epos) / Aufführung 2021",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=kd7qeP3R5vw",
+    "sources": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kd7qeP3R5vw",
+        "note": "Klage Gilgameschs um Enkidu; altbabylonischer Text (Tafel VIII), Übers. Andrew R. George; Setar + Malilum-Rekonstruktion"
+      },
+      {
+        "type": "reference",
+        "url": "https://www.worldhistory.org/video/2883/gilgamesh-lament-for-enkidu/",
+        "note": "World History Encyclopedia Video-Eintrag"
+      }
+    ]
+  },
+  {
     "id": "pogues-the-wake-of-the-medusa",
     "band": "The Pogues",
     "title": "The Wake of the Medusa",
@@ -2536,6 +2906,31 @@
     ]
   },
   {
+    "id": "rainald-grebe-dreissigjaehrige-paerchen",
+    "band": "Rainald Grebe & Die Kapelle der Versöhnung",
+    "title": "Dreißigjährige Pärchen",
+    "entities": [
+      "Sushi",
+      "Berlin",
+      "Lifestyle"
+    ],
+    "era": "2000er",
+    "spotifyUrl": "https://open.spotify.com/track/2ym5jsfte1PFyuDsXSW9pw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6ZcIUAe-DdI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyrix.at/t/rainald-grebe-dreiigjahrige-parchen-a3c",
+        "note": "Kabarett: Szene-Pärchen essen Sushi; kein historischer Sushi-Bezug"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/2ym5jsfte1PFyuDsXSW9pw",
+        "note": "Album Volksmusik (2007)"
+      }
+    ]
+  },
+  {
     "id": "rancid-meteor-of-war",
     "band": "Rancid",
     "title": "Meteor of War",
@@ -2639,6 +3034,31 @@
         "type": "secondary",
         "url": "https://www.farsidemusic.com/acatalog/The-Road-of-Hasekura-Tsunenaga-FSD6365.html",
         "note": "Shakuhachi-Album (Weltmusik/traditionell), dem Hasekura Tsunenaga gewidmet"
+      }
+    ]
+  },
+  {
+    "id": "rosalia-de-madruga",
+    "band": "Rosalía",
+    "title": "De Madrugá",
+    "entities": [
+      "Olga von Kiew",
+      "Rache",
+      "Heilige Olga"
+    ],
+    "era": "10. Jh. / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/6F52Ls9K7a6vNNi0lip9Gm",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QEQZs8SLhQE",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+        "note": "LUX (2025); De Madrugá inspired by Saint Olga of Kiev"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=QEQZs8SLhQE",
+        "note": "Kommentar-Link geschichte.fm"
       }
     ]
   },
@@ -4835,6 +5255,33 @@
     ]
   },
   {
+    "id": "schandmaul-tjark-evers",
+    "band": "Schandmaul",
+    "title": "Tjark Evers",
+    "entities": [
+      "Tjark Evers",
+      "Baltrum",
+      "Zigarrenkiste",
+      "Flaschenpost",
+      "1866"
+    ],
+    "era": "1866",
+    "spotifyUrl": "https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lV2ml_5qROo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://muzikum.eu/en/schandmaul/tjark-evers-lyrics",
+        "note": "Tjark Evers von Baltrum; Sandbank/Plat; Abschiedszeilen"
+      },
+      {
+        "type": "band",
+        "url": "https://www.universal-music.de/schandmaul/news/zum-film-die-zigarrenkiste-schandmaul-zeigen-video-tjark-evers-242114",
+        "note": "Leuchtfeuer (2016); Zigarrenkisten-Botschaft Weihnachten 1866"
+      }
+    ]
+  },
+  {
     "id": "schweisser-ich-bin-du-2",
     "band": "Schweisser",
     "title": "ich bin du 2",
@@ -5880,6 +6327,64 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Revolution_(Warkings_album)",
         "note": "Revolution (2021)"
+      }
+    ]
+  },
+  {
+    "id": "warkings-varangoi",
+    "band": "Warkings",
+    "title": "Varangoi",
+    "entities": [
+      "Warägergarde",
+      "Byzanz",
+      "Konstantinopel",
+      "Varángoi"
+    ],
+    "era": "10.–13. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.karaoke-lyrics.net/lyrics/warkings/varangoi-1180961",
+        "note": "Varángoi / Varangian Guard, Konstantinopel, Tágma tōn Varángōn"
+      },
+      {
+        "type": "secondary",
+        "url": "https://warkings.bandcamp.com/album/armageddon",
+        "note": "Armageddon (2025), Track Varangoi"
+      },
+      {
+        "type": "secondary",
+        "url": "https://ghostcultmag.com/album-review-warkings-armageddon-napalm-records/",
+        "note": "Review: Greek term for Byzantine Varangian mercenaries"
+      }
+    ]
+  },
+  {
+    "id": "witchbound-battle-of-kadesh",
+    "band": "Witchbound",
+    "title": "Battle of Kadesh",
+    "entities": [
+      "Schlacht bei Kadesch",
+      "Ramses II.",
+      "Hethiter",
+      "1274 v. Chr.",
+      "Amun"
+    ],
+    "era": "-1274",
+    "spotifyUrl": "https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5FKciHZdlN8",
+    "sources": [
+      {
+        "type": "interview",
+        "url": "https://powermetal.de/content/artikel/show-WITCHBOUND__Interview_mit_Stefan_Kauffmann,10039-1.html",
+        "note": "Kauffmann: Schlacht bei Kadesh, Ägypter/Hethiter, 5. Regierungsjahr Ramses II., Amun-Legende"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Witchbound/End_of_Paradise/928594",
+        "note": "End of Paradise (2021), Track Battle of Kadesh"
       }
     ]
   },

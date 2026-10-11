@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11 19:17:24 +0200",
+  "updatedAt": "2026-10-11 22:31:07 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -311,6 +311,25 @@
       "episodeId": 183,
       "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
       "episodeUrl": "https://gadg.fm/183",
+      "songId": "lupo-claudia",
+      "band": "Lupo",
+      "songTitle": "Claudia",
+      "matchTier": "C",
+      "justification": "Folge = Agrippina die Jüngere (Kaiserhof); Song = Köln-/Karneval-Hymne mit Agrippina als CCAA-Gründerin — thematische Nähe, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Agrippina die Jüngere",
+        "Colonia Claudia Ara Agrippinensium",
+        "Köln"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 183,
+      "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+      "episodeUrl": "https://gadg.fm/183",
       "songId": "serenity-the-matricide",
       "band": "Serenity",
       "songTitle": "The Matricide",
@@ -513,6 +532,24 @@
       "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
       "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
       "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 214,
+      "episodeTitle": "Hedy Lamarr – Hollywoodstar und Erfinderin",
+      "episodeUrl": "https://gadg.fm/214",
+      "songId": "jeff-beck-johnny-depp-this-is-a-song-for-miss-hedy-lamarr",
+      "band": "Jeff Beck & Johnny Depp",
+      "songTitle": "This Is A Song For Miss Hedy Lamarr",
+      "matchTier": "A",
+      "justification": "Folge = Hedy Lamarr (Hollywood und Erfindung); Song = Hommage an Hedy Lamarr — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Hedy Lamarr",
+        "Hollywood"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6zueINKfHroKC92vN1oSEm",
+      "youtubeUrl": "https://www.youtube.com/watch?v=maa1xTKu7aQ",
+      "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
     {
@@ -1019,6 +1056,25 @@
       "episodeId": 377,
       "episodeTitle": "Aufstieg und Fall des Templerordens",
       "episodeUrl": "https://gadg.fm/377",
+      "songId": "ancient-rites-13th-of-october-1307",
+      "band": "Ancient Rites",
+      "songTitle": "13th of October 1307",
+      "matchTier": "A",
+      "justification": "Folge = Aufstieg und Fall des Templerordens (1307); Song = Templer-Fall / Jacques de Molay am 13. Oktober — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Templerorden",
+        "Jacques de Molay",
+        "13. Oktober 1307"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3hL5cjgjZqY",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
       "songId": "grave-digger-inquisition",
       "band": "Grave Digger",
       "songTitle": "Inquisition",
@@ -1088,6 +1144,25 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 384,
+      "episodeTitle": "Flaschenpost und die Erforschung der Ozeane",
+      "episodeUrl": "https://gadg.fm/384",
+      "songId": "schandmaul-tjark-evers",
+      "band": "Schandmaul",
+      "songTitle": "Tjark Evers",
+      "matchTier": "B",
+      "justification": "Folge = Flaschenpost / Ozeanforschung (Neumayer) inkl. Tjark-Evers-Rahmen; Song = Tod und Zigarrenkisten-Botschaft des Tjark Evers — gemeinsamer Treibgut-/Flaschenpost-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Tjark Evers",
+        "Flaschenpost",
+        "Zigarrenkiste"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lV2ml_5qROo",
+      "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
     {
@@ -1253,6 +1328,25 @@
       "episodeId": 433,
       "episodeTitle": "Der Schinderhannes",
       "episodeUrl": "https://gadg.fm/433",
+      "songId": "dartagnan-schinderhannes",
+      "band": "dArtagnan",
+      "songTitle": "Schinderhannes",
+      "matchTier": "A",
+      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schinderhannes",
+        "Johannes Bückler",
+        "Hunsrück"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
+      "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 433,
+      "episodeTitle": "Der Schinderhannes",
+      "episodeUrl": "https://gadg.fm/433",
       "songId": "spessartraeuber-schinderhannes",
       "band": "Spessarträuber",
       "songTitle": "Schinderhannes",
@@ -1267,25 +1361,6 @@
       "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
       "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
       "matchedAt": "2026-10-09",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 433,
-      "episodeTitle": "Der Schinderhannes",
-      "episodeUrl": "https://gadg.fm/433",
-      "songId": "dartagnan-schinderhannes",
-      "band": "dArtagnan",
-      "songTitle": "Schinderhannes",
-      "matchTier": "A",
-      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Schinderhannes",
-        "Johannes Bückler",
-        "Hunsrück"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
-      "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
     {
@@ -1345,6 +1420,46 @@
       "spotifyUrl": "https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt",
       "youtubeUrl": "https://www.youtube.com/watch?v=au4lTYwErDc",
       "matchedAt": "2026-10-07",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 452,
+      "episodeTitle": "Der erste Mensch im All",
+      "episodeUrl": "https://gadg.fm/452",
+      "songId": "lorimer-burst-the-flight-of-ham-part-i-hero",
+      "band": "Lorimer Burst",
+      "songTitle": "The Flight of Ham (Part I - Hero)",
+      "matchTier": "B",
+      "justification": "Folge = erster Mensch im All (Gagarin) inkl. Ham als Shepard-Verzögerung; Song = Flug des Schimpansen Ham — gemeinsamer Space-Race-/Ham-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Ham",
+        "Weltraum",
+        "Space Race",
+        "1961"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cw0fl3AFsLU",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 452,
+      "episodeTitle": "Der erste Mensch im All",
+      "episodeUrl": "https://gadg.fm/452",
+      "songId": "lorimer-burst-the-flight-of-ham-part-ii-victim",
+      "band": "Lorimer Burst",
+      "songTitle": "The Flight of Ham (Part II - Victim)",
+      "matchTier": "B",
+      "justification": "Folge = erster Mensch im All (Gagarin) inkl. Ham als Shepard-Verzögerung; Song = Flug des Schimpansen Ham — gemeinsamer Space-Race-/Ham-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Ham",
+        "Weltraum",
+        "Space Race",
+        "1961"
+      ],
+      "spotifyUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
     {
@@ -1611,6 +1726,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 503,
+      "episodeTitle": "Die Schlacht bei Kadesch",
+      "episodeUrl": "https://gadg.fm/503",
+      "songId": "witchbound-battle-of-kadesh",
+      "band": "Witchbound",
+      "songTitle": "Battle of Kadesh",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht bei Kadesch 1274 v. Chr. (Ramses II. / Hethiter); Song = dieselbe Schlacht (Band: Ägypter vs. Hethiter, 5. Regierungsjahr Ramses II., Amun-Legende) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schlacht bei Kadesch",
+        "Ramses II.",
+        "Hethiter",
+        "1274 v. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5FKciHZdlN8",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 504,
       "episodeTitle": "Ein Nashorn auf großer Tour",
       "episodeUrl": "https://gadg.fm/504",
@@ -1720,6 +1855,25 @@
       "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
       "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
+      "songId": "warkings-varangoi",
+      "band": "Warkings",
+      "songTitle": "Varangoi",
+      "matchTier": "A",
+      "justification": "Folge = Warägergarde am byzantinischen Hof; Song = Warägergarde / Tágma tōn Varángōn in Konstantinopel — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Byzanz",
+        "Konstantinopel"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
+      "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
     {
