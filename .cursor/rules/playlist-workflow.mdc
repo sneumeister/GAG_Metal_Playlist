@@ -25,10 +25,12 @@ Gilt für PRs mit Song- oder Playlist-Vorschlägen. Der PR ist die Datenquelle. 
 
 Commit und Push nur auf Zuruf (siehe Git).
 
-## Wegwerfskripte
+## Wegwerfskripte und Queue
 
 - Einmal-Skripte nur unter `scripts/_tmp_*` (z. B. `scripts/_tmp_round11_scan.py`).
-- Nach Gebrauch **löschen**; dauerhafte Hilfen ohne `_tmp_`-Präfix (z. B. `expand_catalog.py`).
+- Kandidaten-Warteschlange: `scripts/_tmp_round.json` (offen bis Freigabe; siehe Rule `suchrunde`).
+- Nach Gebrauch **löschen**; dauerhafte Hilfen ohne `_tmp_`-Präfix (z. B. `sync_episodes.py`, `collect_candidates.py`).
+- `expand_catalog.py` ist ein alter Saat-Importer (nur mit `--apply-seed`), nicht der Suchweg.
 - Vor Commit prüfen: keine `_tmp_*` committen.
 
 ## Welche Datei wofür
@@ -38,7 +40,7 @@ Commit und Push nur auf Zuruf (siehe Git).
 | `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) | Neuer Song oder Link-/Quellen-Update |
 | `data/GAG_Metal_Playlist.json` | Objekt: `updatedAt` + `entries` (kanonische **A/B/C-Treffer**) | Neuer/geänderter Match; Begründung schärfen |
 | `data/rejected.json` | Objekt: `updatedAt` + `entries` (geprüfte **X-/Absagen**: `episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
-| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | Bewusstes Snapshot-Update; bei Issue-Abarbeitung zuerst prüfen/aktualisieren (siehe `issue-abarbeitung`) |
+| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | über `scripts/sync_episodes.py` (siehe `suchrunde` / `issue-abarbeitung`) |
 | `GAG_Metal_playlist.md` / `.html` | Lesbare Playlist-Exporte (A/B/C) | **Nie handeditieren** – nur via Export |
 | `GAG_Metal_rejected.md` / `.html` | Lesbare Reject-Exporte (X) | **Nie handeditieren** – nur via Export |
 
