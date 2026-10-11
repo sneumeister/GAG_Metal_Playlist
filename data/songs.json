@@ -1965,6 +1965,33 @@
     ]
   },
   {
+    "id": "miracle-of-sound-grainne-mhaol-queen-of-pirates",
+    "band": "Miracle of Sound",
+    "title": "Gráinne Mhaol, Queen of Pirates",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Gráinne Mhaol",
+      "Piratenkönigin",
+      "Irland"
+    ],
+    "era": "16. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://miracleofsound.bandcamp.com/track/gr-inne-mhaol-queen-of-pirates",
+        "note": "Metal Up (2015); Pirate Metal tribute to Grace O'Malley"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=iOafalF22kI",
+        "note": "Official upload; Irish Pirate Metal"
+      }
+    ]
+  },
+  {
     "id": "moonspell-1-de-novembro",
     "band": "Moonspell",
     "title": "1 de Novembro",
@@ -2328,6 +2355,36 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Die Metal-Jazz-Bearbeitung führt Saxophon in der offiziellen Besetzung; die Folge behandelt das Instrument und seinen Erfinder."
+      }
+    ]
+  },
+  {
+    "id": "pogues-the-wake-of-the-medusa",
+    "band": "The Pogues",
+    "title": "The Wake of the Medusa",
+    "entities": [
+      "Floß der Medusa",
+      "Méduse",
+      "Géricault"
+    ],
+    "era": "1816 / Gemälde 1818–19",
+    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
+        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
+        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
+        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -5393,36 +5450,6 @@
         "type": "bandcamp",
         "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
         "note": "Album The Last Great Awakening (2025), Title Track"
-      }
-    ]
-  },
-  {
-    "id": "pogues-the-wake-of-the-medusa",
-    "band": "The Pogues",
-    "title": "The Wake of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault"
-    ],
-    "era": "1816 / Gemälde 1818–19",
-    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
-        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
-        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
-        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },

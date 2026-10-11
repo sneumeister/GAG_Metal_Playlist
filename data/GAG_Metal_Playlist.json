@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09 22:24:22 +0200",
+  "updatedAt": "2026-10-11 19:17:24 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1253,25 +1253,6 @@
       "episodeId": 433,
       "episodeTitle": "Der Schinderhannes",
       "episodeUrl": "https://gadg.fm/433",
-      "songId": "dartagnan-schinderhannes",
-      "band": "dArtagnan",
-      "songTitle": "Schinderhannes",
-      "matchTier": "A",
-      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Schinderhannes",
-        "Johannes Bückler",
-        "Hunsrück"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
-      "matchedAt": "2026-10-08",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 433,
-      "episodeTitle": "Der Schinderhannes",
-      "episodeUrl": "https://gadg.fm/433",
       "songId": "spessartraeuber-schinderhannes",
       "band": "Spessarträuber",
       "songTitle": "Schinderhannes",
@@ -1286,6 +1267,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
       "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 433,
+      "episodeTitle": "Der Schinderhannes",
+      "episodeUrl": "https://gadg.fm/433",
+      "songId": "dartagnan-schinderhannes",
+      "band": "dArtagnan",
+      "songTitle": "Schinderhannes",
+      "matchTier": "A",
+      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schinderhannes",
+        "Johannes Bückler",
+        "Hunsrück"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
+      "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
     {
@@ -1799,6 +1799,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 552,
+      "episodeTitle": "Gráinne Ní Mháill und die Geburt eines Mythos",
+      "episodeUrl": "https://gadg.fm/552",
+      "songId": "miracle-of-sound-grainne-mhaol-queen-of-pirates",
+      "band": "Miracle of Sound",
+      "songTitle": "Gráinne Mhaol, Queen of Pirates",
+      "matchTier": "A",
+      "justification": "Folge = Gráinne Ní Mháill / Grace O'Malley, Leben und Mythos als Piratenkönigin; Song = explizites Porträt derselben Figur (O'Malley, Seefahrt, Haarabschneiden, Kampf gegen die Briten) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Gráinne Ní Mháill",
+        "Grace O'Malley",
+        "Gráinne Mhaol",
+        "Piratenkönigin"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 554,
       "episodeTitle": "Attila, Honoria und zwei römische Gesandtschaften",
       "episodeUrl": "https://gadg.fm/554",
@@ -1838,26 +1858,6 @@
       "episodeId": 559,
       "episodeTitle": "Vergil oder Wie ein Epos entsteht",
       "episodeUrl": "https://gadg.fm/559",
-      "songId": "stormlord-aeneas",
-      "band": "Stormlord",
-      "songTitle": "Aeneas",
-      "matchTier": "A",
-      "justification": "Folge = Vergil und Entstehung/Rettung der Aeneis (inkl. Aeneas-Handlung, Augustus); Song = wörtliches Aeneis-Proömium („Arma virumque cano…“) — gemeinsamer Kern Aeneis (Tier A).",
-      "sharedEntities": [
-        "Vergil",
-        "Aeneis",
-        "Aeneas",
-        "Augustus"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Ym_Hjte7W7Q",
-      "matchedAt": "2026-10-08",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 559,
-      "episodeTitle": "Vergil oder Wie ein Epos entsteht",
-      "episodeUrl": "https://gadg.fm/559",
       "songId": "heimdall-ballad-of-the-queen",
       "band": "Heimdall",
       "songTitle": "Ballad of the Queen",
@@ -1872,6 +1872,26 @@
       "spotifyUrl": "https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0",
       "youtubeUrl": "https://www.youtube.com/watch?v=-ze1LkruSec",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 559,
+      "episodeTitle": "Vergil oder Wie ein Epos entsteht",
+      "episodeUrl": "https://gadg.fm/559",
+      "songId": "stormlord-aeneas",
+      "band": "Stormlord",
+      "songTitle": "Aeneas",
+      "matchTier": "A",
+      "justification": "Folge = Vergil und Entstehung/Rettung der Aeneis (inkl. Aeneas-Handlung, Augustus); Song = wörtliches Aeneis-Proömium („Arma virumque cano…“) — gemeinsamer Kern Aeneis (Tier A).",
+      "sharedEntities": [
+        "Vergil",
+        "Aeneis",
+        "Aeneas",
+        "Augustus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ym_Hjte7W7Q",
+      "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
     {
@@ -1954,6 +1974,23 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 564,
+      "episodeTitle": "Sarah Winchester und ihr Mystery House",
+      "episodeUrl": "https://gadg.fm/564",
+      "songId": "the-burned-over-the-last-great-awakening",
+      "band": "The Burned Over",
+      "songTitle": "The Last Great Awakening",
+      "matchTier": "C",
+      "justification": "Folge = Sarah Winchester und Mystery House sowie Geistergeschichten-Milieu USA Ende 19. Jh.; Song = Séance, Totenstimmen und Erweckung im Spiritualismus — thematische Nähe Geister/Jenseitskontakt, anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "USA"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 565,
       "episodeTitle": "Nofretete und Echnaton",
       "episodeUrl": "https://gadg.fm/565",
@@ -2010,6 +2047,23 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 568,
+      "episodeTitle": "Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs",
+      "episodeUrl": "https://gadg.fm/568",
+      "songId": "chumbawamba-ah-men",
+      "band": "Chumbawamba",
+      "songTitle": "Ah-Men",
+      "matchTier": "C",
+      "justification": "Folge = Sophia Duleep Singh und Suffragetten vor 1914; Song = Black Friday und Pankhurst als Absage an die Wahl — gleicher militanter Rahmen, andere Person (Tier C).",
+      "sharedEntities": [
+        "Frauenwahlrecht"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
+      "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 569,
       "episodeTitle": "HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru",
       "episodeUrl": "https://gadg.fm/569",
@@ -2045,6 +2099,24 @@
       "spotifyUrl": "https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK",
       "youtubeUrl": "https://www.youtube.com/watch?v=OYfdXL7sKVI",
       "matchedAt": "2026-10-01",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 572,
+      "episodeTitle": "Houdini und der Spiritismus",
+      "episodeUrl": "https://gadg.fm/572",
+      "songId": "the-burned-over-the-last-great-awakening",
+      "band": "The Burned Over",
+      "songTitle": "The Last Great Awakening",
+      "matchTier": "C",
+      "justification": "Folge = Houdini, Doyle und die Séance 1922 in Atlantic City; Song = Spiritualismus, Séance und Stimmen der Toten — gleicher Themenrahmen Spiritismus, andere Personen und Phase (Tier C).",
+      "sharedEntities": [
+        "Spiritismus",
+        "Séance"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+      "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09 18:59:32 +0200",
+  "updatedAt": "2026-10-11 19:17:24 +0200",
   "entries": [
     {
       "episodeId": 31,
@@ -387,10 +387,45 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 552,
+      "songId": "savatage-complaint-in-the-system-veronica-guerin",
+      "reason": "Folge = Gráinne Ní Mháill / Grace O'Malley im 16. Jh.; Song = Veronica Guerin, Journalistenmord 1996 — nur gemeinsames Irland, andere Person und Epoche (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 556,
       "songId": "calicanto-galeas-par-montes",
       "reason": "Song = Galeas per Montes (Venedig zieht Schiffe über die Berge zum Gardasee). Folge = dieselbe venezianische Unternehmung 1438/39 — inhaltlich eng (bei Metal wäre Tier A). Genre = Folk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 556,
+      "songId": "saxon-kubla-khan-and-the-merchant-of-venice",
+      "reason": "Folge = Galeas per Montes, Entsatz Brescias durch Venedig 1438; Song = Kubla Khan und Kaufmann von Venedig — nur Ortsanklang Venedig, anderer Stoff (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 557,
+      "songId": "iron-maiden-stranger-in-a-strange-land",
+      "reason": "Folge = Ada Blackjack auf Wrangel Island; Song = erfrorener Arktis-Forscher (Franklin/Torrington-Motiv) — nur Arktis, andere Person und Situation (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 559,
+      "songId": "stormlord-mare-nostrum",
+      "reason": "Folge = Vergil und die Aeneis unter Augustus; Song = römisches Mare-Nostrum-Motiv — nur Rom, anderer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 559,
+      "songId": "warkings-spartacus",
+      "reason": "Folge = Vergil und die Aeneis; Song = Spartacus — nur Rom, andere Person (Tier X).",
+      "rejectedAt": "2026-10-11",
       "rejectedBy": "manual"
     },
     {
@@ -408,10 +443,38 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 569,
+      "songId": "sabaton-the-last-battle",
+      "reason": "Folge = Zheng Yisao und Perusiedlung (Hörbuch); Song = Schloss Itter 1945 — nur Wort Tirol im Folgentitel-Nebenstrang, kein gemeinsamer Kern (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 571,
+      "songId": "stormlord-aeneas",
+      "reason": "Folge = Flottenkatastrophe von Kamarina 255 v. Chr.; Song = Aeneas-Mythos — nur Rom, anderes Ereignis (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 571,
       "songId": "stormlord-mare-nostrum",
       "reason": "Folge = Flottenkatastrophe vor Kamarina 255 v. Chr. (1. Punischer Krieg); Song = Ausfahrt gegen Karthago im 3. Punischen Krieg („Carthago delenda“) — gleiche Großkonflikt-Welt Rom/Karthago, anderes Ereignis und Jahrhundert (Tier X).",
       "rejectedAt": "2026-10-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 571,
+      "songId": "warkings-spartacus",
+      "reason": "Folge = Flottenkatastrophe von Kamarina; Song = Spartacus — nur Rom, andere Person (Tier X).",
+      "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "songId": "the-burned-over-the-last-great-awakening",
+      "reason": "Folge = Scrip, Truck und Company Store in den Appalachen; Song = Spiritualismus / Séance — nur USA-Anklang, kein gemeinsamer Stoff (Tier X).",
+      "rejectedAt": "2026-10-11",
       "rejectedBy": "manual"
     },
     {
