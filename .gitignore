@@ -2,6 +2,7 @@
 plans/
 __pycache__/
 *.py[cod]
+scripts/_tmp_*
 
 # Cursor: lokal lassen, aber Projekt-Rules versionieren
 .cursor/*

@@ -1,7 +1,14 @@
 # -*- coding: utf-8 -*-
-"""Expand song catalog and find new GAG matches."""
+"""
+Einmaliger Saat-Importer für fest eingetragene Seed-Songs und Regex-Matches.
+
+Kein Suchlauf. Für neue Suchrunden: sync_episodes.py, collect_candidates.py
+und Deep-Analysis laut Rule `suchrunde`. Ohne --apply-seed schreibt dieses
+Skript weder songs.json noch Playlist/Rejects.
+"""
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
@@ -475,6 +482,26 @@ def find_eps(eps: list[dict], pattern: str) -> list[dict]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Saat-Importer (kein Suchlauf). Schreibt nur mit --apply-seed."
+        )
+    )
+    parser.add_argument(
+        "--apply-seed",
+        action="store_true",
+        help="Seed-Listen mergen und Playlist/Rejects schreiben (gefährlich)",
+    )
+    args = parser.parse_args()
+    if not args.apply_seed:
+        print(
+            "expand_catalog.py ist ein Saat-Importer, kein Suchlauf.\n"
+            "Ohne --apply-seed werden keine Dateien geschrieben.\n"
+            "Suchrunde: python scripts/sync_episodes.py "
+            "danach python scripts/collect_candidates.py ..."
+        )
+        return
+
     songs_path = ROOT / "data" / "songs.json"
     matches_path = ROOT / "data" / "GAG_Metal_Playlist.json"
     rejected_path = ROOT / "data" / "rejected.json"
@@ -648,24 +675,6 @@ def main() -> None:
             ["Waräger", "Rus", "Wolga-Route"],
         ):
             new_m += 1
-
-    # Sabaton: Long Live the King / Ruina Imperii for Karl XII episode
-    if add_match(
-        471,
-        "sabaton-long-live-the-king",
-        "A",
-        "Die Folge behandelt u. a. Tod und Rätsel um Karl XII.; der Song gilt dem Tod des Königs.",
-        ["Karl XII."],
-    ):
-        new_m += 1
-    if add_match(
-        471,
-        "sabaton-ruina-imperii",
-        "B",
-        "Die Folge thematisiert das Ende des schwedischen Großreichs nach Karl XII.; „Ruina Imperii“ ebenso.",
-        ["Ende des Schwedischen Reichs", "Karl XII."],
-    ):
-        new_m += 1
 
     # Lion from the North / Gott mit uns — only if 30YW episode exists
     for e in find_eps(eps, r"Gustav II\.? Adolf|Gustav Adolf|Breitenfeld"):

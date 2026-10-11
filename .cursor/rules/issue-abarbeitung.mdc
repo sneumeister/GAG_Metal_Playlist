@@ -10,7 +10,7 @@ Gilt, wenn ein GitHub-Issue bearbeitet oder bewertet wird. Dateien/Stufen: `play
 ## Einstieg (immer zuerst)
 
 1. Typ am Label/Titel: `vorschlag` / `korrektur` / `sonstiges`.
-2. **Episoden-Snapshot:** Upstream `episodes.jsonl` (ideadapt) vs. lokal (`episodes.meta.json` / letzte ID); bei neueren Folgen lokal aktualisieren.
+2. **Episoden-Snapshot** über `python scripts/sync_episodes.py` (Datums-Gate, ID-Mengen-Diff; siehe Rule `suchrunde`).
 3. Auto-Triage (`triage-*`) nur als Hinweis – keine redaktionelle Entscheidung.
 
 ## Playlist: Vorschlag
@@ -21,7 +21,7 @@ Gilt, wenn ein GitHub-Issue bearbeitet oder bewertet wird. Dateien/Stufen: `play
 4. Genre nein → `rejected.json` (Tier X); in `reason` vermerken, welche Stufe bei passendem Genre plausibel wäre (A/B/C) sowie `Genre = …, kein Rock/Metal`.
 5. Issue-Begründung vs. Folge prüfen; **Web-Recherche** (Lyrics, Bandtexte, Interviews) gegen Folgeninhalt; Tier A/B/C/X festlegen.
 6. A/B/C → Playlist + Export. X / Genre-Fail → `rejected.json`.
-7. Zwischenergebnis **nur im Chat** mit dem User – **kein** vorzeitiger Issue-Kommentar.
+7. Zwischenergebnis **nur im Chat** mit dem User (Queue-Eintrag in `scripts/_tmp_round.json` erlaubt) – **kein** vorzeitiger Issue-Kommentar.
 
 ## Playlist: Korrektur
 

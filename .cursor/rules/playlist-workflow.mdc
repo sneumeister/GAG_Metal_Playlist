@@ -1,5 +1,5 @@
 ---
-description: Workflow für Playlist-Matching, Daten-JSONs, Export und Wegwerfskripte
+description: Workflow für Playlist-Matching, Daten-JSONs, Export, Pull Requests und Wegwerfskripte
 alwaysApply: true
 ---
 
@@ -12,12 +12,25 @@ alwaysApply: true
 
 ## Pull Requests
 
-Bei PRs mit Song-/Playlist-Vorschlägen: Ablauf laut lokalem Plan `plans/pr-abarbeitung.md` (Branch von aktuellem `main`, Diff zuerst, Roh-PR nicht blind mergen).
+Gilt für PRs mit Song- oder Playlist-Vorschlägen. Der PR ist die Datenquelle. Inhalt auf einem frischen Branch einpflegen. Roh-PR nicht mergen.
 
-## Wegwerfskripte
+1. **Diff zuerst**, vor dem Branch. PR-Head gegen aktuelles `origin/main` (auch wenn die PR-Base älter ist): geänderte Dateien, Paare nur im PR, nur lokal, schon in der Playlist oder schon in `rejected.json`, fehlende Einträge in `songs.json`. Kurzbefund im Chat.
+2. **Branch** `pr-<nummer>-<einreicher>` von aktuellem `origin/main`. Zieht `main` während der Arbeit weiter, vor dem Abschluss in den Arbeitsbranch holen.
+3. **Episoden-Snapshot** bei Bedarf prüfen (wie Issue-Einstieg in `issue-abarbeitung`).
+4. **Alle neuen Songs** nach `data/songs.json`, auch spätere Absagen. UTF-8.
+5. **Triage je Paar** nach den Stufen dieser Rule: Playlist (A/B/C) oder `rejected.json` (X).
+6. **Entscheidungen** in `plans/pr-<nummer>-<einreicher>_respond_temp.md` (Gegenüberstellung, Begründungen, Notizen für den PR-Kommentar). Nach Abschluss löschen. Liegt unter `plans/` und wird nicht versioniert.
+7. **PR-Kommentar** nur nach ausdrücklichem Go, als Frage an den Einreicher. Weitere Recherche nur auf Zuruf.
+8. Nach der Antwort: Feintuning, Export, kuratierter Stand auf `main`, PR mit Kurzabschluss schließen.
+
+Commit und Push nur auf Zuruf (siehe Git).
+
+## Wegwerfskripte und Queue
 
 - Einmal-Skripte nur unter `scripts/_tmp_*` (z. B. `scripts/_tmp_round11_scan.py`).
-- Nach Gebrauch **löschen**; dauerhafte Hilfen ohne `_tmp_`-Präfix (z. B. `expand_catalog.py`).
+- Kandidaten-Warteschlange: `scripts/_tmp_round.json` (offen bis Freigabe; siehe Rule `suchrunde`).
+- Nach Gebrauch **löschen**; dauerhafte Hilfen ohne `_tmp_`-Präfix (z. B. `sync_episodes.py`, `collect_candidates.py`).
+- `expand_catalog.py` ist ein alter Saat-Importer (nur mit `--apply-seed`), nicht der Suchweg.
 - Vor Commit prüfen: keine `_tmp_*` committen.
 
 ## Welche Datei wofür
@@ -27,7 +40,7 @@ Bei PRs mit Song-/Playlist-Vorschlägen: Ablauf laut lokalem Plan `plans/pr-abar
 | `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) | Neuer Song oder Link-/Quellen-Update |
 | `data/GAG_Metal_Playlist.json` | Objekt: `updatedAt` + `entries` (kanonische **A/B/C-Treffer**) | Neuer/geänderter Match; Begründung schärfen |
 | `data/rejected.json` | Objekt: `updatedAt` + `entries` (geprüfte **X-/Absagen**: `episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
-| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | Bewusstes Snapshot-Update; bei Issue-Abarbeitung zuerst prüfen/aktualisieren (siehe `issue-abarbeitung`) |
+| `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | über `scripts/sync_episodes.py` (siehe `suchrunde` / `issue-abarbeitung`) |
 | `GAG_Metal_playlist.md` / `.html` | Lesbare Playlist-Exporte (A/B/C) | **Nie handeditieren** – nur via Export |
 | `GAG_Metal_rejected.md` / `.html` | Lesbare Reject-Exporte (X) | **Nie handeditieren** – nur via Export |
 

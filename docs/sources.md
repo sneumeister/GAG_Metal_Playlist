@@ -35,5 +35,3 @@ Stufen: **primär** (Song ↔ Thema belegbar), **sekundär** (Hilfreich, nicht a
 2. **Iron Maiden**, **Powerwolf** (Historien-Subset)
 3. **Turisas**, **Running Wild**, **Grave Digger**, **Venom**, **Ex Deo**, **Serenity**
 4. Weitere: Civil War, Crystallion, Judicator, Warkings, Iced Earth, Rebellion, …
-
-Siehe Plan: `plans/gag_song_matching.md`.

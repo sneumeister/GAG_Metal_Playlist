@@ -1,0 +1,30 @@
+---
+description: Ablauf für Suchrunde und gemeinsamen Folgen-Sync mit Issue-Eingang
+alwaysApply: true
+---
+
+# Suchrunde
+
+Gilt bei einer manuell gestarteten Suchrunde und beim gemeinsamen Folgen-Sync mit der Issue-Abarbeitung. Stufen und Begründungen: `match-begruendungen`, Daten schreiben: `playlist-workflow`.
+
+## Vor dem Start
+
+1. `scripts/_tmp_round.json` prüfen. Offene Einträge (`status: open`): zuerst fragen, ob die Queue dran ist, bevor eine neue Runde startet.
+2. `scripts/_tmp_round.json` und andere `scripts/_tmp_*` **nicht committen**.
+
+## Suchrunde
+
+1. Immer zuerst `python scripts/sync_episodes.py` (Datums-Gate, ID-Mengen-Diff, lokale Extra-Folgen behalten).
+2. **Collect nur mit neuen IDs:** `collect_candidates.py --episodes …` ausschließlich mit den `newEpisodeIds` aus diesem Sync. Keine neuen IDs → diesen Schritt **überspringen**. Nicht die letzten N Folgen, nicht den Altbestand, nicht „zur Sicherheit“ erneut scannen.
+3. Checksum-Korrekturen und reine Meta-Updates sind **keine** neuen IDs und lösen keinen Collect aus.
+4. Danach Seeds aus `docs/sources.md` und Web-Recherche; Treffer einzeln in dieselbe Queue (`--source search` / `web` / `manual` bzw. Paar-Modus). Seeds/Web ersetzen keinen Massen-Collect über alte Folgen.
+5. Deep-Analysis redaktionell (Lyrics, Bandtexte, Interviews, Folgentext). Ergebnis im Chat und im Queue-Eintrag (`proposedTier`, `justification`); `status` bleibt `open`.
+6. Kanonische JSONs und Export **erst nach Freigabe**. Dann Queue-Eintrag `accepted` / `rejected`; leere Queue-Datei löschen.
+
+## Issue
+
+Derselbe Sync wie oben. Zusätzlich nur das gemeldete Paar in die Queue (`source: issue`, optional `issueUrl`, `submitterNote`). `issue_triage.py` ist Formular-Parser und Duplikat-Hinweis, keine Stufenentscheidung. Einreichertext und `triage-*` sind Hinweise für dieselbe Deep-Analysis.
+
+## Nicht der Suchweg
+
+`scripts/expand_catalog.py` ist ein alter Saat-Importer. Schreibt nur mit `--apply-seed`. Für Suchrunden nicht verwenden.

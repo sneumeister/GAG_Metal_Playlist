@@ -1,6 +1,6 @@
 # data/
 
-Arbeitsdaten und Export für die GAG-Metal-Playlist. Matching-Regeln und Quellenkatalog liegen unter `plans/` bzw. `docs/sources.md`.
+Arbeitsdaten und Export für die GAG-Metal-Playlist. Matching-Regeln liegen unter `.cursor/rules/`, der Quellenkatalog unter `docs/sources.md`.
 
 | Datei / Ordner | Rolle |
 | --- | --- |
