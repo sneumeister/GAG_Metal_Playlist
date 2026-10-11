@@ -649,24 +649,6 @@ def main() -> None:
         ):
             new_m += 1
 
-    # Sabaton: Long Live the King / Ruina Imperii for Karl XII episode
-    if add_match(
-        471,
-        "sabaton-long-live-the-king",
-        "A",
-        "Die Folge behandelt u. a. Tod und Rätsel um Karl XII.; der Song gilt dem Tod des Königs.",
-        ["Karl XII."],
-    ):
-        new_m += 1
-    if add_match(
-        471,
-        "sabaton-ruina-imperii",
-        "B",
-        "Die Folge thematisiert das Ende des schwedischen Großreichs nach Karl XII.; „Ruina Imperii“ ebenso.",
-        ["Ende des Schwedischen Reichs", "Karl XII."],
-    ):
-        new_m += 1
-
     # Lion from the North / Gott mit uns — only if 30YW episode exists
     for e in find_eps(eps, r"Gustav II\.? Adolf|Gustav Adolf|Breitenfeld"):
         if add_match(
