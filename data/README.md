@@ -1,13 +1,13 @@
 # data/
 
-Arbeitsdaten und Export für die GAG-Metal-Playlist. Matching-Regeln liegen unter `.cursor/rules/`, der Quellenkatalog unter `docs/sources.md`.
+Arbeitsdaten und Export für die GAG-Metal-Playlist. Matching-Regeln liegen unter [`.cursor/rules/`](../.cursor/rules), der Quellenkatalog unter [`docs/sources.md`](../docs/sources.md)
 
 | Datei / Ordner | Rolle |
 | --- | --- |
 | `GAG_Metal_Playlist.json` | **Kanonische Trefferliste** – Objekt mit `updatedAt` und `entries` (Folge ↔ Song ↔ Begründung ↔ Links ↔ Tier A/B/C) |
 | `songs.json` | Song-Katalog: Band, Titel, Entities, Era, Spotify/YouTube, Quellen |
 | `rejected.json` | Geprüfte Absagen – Objekt mit `updatedAt` und `entries` (`episodeId` + `songId` + `reason` + …), damit Kandidaten nicht erneut vorgeschlagen werden |
-| `episodes.jsonl` | Snapshot der GAG-Folgen (Titel, Beschreibung, Orte, Zeit) |
+| `episodes.jsonl` | Snapshot der GAG-Folgen (Titel, Beschreibung, Orte, Zeit) aus repo [`ideadapt/geschichten-aus-der-geschichte-data`](https://github.com/ideadapt/geschichten-aus-der-geschichte-data) |
 | `episodes.meta.json` | Meta zum Snapshot (`sourceUrl`, `fetchedAt`) |
 | `export_playlist.py` | Einstieg: Playlist- + Reject-JSON → Markdown/HTML im Repo-Root |
 | `gag_export/` | Export-Module (`common`, `markdown`, `html`) |
