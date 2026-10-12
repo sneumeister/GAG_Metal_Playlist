@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11 22:31:07 +0200",
+  "updatedAt": "2026-10-12 21:17:12 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -38,6 +38,44 @@
       "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
       "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 22,
+      "episodeTitle": "Vom Goldjungen zum Staatsgefangenen",
+      "episodeUrl": "https://gadg.fm/22",
+      "songId": "stern-combo-meissen-die-erkenntnis",
+      "band": "Stern-Combo Meißen",
+      "songTitle": "Die Erkenntnis",
+      "matchTier": "A",
+      "justification": "Folge = Böttger, Goldversprechen und Porzellanfindung; Song = Wendung von Gold zu Porzellan auf dem Konzeptalbum Weißes Gold — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Johann Friedrich Böttger",
+        "Porzellan",
+        "weißes Gold"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dpTogEzcbvo",
+      "matchedAt": "2026-10-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 22,
+      "episodeTitle": "Vom Goldjungen zum Staatsgefangenen",
+      "episodeUrl": "https://gadg.fm/22",
+      "songId": "stern-combo-meissen-weisses-gold",
+      "band": "Stern-Combo Meißen",
+      "songTitle": "Weißes Gold",
+      "matchTier": "A",
+      "justification": "Folge = Böttger, Goldversprechen und Porzellanfindung; Song = Porzellanfindung als „weißes Gold“ auf dem Konzeptalbum Weißes Gold — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Johann Friedrich Böttger",
+        "Porzellan",
+        "weißes Gold"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke",
+      "youtubeUrl": "https://www.youtube.com/watch?v=plMh2A33ino",
+      "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
     {
@@ -210,6 +248,25 @@
       "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
       "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
       "matchedAt": "2026-09-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 132,
+      "episodeTitle": "Gesche Gottfried, der Engel von Bremen",
+      "episodeUrl": "https://gadg.fm/132",
+      "songId": "team-scheisse-spuckstein",
+      "band": "Team Scheisse",
+      "songTitle": "Spuckstein",
+      "matchTier": "C",
+      "justification": "Folge = Gesche Gottfried und ihr Nachleben in Bremen; Song = Spuckstein als Date-Idee und Protest gegen fragwürdige Tradition — gemeinsames Motiv Spuckstein, anderer Fokus (Tier C).",
+      "sharedEntities": [
+        "Spuckstein",
+        "Gesche Gottfried",
+        "Bremen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2JnmtQVgcL0",
+      "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
     {
@@ -958,6 +1015,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 318,
+      "episodeTitle": "Der Nuklearunfall von Goiânia",
+      "episodeUrl": "https://gadg.fm/318",
+      "songId": "tom-morello-the-bloody-beetroots-radium-girls",
+      "band": "Tom Morello & The Bloody Beetroots",
+      "songTitle": "Radium Girls",
+      "matchTier": "C",
+      "justification": "Folge = Nuklearunfall Goiânia (kurz Radium Girls); Song = Radium Girls / Dial Painter — gemeinsames Motiv Strahlenopfer, anderer historischer Kern (Tier C).",
+      "sharedEntities": [
+        "Radium Girls",
+        "Strahlung"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yD0P0bwZKk8",
+      "matchedAt": "2026-10-12",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 333,
       "episodeTitle": "Alexandria",
       "episodeUrl": "https://gadg.fm/333",
@@ -993,6 +1068,24 @@
       "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
       "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 350,
+      "episodeTitle": "Der Bauernkrieg und die Revolution von 1525",
+      "episodeUrl": "https://gadg.fm/350",
+      "songId": "die-schmetterlinge-kampflied-der-bauern",
+      "band": "Die Schmetterlinge",
+      "songTitle": "Kampflied der Bauern",
+      "matchTier": "A",
+      "justification": "Folge = Deutscher Bauernkrieg 1524–26; Song = Kampflied der aufständischen Bauern auf dem Konzeptalbum Proletenpassion — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Bauernkrieg",
+        "Bauernaufstand 1525"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EQHL0ZL8peM",
+      "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
     {
@@ -1656,6 +1749,23 @@
       "episodeId": 498,
       "episodeTitle": "Eine kleine Geschichte des Grimoires",
       "episodeUrl": "https://gadg.fm/498",
+      "songId": "elvenking-3-ways-to-magick",
+      "band": "Elvenking",
+      "songTitle": "3 Ways to Magick",
+      "matchTier": "C",
+      "justification": "Folge = Geschichte der Grimoires als magische Praxisbücher; Song = drei Wege der Magie und Grimoire als Manual/Sourcebook — gemeinsames Motiv Zauberbuch, kein historisches Werk (Tier C).",
+      "sharedEntities": [
+        "Grimoire"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+      "matchedAt": "2026-10-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 498,
+      "episodeTitle": "Eine kleine Geschichte des Grimoires",
+      "episodeUrl": "https://gadg.fm/498",
       "songId": "in-extremo-merseburger-zauberspruche-1",
       "band": "In Extremo",
       "songTitle": "Merseburger Zaubersprüche 1",
@@ -2106,6 +2216,26 @@
       "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
       "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
       "matchedAt": "2026-10-08",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 563,
+      "episodeTitle": "Driftende Kontinente und Expeditionen ins Eis",
+      "episodeUrl": "https://gadg.fm/563",
+      "songId": "the-amoeba-people-continental-drift-alfred-wegener",
+      "band": "The Amoeba People",
+      "songTitle": "Continental Drift: Alfred Wegener's Brilliant Theory (Tectonic Chronicles Pt. 1)",
+      "matchTier": "A",
+      "justification": "Folge = Wegener, Kontinentaldrift und Tod in Grönland; Song = dieselbe Biografie/Theorie-Arc (Ablehnung, Grönlandtod, Plattentektonik) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Alfred Wegener",
+        "Kontinentaldrift",
+        "Grönland",
+        "Plattentektonik"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir",
+      "youtubeUrl": "https://www.youtube.com/watch?v=T1-cES1Ekto",
+      "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
     {

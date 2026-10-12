@@ -372,6 +372,29 @@
     ]
   },
   {
+    "id": "bangkok-impact-junge-dame-mit-freundlicher-tellephonstimme",
+    "band": "Bangkok Impact",
+    "title": "Junge Dame Mit Freundlicher Tellephonstimme",
+    "entities": [
+      "Telefonstimme"
+    ],
+    "era": "2002",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ci7n4_3Gk2Q",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://cremeorganization.bandcamp.com/track/junge-dame-mit-freundliche-tel",
+        "note": "Aspirin / Junge Dame (CRO 12-03); Electro/Disco"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.discogs.com/master/15722-Bangkok-Impact-Aspirin-Junge-Dame-Mit-Freundliche-Tel",
+        "note": "Genre Electronic; Style Electro, Disco"
+      }
+    ]
+  },
+  {
     "id": "battle-symphony-the-fall-of-the-queen-of-cities",
     "band": "Battle Symphony",
     "title": "The Fall of the Queen of Cities",
@@ -867,6 +890,31 @@
         "type": "band",
         "url": "https://www.metal-archives.com/albums/Dorsal_Atl%C3%A2ntica/Dividir_%26_Conquistar/6389",
         "note": "Dividir & Conquistar (1988)"
+      }
+    ]
+  },
+  {
+    "id": "electric-light-orchestra-roll-over-beethoven",
+    "band": "Electric Light Orchestra",
+    "title": "Roll Over Beethoven",
+    "entities": [
+      "Ludwig van Beethoven",
+      "5. Sinfonie",
+      "Rock ’n’ Roll"
+    ],
+    "era": "1956 / 1973",
+    "spotifyUrl": "https://open.spotify.com/track/0UnR8nWskCt0BgfvypzaDl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=c84FY_y8PYs",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Roll_Over_Beethoven",
+        "note": "Chuck Berry cover; ELO version quotes Beethoven's Fifth"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=c84FY_y8PYs",
+        "note": "Kommentar-Link geschichte.fm (unter #511 gepostet, Bezug #510)"
       }
     ]
   },
@@ -1848,6 +1896,31 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=YHforl6vnco",
         "note": "Joan Baez in Concert, Part 2 (1963); Kommentar-Link"
+      }
+    ]
+  },
+  {
+    "id": "john-cage-4-33",
+    "band": "John Cage",
+    "title": "4′33″",
+    "entities": [
+      "Stille",
+      "Ambient",
+      "Avantgarde"
+    ],
+    "era": "1952",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=AWVUp12XPpU",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3",
+        "note": "Stilles Konzeptstück in drei Sätzen (tacet); Uraufführung 1952"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=AWVUp12XPpU",
+        "note": "Kommentar-Link geschichte.fm (Orchesterfassung)"
       }
     ]
   },
@@ -5788,6 +5861,31 @@
     ]
   },
   {
+    "id": "sufjan-stevens-my-rajneesh",
+    "band": "Sufjan Stevens",
+    "title": "My Rajneesh",
+    "entities": [
+      "Bhagwan Shree Rajneesh",
+      "Osho",
+      "Rajneeshpuram"
+    ],
+    "era": "1981–1985 / 2020",
+    "spotifyUrl": "https://open.spotify.com/track/3SpWpHiCt8tbPuZG9AX0Wi",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jn7_JpmhZP0",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=jn7_JpmhZP0",
+        "note": "Official audio; America B-side (2020); Kommentar-Link geschichte.fm"
+      },
+      {
+        "type": "secondary",
+        "url": "https://consequence.net/2020/07/sufjan-stevens-new-song-my-rajneesh-stream/",
+        "note": "Rajneesh/Osho devotion; Oregon commune context"
+      }
+    ]
+  },
+  {
     "id": "sunn-o-bathory-erzsebet",
     "band": "Sunn O)))",
     "title": "Báthory Erzsébet",
@@ -6410,6 +6508,513 @@
         "type": "wikipedia",
         "url": "https://fr.wikipedia.org/wiki/Yves_Duteil",
         "note": "Chanson française; petit-neveu du capitaine Dreyfus; Touché (1997)"
+      }
+    ]
+  },
+  {
+    "id": "elvenking-3-ways-to-magick",
+    "band": "Elvenking",
+    "title": "3 Ways to Magick",
+    "entities": [
+      "Grimoire",
+      "Magie"
+    ],
+    "era": "2017",
+    "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
+    "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.elvenking.net/album/secrets-of-the-magick-grimoire/",
+        "note": "Secrets of the Magick Grimoire (2017), Track 7"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/elvenking/secretsofthemagickgrimoire.html",
+        "note": "Grimoire als Manual/Sourcebook; drei Magie-Wege"
+      }
+    ]
+  },
+  {
+    "id": "led-zeppelin-when-the-levee-breaks",
+    "band": "Led Zeppelin",
+    "title": "When the Levee Breaks",
+    "entities": [
+      "Mississippiflut 1927",
+      "Mississippi",
+      "Levee"
+    ],
+    "era": "1927 / 1971",
+    "spotifyUrl": "https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JM3fodiK9rY",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/When_the_Levee_Breaks",
+        "note": "Cover; Kern Mississippi-Flut 1927"
+      },
+      {
+        "type": "secondary",
+        "url": "https://americansongwriter.com/when-the-levee-breaks-led-zeppelin-behind-song-lyrics/",
+        "note": "Hintergrund Flut / Memphis-Minnie-Vorlage"
+      }
+    ]
+  },
+  {
+    "id": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
+    "band": "Memphis Minnie & Kansas Joe McCoy",
+    "title": "When the Levee Breaks",
+    "entities": [
+      "Mississippiflut 1927",
+      "Mississippi",
+      "Levee"
+    ],
+    "era": "1927 / 1929",
+    "spotifyUrl": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WSlt8-fmvas",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/When_the_Levee_Breaks",
+        "note": "Original 1929; Mississippiflut 1927"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag484/",
+        "note": "Kommentar unter #484: Schellack / Flut-Kontext"
+      }
+    ]
+  },
+  {
+    "id": "kromlek-kromlek",
+    "band": "KromleK",
+    "title": "Kromlek",
+    "entities": [
+      "Bonifatius",
+      "Cromlech"
+    ],
+    "era": "2005",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://sword-chant.blogspot.com/2023/01/kromlek-lyrics-for-kveldridhur-album.html",
+        "note": "Kveldridhur EP; Bonifatius-Namensnennung"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Kromlek/Kveldridhur/104076",
+        "note": "Track 2 auf Kveldridhur (2005)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://metalmessage.bandcamp.com/track/kromlek",
+        "note": "Stream auf Metal Message Vol. III"
+      }
+    ]
+  },
+  {
+    "id": "rathergood-the-axolotl-song",
+    "band": "Rathergood",
+    "title": "The Axolotl Song",
+    "entities": [
+      "Axolotl",
+      "Neotenie",
+      "Metamorphose"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=MxA0QVGVEJw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://rathergood.com/2015/09/09/the-axolotl-song/",
+        "note": "Comedy/Novelty; Neotenie und Metamorphose"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/podcast/gag295/#comment-3567",
+        "note": "Kommentar: explizit kein Metal"
+      }
+    ]
+  },
+  {
+    "id": "cr7z-gaia",
+    "band": "Cr7z",
+    "title": "Gaia",
+    "entities": [
+      "Lemuria",
+      "Gaia"
+    ],
+    "era": "2019",
+    "spotifyUrl": "https://open.spotify.com/track/30xlMqLEdEiWEhIMmoJagP",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://de.muztext.com/lyrics/cr7z-gaia",
+        "note": "Lemuria-Namensnennung in Herkunftsfrage"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
+        "note": "Kommentar-Link unter Lemuria-Folge"
+      }
+    ]
+  },
+  {
+    "id": "tom-morello-the-bloody-beetroots-radium-girls",
+    "band": "Tom Morello & The Bloody Beetroots",
+    "title": "Radium Girls",
+    "entities": [
+      "Radium Girls",
+      "Ottawa Illinois",
+      "Radium"
+    ],
+    "era": "1917–1930er / 2021",
+    "spotifyUrl": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v",
+    "youtubeUrl": "https://www.youtube.com/watch?v=yD0P0bwZKk8",
+    "sources": [
+      {
+        "type": "interview",
+        "url": "https://www.rollingstone.com/music/music-news/tom-morello-bloody-beetroots-new-song-radium-girls-1178493/",
+        "note": "Morello: Memorial an Dial Painterinnen Illinois"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://lyrks.com/lyrics/tom-morello/radium-girls",
+        "note": "Pinsel lecken, Knochenzerfall, Boss-Druck"
+      }
+    ]
+  },
+  {
+    "id": "pig-with-the-face-of-a-boy-complete-history-soviet-union-tetris",
+    "band": "Pig With The Face Of A Boy",
+    "title": "A Complete History Of The Soviet Union Through The Eyes Of A Humble Worker, Arranged To The Melody Of Tetris",
+    "entities": [
+      "Sowjetunion",
+      "Tetris",
+      "Korobeiniki"
+    ],
+    "era": "1917–2010 / 2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=hWTFG3J1CP8",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.vox.com/2015/5/25/8649401/tetris-russian-history-video",
+        "note": "Sowjetgeschichte als Tetris-Allegorie; Comedy"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://pigwithfaceofboy.blogspot.com/2010/08/",
+        "note": "Offizielle Lyrics/Video-Kontext"
+      }
+    ]
+  },
+  {
+    "id": "stern-combo-meissen-die-erkenntnis",
+    "band": "Stern-Combo Meißen",
+    "title": "Die Erkenntnis",
+    "entities": [
+      "Johann Friedrich Böttger",
+      "Porzellan",
+      "Meißen",
+      "August der Starke"
+    ],
+    "era": "1701–1719 / 1978",
+    "spotifyUrl": "https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dpTogEzcbvo",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fes_Gold_(Album)",
+        "note": "Konzeptalbum Weißes Gold (1978/79)"
+      },
+      {
+        "type": "band",
+        "url": "http://www.stern-combo-meissen.de/diskographie/",
+        "note": "Diskographie / Tracklist Weißes Gold"
+      }
+    ]
+  },
+  {
+    "id": "stern-combo-meissen-weisses-gold",
+    "band": "Stern-Combo Meißen",
+    "title": "Weißes Gold",
+    "entities": [
+      "Johann Friedrich Böttger",
+      "Porzellan",
+      "Meißen",
+      "August der Starke"
+    ],
+    "era": "1701–1719 / 1978",
+    "spotifyUrl": "https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke",
+    "youtubeUrl": "https://www.youtube.com/watch?v=plMh2A33ino",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fes_Gold_(Album)",
+        "note": "Konzeptalbum Weißes Gold (1978/79)"
+      },
+      {
+        "type": "band",
+        "url": "http://www.stern-combo-meissen.de/diskographie/",
+        "note": "Diskographie / Tracklist Weißes Gold"
+      }
+    ]
+  },
+  {
+    "id": "hmbc-vo-mello-bis-ge-schoppornou",
+    "band": "HMBC",
+    "title": "Vo Mello bis ge Schoppornou",
+    "entities": [
+      "Mellau",
+      "Schoppernau",
+      "Bregenzerwald"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=wmI2m06YFfc",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.hmbc.at/de/medien/songtexte/vo-mello-bis-ge-schoppornou",
+        "note": "Offizielle Übersetzung: Heimweg nach Sauftour"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.diepresse.com/606729/vo-mello-bis-ge-schoppernou-gsibergerisch-als-kult",
+        "note": "Alpen-Pop/Reggae/Volksmusik-Hit"
+      }
+    ]
+  },
+  {
+    "id": "rick-wakeman-the-six-wives-of-henry-viii",
+    "band": "Rick Wakeman",
+    "title": "The Six Wives of Henry VIII",
+    "entities": [
+      "Heinrich VIII.",
+      "Catherine of Aragon",
+      "Anne Boleyn",
+      "Jane Seymour",
+      "Anne of Cleves",
+      "Catherine Howard",
+      "Catherine Parr"
+    ],
+    "era": "1509–1547 / 1973",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ApohmdSVTT8",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Six_Wives_of_Henry_VIII_(album)",
+        "note": "Instrumentales Prog-Konzeptalbum; Charakterskizzen der sechs Ehefrauen"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag447/",
+        "note": "Kommentar-Tipp unter #447"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-shockheaded-peter",
+    "band": "The Tiger Lillies",
+    "title": "Shockheaded Peter",
+    "entities": [
+      "Struwwelpeter",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Shockheaded Peter: A Junk Opera"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "note": "Musical nach Hoffmanns Struwwelpeter"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-snip-snip",
+    "band": "The Tiger Lillies",
+    "title": "Snip Snip",
+    "entities": [
+      "Struwwelpeter",
+      "Daumenlutscher",
+      "Konrad",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Track Snip Snip; Conrad / scissors man"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag369/",
+        "note": "Kommentar: Daumenlutscher Konrad"
+      }
+    ]
+  },
+  {
+    "id": "the-amoeba-people-continental-drift-alfred-wegener",
+    "band": "The Amoeba People",
+    "title": "Continental Drift: Alfred Wegener's Brilliant Theory (Tectonic Chronicles Pt. 1)",
+    "entities": [
+      "Alfred Wegener",
+      "Kontinentaldrift",
+      "Plattentektonik",
+      "Grönland"
+    ],
+    "era": "1910–1930 / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir",
+    "youtubeUrl": "https://www.youtube.com/watch?v=T1-cES1Ekto",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://theamoebapeople.bandcamp.com/track/continental-drift-alfred-wegeners-brilliant-theory",
+        "note": "Lyrics: Drift-Hypothese, Ablehnung, Grönlandtod, Plattentektonik"
+      },
+      {
+        "type": "secondary",
+        "url": "https://eos.org/articles/amoeba-people-sing-quirky-tunes-about-geoscience",
+        "note": "Science rock / Surf-Rockabilly; Unterrichtssong zu Wegener"
+      }
+    ]
+  },
+  {
+    "id": "carlo-gesualdo-moro-lasso-al-mio-duolo-herreweghe",
+    "band": "Carlo Gesualdo / Collegium Vocale Gent / Philippe Herreweghe",
+    "title": "Moro, lasso! Al mio duolo (Madrigali Libro sesto)",
+    "entities": [
+      "Carlo Gesualdo",
+      "Madrigal"
+    ],
+    "era": "1611",
+    "spotifyUrl": "https://open.spotify.com/track/41OMSBMxZN2DWUFTpjw8pf",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.ricercar.gesualdo-online.cesr.univ-tours.fr/items/show/6556",
+        "note": "Madrigal Libro sesto Nr. 17; Liebes-/Todesparadox"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag364/",
+        "note": "Kommentar-Spotify-Tipp unter #364"
+      }
+    ]
+  },
+  {
+    "id": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
+    "band": "The Wolfe Tones",
+    "title": "Óró sé do bheatha abhaile",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Gráinne Mhaol"
+    ],
+    "era": "16. Jh. / Pearse ca. 1916 / Trad.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ncZc7GwpVXU",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C3%93r%C3%B3_s%C3%A9_do_bheatha_abhaile",
+        "note": "Jacobite-Wurzel; Pearse-Fassung mit Gráinne Mhaol"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag552/",
+        "note": "Kommentar: Artefakt nationalistischer Mythologisierung"
+      }
+    ]
+  },
+  {
+    "id": "die-schmetterlinge-kampflied-der-bauern",
+    "band": "Die Schmetterlinge",
+    "title": "Kampflied der Bauern",
+    "entities": [
+      "Bauernkrieg",
+      "Deutscher Bauernkrieg"
+    ],
+    "era": "1524–1526 / 1977",
+    "spotifyUrl": "https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EQHL0ZL8peM",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Proletenpassion",
+        "note": "Konzeptalbum Proletenpassion; Abschnitt Die Bauernkriege"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://prolos.bandcamp.com/album/lieder-aus-der-proletenpassion",
+        "note": "Kampflied der Bauern; Sensen zu Spießen"
+      }
+    ]
+  },
+  {
+    "id": "georges-moustaki-marche-de-sacco-et-vanzetti",
+    "band": "Georges Moustaki",
+    "title": "Marche de Sacco et Vanzetti",
+    "entities": [
+      "Nicola Sacco",
+      "Bartolomeo Vanzetti",
+      "Sacco und Vanzetti"
+    ],
+    "era": "1920–1927 / 1971",
+    "spotifyUrl": "https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=s-1Gi8ocgmc",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://musicbrainz.org/work/78d21324-1511-3dd5-935e-255495bc97c5",
+        "note": "Französische Fassung von Here’s to You (Baez/Morricone); Eröffnung „Maintenant Nicolas et Bart“"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag394/",
+        "note": "Kommentar-Tipp unter #394 (kein Link)"
+      }
+    ]
+  },
+  {
+    "id": "team-scheisse-spuckstein",
+    "band": "Team Scheisse",
+    "title": "Spuckstein",
+    "entities": [
+      "Spuckstein",
+      "Gesche Gottfried",
+      "Bremen"
+    ],
+    "era": "1831 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2JnmtQVgcL0",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://musicbrainz.org/recording/24b36df1-6be3-4e61-aba3-2be944108978",
+        "note": "Album 20 Jahre Drehorgel (2025); Punk/Rock aus Bremen"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag132/",
+        "note": "Kommentar: Song zum Spuckstein (ZS132)"
       }
     ]
   }

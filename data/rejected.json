@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11 22:33:14 +0200",
+  "updatedAt": "2026-10-12 21:07:41 +0200",
   "entries": [
+    {
+      "episodeId": 28,
+      "songId": "hmbc-vo-mello-bis-ge-schoppornou",
+      "reason": "Folge = Appenzellerkriege und Sage Guta; Song = betrunkener Heimweg Mellau–Schoppernau — nur Regionalnähe Bregenzerwald, kein gemeinsamer Erzählfokus. Genre = Alpen-Pop / Reggae / Volksmusik, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
     {
       "episodeId": 31,
       "songId": "iron-maiden-aces-high",
@@ -20,6 +27,13 @@
       "songId": "marx-brothers-hail-hail-freedonia",
       "reason": "Folge = Fredonianische Rebellion / Republik Fredonia (Texas 1826); Song = fiktive Nationalhymne Freedonia aus Marx-Brothers-Film Duck Soup (1933) — nur Namensanklang Fredonia/Freedonia, anderer Gegenstand (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 147,
+      "songId": "bangkok-impact-junge-dame-mit-freundlicher-tellephonstimme",
+      "reason": "Folge = Fräulein vom Amt / Telefonvermittlung; Song = Electro-Titel „freundliche Telefonstimme“ — nur lose Assoziation (Telefonstimme ≠ Fräulein vom Amt), kein gemeinsames Stichwort und keine Erzählung zum Amt. Genre = Electro / Disco, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
@@ -43,7 +57,6 @@
       "rejectedAt": "2026-09-26",
       "rejectedBy": "manual"
     },
-
     {
       "episodeId": 199,
       "songId": "sabaton-wolfpack",
@@ -101,6 +114,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 280,
+      "songId": "cr7z-gaia",
+      "reason": "Folge = Lemuria (Sclater); Song = Rap mit Lemuria-Namensnennung — reiner Namensanklang. Genre = Deutschrap / Hip-Hop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 287,
       "songId": "iron-maiden-empire-of-the-clouds",
       "reason": "Song = Absturz des Luftschiffs R101 (1930). Folge = Geschichte Ballonfahrt/Fallschirmspringen ab 18. Jh. — kein R101, nur loser Luftfahrt-Rahmen (Tier X).",
@@ -119,6 +139,13 @@
       "songId": "iron-maiden-run-to-the-hills",
       "reason": "Song = Kolonisierung Nordamerikas / First Nations. Folge = Schlacht von Adua 1896 (Menelik II. / Äthiopien gegen Italien) — nur loser Anti-Kolonial-Rahmen, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-09-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 295,
+      "songId": "rathergood-the-axolotl-song",
+      "reason": "Folge = Axolotl-Metamorphose und Neotenie; Song = Axolotl trinkt „salamander goo“ und wird Salamander — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Comedy / Novelty, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
@@ -161,6 +188,13 @@
       "songId": "arch-enemy-the-eagle-flies-alone",
       "reason": "Song = Individualismus-Hymne (eigener Weg, anti-Konformität), keine historische Erzählung. Folge = Andrées Polarexpedition 1897 / Ballon Örnen — nur Wortbrücke Adler↔Örnen, kein Entity-Match (Tier X).",
       "rejectedAt": "2026-09-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 331,
+      "songId": "pig-with-the-face-of-a-boy-complete-history-soviet-union-tetris",
+      "reason": "Folge = Erfindung und Welteroberung von Tetris; Song = Sowjetgeschichte als Tetris-Allegorie auf Korobeiniki — gemeinsames Motiv Tetris/SU, anderer Kern (bei Metal wäre Tier C). Genre = Comedy / Novelty, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
@@ -241,6 +275,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 364,
+      "songId": "carlo-gesualdo-moro-lasso-al-mio-duolo-herreweghe",
+      "reason": "Folge = Gesualdo, Mord und Madrigale; Song = Gesualdos Madrigal „Moro, lasso!“ (Libro sesto) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Renaissance-Madrigal / Alte Musik, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 365,
       "songId": "sabaton-ghost-division",
       "reason": "Song = Rommels 7. Panzer-Division („Ghost Division“/La Division Fantôme, Frankreich 1940). Folge = US-Ghost Army (23rd Headquarters Special Troops, Täuschungsverband) — Namensähnlichkeit, andere Einheit und andere Rolle (Tier X).",
@@ -255,6 +296,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 369,
+      "songId": "tiger-lillies-shockheaded-peter",
+      "reason": "Folge = Struwwelpeter / Heinrich Hoffmann; Song = englische Adaption der Struwwelpeter-Titelfigur — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Dark Cabaret / Circus, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 369,
+      "songId": "tiger-lillies-snip-snip",
+      "reason": "Folge = Struwwelpeter / Heinrich Hoffmann; Song = englische Adaption der Daumenlutscher-Geschichte (Konrad/Conrad) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Dark Cabaret / Circus, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 388,
       "songId": "annihilator-phantasmagoria",
       "reason": "Folge = Marie Tussaud inkl. Erwähnung historischer Phantasmagoria; Song = psychologischer Alptraum-/Dämonen-Horror unter dem Titel Phantasmagoria — reiner Namensanklang, kein gemeinsamer Erzählgegenstand (Tier X).",
@@ -262,10 +317,24 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 394,
+      "songId": "georges-moustaki-marche-de-sacco-et-vanzetti",
+      "reason": "Folge = Sacco und Vanzetti; Song = französische Hommage „Marche de Sacco et Vanzetti“ („Maintenant Nicolas et Bart“) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Chanson / Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 399,
       "songId": "joan-baez-battle-hymn-of-the-republic",
       "reason": "Folge = John Brown / Harpers Ferry; Song = Union-Hymne (Melodie aus „John Brown’s Body“) — gemeinsamer Abolitionismus-/Bürgerkriegs-Rahmen, anderer Fokus (bei Metal wäre Tier B). Genre = Folk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 405,
+      "songId": "kromlek-kromlek",
+      "reason": "Folge = Bonifatius, Mission und Tod bei Dokkum; Song = fiktives KromleK-Bollwerk mit Bonifatius-Namensnennung — reiner Namensanklang, kein gemeinsamer Erzählfokus (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
@@ -297,6 +366,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 447,
+      "songId": "rick-wakeman-the-six-wives-of-henry-viii",
+      "reason": "Folge = Holbein-Porträt Christinas von Dänemark für Heinrich VIII.; Album = instrumentale Porträts der sechs Ehefrauen — Heinrich nur Rahmen, Christina und Holbein fehlen (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 452,
       "songId": "karl-heinz-weichert-affenschande",
       "reason": "Folge = erster Mensch im All (Gagarin) inkl. Tierversuche als Kontext; Song = DDR-Spott auf US-Schimpansen-Satellitenflüge vs. sowjetischen Menschenflug (Gagarin/Titow) — gemeinsamer Raumfahrt-/Tierversuch-Rahmen, anderer Fokus (bei Metal wäre Tier B). Genre = DDR-Lied / FDJ-Agitprop, kein Rock/Metal (Tier X).",
@@ -318,10 +394,31 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 484,
+      "songId": "led-zeppelin-when-the-levee-breaks",
+      "reason": "Folge = Emil Berliner und Erfindung der Musikindustrie; Song = Mississippi-Flut 1927 / Deichbruch (Memphis-Minnie-Cover) — nur Host-Referenz in der Folge, anderer historischer Kern (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 484,
+      "songId": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
+      "reason": "Folge = Emil Berliner und Erfindung der Musikindustrie; Song = Mississippi-Flut 1927 / Deichbruch — nur Kommentar-/Host-Kontext zur Folge, anderer historischer Kern (bei Metal zur Flut wäre Tier A). Genre = Delta Blues / Country Blues, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 490,
       "songId": "warkings-spartacus",
       "reason": "Song = Spartacus / Dritter Sklavenkrieg (73–71 v. Chr.). Folge = Eunus und Erster Sklavenkrieg auf Sizilien (135–132 v. Chr.) — anderer Aufstand, andere Person (Tier X).",
       "rejectedAt": "2026-09-27",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 491,
+      "songId": "john-cage-4-33",
+      "reason": "Folge = Dreyfus-Affäre (Scherz im Einstieg zur „Geschichte der Stille“); Song = Cage 4′33″ — nur Identifikation des im Einstieg angespielten Stillestücks, kein Bezug zur Affäre. Genre = Avantgarde / experimentelle Klassik, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
@@ -364,6 +461,20 @@
       "songId": "allerseelen-schwefelfaden-michael-kohlhaas",
       "reason": "Folge = Fehde Hans Kohlhase; Song = Michael Kohlhaas (Kleist) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Neofolk / Martial Industrial, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 510,
+      "songId": "electric-light-orchestra-roll-over-beethoven",
+      "reason": "Folge = Beethoven / Entstehung der Eroica (3.); Song = Rock-Cover mit Beethoven-Namen und Zitat der 5. — nur Namensanklang und anderes Werk, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 515,
+      "songId": "sufjan-stevens-my-rajneesh",
+      "reason": "Folge = Bhagwan / Rajneeshpuram und Bioterror; Song = Hingabe an Rajneesh/Osho — gemeinsamer Rahmen, anderer Fokus (bei Metal wäre Tier B). Genre = Art-Pop / Indietronica, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
@@ -476,6 +587,13 @@
       "songId": "savatage-complaint-in-the-system-veronica-guerin",
       "reason": "Folge = Gráinne Ní Mháill / Grace O'Malley im 16. Jh.; Song = Veronica Guerin, Journalistenmord 1996 — nur gemeinsames Irland, andere Person und Epoche (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 552,
+      "songId": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
+      "reason": "Folge = Gráinne Ní Mháill / Grace O’Malley und die Geburt ihres Mythos; Song = nationalistische Willkommens-/Kampfhymne mit Gráinne Mhaol — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Irish Folk / Rebel Song, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-12",
       "rejectedBy": "manual"
     },
     {
