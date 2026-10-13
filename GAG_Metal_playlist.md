@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-12 21:17:12 +0200  </small>
-<small>**JSON-Status:** 2026-10-12 21:17:12 +0200  </small>
+<small>**Compile-Datum:** 2026-10-13 22:31:28 +0200  </small>
+<small>**JSON-Status:** 2026-10-13 22:28:04 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -126,20 +126,26 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Miracle of Sound | Gráinne Mhaol, Queen of Pirates | A | [link](https://www.youtube.com/watch?v=iOafalF22kI) | [link](https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Saxon | Atila the Hun | C | [link](https://www.youtube.com/watch?v=dwEXrFD8eKU) | [link](https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Iced Earth | Attila | C | [link](https://www.youtube.com/watch?v=1FU-FDxx31k) | [link](https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1) |
+| [555](https://gadg.fm/555) | Wetterschießen und Regenmachen | Widespread Panic | Hatfield | A | [link](https://www.youtube.com/watch?v=Hn9VT-BFryo) | [link](https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855) |
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Stormlord | Aeneas | A | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) |
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Heimdall | Ballad of the Queen | A | [link](https://www.youtube.com/watch?v=-ze1LkruSec) | [link](https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Aephanemer | Le Radeau de La Méduse | A | [link](https://www.youtube.com/watch?v=iEwdGd7Ywwg) | [link](https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Levellers | Raft of the Medusa | A | [link](https://www.youtube.com/watch?v=nxb3THhAZK4) | [link](https://open.spotify.com/track/56Ibqjhl46vRDuO61Xp9DT) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | The Pogues | The Wake of the Medusa | B | [link](https://www.youtube.com/watch?v=Udh-1a-g3L4) | [link](https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb) |
+| [561](https://gadg.fm/561) | Priesterkönig Johannes | ScienceNV | The End of a Legend | B | [link](https://www.youtube.com/watch?v=zz9I9BaiCpk) | [link](https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb) |
 | [563](https://gadg.fm/563) | Driftende Kontinente und Expeditionen ins Eis | The Amoeba People | Continental Drift: Alfred Wegener's Brilliant Theory (Tectonic Chronicles Pt. 1) | A | [link](https://www.youtube.com/watch?v=T1-cES1Ekto) | [link](https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir) |
 | [564](https://gadg.fm/564) | Sarah Winchester und ihr Mystery House | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [564](https://gadg.fm/564) | Sarah Winchester und ihr Mystery House | Silver Bullet | The Thirteen Nails | A | [link](https://www.youtube.com/watch?v=XLvDxovqb1U) | [link](https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) |
+| [566](https://gadg.fm/566) | Die doppelte Ratte | Molotow Soda | Laborratte | C | [link](https://www.youtube.com/watch?v=WSU0EpjwR9E) | [link](https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q) |
 | [567](https://gadg.fm/567) | Die Fibonacci-Folge | Tool | Lateralus | B | [link](https://www.youtube.com/watch?v=Y7JG63IuaWs) | [link](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) |
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=OYfdXL7sKVI) | [link](https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
+| [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Nina Hagen | 16 tons | A | [link](https://www.youtube.com/watch?v=_vKDiyo178E) | [link](https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq) |
+| [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | ZZ Top feat. Jeff Beck | Sixteen Tons (Live from London) | A | [link](https://www.youtube.com/watch?v=QPqchDH22Vw) | [link](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) |
+| [574](https://gadg.fm/574) | Dirndl und Lederhosen | Kontrust | lederhosen overkill | C | [link](https://www.youtube.com/watch?v=ZT4DTPJH4nY) | [link](https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Imari Tones | Sengoku Christians | C | [link](https://www.youtube.com/watch?v=FKV4gwBRKVc) | [link](https://open.spotify.com/track/5hAibC2WxazzY7odFjgb88) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Onmyō-za | 蒼き独眼 (Aoki Dokugan) | B | [link](https://www.youtube.com/watch?v=j6GJdnEaZQ8) | [link](https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ) |

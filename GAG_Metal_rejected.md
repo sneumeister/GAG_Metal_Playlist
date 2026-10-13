@@ -1,7 +1,7 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-12 21:17:12 +0200  </small>
-<small>**JSON-Status:** 2026-10-12 21:07:41 +0200  </small>
+<small>**Compile-Datum:** 2026-10-13 22:31:28 +0200  </small>
+<small>**JSON-Status:** 2026-10-13 22:30:30 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -98,6 +98,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | The Wolfe Tones | Óró sé do bheatha abhaile | X | [link](https://www.youtube.com/watch?v=ncZc7GwpVXU) | — |
+| [555](https://gadg.fm/555) | Wetterschießen und Regenmachen | Nocturnus | Climate Controller | X | — | [link](https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9) |
 | [556](https://gadg.fm/556) | Galeas per Montes | Calicanto | Galeas par montes | X | — | — |
 | [556](https://gadg.fm/556) | Galeas per Montes | Saxon | Kubla Khan And The Merchant Of Venice | X | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
 | [557](https://gadg.fm/557) | HB06 – Ada Blackjack, einsame Heldin der Arktis & Inselverzwergung im Dinosaurierland und albanische Abenteuer | Iron Maiden | Stranger in a Strange Land | X | [link](https://www.youtube.com/watch?v=UJsl-bB7lmk) | [link](https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2) |
@@ -105,10 +106,13 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | My Dying Bride | Feel the Misery | X | — | — |
 | [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
+| [566](https://gadg.fm/566) | Die doppelte Ratte | 24/7 Diva Heaven | Rat Race | X | — | — |
+| [566](https://gadg.fm/566) | Die doppelte Ratte | Black Flag | Shed Reading (Rattus Norvegicus) | X | — | [link](https://open.spotify.com/track/0v6Ho2YM7QQ7QaaZSnLwyJ) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Sabaton | The Last Battle | X | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Aeneas | X | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
+| [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Tennessee Ernie Ford | Sixteen Tons | X | [link](https://www.youtube.com/watch?v=B9j91-18Kb4) | [link](https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | The Burned Over | The Last Great Awakening | X | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Noriko Kishi | Hasekura: Bonds Beyond the Seas and Time | X | [link](https://www.youtube.com/watch?v=yTEw9zh1-i8) | [link](https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12 21:07:41 +0200",
+  "updatedAt": "2026-10-13 22:30:30 +0200",
   "entries": [
     {
       "episodeId": 28,
@@ -597,6 +597,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 555,
+      "songId": "nocturnus-climate-controller",
+      "reason": "Folge = Stiger, Hatfield und historische Wolkenimpfung; Song = okkult-sci-fi „Weather Dominator“ (Götteranrufung, Kriegsgewitter, „seeding clouds with ice“) — nur Stichwort-Nähe Wettermanipulation, kein brauchbarer Bezug (Tier X).",
+      "rejectedAt": "2026-10-13",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 556,
       "songId": "calicanto-galeas-par-montes",
       "reason": "Song = Galeas per Montes (Venedig zieht Schiffe über die Berge zum Gardasee). Folge = dieselbe venezianische Unternehmung 1438/39 — inhaltlich eng (bei Metal wäre Tier A). Genre = Folk, kein Rock/Metal (Tier X).",
@@ -646,6 +653,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 566,
+      "songId": "24-7-diva-heaven-rat-race",
+      "reason": "Folge = Ratte als Schädling und Labortier; Song = Kapitalismus-Metapher „rat race“ — nur Namens-/Bildanklang, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-13",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 566,
+      "songId": "black-flag-shed-reading-rattus-norvegicus",
+      "reason": "Folge = Ratte als Schädling und Labortier; Text = Monolog der Wanderratte (Rattus norvegicus) über Schädlings- und Laborleben — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Spoken Word / Lesung (Family Man), kein Rock/Metal-Song (Tier X).",
+      "rejectedAt": "2026-10-13",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 569,
       "songId": "sabaton-the-last-battle",
       "reason": "Folge = Zheng Yisao und Perusiedlung (Hörbuch); Song = Schloss Itter 1945 — nur Wort Tirol im Folgentitel-Nebenstrang, kein gemeinsamer Kern (Tier X).",
@@ -671,6 +692,13 @@
       "songId": "warkings-spartacus",
       "reason": "Folge = Flottenkatastrophe von Kamarina; Song = Spartacus — nur Rom, andere Person (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "songId": "tennessee-ernie-ford-sixteen-tons",
+      "reason": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Schuld und Company Store im Kohlebergbau („I owe my soul to the company store“) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Country / Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-13",
       "rejectedBy": "manual"
     },
     {

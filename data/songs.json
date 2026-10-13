@@ -1,5 +1,30 @@
 [
   {
+    "id": "24-7-diva-heaven-rat-race",
+    "band": "24/7 Diva Heaven",
+    "title": "Rat Race",
+    "entities": [
+      "rat race",
+      "Leistungsgesellschaft",
+      "Kapitalismuskritik"
+    ],
+    "era": "Gegenwart",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://247divaheaven.bandcamp.com/track/rat-race",
+        "note": "Album Gift (2024); Opener — Metapher Leistungsgesellschaft"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.visions.de/news/visions-premiere-24-7-diva-heaven-rat-race/",
+        "note": "VISIONS: Refrain Refusing rat race is resistance too"
+      }
+    ]
+  },
+  {
     "id": "abomination-blood-for-oil",
     "band": "Abomination",
     "title": "Blood For Oil",
@@ -445,6 +470,32 @@
     ]
   },
   {
+    "id": "black-flag-shed-reading-rattus-norvegicus",
+    "band": "Black Flag",
+    "title": "Shed Reading (Rattus Norvegicus)",
+    "entities": [
+      "Rattus norvegicus",
+      "Wanderratte",
+      "Labor",
+      "Schädling"
+    ],
+    "era": "1984",
+    "spotifyUrl": "https://open.spotify.com/track/0v6Ho2YM7QQ7QaaZSnLwyJ",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Family_Man_(Black_Flag_album)",
+        "note": "Family Man (1984): Spoken-Word-Seite; Track in einem Schuppen aufgenommen"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/black-flag/shed-reading-rattus-norvegicus-lyrics/",
+        "note": "Monolog der Wanderratte: Schädling und Laborexperimente"
+      }
+    ]
+  },
+  {
     "id": "black-sabbath-breakout",
     "band": "Black Sabbath",
     "title": "Breakout",
@@ -596,6 +647,30 @@
     ]
   },
   {
+    "id": "carlo-gesualdo-moro-lasso-al-mio-duolo-herreweghe",
+    "band": "Carlo Gesualdo / Collegium Vocale Gent / Philippe Herreweghe",
+    "title": "Moro, lasso! Al mio duolo (Madrigali Libro sesto)",
+    "entities": [
+      "Carlo Gesualdo",
+      "Madrigal"
+    ],
+    "era": "1611",
+    "spotifyUrl": "https://open.spotify.com/track/41OMSBMxZN2DWUFTpjw8pf",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.ricercar.gesualdo-online.cesr.univ-tours.fr/items/show/6556",
+        "note": "Madrigal Libro sesto Nr. 17; Liebes-/Todesparadox"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag364/",
+        "note": "Kommentar-Spotify-Tipp unter #364"
+      }
+    ]
+  },
+  {
     "id": "chumbawamba-ah-men",
     "band": "Chumbawamba",
     "title": "Ah-Men",
@@ -640,6 +715,30 @@
         "type": "news",
         "url": "http://www.metalunderground.com/news/details.cfm?newsid=90866",
         "note": "Song about Napoleon becoming more powerful than God"
+      }
+    ]
+  },
+  {
+    "id": "cr7z-gaia",
+    "band": "Cr7z",
+    "title": "Gaia",
+    "entities": [
+      "Lemuria",
+      "Gaia"
+    ],
+    "era": "2019",
+    "spotifyUrl": "https://open.spotify.com/track/30xlMqLEdEiWEhIMmoJagP",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://de.muztext.com/lyrics/cr7z-gaia",
+        "note": "Lemuria-Namensnennung in Herkunftsfrage"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
+        "note": "Kommentar-Link unter Lemuria-Folge"
       }
     ]
   },
@@ -821,6 +920,30 @@
     ]
   },
   {
+    "id": "die-schmetterlinge-kampflied-der-bauern",
+    "band": "Die Schmetterlinge",
+    "title": "Kampflied der Bauern",
+    "entities": [
+      "Bauernkrieg",
+      "Deutscher Bauernkrieg"
+    ],
+    "era": "1524–1526 / 1977",
+    "spotifyUrl": "https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EQHL0ZL8peM",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Proletenpassion",
+        "note": "Konzeptalbum Proletenpassion; Abschnitt Die Bauernkriege"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://prolos.bandcamp.com/album/lieder-aus-der-proletenpassion",
+        "note": "Kampflied der Bauern; Sensen zu Spießen"
+      }
+    ]
+  },
+  {
     "id": "die-schnitter-thomas-muntzer",
     "band": "Die Schnitter",
     "title": "Thomas Müntzer",
@@ -915,6 +1038,30 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=c84FY_y8PYs",
         "note": "Kommentar-Link geschichte.fm (unter #511 gepostet, Bezug #510)"
+      }
+    ]
+  },
+  {
+    "id": "elvenking-3-ways-to-magick",
+    "band": "Elvenking",
+    "title": "3 Ways to Magick",
+    "entities": [
+      "Grimoire",
+      "Magie"
+    ],
+    "era": "2017",
+    "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
+    "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.elvenking.net/album/secrets-of-the-magick-grimoire/",
+        "note": "Secrets of the Magick Grimoire (2017), Track 7"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/elvenking/secretsofthemagickgrimoire.html",
+        "note": "Grimoire als Manual/Sourcebook; drei Magie-Wege"
       }
     ]
   },
@@ -1275,6 +1422,31 @@
     ]
   },
   {
+    "id": "georges-moustaki-marche-de-sacco-et-vanzetti",
+    "band": "Georges Moustaki",
+    "title": "Marche de Sacco et Vanzetti",
+    "entities": [
+      "Nicola Sacco",
+      "Bartolomeo Vanzetti",
+      "Sacco und Vanzetti"
+    ],
+    "era": "1920–1927 / 1971",
+    "spotifyUrl": "https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=s-1Gi8ocgmc",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://musicbrainz.org/work/78d21324-1511-3dd5-935e-255495bc97c5",
+        "note": "Französische Fassung von Here’s to You (Baez/Morricone); Eröffnung „Maintenant Nicolas et Bart“"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag394/",
+        "note": "Kommentar-Tipp unter #394 (kein Link)"
+      }
+    ]
+  },
+  {
     "id": "goat-of-mendes-curse-of-constantine",
     "band": "Goat of Mendes",
     "title": "Curse of Constantine",
@@ -1515,6 +1687,31 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Ein Grimoire und die ihm zugeschriebene magische Macht stehen im Zentrum des Songs; die Folge behandelt Grimoires historisch."
+      }
+    ]
+  },
+  {
+    "id": "hmbc-vo-mello-bis-ge-schoppornou",
+    "band": "HMBC",
+    "title": "Vo Mello bis ge Schoppornou",
+    "entities": [
+      "Mellau",
+      "Schoppernau",
+      "Bregenzerwald"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=wmI2m06YFfc",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.hmbc.at/de/medien/songtexte/vo-mello-bis-ge-schoppornou",
+        "note": "Offizielle Übersetzung: Heimweg nach Sauftour"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.diepresse.com/606729/vo-mello-bis-ge-schoppernou-gsibergerisch-als-kult",
+        "note": "Alpen-Pop/Reggae/Volksmusik-Hit"
       }
     ]
   },
@@ -2113,6 +2310,85 @@
     ]
   },
   {
+    "id": "kontrust-lederhosen-overkill",
+    "band": "Kontrust",
+    "title": "lederhosen overkill",
+    "entities": [
+      "Lederhosen",
+      "Dirndl",
+      "Tracht"
+    ],
+    "era": "2023",
+    "spotifyUrl": "https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZT4DTPJH4nY",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.kontrust.info/",
+        "note": "Album madworld (2023); Band: cursed battle attire / Dirndl"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/kontrust/lederhosen-overkill-lyrics/",
+        "note": "Lederhosen/Dirndl als Party-Motiv"
+      }
+    ]
+  },
+  {
+    "id": "kromlek-kromlek",
+    "band": "KromleK",
+    "title": "Kromlek",
+    "entities": [
+      "Bonifatius",
+      "Cromlech"
+    ],
+    "era": "2005",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://sword-chant.blogspot.com/2023/01/kromlek-lyrics-for-kveldridhur-album.html",
+        "note": "Kveldridhur EP; Bonifatius-Namensnennung"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/albums/Kromlek/Kveldridhur/104076",
+        "note": "Track 2 auf Kveldridhur (2005)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://metalmessage.bandcamp.com/track/kromlek",
+        "note": "Stream auf Metal Message Vol. III"
+      }
+    ]
+  },
+  {
+    "id": "led-zeppelin-when-the-levee-breaks",
+    "band": "Led Zeppelin",
+    "title": "When the Levee Breaks",
+    "entities": [
+      "Mississippiflut 1927",
+      "Mississippi",
+      "Levee"
+    ],
+    "era": "1927 / 1971",
+    "spotifyUrl": "https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JM3fodiK9rY",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/When_the_Levee_Breaks",
+        "note": "Cover; Kern Mississippi-Flut 1927"
+      },
+      {
+        "type": "secondary",
+        "url": "https://americansongwriter.com/when-the-levee-breaks-led-zeppelin-behind-song-lyrics/",
+        "note": "Hintergrund Flut / Memphis-Minnie-Vorlage"
+      }
+    ]
+  },
+  {
     "id": "levellers-raft-of-the-medusa",
     "band": "Levellers",
     "title": "Raft of the Medusa",
@@ -2229,6 +2505,31 @@
     ]
   },
   {
+    "id": "lupo-claudia",
+    "band": "Lupo",
+    "title": "Claudia",
+    "entities": [
+      "Agrippina die Jüngere",
+      "Colonia Claudia Ara Agrippinensium",
+      "Köln"
+    ],
+    "era": "50 n. Chr. / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Lupo-claudia-lyrics",
+        "note": "Claudia (Agrippina) / CCAA / Colonia; Karneval-/Stadt-Hymne"
+      },
+      {
+        "type": "secondary",
+        "url": "https://de.wikipedia.org/wiki/Lupo_(Band)",
+        "note": "Kölschrock / Karneval; Single Claudia (2018)"
+      }
+    ]
+  },
+  {
     "id": "lurte-venganza-almugavar",
     "band": "Lurte",
     "title": "Venganza Almugavar",
@@ -2251,31 +2552,6 @@
         "type": "secondary",
         "url": "https://www.deezer.com/track/622736412",
         "note": "Deezer: Venganza Almugavar / Neopatria (2011)"
-      }
-    ]
-  },
-  {
-    "id": "lupo-claudia",
-    "band": "Lupo",
-    "title": "Claudia",
-    "entities": [
-      "Agrippina die Jüngere",
-      "Colonia Claudia Ara Agrippinensium",
-      "Köln"
-    ],
-    "era": "50 n. Chr. / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn",
-    "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://genius.com/Lupo-claudia-lyrics",
-        "note": "Claudia (Agrippina) / CCAA / Colonia; Karneval-/Stadt-Hymne"
-      },
-      {
-        "type": "secondary",
-        "url": "https://de.wikipedia.org/wiki/Lupo_(Band)",
-        "note": "Kölschrock / Karneval; Single Claudia (2018)"
       }
     ]
   },
@@ -2343,6 +2619,31 @@
     ]
   },
   {
+    "id": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
+    "band": "Memphis Minnie & Kansas Joe McCoy",
+    "title": "When the Levee Breaks",
+    "entities": [
+      "Mississippiflut 1927",
+      "Mississippi",
+      "Levee"
+    ],
+    "era": "1927 / 1929",
+    "spotifyUrl": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WSlt8-fmvas",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/When_the_Levee_Breaks",
+        "note": "Original 1929; Mississippiflut 1927"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag484/",
+        "note": "Kommentar unter #484: Schellack / Flut-Kontext"
+      }
+    ]
+  },
+  {
     "id": "metallica-the-call-of-ktulu",
     "band": "Metallica",
     "title": "The Call of Ktulu",
@@ -2404,6 +2705,36 @@
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=iOafalF22kI",
         "note": "Official upload; Irish Pirate Metal"
+      }
+    ]
+  },
+  {
+    "id": "molotow-soda-laborratte",
+    "band": "Molotow Soda",
+    "title": "Laborratte",
+    "entities": [
+      "Laborratte",
+      "Pharmatest",
+      "Versuchstier"
+    ],
+    "era": "2000",
+    "spotifyUrl": "https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WSU0EpjwR9E",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Molotow_Soda",
+        "note": "Deutschpunk Bonn; Album Eigenurin (2000)"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songtextemania.com/laborratte_songtext_molotow_soda.html",
+        "note": "Satire: bezahlte Pharma-Testperson als „Laborratte“"
+      },
+      {
+        "type": "secondary",
+        "url": "https://taz.de/Mit-Punk-und-Pillen-bei-der-Stasi/!5859310/",
+        "note": "Songzeile im Kontext menschlicher Pharmatests"
       }
     ]
   },
@@ -2617,6 +2948,33 @@
     ]
   },
   {
+    "id": "nina-hagen-16-tons",
+    "band": "Nina Hagen",
+    "title": "16 tons",
+    "entities": [
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
+    ],
+    "era": "1947 / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_vKDiyo178E",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq",
+        "note": "Album Unity (2022); Rock/Punk-Cover von Sixteen Tons"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
     "id": "noriko-kishi-hasekura-bonds-beyond-the-seas-and-time",
     "band": "Noriko Kishi",
     "title": "Hasekura: Bonds Beyond the Seas and Time",
@@ -2798,6 +3156,31 @@
         "type": "reference",
         "url": "https://www.worldhistory.org/video/2883/gilgamesh-lament-for-enkidu/",
         "note": "World History Encyclopedia Video-Eintrag"
+      }
+    ]
+  },
+  {
+    "id": "pig-with-the-face-of-a-boy-complete-history-soviet-union-tetris",
+    "band": "Pig With The Face Of A Boy",
+    "title": "A Complete History Of The Soviet Union Through The Eyes Of A Humble Worker, Arranged To The Melody Of Tetris",
+    "entities": [
+      "Sowjetunion",
+      "Tetris",
+      "Korobeiniki"
+    ],
+    "era": "1917–2010 / 2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=hWTFG3J1CP8",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.vox.com/2015/5/25/8649401/tetris-russian-history-video",
+        "note": "Sowjetgeschichte als Tetris-Allegorie; Comedy"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://pigwithfaceofboy.blogspot.com/2010/08/",
+        "note": "Offizielle Lyrics/Video-Kontext"
       }
     ]
   },
@@ -3030,6 +3413,31 @@
     ]
   },
   {
+    "id": "rathergood-the-axolotl-song",
+    "band": "Rathergood",
+    "title": "The Axolotl Song",
+    "entities": [
+      "Axolotl",
+      "Neotenie",
+      "Metamorphose"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=MxA0QVGVEJw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://rathergood.com/2015/09/09/the-axolotl-song/",
+        "note": "Comedy/Novelty; Neotenie und Metamorphose"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/podcast/gag295/#comment-3567",
+        "note": "Kommentar: explizit kein Metal"
+      }
+    ]
+  },
+  {
     "id": "revocation-fracked",
     "band": "Revocation",
     "title": "Fracked",
@@ -3046,6 +3454,35 @@
         "type": "secondary",
         "url": "https://www.metalsucks.net/2013/07/24/are-revocation-taking-a-stand-against-hydraulic-fracturing-in-new-song-fracked/",
         "note": "Revocation (2013) — hydraulic fracturing / drilling critique"
+      }
+    ]
+  },
+  {
+    "id": "rick-wakeman-the-six-wives-of-henry-viii",
+    "band": "Rick Wakeman",
+    "title": "The Six Wives of Henry VIII",
+    "entities": [
+      "Heinrich VIII.",
+      "Catherine of Aragon",
+      "Anne Boleyn",
+      "Jane Seymour",
+      "Anne of Cleves",
+      "Catherine Howard",
+      "Catherine Parr"
+    ],
+    "era": "1509–1547 / 1973",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ApohmdSVTT8",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Six_Wives_of_Henry_VIII_(album)",
+        "note": "Instrumentales Prog-Konzeptalbum; Charakterskizzen der sechs Ehefrauen"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag447/",
+        "note": "Kommentar-Tipp unter #447"
       }
     ]
   },
@@ -5755,6 +6192,58 @@
     ]
   },
   {
+    "id": "stern-combo-meissen-die-erkenntnis",
+    "band": "Stern-Combo Meißen",
+    "title": "Die Erkenntnis",
+    "entities": [
+      "Johann Friedrich Böttger",
+      "Porzellan",
+      "Meißen",
+      "August der Starke"
+    ],
+    "era": "1701–1719 / 1978",
+    "spotifyUrl": "https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dpTogEzcbvo",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fes_Gold_(Album)",
+        "note": "Konzeptalbum Weißes Gold (1978/79)"
+      },
+      {
+        "type": "band",
+        "url": "http://www.stern-combo-meissen.de/diskographie/",
+        "note": "Diskographie / Tracklist Weißes Gold"
+      }
+    ]
+  },
+  {
+    "id": "stern-combo-meissen-weisses-gold",
+    "band": "Stern-Combo Meißen",
+    "title": "Weißes Gold",
+    "entities": [
+      "Johann Friedrich Böttger",
+      "Porzellan",
+      "Meißen",
+      "August der Starke"
+    ],
+    "era": "1701–1719 / 1978",
+    "spotifyUrl": "https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke",
+    "youtubeUrl": "https://www.youtube.com/watch?v=plMh2A33ino",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fes_Gold_(Album)",
+        "note": "Konzeptalbum Weißes Gold (1978/79)"
+      },
+      {
+        "type": "band",
+        "url": "http://www.stern-combo-meissen.de/diskographie/",
+        "note": "Diskographie / Tracklist Weißes Gold"
+      }
+    ]
+  },
+  {
     "id": "stormlord-aeneas",
     "band": "Stormlord",
     "title": "Aeneas",
@@ -5956,6 +6445,31 @@
     ]
   },
   {
+    "id": "team-scheisse-spuckstein",
+    "band": "Team Scheisse",
+    "title": "Spuckstein",
+    "entities": [
+      "Spuckstein",
+      "Gesche Gottfried",
+      "Bremen"
+    ],
+    "era": "1831 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2JnmtQVgcL0",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://musicbrainz.org/recording/24b36df1-6be3-4e61-aba3-2be944108978",
+        "note": "Album 20 Jahre Drehorgel (2025); Punk/Rock aus Bremen"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag132/",
+        "note": "Kommentar: Song zum Spuckstein (ZS132)"
+      }
+    ]
+  },
+  {
     "id": "temple-of-oblivion-das-wunder-von-koniggratz",
     "band": "Temple of Oblivion",
     "title": "Das Wunder von Königgrätz",
@@ -5973,6 +6487,59 @@
         "type": "lyrics",
         "url": "https://www.metalkingdom.net/lyrics-song/temple-of-oblivion-das-wunder-von-k%C3%B6niggr%C3%A4tz-182147",
         "note": "Via Falsa 1866 EP; Battle of Königgrätz"
+      }
+    ]
+  },
+  {
+    "id": "tennessee-ernie-ford-sixteen-tons",
+    "band": "Tennessee Ernie Ford",
+    "title": "Sixteen Tons",
+    "entities": [
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
+    ],
+    "era": "1947 / 1955",
+    "spotifyUrl": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS",
+    "youtubeUrl": "https://www.youtube.com/watch?v=B9j91-18Kb4",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Merle Travis 1947; Hit-Fassung Ford 1955; Company Store / Truck system"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag573/",
+        "note": "Folge zu Scrip, Truck und Company Store"
+      }
+    ]
+  },
+  {
+    "id": "the-amoeba-people-continental-drift-alfred-wegener",
+    "band": "The Amoeba People",
+    "title": "Continental Drift: Alfred Wegener's Brilliant Theory (Tectonic Chronicles Pt. 1)",
+    "entities": [
+      "Alfred Wegener",
+      "Kontinentaldrift",
+      "Plattentektonik",
+      "Grönland"
+    ],
+    "era": "1910–1930 / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir",
+    "youtubeUrl": "https://www.youtube.com/watch?v=T1-cES1Ekto",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://theamoebapeople.bandcamp.com/track/continental-drift-alfred-wegeners-brilliant-theory",
+        "note": "Lyrics: Drift-Hypothese, Ablehnung, Grönlandtod, Plattentektonik"
+      },
+      {
+        "type": "secondary",
+        "url": "https://eos.org/articles/amoeba-people-sing-quirky-tunes-about-geoscience",
+        "note": "Science rock / Surf-Rockabilly; Unterrichtssong zu Wegener"
       }
     ]
   },
@@ -5995,6 +6562,106 @@
         "type": "bandcamp",
         "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
         "note": "Album The Last Great Awakening (2025), Title Track"
+      }
+    ]
+  },
+  {
+    "id": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
+    "band": "The Wolfe Tones",
+    "title": "Óró sé do bheatha abhaile",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Gráinne Mhaol"
+    ],
+    "era": "16. Jh. / Pearse ca. 1916 / Trad.",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ncZc7GwpVXU",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C3%93r%C3%B3_s%C3%A9_do_bheatha_abhaile",
+        "note": "Jacobite-Wurzel; Pearse-Fassung mit Gráinne Mhaol"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag552/",
+        "note": "Kommentar: Artefakt nationalistischer Mythologisierung"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-shockheaded-peter",
+    "band": "The Tiger Lillies",
+    "title": "Shockheaded Peter",
+    "entities": [
+      "Struwwelpeter",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Shockheaded Peter: A Junk Opera"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "note": "Musical nach Hoffmanns Struwwelpeter"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-snip-snip",
+    "band": "The Tiger Lillies",
+    "title": "Snip Snip",
+    "entities": [
+      "Struwwelpeter",
+      "Daumenlutscher",
+      "Konrad",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Track Snip Snip; Conrad / scissors man"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag369/",
+        "note": "Kommentar: Daumenlutscher Konrad"
+      }
+    ]
+  },
+  {
+    "id": "tom-morello-the-bloody-beetroots-radium-girls",
+    "band": "Tom Morello & The Bloody Beetroots",
+    "title": "Radium Girls",
+    "entities": [
+      "Radium Girls",
+      "Ottawa Illinois",
+      "Radium"
+    ],
+    "era": "1917–1930er / 2021",
+    "spotifyUrl": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v",
+    "youtubeUrl": "https://www.youtube.com/watch?v=yD0P0bwZKk8",
+    "sources": [
+      {
+        "type": "interview",
+        "url": "https://www.rollingstone.com/music/music-news/tom-morello-bloody-beetroots-new-song-radium-girls-1178493/",
+        "note": "Morello: Memorial an Dial Painterinnen Illinois"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://lyrks.com/lyrics/tom-morello/radium-girls",
+        "note": "Pinsel lecken, Knochenzerfall, Boss-Druck"
       }
     ]
   },
@@ -6512,509 +7179,116 @@
     ]
   },
   {
-    "id": "elvenking-3-ways-to-magick",
-    "band": "Elvenking",
-    "title": "3 Ways to Magick",
+    "id": "zz-top-jeff-beck-sixteen-tons-live-from-london",
+    "band": "ZZ Top feat. Jeff Beck",
+    "title": "Sixteen Tons (Live from London)",
     "entities": [
-      "Grimoire",
-      "Magie"
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
     ],
-    "era": "2017",
-    "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
-    "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+    "era": "1947 / 2016",
+    "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge",
+        "note": "Single Sixteen Tons (feat. Jeff Beck) [Live From London], 2016"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
+    "id": "widespread-panic-hatfield",
+    "band": "Widespread Panic",
+    "title": "Hatfield",
+    "entities": [
+      "Charles Hatfield",
+      "San Diego",
+      "Lake Morena",
+      "Regenmachen",
+      "Hatfield Flood"
+    ],
+    "era": "1916 / 1993",
+    "spotifyUrl": "https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Hn9VT-BFryo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.everydaycompanion.com/lyrics/songs/hatfield.asp",
+        "note": "San Diego / Morena, 10.000 Dollar, Kochtopf-Chemie, Flut"
+      },
+      {
+        "type": "secondary",
+        "url": "https://burnthday.com/song-origins/hatfield/",
+        "note": "Band: Song nach Farmers-Almanac-Geschichte über Charles Hatfield"
+      },
+      {
+        "type": "secondary",
+        "url": "https://sandiegohistory.org/journal/1970/january/hatfield/",
+        "note": "Historischer Kontext Moisture Accelerator / Hatfield Flood 1916"
+      }
+    ]
+  },
+  {
+    "id": "sciencenv-the-end-of-a-legend",
+    "band": "ScienceNV",
+    "title": "The End of a Legend",
+    "entities": [
+      "Priesterkönig Johannes",
+      "Prester John",
+      "Quest-Ende"
+    ],
+    "era": "17. Jh. / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zz9I9BaiCpk",
     "sources": [
       {
         "type": "band",
-        "url": "https://www.elvenking.net/album/secrets-of-the-magick-grimoire/",
-        "note": "Secrets of the Magick Grimoire (2017), Track 7"
+        "url": "http://www.sciencenv.com/PJnotesALL.htm",
+        "note": "Bandnotiz: 17. Jh. Gelehrte geben Legende auf; >500 Jahre Quests"
       },
       {
         "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/elvenking/secretsofthemagickgrimoire.html",
-        "note": "Grimoire als Manual/Sourcebook; drei Magie-Wege"
-      }
-    ]
-  },
-  {
-    "id": "led-zeppelin-when-the-levee-breaks",
-    "band": "Led Zeppelin",
-    "title": "When the Levee Breaks",
-    "entities": [
-      "Mississippiflut 1927",
-      "Mississippi",
-      "Levee"
-    ],
-    "era": "1927 / 1971",
-    "spotifyUrl": "https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF",
-    "youtubeUrl": "https://www.youtube.com/watch?v=JM3fodiK9rY",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/When_the_Levee_Breaks",
-        "note": "Cover; Kern Mississippi-Flut 1927"
+        "url": "http://www.sciencenv.com/Lyrics/The%20End%20of%20a%20Legend.pdf",
+        "note": "Lament erschöpfter Sucher; dreams/love/memories just for letting go"
       },
       {
         "type": "secondary",
-        "url": "https://americansongwriter.com/when-the-levee-breaks-led-zeppelin-behind-song-lyrics/",
-        "note": "Hintergrund Flut / Memphis-Minnie-Vorlage"
+        "url": "https://mwe3.com/reviews/ScienceNV2018-2/",
+        "note": "Interview: Ende der Quest-Epoche / Allegorie fruchtlosen Kriegs"
       }
     ]
   },
   {
-    "id": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
-    "band": "Memphis Minnie & Kansas Joe McCoy",
-    "title": "When the Levee Breaks",
+    "id": "nocturnus-climate-controller",
+    "band": "Nocturnus",
+    "title": "Climate Controller",
     "entities": [
-      "Mississippiflut 1927",
-      "Mississippi",
-      "Levee"
+      "Wetterkontrolle",
+      "Cloud Seeding",
+      "Climate Controller"
     ],
-    "era": "1927 / 1929",
-    "spotifyUrl": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=WSlt8-fmvas",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/When_the_Levee_Breaks",
-        "note": "Original 1929; Mississippiflut 1927"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag484/",
-        "note": "Kommentar unter #484: Schellack / Flut-Kontext"
-      }
-    ]
-  },
-  {
-    "id": "kromlek-kromlek",
-    "band": "KromleK",
-    "title": "Kromlek",
-    "entities": [
-      "Bonifatius",
-      "Cromlech"
-    ],
-    "era": "2005",
-    "spotifyUrl": null,
+    "era": "1992",
+    "spotifyUrl": "https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9",
     "youtubeUrl": null,
     "sources": [
       {
         "type": "lyrics",
-        "url": "https://sword-chant.blogspot.com/2023/01/kromlek-lyrics-for-kveldridhur-album.html",
-        "note": "Kveldridhur EP; Bonifatius-Namensnennung"
-      },
-      {
-        "type": "band",
-        "url": "https://www.metal-archives.com/albums/Kromlek/Kveldridhur/104076",
-        "note": "Track 2 auf Kveldridhur (2005)"
+        "url": "http://www.darklyrics.com/lyrics/nocturnus/thresholds.html",
+        "note": "Okkult-Sci-Fi Weather Dominator; seeding clouds with ice"
       },
       {
         "type": "secondary",
-        "url": "https://metalmessage.bandcamp.com/track/kromlek",
-        "note": "Stream auf Metal Message Vol. III"
-      }
-    ]
-  },
-  {
-    "id": "rathergood-the-axolotl-song",
-    "band": "Rathergood",
-    "title": "The Axolotl Song",
-    "entities": [
-      "Axolotl",
-      "Neotenie",
-      "Metamorphose"
-    ],
-    "era": "2010",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=MxA0QVGVEJw",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://rathergood.com/2015/09/09/the-axolotl-song/",
-        "note": "Comedy/Novelty; Neotenie und Metamorphose"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/podcast/gag295/#comment-3567",
-        "note": "Kommentar: explizit kein Metal"
-      }
-    ]
-  },
-  {
-    "id": "cr7z-gaia",
-    "band": "Cr7z",
-    "title": "Gaia",
-    "entities": [
-      "Lemuria",
-      "Gaia"
-    ],
-    "era": "2019",
-    "spotifyUrl": "https://open.spotify.com/track/30xlMqLEdEiWEhIMmoJagP",
-    "youtubeUrl": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://de.muztext.com/lyrics/cr7z-gaia",
-        "note": "Lemuria-Namensnennung in Herkunftsfrage"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
-        "note": "Kommentar-Link unter Lemuria-Folge"
-      }
-    ]
-  },
-  {
-    "id": "tom-morello-the-bloody-beetroots-radium-girls",
-    "band": "Tom Morello & The Bloody Beetroots",
-    "title": "Radium Girls",
-    "entities": [
-      "Radium Girls",
-      "Ottawa Illinois",
-      "Radium"
-    ],
-    "era": "1917–1930er / 2021",
-    "spotifyUrl": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v",
-    "youtubeUrl": "https://www.youtube.com/watch?v=yD0P0bwZKk8",
-    "sources": [
-      {
-        "type": "interview",
-        "url": "https://www.rollingstone.com/music/music-news/tom-morello-bloody-beetroots-new-song-radium-girls-1178493/",
-        "note": "Morello: Memorial an Dial Painterinnen Illinois"
-      },
-      {
-        "type": "lyrics",
-        "url": "https://lyrks.com/lyrics/tom-morello/radium-girls",
-        "note": "Pinsel lecken, Knochenzerfall, Boss-Druck"
-      }
-    ]
-  },
-  {
-    "id": "pig-with-the-face-of-a-boy-complete-history-soviet-union-tetris",
-    "band": "Pig With The Face Of A Boy",
-    "title": "A Complete History Of The Soviet Union Through The Eyes Of A Humble Worker, Arranged To The Melody Of Tetris",
-    "entities": [
-      "Sowjetunion",
-      "Tetris",
-      "Korobeiniki"
-    ],
-    "era": "1917–2010 / 2010",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=hWTFG3J1CP8",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.vox.com/2015/5/25/8649401/tetris-russian-history-video",
-        "note": "Sowjetgeschichte als Tetris-Allegorie; Comedy"
-      },
-      {
-        "type": "lyrics",
-        "url": "http://pigwithfaceofboy.blogspot.com/2010/08/",
-        "note": "Offizielle Lyrics/Video-Kontext"
-      }
-    ]
-  },
-  {
-    "id": "stern-combo-meissen-die-erkenntnis",
-    "band": "Stern-Combo Meißen",
-    "title": "Die Erkenntnis",
-    "entities": [
-      "Johann Friedrich Böttger",
-      "Porzellan",
-      "Meißen",
-      "August der Starke"
-    ],
-    "era": "1701–1719 / 1978",
-    "spotifyUrl": "https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z",
-    "youtubeUrl": "https://www.youtube.com/watch?v=dpTogEzcbvo",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fes_Gold_(Album)",
-        "note": "Konzeptalbum Weißes Gold (1978/79)"
-      },
-      {
-        "type": "band",
-        "url": "http://www.stern-combo-meissen.de/diskographie/",
-        "note": "Diskographie / Tracklist Weißes Gold"
-      }
-    ]
-  },
-  {
-    "id": "stern-combo-meissen-weisses-gold",
-    "band": "Stern-Combo Meißen",
-    "title": "Weißes Gold",
-    "entities": [
-      "Johann Friedrich Böttger",
-      "Porzellan",
-      "Meißen",
-      "August der Starke"
-    ],
-    "era": "1701–1719 / 1978",
-    "spotifyUrl": "https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke",
-    "youtubeUrl": "https://www.youtube.com/watch?v=plMh2A33ino",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://de.wikipedia.org/wiki/Wei%C3%9Fes_Gold_(Album)",
-        "note": "Konzeptalbum Weißes Gold (1978/79)"
-      },
-      {
-        "type": "band",
-        "url": "http://www.stern-combo-meissen.de/diskographie/",
-        "note": "Diskographie / Tracklist Weißes Gold"
-      }
-    ]
-  },
-  {
-    "id": "hmbc-vo-mello-bis-ge-schoppornou",
-    "band": "HMBC",
-    "title": "Vo Mello bis ge Schoppornou",
-    "entities": [
-      "Mellau",
-      "Schoppernau",
-      "Bregenzerwald"
-    ],
-    "era": "2010",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=wmI2m06YFfc",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://www.hmbc.at/de/medien/songtexte/vo-mello-bis-ge-schoppornou",
-        "note": "Offizielle Übersetzung: Heimweg nach Sauftour"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.diepresse.com/606729/vo-mello-bis-ge-schoppernou-gsibergerisch-als-kult",
-        "note": "Alpen-Pop/Reggae/Volksmusik-Hit"
-      }
-    ]
-  },
-  {
-    "id": "rick-wakeman-the-six-wives-of-henry-viii",
-    "band": "Rick Wakeman",
-    "title": "The Six Wives of Henry VIII",
-    "entities": [
-      "Heinrich VIII.",
-      "Catherine of Aragon",
-      "Anne Boleyn",
-      "Jane Seymour",
-      "Anne of Cleves",
-      "Catherine Howard",
-      "Catherine Parr"
-    ],
-    "era": "1509–1547 / 1973",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=ApohmdSVTT8",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Six_Wives_of_Henry_VIII_(album)",
-        "note": "Instrumentales Prog-Konzeptalbum; Charakterskizzen der sechs Ehefrauen"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag447/",
-        "note": "Kommentar-Tipp unter #447"
-      }
-    ]
-  },
-  {
-    "id": "tiger-lillies-shockheaded-peter",
-    "band": "The Tiger Lillies",
-    "title": "Shockheaded Peter",
-    "entities": [
-      "Struwwelpeter",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Shockheaded Peter: A Junk Opera"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
-        "note": "Musical nach Hoffmanns Struwwelpeter"
-      }
-    ]
-  },
-  {
-    "id": "tiger-lillies-snip-snip",
-    "band": "The Tiger Lillies",
-    "title": "Snip Snip",
-    "entities": [
-      "Struwwelpeter",
-      "Daumenlutscher",
-      "Konrad",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Track Snip Snip; Conrad / scissors man"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag369/",
-        "note": "Kommentar: Daumenlutscher Konrad"
-      }
-    ]
-  },
-  {
-    "id": "the-amoeba-people-continental-drift-alfred-wegener",
-    "band": "The Amoeba People",
-    "title": "Continental Drift: Alfred Wegener's Brilliant Theory (Tectonic Chronicles Pt. 1)",
-    "entities": [
-      "Alfred Wegener",
-      "Kontinentaldrift",
-      "Plattentektonik",
-      "Grönland"
-    ],
-    "era": "1910–1930 / 2011",
-    "spotifyUrl": "https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir",
-    "youtubeUrl": "https://www.youtube.com/watch?v=T1-cES1Ekto",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://theamoebapeople.bandcamp.com/track/continental-drift-alfred-wegeners-brilliant-theory",
-        "note": "Lyrics: Drift-Hypothese, Ablehnung, Grönlandtod, Plattentektonik"
-      },
-      {
-        "type": "secondary",
-        "url": "https://eos.org/articles/amoeba-people-sing-quirky-tunes-about-geoscience",
-        "note": "Science rock / Surf-Rockabilly; Unterrichtssong zu Wegener"
-      }
-    ]
-  },
-  {
-    "id": "carlo-gesualdo-moro-lasso-al-mio-duolo-herreweghe",
-    "band": "Carlo Gesualdo / Collegium Vocale Gent / Philippe Herreweghe",
-    "title": "Moro, lasso! Al mio duolo (Madrigali Libro sesto)",
-    "entities": [
-      "Carlo Gesualdo",
-      "Madrigal"
-    ],
-    "era": "1611",
-    "spotifyUrl": "https://open.spotify.com/track/41OMSBMxZN2DWUFTpjw8pf",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.ricercar.gesualdo-online.cesr.univ-tours.fr/items/show/6556",
-        "note": "Madrigal Libro sesto Nr. 17; Liebes-/Todesparadox"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag364/",
-        "note": "Kommentar-Spotify-Tipp unter #364"
-      }
-    ]
-  },
-  {
-    "id": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
-    "band": "The Wolfe Tones",
-    "title": "Óró sé do bheatha abhaile",
-    "entities": [
-      "Gráinne Ní Mháill",
-      "Grace O'Malley",
-      "Gráinne Mhaol"
-    ],
-    "era": "16. Jh. / Pearse ca. 1916 / Trad.",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=ncZc7GwpVXU",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/%C3%93r%C3%B3_s%C3%A9_do_bheatha_abhaile",
-        "note": "Jacobite-Wurzel; Pearse-Fassung mit Gráinne Mhaol"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag552/",
-        "note": "Kommentar: Artefakt nationalistischer Mythologisierung"
-      }
-    ]
-  },
-  {
-    "id": "die-schmetterlinge-kampflied-der-bauern",
-    "band": "Die Schmetterlinge",
-    "title": "Kampflied der Bauern",
-    "entities": [
-      "Bauernkrieg",
-      "Deutscher Bauernkrieg"
-    ],
-    "era": "1524–1526 / 1977",
-    "spotifyUrl": "https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi",
-    "youtubeUrl": "https://www.youtube.com/watch?v=EQHL0ZL8peM",
-    "sources": [
-      {
-        "type": "wikipedia",
-        "url": "https://de.wikipedia.org/wiki/Proletenpassion",
-        "note": "Konzeptalbum Proletenpassion; Abschnitt Die Bauernkriege"
-      },
-      {
-        "type": "lyrics",
-        "url": "https://prolos.bandcamp.com/album/lieder-aus-der-proletenpassion",
-        "note": "Kampflied der Bauern; Sensen zu Spießen"
-      }
-    ]
-  },
-  {
-    "id": "georges-moustaki-marche-de-sacco-et-vanzetti",
-    "band": "Georges Moustaki",
-    "title": "Marche de Sacco et Vanzetti",
-    "entities": [
-      "Nicola Sacco",
-      "Bartolomeo Vanzetti",
-      "Sacco und Vanzetti"
-    ],
-    "era": "1920–1927 / 1971",
-    "spotifyUrl": "https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk",
-    "youtubeUrl": "https://www.youtube.com/watch?v=s-1Gi8ocgmc",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://musicbrainz.org/work/78d21324-1511-3dd5-935e-255495bc97c5",
-        "note": "Französische Fassung von Here’s to You (Baez/Morricone); Eröffnung „Maintenant Nicolas et Bart“"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag394/",
-        "note": "Kommentar-Tipp unter #394 (kein Link)"
-      }
-    ]
-  },
-  {
-    "id": "team-scheisse-spuckstein",
-    "band": "Team Scheisse",
-    "title": "Spuckstein",
-    "entities": [
-      "Spuckstein",
-      "Gesche Gottfried",
-      "Bremen"
-    ],
-    "era": "1831 / 2025",
-    "spotifyUrl": "https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD",
-    "youtubeUrl": "https://www.youtube.com/watch?v=2JnmtQVgcL0",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://musicbrainz.org/recording/24b36df1-6be3-4e61-aba3-2be944108978",
-        "note": "Album 20 Jahre Drehorgel (2025); Punk/Rock aus Bremen"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag132/",
-        "note": "Kommentar: Song zum Spuckstein (ZS132)"
+        "url": "https://en.wikipedia.org/wiki/Thresholds_(album)",
+        "note": "Thresholds (1992); Technical Death Metal"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12 21:17:12 +0200",
+  "updatedAt": "2026-10-13 22:28:04 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -2119,6 +2119,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 555,
+      "episodeTitle": "Wetterschießen und Regenmachen",
+      "episodeUrl": "https://gadg.fm/555",
+      "songId": "widespread-panic-hatfield",
+      "band": "Widespread Panic",
+      "songTitle": "Hatfield",
+      "matchTier": "A",
+      "justification": "Folge = u. a. Charles Hatfield („Moisture Accelerator“), Auftrag Morena/San Diego 1916 und „Hatfields Flut“; Song = dieselbe Episode (Dürre, 10.000 Dollar, Kochtopf-Chemie, Überschwemmung) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Charles Hatfield",
+        "San Diego",
+        "Lake Morena",
+        "Regenmachen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hn9VT-BFryo",
+      "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 559,
       "episodeTitle": "Vergil oder Wie ein Epos entsteht",
       "episodeUrl": "https://gadg.fm/559",
@@ -2219,6 +2239,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 561,
+      "episodeTitle": "Priesterkönig Johannes",
+      "episodeUrl": "https://gadg.fm/561",
+      "songId": "sciencenv-the-end-of-a-legend",
+      "band": "ScienceNV",
+      "songTitle": "The End of a Legend",
+      "matchTier": "B",
+      "justification": "Folge = Brief-Fälschung 1165, Kreuzzugs-Wirkung und äthiopisches Christentum; Song = Schluss der Prester-John-Quest (17. Jh.: Legende als Fiktion, erschöpfte Sucher) aus dem Prog-Konzeptalbum — gemeinsame Legende, anderer Fokus (Ursprung/Wirkung vs. Ende der Suche) (Tier B).",
+      "sharedEntities": [
+        "Priesterkönig Johannes",
+        "Prester John"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zz9I9BaiCpk",
+      "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 563,
       "episodeTitle": "Driftende Kontinente und Expeditionen ins Eis",
       "episodeUrl": "https://gadg.fm/563",
@@ -2314,6 +2352,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 566,
+      "episodeTitle": "Die doppelte Ratte",
+      "episodeUrl": "https://gadg.fm/566",
+      "songId": "molotow-soda-laborratte",
+      "band": "Molotow Soda",
+      "songTitle": "Laborratte",
+      "matchTier": "C",
+      "justification": "Folge = Ratte als Schädling und Labortier; Song = satirische Pharma-Testperson als „Laborratte“ — gemeinsames Motiv Versuchstier, anderer Fokus (Tier C).",
+      "sharedEntities": [
+        "Laborratte",
+        "Versuchstier"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WSU0EpjwR9E",
+      "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 567,
       "episodeTitle": "Die Fibonacci-Folge",
       "episodeUrl": "https://gadg.fm/567",
@@ -2401,6 +2457,65 @@
       "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
       "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
       "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "nina-hagen-16-tons",
+      "band": "Nina Hagen",
+      "songTitle": "16 tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Rock/Punk-Cover von Sixteen Tons (Schuld und Company Store im Kohlebergbau) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_vKDiyo178E",
+      "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "zz-top-jeff-beck-sixteen-tons-live-from-london",
+      "band": "ZZ Top feat. Jeff Beck",
+      "songTitle": "Sixteen Tons (Live from London)",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Cover von Sixteen Tons (Schuld und Company Store im Kohlebergbau) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
+      "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 574,
+      "episodeTitle": "Dirndl und Lederhosen",
+      "episodeUrl": "https://gadg.fm/574",
+      "songId": "kontrust-lederhosen-overkill",
+      "band": "Kontrust",
+      "songTitle": "lederhosen overkill",
+      "matchTier": "C",
+      "justification": "Folge = Erfindung von Dirndl/Lederhose als bayerische Tracht im 19. Jh. (Vogl 1883); Song = Party-/Fantasy-Hymne auf Lederhosen und Dirndl — gemeinsames Motiv Tracht, anderer Fokus (Tier C).",
+      "sharedEntities": [
+        "Lederhosen",
+        "Dirndl",
+        "Tracht"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZT4DTPJH4nY",
+      "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
     {
