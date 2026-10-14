@@ -7291,5 +7291,54 @@
         "note": "Thresholds (1992); Technical Death Metal"
       }
     ]
+  },
+  {
+    "id": "stoppok-der-kuehlschrank",
+    "band": "Stoppok",
+    "title": "Der Kühlschrank",
+    "entities": [
+      "Kühlschrank",
+      "FCKW"
+    ],
+    "era": "1993",
+    "spotifyUrl": "https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_RY5yOlvEgo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.nomorelyrics.net/stoppok-lyrics/186919-der_kahlschrank-lyrics.html",
+        "note": "Haushaltskühlschrank als „Freund“, Defekt, FCKW-Zeile"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.hitparade.ch/song/Stoppok/Der-Kuehlschrank-674909",
+        "note": "Happy End Im La-La-Land (1993)"
+      }
+    ]
+  },
+  {
+    "id": "weird-al-yankovic-livin-in-the-fridge",
+    "band": "Weird Al Yankovic",
+    "title": "Livin' in the Fridge",
+    "entities": [
+      "Kühlschrank",
+      "Lebensmittelreste",
+      "Schimmel"
+    ],
+    "era": "1993",
+    "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://genius.com/Weird-al-yankovic-livin-in-the-fridge-lyrics",
+        "note": "Aerosmith-Parodie: verschimmelte Reste im Kühlschrank"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Alapalooza",
+        "note": "Alapalooza (1993); Comedy/Parody Rock"
+      }
+    ]
   }
 ]

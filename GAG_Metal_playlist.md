@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-13 22:31:28 +0200  </small>
-<small>**JSON-Status:** 2026-10-13 22:28:04 +0200  </small>
+<small>**Compile-Datum:** 2026-10-14 18:01:46 +0200  </small>
+<small>**JSON-Status:** 2026-10-14 18:01:30 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -149,3 +149,5 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [574](https://gadg.fm/574) | Dirndl und Lederhosen | Kontrust | lederhosen overkill | C | [link](https://www.youtube.com/watch?v=ZT4DTPJH4nY) | [link](https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Imari Tones | Sengoku Christians | C | [link](https://www.youtube.com/watch?v=FKV4gwBRKVc) | [link](https://open.spotify.com/track/5hAibC2WxazzY7odFjgb88) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Onmyō-za | 蒼き独眼 (Aoki Dokugan) | B | [link](https://www.youtube.com/watch?v=j6GJdnEaZQ8) | [link](https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ) |
+| [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Stoppok | Der Kühlschrank | C | [link](https://www.youtube.com/watch?v=_RY5yOlvEgo) | [link](https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8) |
+| [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Weird Al Yankovic | Livin' in the Fridge | C | [link](https://www.youtube.com/watch?v=wH3UncRagXY) | [link](https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV) |

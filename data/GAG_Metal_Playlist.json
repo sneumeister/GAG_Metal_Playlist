@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13 22:28:04 +0200",
+  "updatedAt": "2026-10-14 18:01:30 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -2556,6 +2556,41 @@
       "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
       "matchedAt": "2026-09-30",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 577,
+      "episodeTitle": "Wie der Kühlschrank in unsere Küchen kam",
+      "episodeUrl": "https://gadg.fm/577",
+      "songId": "stoppok-der-kuehlschrank",
+      "band": "Stoppok",
+      "songTitle": "Der Kühlschrank",
+      "matchTier": "C",
+      "justification": "Folge = technische/gesellschaftliche Einführung des Kühlschranks und Kühlkette; Song = ironische Alltagsbeziehung zum defekten Haushaltskühlschrank (inkl. FCKW-Stichwort) — thematische Nähe Gerät/Haushalt, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Kühlschrank"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_RY5yOlvEgo",
+      "matchedAt": "2026-10-14",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 577,
+      "episodeTitle": "Wie der Kühlschrank in unsere Küchen kam",
+      "episodeUrl": "https://gadg.fm/577",
+      "songId": "weird-al-yankovic-livin-in-the-fridge",
+      "band": "Weird Al Yankovic",
+      "songTitle": "Livin' in the Fridge",
+      "matchTier": "C",
+      "justification": "Folge = technische/gesellschaftliche Einführung des Kühlschranks und Veränderung der Ernährungspraxis; Song = Parodie über verschimmelte, vergessene Reste im Haushaltskühlschrank — thematische Nähe Lebensmittelaufbewahrung, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Kühlschrank",
+        "Lebensmittelreste"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
+      "matchedAt": "2026-10-14",
       "curatedBy": "manual"
     }
   ]
