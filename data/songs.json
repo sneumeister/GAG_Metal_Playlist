@@ -1587,6 +1587,41 @@
     ]
   },
   {
+    "id": "grave-digger-massada",
+    "band": "Grave Digger",
+    "title": "Massada",
+    "entities": [
+      "Masada",
+      "Massada",
+      "Zealots",
+      "Sicarii",
+      "Lucius Flavius Silva",
+      "Jüdischer Krieg",
+      "Massenselbstmord",
+      "Totes Meer"
+    ],
+    "era": "72–73 n. Chr. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/3lYUkRzcZn4EFrpMdjwKal",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YJQGwiAqe38",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/grave-digger-massada-32060",
+        "note": "Lyrics: Dead Sea, Massada-Felsen, Zealots, Suizid statt Sklaverei"
+      },
+      {
+        "type": "secondary",
+        "url": "https://heavymetalclassicist.home.blog/2019/07/13/grave-digger-massada/",
+        "note": "Song = Belagerung Masada / Liberty or Death (2007)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Grave_Digger/Liberty_or_Death/137121",
+        "note": "Metal Archives: Liberty or Death, Track Massada"
+      }
+    ]
+  },
+  {
     "id": "grave-digger-monks-of-war",
     "band": "Grave Digger",
     "title": "Monks of War",
@@ -6273,6 +6308,44 @@
         "type": "band",
         "url": "http://www.stern-combo-meissen.de/diskographie/",
         "note": "Diskographie / Tracklist Weißes Gold"
+      }
+    ]
+  },
+  {
+    "id": "stormcrow-nanga-parbat",
+    "band": "Stormcrow",
+    "title": "Nanga Parbat",
+    "entities": [
+      "Nanga Parbat",
+      "Hermann Buhl",
+      "Erstbesteigung 1953",
+      "Todeszone",
+      "Schicksalsberg",
+      "Himalaya"
+    ],
+    "era": "1953 / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6fuC4C2JQns",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://stormcrowblackmetal.bandcamp.com/album/face-the-giant-2",
+        "note": "Face the Giant (2019), Track 4 Nanga Parbat; alpine Black Metal"
+      },
+      {
+        "type": "band",
+        "url": "https://kultunderground.org/art/39737/",
+        "note": "Interview: Text = Reinterpretation von Hermann Buhls Solo-Erstbesteigung 1953"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.neeceeagency.com/stormcrow-release-official-video-for-nanga-parbat/",
+        "note": "Video-Konzept: Solo bei Nacht, Todeszone, Halluzinationen, Abstieg"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Stormcrow/Face_the_Giant/777488",
+        "note": "Metal Archives: Face the Giant (Vacula, 2019)"
       }
     ]
   },
