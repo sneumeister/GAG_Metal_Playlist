@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-15 20:58:57 +0200  </small>
-<small>**JSON-Status:** 2026-10-15 20:58:57 +0200  </small>
+<small>**Compile-Datum:** 2026-10-15 21:18:00 +0200  </small>
+<small>**JSON-Status:** 2026-10-15 21:18:00 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -23,6 +23,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | [link](https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX) |
 | [107](https://gadg.fm/107) | Eine kurze Geschichte der Guillotine | Saxon | Madame Guillotine | A | [link](https://www.youtube.com/watch?v=Tfca2Kz4064) | [link](https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz) |
 | [118](https://gadg.fm/118) | Ein Werwolf in Livland | Powerwolf | 1589 | C | [link](https://www.youtube.com/watch?v=5S0-oP9JsL0) | [link](https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G) |
+| [122](https://gadg.fm/122) | Die Belagerung von Masada | Grave Digger | Massada | A | [link](https://www.youtube.com/watch?v=YJQGwiAqe38) | [link](https://open.spotify.com/track/3lYUkRzcZn4EFrpMdjwKal) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Antrisch | I Festgefroren | A | [link](https://www.youtube.com/watch?v=NUOy8idWfxw) | [link](https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Antrisch | IIII Ultima Ratio | A | [link](https://www.youtube.com/watch?v=1ZD-_KLSSKg) | [link](https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9) |
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Unleash the Archers | Northwest Passage | B | [link](https://www.youtube.com/watch?v=XRD3vrSLPaw) | [link](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) |

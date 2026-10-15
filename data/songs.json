@@ -1587,6 +1587,41 @@
     ]
   },
   {
+    "id": "grave-digger-massada",
+    "band": "Grave Digger",
+    "title": "Massada",
+    "entities": [
+      "Masada",
+      "Massada",
+      "Zealots",
+      "Sicarii",
+      "Lucius Flavius Silva",
+      "Jüdischer Krieg",
+      "Massenselbstmord",
+      "Totes Meer"
+    ],
+    "era": "72–73 n. Chr. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/3lYUkRzcZn4EFrpMdjwKal",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YJQGwiAqe38",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/grave-digger-massada-32060",
+        "note": "Lyrics: Dead Sea, Massada-Felsen, Zealots, Suizid statt Sklaverei"
+      },
+      {
+        "type": "secondary",
+        "url": "https://heavymetalclassicist.home.blog/2019/07/13/grave-digger-massada/",
+        "note": "Song = Belagerung Masada / Liberty or Death (2007)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Grave_Digger/Liberty_or_Death/137121",
+        "note": "Metal Archives: Liberty or Death, Track Massada"
+      }
+    ]
+  },
+  {
     "id": "grave-digger-monks-of-war",
     "band": "Grave Digger",
     "title": "Monks of War",

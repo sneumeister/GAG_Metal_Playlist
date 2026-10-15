@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15 20:58:57 +0200",
+  "updatedAt": "2026-10-15 21:18:00 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -173,6 +173,26 @@
       "spotifyUrl": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G",
       "youtubeUrl": "https://www.youtube.com/watch?v=5S0-oP9JsL0",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 122,
+      "episodeTitle": "Die Belagerung von Masada",
+      "episodeUrl": "https://gadg.fm/122",
+      "songId": "grave-digger-massada",
+      "band": "Grave Digger",
+      "songTitle": "Massada",
+      "matchTier": "A",
+      "justification": "Folge = Belagerung von Masada am Ende des Jüdischen Kriegs (Sicarii, Flavius Silva, Massenselbstmord); Song = dieselbe Festung und dasselbe Ende (Zealots, Massada-Felsen, Suizid statt Sklaverei) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Masada",
+        "Zealots/Sicarii",
+        "Jüdischer Krieg",
+        "Massenselbstmord"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3lYUkRzcZn4EFrpMdjwKal",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YJQGwiAqe38",
+      "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
     {
