@@ -920,6 +920,39 @@
     ]
   },
   {
+    "id": "deos-mylae",
+    "band": "Deos",
+    "title": "Mylae",
+    "entities": [
+      "Schlacht von Mylae",
+      "Mylae",
+      "Gaius Duilius",
+      "Corvus",
+      "1. Punischer Krieg",
+      "römische Flotte"
+    ],
+    "era": "260 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XJabWzbLoIg",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://heavymetalclassicist.home.blog/2019/07/16/deos-mylae/",
+        "note": "Song = Seesieg von Mylae 260 v. Chr.; Duilius, Debut des Corvus, Enterkampf"
+      },
+      {
+        "type": "band",
+        "url": "https://deos-official.bandcamp.com/track/09-mylae",
+        "note": "Album In Nomine Romae (2017), Track 09 Mylae"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Deos/In_Nomine_Romae/671807",
+        "note": "Review nennt Mylae als bewusstes, weniger bekanntes römisches Episode-Thema"
+      }
+    ]
+  },
+  {
     "id": "die-schmetterlinge-kampflied-der-bauern",
     "band": "Die Schmetterlinge",
     "title": "Kampflied der Bauern",
@@ -6540,6 +6573,39 @@
         "type": "secondary",
         "url": "https://eos.org/articles/amoeba-people-sing-quirky-tunes-about-geoscience",
         "note": "Science rock / Surf-Rockabilly; Unterrichtssong zu Wegener"
+      }
+    ]
+  },
+  {
+    "id": "the-amoeba-people-girl-talk",
+    "band": "The Amoeba People",
+    "title": "Girl Talk",
+    "entities": [
+      "Marie Tharp",
+      "Mittelozeanischer Rücken",
+      "Grabenbruch",
+      "Kontinentaldrift",
+      "Bruce Heezen",
+      "girl talk"
+    ],
+    "era": "1950er / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NuugQSaHM7Y",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://theamoebapeople.bandcamp.com/album/the-fossil-record",
+        "note": "Lyrics: Tharp, Heezen „Girl Talk“, Rift Valley, Kontinentaldrift, Cousteau"
+      },
+      {
+        "type": "band",
+        "url": "http://www.theamoebapeople.com/app0108",
+        "note": "Podcast mit Hali Felt (Soundings); Song-Breakdown zu Tharp"
+      },
+      {
+        "type": "secondary",
+        "url": "https://eos.org/articles/amoeba-people-find-a-niche-for-nerdy-science-music",
+        "note": "Science-Song; Stil eher groovy / jazzig-hiphop-/reggae-nah als Hard Rock"
       }
     ]
   },
