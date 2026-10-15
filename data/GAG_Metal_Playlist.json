@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15 21:18:00 +0200",
+  "updatedAt": "2026-10-15 21:48:15 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -1257,6 +1257,27 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 378,
+      "episodeTitle": "Ein langer Marsch durch Feindesland",
+      "episodeUrl": "https://gadg.fm/378",
+      "songId": "countess-march-of-the-ten-thousand",
+      "band": "Countess",
+      "songTitle": "March of the Ten Thousand",
+      "matchTier": "A",
+      "justification": "Folge = Zug der Zehntausend 401 v. Chr. (Cyrus, Kunaxa, Xenophon, Rückzug ans Schwarze Meer / Anabasis); Song = derselbe Zug (Cunaxa, Tissaphernes-Verrat, Xenophon als Führer, Meer) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Zug der Zehntausend",
+        "Xenophon",
+        "Cyrus",
+        "Kunaxa",
+        "Anabasis"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-OXnxnbJk_g",
+      "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
     {
@@ -2672,6 +2693,46 @@
       "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
       "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
       "matchedAt": "2026-10-14",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 215,
+      "episodeTitle": "Wojtek, polnischer Soldatenbär",
+      "episodeUrl": "https://gadg.fm/215",
+      "songId": "the-metal-alliance-the-beast-of-war",
+      "band": "The Metal Alliance",
+      "songTitle": "The Beast of War",
+      "matchTier": "A",
+      "justification": "Folge = Wojtek, polnischer Soldatenbär (2. polnisches Korps, Monte Cassino); Song = The Beast of War (polnische 22. Artillerie-Versorgungskompanie, Private/Corporal Voytek, syrischer Braunbär, Granaten bei Monte Cassino) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Wojtek",
+        "Monte Cassino",
+        "2. polnisches Korps",
+        "Soldatenbär"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
+      "matchedAt": "2026-10-15",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 282,
+      "episodeTitle": "Fredegund, Brunhild und der merowingische Bruderkrieg",
+      "episodeUrl": "https://gadg.fm/282",
+      "songId": "leaves-eyes-galswintha",
+      "band": "Leaves' Eyes",
+      "songTitle": "Galswintha",
+      "matchTier": "B",
+      "justification": "Folge = Fredegund, Brunhild und merowingischer Bruderkrieg (Auslöser: Hochzeit/Ermordung der westgotischen Prinzessin); Song = Ermordung Galswinthas durch Fredegund (Neustrien, Eifersucht) — gemeinsamer Auslöser und Fredegund, Song ohne Brunhild/Jahrzehntekrieg (Tier B).",
+      "sharedEntities": [
+        "Fredegund",
+        "Galswintha",
+        "Westgotische Prinzessin",
+        "Merowinger"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
+      "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     }
   ]
