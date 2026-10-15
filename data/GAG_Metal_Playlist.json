@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14 18:01:30 +0200",
+  "updatedAt": "2026-10-15 19:26:05 +0200",
   "entries": [
     {
       "episodeId": 4,
@@ -2024,6 +2024,27 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 538,
+      "episodeTitle": "Das längste Gebirge der Welt",
+      "episodeUrl": "https://gadg.fm/538",
+      "songId": "the-amoeba-people-girl-talk",
+      "band": "The Amoeba People",
+      "songTitle": "Girl Talk",
+      "matchTier": "A",
+      "justification": "Folge = Marie Tharp, Kartierung des Atlantikbodens und Grabenbruch im mittelozeanischen Rücken (Weg zur Akzeptanz der Kontinentaldrift); Song = dieselbe Figur und Entdeckung („Girl Talk“: Heezen-Ablehnung, Rift = Drift, spätere Bestätigung) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Marie Tharp",
+        "Mittelozeanischer Rücken",
+        "Grabenbruch",
+        "Kontinentaldrift",
+        "Bruce Heezen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NuugQSaHM7Y",
+      "matchedAt": "2026-10-15",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 545,
       "episodeTitle": "Der Nika-Aufstand und die Zirkusparteien",
       "episodeUrl": "https://gadg.fm/545",
@@ -2420,6 +2441,26 @@
       "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 571,
+      "episodeTitle": "Die Katastrophe von Kamarina und die erste Flotte Roms",
+      "episodeUrl": "https://gadg.fm/571",
+      "songId": "deos-mylae",
+      "band": "Deos",
+      "songTitle": "Mylae",
+      "matchTier": "B",
+      "justification": "Folge = Flottenkatastrophe von Kamarina 255 v. Chr. und Aufbau der ersten römischen Flotte (1. Punischer Krieg; Corvus-Taktik und deren Rolle für Erfolg und Seetauglichkeit); Song = Seesieg von Mylae 260 v. Chr. (Duilius, Debut des Corvus) — gleicher Kriegs-, Flotten- und Technikrahmen, anderer Fokus (Sieg statt Sturmkatastrophe) (Tier B).",
+      "sharedEntities": [
+        "1. Punischer Krieg",
+        "römische Flotte",
+        "Corvus",
+        "Sizilien"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XJabWzbLoIg",
+      "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
     {
