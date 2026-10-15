@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-15 21:18:00 +0200  </small>
-<small>**JSON-Status:** 2026-10-15 21:18:00 +0200  </small>
+<small>**Compile-Datum:** 2026-10-15 21:48:15 +0200  </small>
+<small>**JSON-Status:** 2026-10-15 21:48:15 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -47,6 +47,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [211](https://gadg.fm/211) | Griechisches Feuer | Bible of the Devil | Greek Fire | A | [link](https://www.youtube.com/watch?v=bYMfPY6ZVmU) | [link](https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt) |
 | [211](https://gadg.fm/211) | Griechisches Feuer | Turisas | Greek Fire | A | [link](https://www.youtube.com/watch?v=NYoUaDLExV0) | [link](https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg) |
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Jeff Beck & Johnny Depp | This Is A Song For Miss Hedy Lamarr | A | [link](https://www.youtube.com/watch?v=maa1xTKu7aQ) | [link](https://open.spotify.com/track/6zueINKfHroKC92vN1oSEm) |
+| [215](https://gadg.fm/215) | Wojtek, polnischer Soldatenbär | The Metal Alliance | The Beast of War | A | [link](https://www.youtube.com/watch?v=u5XtLHmLjoY) | [link](https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Judicator | King of Rome | C | [link](https://www.youtube.com/watch?v=t4maP9qGQPc) | [link](https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk) |
 | [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | C | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) |
@@ -60,6 +61,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Crystallion | Hundred Days | C | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | C | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [280](https://gadg.fm/280) | Der versunkene Kontinent Lemuria | Visions of Atlantis | Return to Lemuria | C | [link](https://www.youtube.com/watch?v=4tJAdUahyTA) | [link](https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr) |
+| [282](https://gadg.fm/282) | Fredegund, Brunhild und der merowingische Bruderkrieg | Leaves' Eyes | Galswintha | B | [link](https://www.youtube.com/watch?v=LtjPOahF0LA) | [link](https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M) |
 | [283](https://gadg.fm/283) | Lola Montez | Volbeat | Lola Montez | A | [link](https://www.youtube.com/watch?v=GWOIDN-akrY) | [link](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) |
 | [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Battle Symphony | The Fall of the Queen of Cities | A | [link](https://www.youtube.com/watch?v=KQyYkMbEZP4) | [link](https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM) |
 | [289](https://gadg.fm/289) | Ein Kreuzzug, der einen ungeahnten Verlauf nahm | Bolt Thrower | The IVth Crusade | A | [link](https://www.youtube.com/watch?v=4GPFduVKuEg) | [link](https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo) |
@@ -81,6 +83,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Monks of War | A | [link](https://www.youtube.com/watch?v=Omzyyj401ys) | [link](https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Sabaton | Templars | A | [link](https://www.youtube.com/watch?v=B10ECkQXQtU) | [link](https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | The Curse of Jacques | A | [link](https://www.youtube.com/watch?v=4C84PeWW8UI) | [link](https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6) |
+| [378](https://gadg.fm/378) | Ein langer Marsch durch Feindesland | Countess | March of the Ten Thousand | A | [link](https://www.youtube.com/watch?v=-OXnxnbJk_g) | [link](https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR) |
 | [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | B | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [390](https://gadg.fm/390) | Kleopatra Selene und das Ende der Römischen Republik | Ex Deo | The Final War (Battle of Actium) | B | [link](https://www.youtube.com/watch?v=qcfaltp8CL0) | [link](https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |

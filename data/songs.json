@@ -719,6 +719,41 @@
     ]
   },
   {
+    "id": "countess-march-of-the-ten-thousand",
+    "band": "Countess",
+    "title": "March of the Ten Thousand",
+    "entities": [
+      "Zug der Zehntausend",
+      "Xenophon",
+      "Cyrus",
+      "Kunaxa",
+      "Cunaxa",
+      "Anabasis",
+      "Tissaphernes",
+      "Artaxerxes II"
+    ],
+    "era": "401 v. Chr. / 2005",
+    "spotifyUrl": "https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-OXnxnbJk_g",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://countessmetal.bandcamp.com/album/spawn-of-steel",
+        "note": "Spawn of Steel (2005), Track March of the Ten Thousand; Lyrics: Cyrus, Cunaxa, Xenophon, Meer"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.countessmetal.com/discography_Spawn_of_Steel.html",
+        "note": "Volltext auf Bandseite"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Countess/Spawn_of_Steel/76754",
+        "note": "Metal Archives: Black/Power-Metal-Mix, Barbarian Wrath"
+      }
+    ]
+  },
+  {
     "id": "cr7z-gaia",
     "band": "Cr7z",
     "title": "Gaia",
@@ -7477,6 +7512,68 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Alapalooza",
         "note": "Alapalooza (1993); Comedy/Parody Rock"
+      }
+    ]
+  },
+  {
+    "id": "the-metal-alliance-the-beast-of-war",
+    "band": "The Metal Alliance",
+    "title": "The Beast of War",
+    "entities": [
+      "Wojtek",
+      "Voytek",
+      "Soldatenbär",
+      "Monte Cassino",
+      "2. polnisches Korps",
+      "22. Artillerie-Versorgungskompanie",
+      "Syrischer Braunbär"
+    ],
+    "era": "1942–1945 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
+    "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.cancioneros.com/lyrics/song/2613612/the-beast-of-war-the-metal-alliance",
+        "note": "Lyrics: Polish 22nd artillery, Private/Corporal Voytek, Monte Cassino, Syrian brown bear"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/The_Metal_Alliance/Forged_by_Steel/670625",
+        "note": "Metal Archives: Forged by Steel (2017), Track The Beast of War; Genre Heavy Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/The_Metal_Alliance/3540431528",
+        "note": "Band: International (NL/NO/SE), Heavy Metal, 2013–"
+      }
+    ]
+  },
+  {
+    "id": "leaves-eyes-galswintha",
+    "band": "Leaves' Eyes",
+    "title": "Galswintha",
+    "entities": [
+      "Galswintha",
+      "Fredegund",
+      "Westgoten",
+      "Neustrien",
+      "Chilperich I.",
+      "Merowinger"
+    ],
+    "era": "6. Jh. / 2013",
+    "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
+        "note": "Lyrics: Visigoth princess, King of Neustria, Fredegund strangles"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Leaves%27_Eyes/Symphonies_of_the_Night/387012",
+        "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
       }
     ]
   }
