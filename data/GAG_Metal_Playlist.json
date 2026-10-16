@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-15 21:48:15 +0200",
+  "updatedAt": "2026-10-16 19:53:42 +0200",
   "entries": [
+    {
+      "episodeId": 1,
+      "episodeTitle": "Vier Langobarden-Könige und ein Trinkbecher",
+      "episodeUrl": "https://gadg.fm/1",
+      "songId": "professor-emeritus-rosamund",
+      "band": "Professor Emeritus",
+      "songTitle": "Rosamund",
+      "matchTier": "A",
+      "justification": "Folge = Alboin / Rosamunde und der Schädelbecher (#1); Song = Ich-Perspektive Rosamundas (Zwangsehe, Trinken aus dem Vatersschädel, Rachemord) — derselbe Kern der Langobarden-Sage (Tier A).",
+      "sharedEntities": [
+        "Alboin",
+        "Rosamunde",
+        "Schädelbecher",
+        "Langobarden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
     {
       "episodeId": 4,
       "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
@@ -38,6 +58,27 @@
       "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
       "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 12,
+      "episodeTitle": "Ein Kaiser, ein Gott, viele Todesfälle",
+      "episodeUrl": "https://gadg.fm/12",
+      "songId": "rorcal-heliogabalus",
+      "band": "Rorcal",
+      "songTitle": "Heliogabalus",
+      "matchTier": "A",
+      "justification": "Folge = Kaiser Elagabal / Heliogabalus (Sonnengott, schwarzer Stein, Tod im Tiber) (#12); Song = Konzeptstück zur Dekadenzherrschaft desselben Kaisers (u. a. nach Artaud) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Elagabal",
+        "Heliogabalus",
+        "Sonnengott",
+        "schwarzer Stein",
+        "Rom"
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl",
+      "youtubeUrl": "https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g",
+      "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
     {
@@ -79,6 +120,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 35,
+      "episodeTitle": "Magia Posthuma – Vampirismus in Zeiten der Aufklärung",
+      "episodeUrl": "https://gadg.fm/35",
+      "songId": "atrocity-shadowtaker",
+      "band": "Atrocity",
+      "songTitle": "Shadowtaker",
+      "matchTier": "A",
+      "justification": "Folge = Magia Posthuma / Wiedergänger-Fälle und Habsburger Reaktion (van Swieten, Maria Theresia); Song = slawischer Wiedergänger nach Schertz’ Magia Posthuma (u. a. Tod binnen Tagen) — derselbe historische Kern (Tier A).",
+      "sharedEntities": [
+        "Magia Posthuma",
+        "Wiedergänger",
+        "Vampirismus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 40,
       "episodeTitle": "Über den Ursprung der Seidenstraße",
       "episodeUrl": "https://gadg.fm/40",
@@ -97,6 +157,163 @@
       "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
       "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 47,
+      "episodeTitle": "Die Schwabenkinder und ihre Geschichte",
+      "episodeUrl": "https://gadg.fm/47",
+      "songId": "slartibartfass-schwabenkinder",
+      "band": "Slartibartfass",
+      "songTitle": "Schwabenkinder",
+      "matchTier": "A",
+      "justification": "Folge = Schwaben-/Hütekinder und Schwabengehen (Alpen nach Schwaben); Song = Folk-Metal-Stück gleichen historischen Namens, Ulmer Band mit regionalem Albumkontext — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schwabenkinder",
+        "Hütekinder",
+        "Schwabengehen",
+        "Schwaben"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 59,
+      "episodeTitle": "The Lost Colony",
+      "episodeUrl": "https://gadg.fm/59",
+      "songId": "ov-moros-disappearance",
+      "band": "Ov Moros",
+      "songTitle": "Disappearance",
+      "matchTier": "A",
+      "justification": "Folge = Lost Colony Roanoke (engl. Kolonieversuche 1580er, ungelöstes Verschwinden); Song = Versorgungsschiff nach drei Jahren, leere Insel, Fort zerstört, Inschrift Croatoan — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Roanoke",
+        "Lost Colony",
+        "Croatoan"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dj98LwbwlDg",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 59,
+      "episodeTitle": "The Lost Colony",
+      "episodeUrl": "https://gadg.fm/59",
+      "songId": "zao-croatoan",
+      "band": "Zao",
+      "songTitle": "Croatoan",
+      "matchTier": "C",
+      "justification": "Folge = Lost Colony Roanoke / Croatoan; Song = Band nennt Roanoke als Inspiration, Text nutzt Croatoan als Metapher für Dissoziation — assoziative Nähe (Tier C).",
+      "sharedEntities": [
+        "Croatoan",
+        "Roanoke"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 76,
+      "episodeTitle": "Holdouts – Japans vergessene Soldaten",
+      "episodeUrl": "https://gadg.fm/76",
+      "songId": "flashback-of-anger-holdout",
+      "band": "Flashback of Anger",
+      "songTitle": "Holdout",
+      "matchTier": "A",
+      "justification": "Folge = japanische Holdouts nach 1945; Song = Soldat auf Philippinen-Insel, Nie-ergeben-Befehl, Flugblätter als Betrug, ~30 Jahre in den Bergen (Onoda-Stoff) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Holdouts",
+        "Hiroo Onoda",
+        "Philippinen",
+        "Japan"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uxvn-gIFVZo",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 76,
+      "episodeTitle": "Holdouts – Japans vergessene Soldaten",
+      "episodeUrl": "https://gadg.fm/76",
+      "songId": "game-zero-believe",
+      "band": "Game Zero",
+      "songTitle": "Believe",
+      "matchTier": "A",
+      "justification": "Folge = japanische Holdouts (u. a. Onoda); Song = laut Band/Video Hiroo Onoda auf Lubang, 29 Jahre ohne Kapitulation — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Hiroo Onoda",
+        "Holdouts",
+        "Lubang",
+        "Philippinen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 79,
+      "episodeTitle": "Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda",
+      "episodeUrl": "https://gadg.fm/79",
+      "songId": "kamelot-song-of-roland",
+      "band": "Kamelot",
+      "songTitle": "Song of Roland",
+      "matchTier": "A",
+      "justification": "Folge = Rolandslied als Heldenlied und Kreuzzugspropaganda; Song = Nacherzählung der Roland-Moritat (Nachhut, Maurenkampf, Horn) — derselbe Stoffkern (Tier A).",
+      "sharedEntities": [
+        "Roland",
+        "Rolandslied",
+        "Karl der Große",
+        "Roncesvalles"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jYAAUwtmKcA",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 79,
+      "episodeTitle": "Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda",
+      "episodeUrl": "https://gadg.fm/79",
+      "songId": "wotan-la-chanson-de-roland",
+      "band": "Wotan",
+      "songTitle": "La Chanson de Roland",
+      "matchTier": "A",
+      "justification": "Folge = Rolandslied (Roland, Horn, Durendal); Song = Ich-Perspektive des Endkampfs (Horn, unzerbrechliche Durendal, Tod) — derselbe Stoffkern (Tier A).",
+      "sharedEntities": [
+        "Roland",
+        "Rolandslied",
+        "Durendal",
+        "Olifant"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
+      "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
+      "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 83,
+      "episodeTitle": "100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege",
+      "episodeUrl": "https://gadg.fm/83",
+      "songId": "saxorior-hussiten",
+      "band": "Saxorior",
+      "songTitle": "Hussiten",
+      "matchTier": "A",
+      "justification": "Folge = Jan Hus und die Hussitenkriege; Song = Hus in Konstanz, Fenstersturz, Hussitenzüge — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Jan Hus",
+        "Hussitenkriege",
+        "Konstanz",
+        "Fenstersturz"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
+      "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
+      "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
     {
@@ -324,6 +541,26 @@
       "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
       "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 152,
+      "episodeTitle": "Ernest Shackleton und die Endurance-Expedition",
+      "episodeUrl": "https://gadg.fm/152",
+      "songId": "the-wright-valley-trio-shackleton",
+      "band": "The Wright Valley Trio",
+      "songTitle": "Shackleton",
+      "matchTier": "A",
+      "justification": "Folge = Ernest Shackleton / Endurance-Expedition (Packeis, Elephant Island, Südgeorgien-Überlebenskampf); Song = Shackleton (Antarktis-Eis, Weiterkriechen trotz Leichen/Hoffnung am Ende der Welt) — derselbe Kern Person und polarer Überlebenskampf (Tier A).",
+      "sharedEntities": [
+        "Ernest Shackleton",
+        "Antarktis",
+        "Packeis",
+        "Polarer Überlebenskampf"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sJ7mYvFrc_Y",
+      "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
     {
@@ -630,6 +867,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 215,
+      "episodeTitle": "Wojtek, polnischer Soldatenbär",
+      "episodeUrl": "https://gadg.fm/215",
+      "songId": "the-metal-alliance-the-beast-of-war",
+      "band": "The Metal Alliance",
+      "songTitle": "The Beast of War",
+      "matchTier": "A",
+      "justification": "Folge = Wojtek, polnischer Soldatenbär (2. polnisches Korps, Monte Cassino); Song = The Beast of War (polnische 22. Artillerie-Versorgungskompanie, Private/Corporal Voytek, syrischer Braunbär, Granaten bei Monte Cassino) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Wojtek",
+        "Monte Cassino",
+        "2. polnisches Korps",
+        "Soldatenbär"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
+      "matchedAt": "2026-10-15",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 216,
       "episodeTitle": "Napoleon II. – Vom König von Rom zum Herzog von Reichstadt",
       "episodeUrl": "https://gadg.fm/216",
@@ -868,6 +1125,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 282,
+      "episodeTitle": "Fredegund, Brunhild und der merowingische Bruderkrieg",
+      "episodeUrl": "https://gadg.fm/282",
+      "songId": "leaves-eyes-galswintha",
+      "band": "Leaves' Eyes",
+      "songTitle": "Galswintha",
+      "matchTier": "B",
+      "justification": "Folge = Fredegund, Brunhild und merowingischer Bruderkrieg (Auslöser: Hochzeit/Ermordung der westgotischen Prinzessin); Song = Ermordung Galswinthas durch Fredegund (Neustrien, Eifersucht) — gemeinsamer Auslöser und Fredegund, Song ohne Brunhild/Jahrzehntekrieg (Tier B).",
+      "sharedEntities": [
+        "Fredegund",
+        "Galswintha",
+        "Westgotische Prinzessin",
+        "Merowinger"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
+      "matchedAt": "2026-10-15",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 283,
       "episodeTitle": "Lola Montez",
       "episodeUrl": "https://gadg.fm/283",
@@ -1088,6 +1365,26 @@
       "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
       "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 347,
+      "episodeTitle": "Adrianopel 378",
+      "episodeUrl": "https://gadg.fm/347",
+      "songId": "gotland-adrianopoli",
+      "band": "Gotland",
+      "songTitle": "Adrianopoli",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht von Adrianopel 378 (Valens vs. Terwingen/Goten, Folgen für das Imperium); Song = Adrianopoli (römische und gotische Perspektive: Legionen, Pfeilregen, Kavallerie-Ambush, Tod des Kaisers, Untergangshorizont) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Adrianopel 378",
+        "Valens",
+        "Goten",
+        "Terwingen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YPpQ2qzKBUg",
+      "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
     {
@@ -2693,46 +2990,6 @@
       "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
       "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
       "matchedAt": "2026-10-14",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 215,
-      "episodeTitle": "Wojtek, polnischer Soldatenbär",
-      "episodeUrl": "https://gadg.fm/215",
-      "songId": "the-metal-alliance-the-beast-of-war",
-      "band": "The Metal Alliance",
-      "songTitle": "The Beast of War",
-      "matchTier": "A",
-      "justification": "Folge = Wojtek, polnischer Soldatenbär (2. polnisches Korps, Monte Cassino); Song = The Beast of War (polnische 22. Artillerie-Versorgungskompanie, Private/Corporal Voytek, syrischer Braunbär, Granaten bei Monte Cassino) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Wojtek",
-        "Monte Cassino",
-        "2. polnisches Korps",
-        "Soldatenbär"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
-      "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
-      "matchedAt": "2026-10-15",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 282,
-      "episodeTitle": "Fredegund, Brunhild und der merowingische Bruderkrieg",
-      "episodeUrl": "https://gadg.fm/282",
-      "songId": "leaves-eyes-galswintha",
-      "band": "Leaves' Eyes",
-      "songTitle": "Galswintha",
-      "matchTier": "B",
-      "justification": "Folge = Fredegund, Brunhild und merowingischer Bruderkrieg (Auslöser: Hochzeit/Ermordung der westgotischen Prinzessin); Song = Ermordung Galswinthas durch Fredegund (Neustrien, Eifersucht) — gemeinsamer Auslöser und Fredegund, Song ohne Brunhild/Jahrzehntekrieg (Tier B).",
-      "sharedEntities": [
-        "Fredegund",
-        "Galswintha",
-        "Westgotische Prinzessin",
-        "Merowinger"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
-      "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
-      "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     }
   ]

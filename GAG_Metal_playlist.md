@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-15 21:48:15 +0200  </small>
-<small>**JSON-Status:** 2026-10-15 21:48:15 +0200  </small>
+<small>**Compile-Datum:** 2026-10-16 20:13:33 +0200  </small>
+<small>**JSON-Status:** 2026-10-16 19:53:42 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -14,11 +14,22 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
+| [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Professor Emeritus | Rosamund | A | [link](https://www.youtube.com/watch?v=wGfekg9xP2k) | [link](https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Hougoumont | B | [link](https://www.youtube.com/watch?v=AeRLXiYmt_c) | [link](https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | B | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
+| [12](https://gadg.fm/12) | Ein Kaiser, ein Gott, viele Todesfälle | Rorcal | Heliogabalus | A | [link](https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g) | [link](https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl) |
 | [22](https://gadg.fm/22) | Vom Goldjungen zum Staatsgefangenen | Stern-Combo Meißen | Die Erkenntnis | A | [link](https://www.youtube.com/watch?v=dpTogEzcbvo) | [link](https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z) |
 | [22](https://gadg.fm/22) | Vom Goldjungen zum Staatsgefangenen | Stern-Combo Meißen | Weißes Gold | A | [link](https://www.youtube.com/watch?v=plMh2A33ino) | [link](https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke) |
+| [35](https://gadg.fm/35) | Magia Posthuma – Vampirismus in Zeiten der Aufklärung | Atrocity | Shadowtaker | A | [link](https://www.youtube.com/watch?v=0jEzVtQdJP0) | [link](https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg) |
 | [40](https://gadg.fm/40) | Über den Ursprung der Seidenstraße | Saxon | Kubla Khan And The Merchant Of Venice | C | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
+| [47](https://gadg.fm/47) | Die Schwabenkinder und ihre Geschichte | Slartibartfass | Schwabenkinder | A | [link](https://www.youtube.com/watch?v=c64SQsd8PuY) | [link](https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7) |
+| [59](https://gadg.fm/59) | The Lost Colony | Zao | Croatoan | C | [link](https://www.youtube.com/watch?v=R2oA5aM11xU) | [link](https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W) |
+| [59](https://gadg.fm/59) | The Lost Colony | Ov Moros | Disappearance | A | [link](https://www.youtube.com/watch?v=dj98LwbwlDg) | [link](https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM) |
+| [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Game Zero | Believe | A | [link](https://www.youtube.com/watch?v=ePwIct8A2Kw) | [link](https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD) |
+| [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Flashback of Anger | Holdout | A | [link](https://www.youtube.com/watch?v=uxvn-gIFVZo) | [link](https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30) |
+| [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Wotan | La Chanson de Roland | A | [link](https://www.youtube.com/watch?v=i1-M8BmWB5o) | [link](https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On) |
+| [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Kamelot | Song of Roland | A | [link](https://www.youtube.com/watch?v=jYAAUwtmKcA) | [link](https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ) |
+| [83](https://gadg.fm/83) | 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege | Saxorior | Hussiten | A | [link](https://www.youtube.com/watch?v=p37k-uPWqQc) | [link](https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud) |
 | [100](https://gadg.fm/100) | Der Fall der „Mignonette“ und seine Folgen | Scent of Amber | Custom of the Sea | A | [link](https://www.youtube.com/watch?v=P_KOPhWUXcw) | [link](https://open.spotify.com/track/5epQW1revzqLK58ffFcwac) |
 | [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | [link](https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX) |
 | [107](https://gadg.fm/107) | Eine kurze Geschichte der Guillotine | Saxon | Madame Guillotine | A | [link](https://www.youtube.com/watch?v=Tfca2Kz4064) | [link](https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz) |
@@ -31,6 +42,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [132](https://gadg.fm/132) | Gesche Gottfried, der Engel von Bremen | Team Scheisse | Spuckstein | C | [link](https://www.youtube.com/watch?v=2JnmtQVgcL0) | [link](https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Warkings | Azrael | C | [link](https://www.youtube.com/watch?v=BXOM-CQGV0E) | [link](https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | B | [link](https://www.youtube.com/watch?v=SGj0HvYXxT4) | [link](https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo) |
+| [152](https://gadg.fm/152) | Ernest Shackleton und die Endurance-Expedition | The Wright Valley Trio | Shackleton | A | [link](https://www.youtube.com/watch?v=sJ7mYvFrc_Y) | [link](https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J) |
 | [157](https://gadg.fm/157) | Salpeter – Aufstieg und Fall einer chemischen Verbindung | Sabaton | Father | C | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Lupo | Claudia | C | [link](https://www.youtube.com/watch?v=zIlwbluPAIw) | [link](https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Ex Deo | The Fall of Claudius | B | [link](https://www.youtube.com/watch?v=GLjmLlsBl9M) | [link](https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b) |
@@ -74,6 +86,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [318](https://gadg.fm/318) | Der Nuklearunfall von Goiânia | Tom Morello & The Bloody Beetroots | Radium Girls | C | [link](https://www.youtube.com/watch?v=yD0P0bwZKk8) | [link](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) |
 | [333](https://gadg.fm/333) | Alexandria | Iron Maiden | Alexander the Great | C | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [345](https://gadg.fm/345) | Suffrajitsu | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
+| [347](https://gadg.fm/347) | Adrianopel 378 | Gotland | Adrianopoli | A | [link](https://www.youtube.com/watch?v=YPpQ2qzKBUg) | [link](https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schmetterlinge | Kampflied der Bauern | A | [link](https://www.youtube.com/watch?v=EQHL0ZL8peM) | [link](https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schnitter | Thomas Müntzer | C | [link](https://www.youtube.com/watch?v=J7uHye4hU1M) | [link](https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
