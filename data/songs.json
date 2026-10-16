@@ -7576,5 +7576,474 @@
         "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
       }
     ]
+  },
+  {
+    "id": "the-wright-valley-trio-shackleton",
+    "band": "The Wright Valley Trio",
+    "title": "Shackleton",
+    "entities": [
+      "Ernest Shackleton",
+      "Antarktis",
+      "Packeis",
+      "Endurance",
+      "Polarer Überlebenskampf"
+    ],
+    "era": "1914–1917 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J",
+    "youtubeUrl": "https://www.youtube.com/watch?v=sJ7mYvFrc_Y",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://wrightvalley.bandcamp.com/album/shackleton",
+        "note": "Lyrics: Ice Death Cold, Must Walk Crawl, end of the world / hope"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/The_Wright_Valley_Trio/Shackleton/687076",
+        "note": "Metal Archives: Shackleton (2017), Doom/Sludge; Band nach Wright Valley (Antarktis)"
+      },
+      {
+        "type": "band",
+        "url": "https://wrightvalley.com/",
+        "note": "Band: Doom/Sludge, Wiesbaden; Antarctic aesthetic"
+      }
+    ]
+  },
+  {
+    "id": "gotland-adrianopoli",
+    "band": "Gotland",
+    "title": "Adrianopoli",
+    "entities": [
+      "Adrianopel",
+      "Schlacht von Adrianopel 378",
+      "Valens",
+      "Terwingen",
+      "Goten",
+      "Fritigern",
+      "Oströmisches Reich"
+    ],
+    "era": "378 / 2014",
+    "spotifyUrl": "https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YPpQ2qzKBUg",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://gotlandmetal.bandcamp.com/album/gloria-et-morte",
+        "note": "Lyrics: Rom/Goten-Perspektive, Kavallerie-Ambush, Tod des Kaisers, Empire fading"
+      },
+      {
+        "type": "secondary",
+        "url": "https://heavymetalclassicist.home.blog/2019/08/04/gotland-adrianopoli/",
+        "note": "Heavy Metal Classicist: Song = Schlacht von Adrianopel 378"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Gotland/Gloria_et_Morte/401274",
+        "note": "Metal Archives: Gloria et Morte (2014), Folk/Black Metal"
+      }
+    ]
+  },
+  {
+    "id": "xynfonica-from-your-fathers-skull",
+    "band": "Xynfonica",
+    "title": "From Your Father's Skull",
+    "entities": [
+      "Alboin",
+      "Rosamunde",
+      "Rosamund",
+      "Kunimund",
+      "Schädelbecher",
+      "Langobarden",
+      "Gepiden"
+    ],
+    "era": "6. Jh. / 2007",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://rateyourmusic.com/artist/xynfonica",
+        "note": "RYM: A Feast for Famished Ravens (2008) — Dungeon Synth / MIDI / Experimental; Track Drink My Darling From Your Father's Skull"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/artist/xynfonica/258548950",
+        "note": "Apple Music: From Your Father's Skull auf A Feast for Famished Ravens (2007)"
+      }
+    ]
+  },
+  {
+    "id": "professor-emeritus-rosamund",
+    "band": "Professor Emeritus",
+    "title": "Rosamund",
+    "entities": [
+      "Rosamunde",
+      "Rosamund",
+      "Alboin",
+      "Kunimund",
+      "Schädelbecher",
+      "Langobarden",
+      "Gepiden"
+    ],
+    "era": "6. Jh. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/professor-emeritus/rosamund-lyrics/",
+        "note": "Lyrics: Rosamund my name; drank from my father's skull; planned his death; Sono Rosamunda"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Professor_Emeritus/Take_Me_to_the_Gallows/681103",
+        "note": "Metal Archives: Take Me to the Gallows (2017), Heavy/Epic Doom; Track 6 Rosamund"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://professoremeritus.bandcamp.com/album/take-me-to-the-gallows",
+        "note": "Bandcamp: Take Me to the Gallows"
+      }
+    ]
+  },
+  {
+    "id": "rorcal-heliogabalus",
+    "band": "Rorcal",
+    "title": "Heliogabalus",
+    "entities": [
+      "Elagabal",
+      "Heliogabalus",
+      "Elagabalus",
+      "Sonnengott",
+      "schwarzer Stein",
+      "Rom"
+    ],
+    "era": "218–222 / 2010",
+    "spotifyUrl": "https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://rorcal.bandcamp.com/album/heliogabalus",
+        "note": "Konzeptalbum: Dekadenz Kaiser Heliogabalus; Parts I–IV (+ Prelude)"
+      },
+      {
+        "type": "interview",
+        "url": "https://vampster.com/interviews/rorcal-doom-it-yourself/",
+        "note": "JP: Konzept über Artaud Heliogabal oder der Anarchist auf dem Thron; Fokus Regierungszeit"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rorcal/Heliogabalus/285674",
+        "note": "Metal Archives: Heliogabalus (2010), Extreme Doom/Sludge"
+      }
+    ]
+  },
+  {
+    "id": "abikyokan-maxentius",
+    "band": "Abikyokan",
+    "title": "Maxentius",
+    "entities": [
+      "Maxentius",
+      "Konstantin der Große",
+      "Milvische Brücke",
+      "312",
+      "Tiber"
+    ],
+    "era": "312 / 2013",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://abikyokan.bandcamp.com/track/maxentius",
+        "note": "Lyrics: In hoc signo / Maxentius fell / head on a spike / Constantine into Rome"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bandcamp.k47.cz/?art=abikyokan",
+        "note": "Genre-Tags: electronic pop / indie / avant-pop / neo-psychedelia"
+      }
+    ]
+  },
+  {
+    "id": "kamelot-song-of-roland",
+    "band": "Kamelot",
+    "title": "Song of Roland",
+    "entities": [
+      "Roland",
+      "Rolandslied",
+      "Karl der Große",
+      "Roncesvalles",
+      "Olifant",
+      "Mauren"
+    ],
+    "era": "778 / 12. Jh. / 1997",
+    "spotifyUrl": "https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jYAAUwtmKcA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/kamelot/dominion.html",
+        "note": "Lyrics Warner: Nachhut, Moors, horn, never knight so worthy"
+      },
+      {
+        "type": "secondary",
+        "url": "https://kamelot.com/release/dominion/",
+        "note": "Dominion (1997), Noise Records; Power/Prog Metal"
+      }
+    ]
+  },
+  {
+    "id": "wotan-la-chanson-de-roland",
+    "band": "Wotan",
+    "title": "La Chanson de Roland",
+    "entities": [
+      "Roland",
+      "Rolandslied",
+      "Durendal",
+      "Olifant",
+      "Roncesvalles"
+    ],
+    "era": "778 / 12. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
+    "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/w/wotan-lyrics/la-chanson-de-roland-lyrics.html",
+        "note": "Lyrics: horn, Durendal unbreakable, last blow, death in mountains"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Wotan/Epos/114019",
+        "note": "Epos (2007), Epic Heavy Metal; Track La Chanson de Roland ~15 min"
+      }
+    ]
+  },
+  {
+    "id": "saxorior-hussiten",
+    "band": "Saxorior",
+    "title": "Hussiten",
+    "entities": [
+      "Jan Hus",
+      "Hussitenkriege",
+      "Konstanz",
+      "Fenstersturz",
+      "Prokop",
+      "Utraquisten",
+      "Sigismund"
+    ],
+    "era": "1415–1436 / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
+    "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://azlyrics.biz/s/saxorior-lyrics/saxorior-hussiten-lyrics/",
+        "note": "Lyrics: Konstanz, Sigismund, Flammen, Fenstersturz, Hussitenzüge, Prokop"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://saxorior.bandcamp.com/album/hem",
+        "note": "HEM (2019); Melodic/Pagan Black Metal; Track 7 Hussiten"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Saxorior/HEM/798015",
+        "note": "Metal Archives: HEM; Themes War/History"
+      }
+    ]
+  },
+  {
+    "id": "slartibartfass-schwabenkinder",
+    "band": "Slartibartfass",
+    "title": "Schwabenkinder",
+    "entities": [
+      "Schwabenkinder",
+      "Hütekinder",
+      "Schwabengehen",
+      "Tirol",
+      "Vorarlberg",
+      "Schwaben"
+    ],
+    "era": "16.–20. Jh. / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metalmusicarchives.com/album/slartibartfass/funkenfeuer",
+        "note": "Funkenfeuer (2009), Folk Metal; Track 6 Schwabenkinder; Cover Wolfgang Greiner"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.hotel666.de/reviews/slartibartfass-funkenfeuer",
+        "note": "Review: Ulmer Band; Stück auf Funkenfeuer neben Schöner Lau"
+      }
+    ]
+  },
+  {
+    "id": "atrocity-shadowtaker",
+    "band": "Atrocity",
+    "title": "Shadowtaker",
+    "entities": [
+      "Magia Posthuma",
+      "Wiedergänger",
+      "Karl Ferdinand von Schertz",
+      "Vampirismus",
+      "Habsburger Monarchie"
+    ],
+    "era": "18. Jh. / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/atrocity/okkultii.html",
+        "note": "Lyrics: Wiedergänger, Menschenfresser, death within eight days, Magia posthuma"
+      },
+      {
+        "type": "interview",
+        "url": "http://www.metal-impressions.de/?s=Atrocity",
+        "note": "Krull: Schertz Magia Posthuma, Flückinger 1732, Vampir-Erlass 1755; slawischer Wiedergänger"
+      },
+      {
+        "type": "secondary",
+        "url": "https://blabbermouth.net/news/atrocity-shadowtaker-video-released",
+        "note": "Okkult II (2018), Massacre; Official Shadowtaker video"
+      }
+    ]
+  },
+  {
+    "id": "flashback-of-anger-holdout",
+    "band": "Flashback of Anger",
+    "title": "Holdout",
+    "entities": [
+      "Holdouts",
+      "Hiroo Onoda",
+      "Philippinen",
+      "Zweiter Weltkrieg",
+      "Japan"
+    ],
+    "era": "1945–1974 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30",
+    "youtubeUrl": "https://www.youtube.com/watch?v=uxvn-gIFVZo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/flashbackofanger/shades.html",
+        "note": "Lyrics: Philippines island, never surrender, leaflets, ~30 years mountains, Rising Sun"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://flashbackofanger.bandcamp.com/album/shades",
+        "note": "Shades (2018); Melodic Power/Prog Metal; Track 5 Holdout"
+      }
+    ]
+  },
+  {
+    "id": "game-zero-believe",
+    "band": "Game Zero",
+    "title": "Believe",
+    "entities": [
+      "Hiroo Onoda",
+      "Holdouts",
+      "Lubang",
+      "Philippinen",
+      "Zweiter Weltkrieg",
+      "Japan"
+    ],
+    "era": "1944–1974 / 2020",
+    "spotifyUrl": "https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.gamezeroband.com/video.html",
+        "note": "Official: inspired by Onoda Hiroo, Lubang, 29 years, ghost soldier"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+        "note": "Official video: Hiroo Onoda Inspired; Art Gates Records"
+      }
+    ]
+  },
+  {
+    "id": "ov-moros-disappearance",
+    "band": "Ov Moros",
+    "title": "Disappearance",
+    "entities": [
+      "Roanoke",
+      "Lost Colony",
+      "Croatoan",
+      "John White",
+      "Walter Raleigh"
+    ],
+    "era": "1587–1590 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dj98LwbwlDg",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ovmoros.bandcamp.com/track/disappearance",
+        "note": "Lyrics: supply ship, three years later, fort gone, Croatoan; album Roanoke"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Ov_Moros/Roanoke/660448",
+        "note": "Progressive Doom Metal; Roanoke (2017), Track 7 Disappearance"
+      }
+    ]
+  },
+  {
+    "id": "zao-croatoan",
+    "band": "Zao",
+    "title": "Croatoan",
+    "entities": [
+      "Croatoan",
+      "Roanoke",
+      "Lost Colony"
+    ],
+    "era": "1587–1590 / 2021",
+    "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
+    "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://officialzao.bandcamp.com/track/croatoan",
+        "note": "Lyrics: dissociation/dream metaphor; title word Croatoan only"
+      },
+      {
+        "type": "interview",
+        "url": "https://metalinjection.net/new-music/zao-tells-the-tale-of-disappeared-settlers-in-new-song-croatoan",
+        "note": "Band: Roanoke Lost Colony inspiration; Weyandt: vehicle for dissociation"
+      }
+    ]
+  },
+  {
+    "id": "witchfield-sabbatai-zevi",
+    "band": "Witchfield",
+    "title": "Sabbatai Zevi",
+    "entities": [
+      "Sabbatai Zevi",
+      "Sabbatai Zwi",
+      "Sabbatianismus"
+    ],
+    "era": "17. Jh. / 2015",
+    "spotifyUrl": "https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://blackwidow.it/readmore.php?id=96",
+        "note": "Albumkonzept: Sabbatai Zevi als Inspiration; Doom Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Witchfield/Sabbatai_Zevi/500251",
+        "note": "Sabbatai Zevi (2015), Black Widow; Track 3 Titelstück"
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-15 21:48:15 +0200  </small>
-<small>**JSON-Status:** 2026-10-13 22:30:30 +0200  </small>
+<small>**Compile-Datum:** 2026-10-16 20:13:33 +0200  </small>
+<small>**JSON-Status:** 2026-10-16 20:13:33 +0200  </small>
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -13,8 +13,10 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
+| [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Xynfonica | From Your Father's Skull | X | — | — |
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
+| [86](https://gadg.fm/86) | Sabbatai Zwi – Der falsche Messias | Witchfield | Sabbatai Zevi | X | — | [link](https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs) |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [125](https://gadg.fm/125) | Republik Fredonia | The Marx Brothers | Hail, Hail Freedonia | X | [link](https://www.youtube.com/watch?v=x4OJGdtRx10) | — |
 | [147](https://gadg.fm/147) | Das Fräulein vom Amt | Bangkok Impact | Junge Dame Mit Freundlicher Tellephonstimme | X | [link](https://www.youtube.com/watch?v=ci7n4_3Gk2Q) | — |
@@ -60,6 +62,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [388](https://gadg.fm/388) | Marie Tussaud und die Wachsfiguren | Annihilator | Phantasmagoria | X | — | [link](https://open.spotify.com/track/4078UGOgKIRJCz7GUqW8BR) |
 | [394](https://gadg.fm/394) | Die Verurteilung von Sacco und Vanzetti | Georges Moustaki | Marche de Sacco et Vanzetti | X | [link](https://www.youtube.com/watch?v=s-1Gi8ocgmc) | [link](https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Joan Baez | Battle Hymn of the Republic | X | [link](https://www.youtube.com/watch?v=YHforl6vnco) | [link](https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa) |
+| [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Abikyokan | Maxentius | X | — | — |
 | [405](https://gadg.fm/405) | Bonifatius, Apostel der Deutschen | KromleK | Kromlek | X | — | — |
 | [407](https://gadg.fm/407) | Das katastrophale Ende einer Kolonie | Alestorm | Magellan's Expedition | X | [link](https://www.youtube.com/watch?v=gsHmOb36-Js) | [link](https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW) |
 | [407](https://gadg.fm/407) | Das katastrophale Ende einer Kolonie | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
