@@ -4077,7 +4077,7 @@
       "Sechstagekrieg"
     ],
     "era": "1967",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7",
     "youtubeUrl": "https://www.youtube.com/watch?v=xKOxIcfuzx0",
     "sources": [
       {
@@ -8358,6 +8358,99 @@
         "type": "secondary",
         "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
         "note": "Label: medievalist dungeon synth"
+      }
+    ]
+  },
+  {
+    "id": "fvneral-fvkk-bishop-of-the-iron-guard",
+    "band": "Fvneral Fvkk",
+    "title": "Bishop of the Iron Guard",
+    "entities": [
+      "Valerian Trifa",
+      "Eiserne Garde",
+      "Legion Erzengel Michael",
+      "Rumänien"
+    ],
+    "era": "1940–1941 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://dyingvictimsproductions.bandcamp.com/track/bishop-of-the-iron-guard",
+        "note": "Lyrics: Brother Trifa, Archangel Michael's Legion, Iron Guard street terror"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal.de/specials/fvneral-fvkk-indecent-idols-track-by-track-mit-decanus-obscaenus-636097/",
+        "note": "Band Track-by-Track: Valerian Trifa, Eiserne Garde, Kirche–Faschismus"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+        "note": "Official visualizer Bishop of the Iron Guard"
+      }
+    ]
+  },
+  {
+    "id": "ritual-dictates-aqua-tofana",
+    "band": "Ritual Dictates",
+    "title": "Aqua Tofana",
+    "entities": [
+      "Giulia Tofana",
+      "Aqua Tofana",
+      "Astrologa della Lungara",
+      "Manna di San Nicola",
+      "Rom"
+    ],
+    "era": "17. Jh. / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://metalanarchy.com/2022/09/02/ritual-dictates-share-music-video-for-new-song-aqua-tofana-featuring-unleash-the-archers-brittney-slayes/",
+        "note": "Hagberg: Song über Giulia Tofana und die 600; feat. Brittney Slayes"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/band/view/id/3540465730",
+        "note": "Metal Archives: Gothic Metal/Rock; Album No Great Loss"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+        "note": "Official video Aqua Tofana"
+      }
+    ]
+  },
+  {
+    "id": "wilderun-the-coasts-of-high-barbaree",
+    "band": "Wilderun",
+    "title": "The Coasts of High Barbaree",
+    "entities": [
+      "High Barbaree",
+      "Barbaresken-Küste",
+      "Piraten"
+    ],
+    "era": "Frühe Neuzeit (Shanty) / 2012",
+    "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://wilderun.bandcamp.com/album/olden-tales-deathly-trails",
+        "note": "Track 6; traditional shanty arrangement; Folk/Prog Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.mainlynorfolk.info/peter.bellamy/songs/highbarbaree.html",
+        "note": "High Barbaree = Rif/Barbary Coast; traditional pirate vs navy ballad"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+        "note": "Video The Coasts of High Barbaree"
       }
     ]
   }

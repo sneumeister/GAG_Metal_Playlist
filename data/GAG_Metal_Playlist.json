@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17 15:40:00 +0200",
+  "updatedAt": "2026-10-17 17:23:06 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -3179,6 +3179,80 @@
       "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
       "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
       "matchedAt": "2026-10-14",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 39,
+      "episodeTitle": "Die Legion Erzengel Michael und Corneliu Codreanu",
+      "episodeUrl": "https://gadg.fm/39",
+      "songId": "fvneral-fvkk-bishop-of-the-iron-guard",
+      "band": "Fvneral Fvkk",
+      "songTitle": "Bishop of the Iron Guard",
+      "matchTier": "B",
+      "justification": "Folge = Codreanu und Legion Erzengel Michael; Song = Valerian Trifa / Iron-Guard-Straßenterror (Band: Kirche–Faschismus) — dieselbe Bewegung, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Legion Erzengel Michael",
+        "Eiserne Garde",
+        "Rumänien"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 335,
+      "episodeTitle": "Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts",
+      "episodeUrl": "https://gadg.fm/335",
+      "songId": "ritual-dictates-aqua-tofana",
+      "band": "Ritual Dictates",
+      "songTitle": "Aqua Tofana",
+      "matchTier": "A",
+      "justification": "Folge = Aqua Tofana / Giftmischerinnen Roms (17. Jh.); Song = Giulia Tofana, Astrologa della Lungara, Rezept-Stichworte, „600“ — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Aqua Tofana",
+        "Giulia Tofana",
+        "Rom"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 180,
+      "episodeTitle": "Die Gelbe Flotte – ein Schiffskonvoi zwischen den Fronten",
+      "episodeUrl": "https://gadg.fm/180",
+      "songId": "sabaton-counterstrike",
+      "band": "Sabaton",
+      "songTitle": "Counterstrike",
+      "matchTier": "B",
+      "justification": "Folge = Gelbe Flotte im Großen Bittersee (Sperrung ab Sechstagekrieg); Song = Sechstagekrieg-Feldzug — gemeinsamer Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Sechstagekrieg",
+        "Sueskanal"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xKOxIcfuzx0",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 160,
+      "episodeTitle": "Barbareskenstaaten und die europäischen Seemächte",
+      "episodeUrl": "https://gadg.fm/160",
+      "songId": "wilderun-the-coasts-of-high-barbaree",
+      "band": "Wilderun",
+      "songTitle": "The Coasts of High Barbaree",
+      "matchTier": "C",
+      "justification": "Folge = Barbareskenstaaten / Korsaren, Tribut, Hark Olufs; Song = traditionelle Shanty-Schlacht am High Barbaree (Folk-Metal) — thematische Nähe Barbaresken-Küste, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Barbaresken-Küste",
+        "Piraterie"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     }
   ]

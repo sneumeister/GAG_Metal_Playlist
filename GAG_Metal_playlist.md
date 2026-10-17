@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-17 15:43:35 +0200<br>**JSON-Status:** 2026-10-17 15:40:00 +0200</small>
+<small>**Compile-Datum:** 2026-10-17 17:23:06 +0200<br>**JSON-Status:** 2026-10-17 17:23:06 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -21,6 +21,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [22](https://gadg.fm/22) | Vom Goldjungen zum Staatsgefangenen | Stern-Combo Meißen | Die Erkenntnis | A | [link](https://www.youtube.com/watch?v=dpTogEzcbvo) | [link](https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z) |
 | [22](https://gadg.fm/22) | Vom Goldjungen zum Staatsgefangenen | Stern-Combo Meißen | Weißes Gold | A | [link](https://www.youtube.com/watch?v=plMh2A33ino) | [link](https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke) |
 | [35](https://gadg.fm/35) | Magia Posthuma – Vampirismus in Zeiten der Aufklärung | Atrocity | Shadowtaker | A | [link](https://www.youtube.com/watch?v=0jEzVtQdJP0) | [link](https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg) |
+| [39](https://gadg.fm/39) | Die Legion Erzengel Michael und Corneliu Codreanu | Fvneral Fvkk | Bishop of the Iron Guard | B | [link](https://www.youtube.com/watch?v=hR_QWyIsW1I) | [link](https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0) |
 | [40](https://gadg.fm/40) | Über den Ursprung der Seidenstraße | Saxon | Kubla Khan And The Merchant Of Venice | C | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
 | [47](https://gadg.fm/47) | Die Schwabenkinder und ihre Geschichte | Slartibartfass | Schwabenkinder | A | [link](https://www.youtube.com/watch?v=c64SQsd8PuY) | [link](https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7) |
 | [59](https://gadg.fm/59) | The Lost Colony | Zao | Croatoan | C | [link](https://www.youtube.com/watch?v=R2oA5aM11xU) | [link](https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W) |
@@ -47,6 +48,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [146](https://gadg.fm/146) | Tripel-Allianz-Krieg | Kuazar | Machete Che Pope (Acosta Ñu) | B | [link](https://www.youtube.com/watch?v=Y3Er8CwetOw) | [link](https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl) |
 | [152](https://gadg.fm/152) | Ernest Shackleton und die Endurance-Expedition | The Wright Valley Trio | Shackleton | A | [link](https://www.youtube.com/watch?v=sJ7mYvFrc_Y) | [link](https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J) |
 | [157](https://gadg.fm/157) | Salpeter – Aufstieg und Fall einer chemischen Verbindung | Sabaton | Father | C | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
+| [160](https://gadg.fm/160) | Barbareskenstaaten und die europäischen Seemächte | Wilderun | The Coasts of High Barbaree | C | [link](https://www.youtube.com/watch?v=ImEGRmTHPwU) | [link](https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK) |
+| [180](https://gadg.fm/180) | Die Gelbe Flotte – ein Schiffskonvoi zwischen den Fronten | Sabaton | Counterstrike | B | [link](https://www.youtube.com/watch?v=xKOxIcfuzx0) | [link](https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Lupo | Claudia | C | [link](https://www.youtube.com/watch?v=zIlwbluPAIw) | [link](https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Ex Deo | The Fall of Claudius | B | [link](https://www.youtube.com/watch?v=GLjmLlsBl9M) | [link](https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Ex Deo | The Head of the Snake | B | [link](https://www.youtube.com/watch?v=VIHssqJ8Aho) | [link](https://open.spotify.com/track/5CFIglXbK4LzP7dzoKQ8PE) |
@@ -89,6 +92,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [313](https://gadg.fm/313) | Die Geschwister Herschel | Nanowar of Steel | Uranus | B | [link](https://www.youtube.com/watch?v=OSWszdSHkyE) | [link](https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol) |
 | [318](https://gadg.fm/318) | Der Nuklearunfall von Goiânia | Tom Morello & The Bloody Beetroots | Radium Girls | C | [link](https://www.youtube.com/watch?v=yD0P0bwZKk8) | [link](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) |
 | [333](https://gadg.fm/333) | Alexandria | Iron Maiden | Alexander the Great | C | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
+| [335](https://gadg.fm/335) | Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts | Ritual Dictates | Aqua Tofana | A | [link](https://www.youtube.com/watch?v=ZaaaFzrRbDs) | [link](https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt) |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Nils Patrik Johansson | Gustav Vasa | B | [link](https://www.youtube.com/watch?v=mAJpW30f0YQ) | [link](https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn) |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Sabaton | Livgardet | C | [link](https://www.youtube.com/watch?v=Um5R_PH7Jek) | [link](https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e) |
 | [345](https://gadg.fm/345) | Suffrajitsu | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
