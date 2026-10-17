@@ -4555,16 +4555,24 @@
     "title": "Livgardet",
     "entities": [
       "Livgardet",
-      "schwedische Leibgarde"
+      "schwedische Leibgarde",
+      "Gustav Vasa",
+      "Dalarna",
+      "Stockholmer Blutbad"
     ],
     "era": "1521–",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e",
     "youtubeUrl": "https://www.youtube.com/watch?v=Um5R_PH7Jek",
     "sources": [
       {
         "type": "sabaton-index",
         "url": "https://elicarter.net/wiki/SabatonIndex",
         "note": "Livgardet"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.sabaton.net/discography/livgardet/",
+        "note": "Band: Livgardet gegründet 1521 Dalarna durch Gustav Vasa; Fokus Großmachtzeit"
       }
     ]
   },
@@ -8164,6 +8172,192 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
         "note": "Official lyric video Imperial Genocide"
+      }
+    ]
+  },
+  {
+    "id": "midnight-force-choseon",
+    "band": "Midnight Force",
+    "title": "Choseon",
+    "entities": [
+      "Imjin-Krieg",
+      "Joseon",
+      "Yi Sun-sin",
+      "Turtle Ships",
+      "Toyotomi Hideyoshi"
+    ],
+    "era": "1592–1598 / 2024",
+    "spotifyUrl": "https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://dyingvictimsproductions.bandcamp.com/track/choseon",
+        "note": "Lyrics: Choseon, Japanese invasion, Yi Sun-sin, righteous army, armored ships"
+      },
+      {
+        "type": "secondary",
+        "url": "https://thenwothm.com/2024/08/10/review-midnight-force-severan/",
+        "note": "Review: Choseon about Japanese invasion of Korea; NWOTHM / traditional heavy metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+        "note": "Official / release video Choseon"
+      }
+    ]
+  },
+  {
+    "id": "midnight-force-parthia",
+    "band": "Midnight Force",
+    "title": "Parthia",
+    "entities": [
+      "Schlacht bei Carrhae",
+      "Carrhae",
+      "Parther",
+      "Crassus",
+      "Römische Republik"
+    ],
+    "era": "53 v. Chr. / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://midnightforce.bandcamp.com/album/gododdin",
+        "note": "Gododdin (2019) Track Parthia; lyrics: desert march, pride, horse archers"
+      },
+      {
+        "type": "secondary",
+        "url": "https://azlyrics.biz/m/midnight-force-lyrics/midnight-force-parthia-lyrics/",
+        "note": "Lyrics transcript: Roman desert campaign vs Parthia, arrow hail"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+        "note": "Video Parthia"
+      }
+    ]
+  },
+  {
+    "id": "nils-patrik-johansson-gustav-vasa",
+    "band": "Nils Patrik Johansson",
+    "title": "Gustav Vasa",
+    "entities": [
+      "Gustav Vasa",
+      "Gustav I. Wasa",
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Dalarna",
+      "Kalmarer Union"
+    ],
+    "era": "1520–1523 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.karaoke-lyrics.net/lyrics/johansson-nils-patrik/gustav-vasa-1194387",
+        "note": "Lyrics: Christian the tyrant, Dalecarlians, Stockholm in blood, crowned 1523"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Nils_Patrik_Johansson/Gustav_Vasa/1361327",
+        "note": "Heavy/Power Metal single 2025; album War And Peace"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+        "note": "Official lyric video Gustav Vasa"
+      }
+    ]
+  },
+  {
+    "id": "wrekmeister-harmonies-night-of-your-ascension",
+    "band": "Wrekmeister Harmonies",
+    "title": "Night of Your Ascension",
+    "entities": [
+      "Carlo Gesualdo",
+      "Maria d’Avalos",
+      "Fabrizio Carafa",
+      "Ahi Dispietata e Cruda"
+    ],
+    "era": "1590 / 2015",
+    "spotifyUrl": "https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-YslNNsZx7A",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://wrekmeisterharmonies.bandcamp.com/album/night-of-your-ascension",
+        "note": "Title track reworks Gesualdo madrigal; about the 1590 double murder; album also has Run Priest Run (unrelated)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.vice.com/en/article/wrekmeister-harmonies-interview-stream/",
+        "note": "Interview: title track = Gesualdo murder; experimental doom/metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Wrekmeister_Harmonies/Night_of_Your_Ascension/545862",
+        "note": "Metal Archives; Spotify splits title track into Parts 1–5"
+      }
+    ]
+  },
+  {
+    "id": "the-pirates-charles-mutiny-on-the-hms-bounty",
+    "band": "The Pirates Charles",
+    "title": "Mutiny on the HMS Bounty",
+    "entities": [
+      "Meuterei auf der Bounty",
+      "HMS Bounty",
+      "William Bligh",
+      "Fletcher Christian",
+      "Tahiti",
+      "Brotfrucht"
+    ],
+    "era": "1789 / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.songlyrics.com/the-pirates-charles/mutiny-on-the-hms-bounty-lyrics/",
+        "note": "Lyrics: Bligh, Christian, Bounty, Tahiti, breadfruit"
+      },
+      {
+        "type": "secondary",
+        "url": "https://genius.com/artists/The-pirates-charles",
+        "note": "Hard Rock / Sea Shanty / Folk Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+        "note": "Video Mutiny on the HMS Bounty"
+      }
+    ]
+  },
+  {
+    "id": "ornatorpet-stockholms-blodbad",
+    "band": "Örnatorpet",
+    "title": "Stockholms Blodbad",
+    "entities": [
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Gustav Vasa"
+    ],
+    "era": "1520 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
+      },
+      {
+        "type": "secondary",
+        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Label: medievalist dungeon synth"
       }
     ]
   }

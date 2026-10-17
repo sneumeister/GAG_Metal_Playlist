@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-17 14:39:56 +0200<br>**JSON-Status:** 2026-10-17 14:17:35 +0200</small>
+<small>**Compile-Datum:** 2026-10-17 15:43:35 +0200<br>**JSON-Status:** 2026-10-17 15:40:00 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -85,13 +85,17 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Herzel | La Flamme | A | [link](https://www.youtube.com/watch?v=ciDI4za9eCU) | [link](https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD) |
 | [309](https://gadg.fm/309) | Die Bestie des Gévaudan | Powerwolf | Beast of Gévaudan | A | [link](https://www.youtube.com/watch?v=po-u-V6GiEk) | [link](https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ) |
 | [310](https://gadg.fm/310) | Arbeitskampf, Streik und das Leben der Gewerkschaftspionierin Paula Thiede | Panopticon | Black Soot and Red Blood | C | [link](https://youtu.be/9WrlRYJjBwU) | [link](https://open.spotify.com/track/28OQVEP47BO0iG8e6heo4P) |
+| [311](https://gadg.fm/311) | Der Imjin-Krieg | Midnight Force | Choseon | A | [link](https://www.youtube.com/watch?v=tsWWUtm95Kc) | [link](https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835) |
 | [313](https://gadg.fm/313) | Die Geschwister Herschel | Nanowar of Steel | Uranus | B | [link](https://www.youtube.com/watch?v=OSWszdSHkyE) | [link](https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol) |
 | [318](https://gadg.fm/318) | Der Nuklearunfall von Goiânia | Tom Morello & The Bloody Beetroots | Radium Girls | C | [link](https://www.youtube.com/watch?v=yD0P0bwZKk8) | [link](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) |
 | [333](https://gadg.fm/333) | Alexandria | Iron Maiden | Alexander the Great | C | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
+| [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Nils Patrik Johansson | Gustav Vasa | B | [link](https://www.youtube.com/watch?v=mAJpW30f0YQ) | [link](https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn) |
+| [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Sabaton | Livgardet | C | [link](https://www.youtube.com/watch?v=Um5R_PH7Jek) | [link](https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e) |
 | [345](https://gadg.fm/345) | Suffrajitsu | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
 | [347](https://gadg.fm/347) | Adrianopel 378 | Gotland | Adrianopoli | A | [link](https://www.youtube.com/watch?v=YPpQ2qzKBUg) | [link](https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schmetterlinge | Kampflied der Bauern | A | [link](https://www.youtube.com/watch?v=EQHL0ZL8peM) | [link](https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schnitter | Thomas Müntzer | C | [link](https://www.youtube.com/watch?v=J7uHye4hU1M) | [link](https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR) |
+| [364](https://gadg.fm/364) | Mord und Madrigale – Carlo Gesualdo | Wrekmeister Harmonies | Night of Your Ascension | A | [link](https://www.youtube.com/watch?v=-YslNNsZx7A) | [link](https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Ancient Rites | 13th of October 1307 | A | [link](https://www.youtube.com/watch?v=3hL5cjgjZqY) | [link](https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu) |
@@ -112,6 +116,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | Evento | A | [link](https://www.youtube.com/watch?v=ZEqKPJgM-HE) | [link](https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt) |
 | [433](https://gadg.fm/433) | Der Schinderhannes | dArtagnan | Schinderhannes | A | [link](https://www.youtube.com/watch?v=TH2IR4slz74) | [link](https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt) |
 | [433](https://gadg.fm/433) | Der Schinderhannes | Spessarträuber | Schinderhannes | A | [link](https://www.youtube.com/watch?v=XGvCtubo7cE) | [link](https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL) |
+| [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Midnight Force | Parthia | A | [link](https://www.youtube.com/watch?v=pR4AXDXKoLk) | [link](https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
 | [439](https://gadg.fm/439) | Kyros II. und die Entstehung eines Mythos | Arsames | Cyrus the Great | A | [link](https://www.youtube.com/watch?v=au4lTYwErDc) | [link](https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt) |
@@ -126,6 +131,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Poltava | A | [link](https://www.youtube.com/watch?v=xfGe07IzsK4) | [link](https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Ruina Imperii | B | [link](https://www.youtube.com/watch?v=c898WyjHDx4) | [link](https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X) |
 | [476](https://gadg.fm/476) | Boabdil und das Ende Granadas | Dark Moor | El Último Rey | A | [link](https://www.youtube.com/watch?v=IeqHGDjmD0g) | [link](https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ) |
+| [483](https://gadg.fm/483) | Bounty, Brotfrucht und die Rum-Rebellion | The Pirates Charles | Mutiny on the HMS Bounty | A | [link](https://www.youtube.com/watch?v=nC7DBeYlo4w) | [link](https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl) |
 | [493](https://gadg.fm/493) | Kernspaltung und Schwerwasser-Sabotage | Sabaton | Saboteurs | A | [link](https://www.youtube.com/watch?v=OlOdefB5Kyk) | [link](https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Elvenking | 3 Ways to Magick | C | [link](https://www.youtube.com/watch?v=k0okqZr_8RY) | [link](https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 1 | B | [link](https://www.youtube.com/watch?v=rGa2woc4uig) | [link](https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q) |

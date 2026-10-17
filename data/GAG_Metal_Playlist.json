@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17 14:17:35 +0200",
+  "updatedAt": "2026-10-17 15:40:00 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -1351,6 +1351,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 311,
+      "episodeTitle": "Der Imjin-Krieg",
+      "episodeUrl": "https://gadg.fm/311",
+      "songId": "midnight-force-choseon",
+      "band": "Midnight Force",
+      "songTitle": "Choseon",
+      "matchTier": "A",
+      "justification": "Folge = Imjin-Krieg (Japan vs. Joseon 1592); Song = Choseon/Yi Sun-sin, Turtle Ships, righteous army gegen die Invasion — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Imjin-Krieg",
+        "Joseon",
+        "Yi Sun-sin"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 313,
       "episodeTitle": "Die Geschwister Herschel",
       "episodeUrl": "https://gadg.fm/313",
@@ -1403,6 +1422,43 @@
       "spotifyUrl": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E",
       "youtubeUrl": "https://www.youtube.com/watch?v=6BH9HvZx3nI",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 342,
+      "episodeTitle": "Das Stockholmer Blutbad",
+      "episodeUrl": "https://gadg.fm/342",
+      "songId": "nils-patrik-johansson-gustav-vasa",
+      "band": "Nils Patrik Johansson",
+      "songTitle": "Gustav Vasa",
+      "matchTier": "B",
+      "justification": "Folge = Stockholmer Blutbad 1520 (Christian II., Krönung, Hinrichtungen) als Wendepunkt; Song = Gustav Vasa / Dalarnas Aufstand und Krönung 1523, Blutbad als Auslöser („painted Stockholm in blood“, Christian the tyrant) — gleicher Umbruchrahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Stockholmer Blutbad",
+        "Gustav Vasa",
+        "Christian II."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 342,
+      "episodeTitle": "Das Stockholmer Blutbad",
+      "episodeUrl": "https://gadg.fm/342",
+      "songId": "sabaton-livgardet",
+      "band": "Sabaton",
+      "songTitle": "Livgardet",
+      "matchTier": "C",
+      "justification": "Folge = Stockholmer Blutbad 1520; Song = Hymne aufs Livgardet (Gründung 1521 durch Gustav Vasa in Dalarna, dann 500 Jahre inkl. Großmachtzeit) — assoziative Nähe zum Vasa-Umbruch nach dem Blutbad, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Gustav Vasa",
+        "Dalarna"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Um5R_PH7Jek",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
@@ -1478,6 +1534,25 @@
       "spotifyUrl": "https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR",
       "youtubeUrl": "https://www.youtube.com/watch?v=J7uHye4hU1M",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 364,
+      "episodeTitle": "Mord und Madrigale – Carlo Gesualdo",
+      "episodeUrl": "https://gadg.fm/364",
+      "songId": "wrekmeister-harmonies-night-of-your-ascension",
+      "band": "Wrekmeister Harmonies",
+      "songTitle": "Night of Your Ascension",
+      "matchTier": "A",
+      "justification": "Folge = Carlo Gesualdo Doppelmord 1590 (Maria d’Avalos / Carafa) und Madrigale; Song = Night of Your Ascension über denselben Mord, Umbau von Gesualdos Madrigal „Ahi Dispietata e Cruda“ — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Carlo Gesualdo",
+        "Maria d’Avalos",
+        "Fabrizio Carafa"
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-YslNNsZx7A",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
@@ -1892,6 +1967,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 435,
+      "episodeTitle": "Die Schlacht bei Carrhae",
+      "episodeUrl": "https://gadg.fm/435",
+      "songId": "midnight-force-parthia",
+      "band": "Midnight Force",
+      "songTitle": "Parthia",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht bei Carrhae 53 v. Chr. (Crassus vs. Parther); Song = römischer Wüstenmarsch, abgelehnte Hilfe aus Stolz, Pfeilregen der Reiter — dieselbe Schlacht/Kampagne (Tier A).",
+      "sharedEntities": [
+        "Schlacht bei Carrhae",
+        "Parther",
+        "Crassus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 436,
       "episodeTitle": "Die Jagd nach El­do­ra­do",
       "episodeUrl": "https://gadg.fm/436",
@@ -2138,6 +2232,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ",
       "youtubeUrl": "https://www.youtube.com/watch?v=IeqHGDjmD0g",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 483,
+      "episodeTitle": "Bounty, Brotfrucht und die Rum-Rebellion",
+      "episodeUrl": "https://gadg.fm/483",
+      "songId": "the-pirates-charles-mutiny-on-the-hms-bounty",
+      "band": "The Pirates Charles",
+      "songTitle": "Mutiny on the HMS Bounty",
+      "matchTier": "A",
+      "justification": "Folge = Meuterei auf der Bounty 1789 (Bligh, Brotfrucht) und Rum-Rebellion; Song = Mutiny on the HMS Bounty (Bligh, Christian, Tahiti, Breadfruit, Bounty verbrennen) — derselbe Bounty-Kern (Tier A).",
+      "sharedEntities": [
+        "Meuterei auf der Bounty",
+        "William Bligh",
+        "Brotfrucht"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
