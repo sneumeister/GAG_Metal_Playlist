@@ -173,6 +173,33 @@ tr.row-justification[hidden] {
   font-size: 0.95rem;
   margin: 0 0 0.6rem;
 }
+th.filter-cell {
+  background: var(--panel);
+  padding: 0.4rem 0.5rem;
+  white-space: normal;
+  user-select: auto;
+  font-weight: 400;
+}
+th.filter-cell input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 0.35rem 0.45rem;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.9rem;
+}
+th.filter-cell input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+th.filter-cell input::placeholder {
+  color: var(--muted);
+}
 </style>
 </head>
 <body>
@@ -180,7 +207,7 @@ tr.row-justification[hidden] {
   <h1>GAG Metal Playlist: Metal-Song trifft GAG-Folge</h1>
   <div class="meta">
     <div class="meta-dates">
-      <div><strong>Compile-Datum:</strong> 2026-10-17 14:29:00 +0200</div>
+      <div><strong>Compile-Datum:</strong> 2026-10-17 14:39:56 +0200</div>
       <div><strong>JSON-Status:</strong> 2026-10-17 14:17:35 +0200</div>
     </div>
     <div>Original-Projekt, Hinweise und Quellen auf <a href="https://github.com/sneumeister/GAG_Metal_Playlist">github.com/sneumeister/GAG_Metal_Playlist</a>.</div>
@@ -193,7 +220,7 @@ tr.row-justification[hidden] {
     <p><strong>Stufe C</strong> – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.</p>
     <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>
   </div>
-  <p class="table-hint">Spaltentitel zum Sortieren anklicken.</p>
+  <p class="table-hint">Filter: Text in den Feldern über den Spalten (Groß/Klein egal, kombinierbar). Spaltentitel zum Sortieren anklicken.</p>
   <div class="wrap">
     <table id="playlist">
       <colgroup>
@@ -206,6 +233,15 @@ tr.row-justification[hidden] {
         <col class="col-link">
       </colgroup>
       <thead>
+        <tr class="filter-row">
+          <th class="filter-cell"><input type="search" data-key="episodeId" placeholder="Filter…" aria-label="Folge filtern"></th>
+          <th class="filter-cell"><input type="search" data-key="episodeTitle" placeholder="Filter…" aria-label="Folgentitel filtern"></th>
+          <th class="filter-cell"><input type="search" data-key="band" placeholder="Filter…" aria-label="Band filtern"></th>
+          <th class="filter-cell"><input type="search" data-key="songTitle" placeholder="Filter…" aria-label="Song Titel filtern"></th>
+          <th class="filter-cell"><input type="search" data-key="matchTier" placeholder="Filter…" aria-label="Stufe filtern"></th>
+          <th class="filter-cell"></th>
+          <th class="filter-cell"></th>
+        </tr>
         <tr>
           <th class="sortable" data-key="episodeId" data-type="number">Folge<span class="arrow"></span></th>
           <th class="sortable" data-key="episodeTitle" data-type="string">Folgentitel<span class="arrow"></span></th>
@@ -224,13 +260,16 @@ tr.row-justification[hidden] {
 <script>
 (function () {
   const raw = document.getElementById("playlist-data").textContent;
-  let rows = JSON.parse(raw);
+  const allRows = JSON.parse(raw);
+  let rows = allRows.slice();
   const tbody = document.querySelector("#playlist" + " tbody");
   const headers = Array.from(document.querySelectorAll("th.sortable"));
+  const filterInputs = Array.from(document.querySelectorAll("th.filter-cell input[data-key]"));
   const colCount = 7;
   let sortKey = "episodeId";
   let sortDir = "asc";
   let sortType = "number";
+  const filters = Object.create(null);
 
   function linkCell(url, label) {
     if (!url) return "—";
@@ -345,8 +384,18 @@ tr.row-justification[hidden] {
     return av.localeCompare(bv, "de");
   }
 
-  function sortRows() {
-    rows = rows.slice().sort((a, b) => {
+  function rowMatches(r) {
+    for (const key of Object.keys(filters)) {
+      const q = filters[key];
+      if (!q) continue;
+      const val = r[key] == null ? "" : String(r[key]);
+      if (!val.toLocaleLowerCase("de").includes(q)) return false;
+    }
+    return true;
+  }
+
+  function applyView() {
+    rows = allRows.filter(rowMatches).slice().sort((a, b) => {
       const c = cmp(a, b);
       return sortDir === "asc" ? c : -c;
     });
@@ -376,11 +425,20 @@ tr.row-justification[hidden] {
         sortType = type;
         sortDir = "asc";
       }
-      sortRows();
+      applyView();
     });
   }
 
-  sortRows();
+  for (const input of filterInputs) {
+    input.addEventListener("click", (ev) => ev.stopPropagation());
+    input.addEventListener("keydown", (ev) => ev.stopPropagation());
+    input.addEventListener("input", () => {
+      filters[input.dataset.key] = input.value.trim().toLocaleLowerCase("de");
+      applyView();
+    });
+  }
+
+  applyView();
 })();
 </script>
 </body>
