@@ -8045,5 +8045,126 @@
         "note": "Sabbatai Zevi (2015), Black Widow; Track 3 Titelstück"
       }
     ]
+  },
+  {
+    "id": "waylander-hy-brasil-isle-of-mists",
+    "band": "Waylander",
+    "title": "Hy Brasil (Isle of Mists)",
+    "entities": [
+      "Hy Brasil",
+      "Hy-Brasil",
+      "Phantominsel",
+      "Irland"
+    ],
+    "era": "Karten/Mythos / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vVd8E4gb5Dk",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=yTp6-yjc4sw",
+        "note": "Official video / press: inspired by Hy Brasil mist island off Ireland west coast"
+      },
+      {
+        "type": "secondary",
+        "url": "https://mhf-mag.com/northern-irish-pagan-metal-pioneers-waylander-new-video-hy-brasil-isle-of-mists/",
+        "note": "Mac Tire Son of the Land (2026); Pagan Metal; Band: tale of mysterious island"
+      }
+    ]
+  },
+  {
+    "id": "sarcoptes-spanish-flu",
+    "band": "Sarcoptes",
+    "title": "Spanish Flu",
+    "entities": [
+      "Spanische Grippe",
+      "Spanish Flu",
+      "Pandemie 1918",
+      "Erster Weltkrieg"
+    ],
+    "era": "1918–1919 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy",
+    "youtubeUrl": "https://www.youtube.com/watch?v=d7XCKmdF2_g",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.blackmetalspirit.net/2023/02/sarcoptes.html",
+        "note": "Lyrics: Spanish flu, war as prelude, mass graves, choking/gasping"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://sarcoptes.bandcamp.com/album/prayers-to-oblivion",
+        "note": "Prayers to Oblivion (2023); Black/Thrash; Track 2 Spanish Flu"
+      }
+    ]
+  },
+  {
+    "id": "kuazar-machete-che-pope-acosta-nu",
+    "band": "Kuazar",
+    "title": "Machete Che Pope (Acosta Ñu)",
+    "entities": [
+      "Acosta Ñu",
+      "Tripel-Allianz-Krieg",
+      "Paraguay",
+      "Conde d’Eu",
+      "Guerra de la Triple Alianza"
+    ],
+    "era": "1869 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+        "note": "Official video lyrics: Acosta Ñu, Count orders kill women/children, Guarani chorus"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.radionacional.gov.py/2023/03/10/kuazar-revive-sangrienta-batalla-con-machete-che-pope-acosta-nu/",
+        "note": "Band: Acosta Ñu massacre in Triple Alliance War; Conde d’Eu"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Kuazar/Hybrid_Power/1144928",
+        "note": "Hybrid Power (2023), Thrash Metal; Track 8"
+      }
+    ]
+  },
+  {
+    "id": "unconquerable-imperial-genocide",
+    "band": "Uncönquerable",
+    "title": "Imperial Genocide",
+    "entities": [
+      "Acosta Ñu",
+      "Tripel-Allianz-Krieg",
+      "Paraguay",
+      "Guerra da Tríplice Aliança",
+      "Campo Grande"
+    ],
+    "era": "1869 / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://spak-individualthoughtpatterns.blogspot.com/2023/04/unconquerable-post-lyric-video-for-new.html",
+        "note": "Band/label: Acosta Ñu Aug 1869, child soldiers vs Triple Alliance; cover Pedro Américo Campo Grande"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://unconquerable.bandcamp.com/album/imperial-genocide",
+        "note": "EP Imperial Genocide (2022); cover Batalha do Campo Grande 1871"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Unc%C3%B6nquerable/Imperial_Genocide/1084143",
+        "note": "Blackened thrash EP; Track 2 Imperial Genocide"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+        "note": "Official lyric video Imperial Genocide"
+      }
+    ]
   }
 ]

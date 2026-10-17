@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16 19:53:42 +0200",
+  "updatedAt": "2026-10-17 14:17:35 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -541,6 +541,63 @@
       "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
       "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 144,
+      "episodeTitle": "Die Spanische Grippe",
+      "episodeUrl": "https://gadg.fm/144",
+      "songId": "sarcoptes-spanish-flu",
+      "band": "Sarcoptes",
+      "songTitle": "Spanish Flu",
+      "matchTier": "A",
+      "justification": "Folge = Spanische Grippe 1918 (Pandemie, Krieg als Verbreitung); Song = Grippe-Schrecken (Ersticken, Massengräber, Krieg als Vorspiel) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Spanische Grippe",
+        "Pandemie 1918",
+        "Erster Weltkrieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy",
+      "youtubeUrl": "https://www.youtube.com/watch?v=d7XCKmdF2_g",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 146,
+      "episodeTitle": "Tripel-Allianz-Krieg",
+      "episodeUrl": "https://gadg.fm/146",
+      "songId": "kuazar-machete-che-pope-acosta-nu",
+      "band": "Kuazar",
+      "songTitle": "Machete Che Pope (Acosta Ñu)",
+      "matchTier": "B",
+      "justification": "Folge = Tripel-Allianz-Krieg Paraguay vs. Argentinien/Brasilien/Uruguay; Song = Massaker Acosta Ñu (Kinder/Frauen, Conde d’Eu) in demselben Krieg — gleicher Kriegsrahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Tripel-Allianz-Krieg",
+        "Paraguay",
+        "Acosta Ñu"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 146,
+      "episodeTitle": "Tripel-Allianz-Krieg",
+      "episodeUrl": "https://gadg.fm/146",
+      "songId": "unconquerable-imperial-genocide",
+      "band": "Uncönquerable",
+      "songTitle": "Imperial Genocide",
+      "matchTier": "B",
+      "justification": "Folge = Tripel-Allianz-Krieg; Song = Schlacht Acosta Ñu 1869 (Kindersoldaten vs. Allianz) — gleicher Kriegsrahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Tripel-Allianz-Krieg",
+        "Paraguay",
+        "Acosta Ñu"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
@@ -1634,6 +1691,25 @@
       "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
       "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 397,
+      "episodeTitle": "Hy Brasil",
+      "episodeUrl": "https://gadg.fm/397",
+      "songId": "waylander-hy-brasil-isle-of-mists",
+      "band": "Waylander",
+      "songTitle": "Hy Brasil (Isle of Mists)",
+      "matchTier": "A",
+      "justification": "Folge = Phantominsel Hy Brasil (Kartenfehler, später irischer Mythos); Song = Pagan-Metal-Erzählung der Nebelinsel vor Irlands Westküste — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Hy Brasil",
+        "Phantominsel",
+        "Irland"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vVd8E4gb5Dk",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
