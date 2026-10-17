@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-17 14:39:56 +0200<br>**JSON-Status:** 2026-10-16 20:13:33 +0200</small>
+<small>**Compile-Datum:** 2026-10-17 17:23:06 +0200<br>**JSON-Status:** 2026-10-17 15:44:00 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -46,6 +46,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [333](https://gadg.fm/333) | Alexandria | Florentin feat. Lars | 333 | X | [link](https://www.youtube.com/watch?v=4ANGTD-Bl9s) | — |
 | [336](https://gadg.fm/336) | George Smith und die Entdeckung des Gilgamesch-Epos | Peter Pringle | Gilgamesh Lament for Enkidu | X | [link](https://www.youtube.com/watch?v=kd7qeP3R5vw) | — |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Dieter Thomas Heck | Henkersmahlzeit | X | — | [link](https://open.spotify.com/track/1SzS4YpXr70ob5A4f1BtUv) |
+| [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Örnatorpet | Stockholms Blodbad | X | — | [link](https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8) |
 | [351](https://gadg.fm/351) | Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax | Burial in the Sky | An Orphaned City | X | [link](https://www.youtube.com/watch?v=51sdrAx5cTY) | [link](https://open.spotify.com/track/7Kjvta0k7JUZTzIWuM8gxg) |
 | [351](https://gadg.fm/351) | Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax | Black Sabbath | Breakout | X | [link](https://youtu.be/I6mLrmcIbck) | [link](https://open.spotify.com/track/77JrHaXsxcufEjh5mfMmR3) |
 | [351](https://gadg.fm/351) | Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax | Burial in the Sky | Mountains, Pt. 2 (Empathy) | X | [link](https://www.youtube.com/watch?v=QvR99n2CeW8) | [link](https://open.spotify.com/track/3f9qR5TR8UveWhhfI24FT1) |

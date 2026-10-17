@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16 20:13:33 +0200",
+  "updatedAt": "2026-10-17 15:44:00 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -230,6 +230,13 @@
       "songId": "dieter-thomas-heck-henkersmahlzeit",
       "reason": "Folge = Stockholmer Blutbad 1520 (Christian II., Krönungsfeier, Hinrichtungen); Song = schwedische Henkersmahlzeit-/Geister-Anekdote zum Hinrichtungsrahmen — gemeinsamer Schweden-/Blutbad-Rahmen, anderer Fokus (bei Metal wäre Tier B). Genre = Schlager, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 342,
+      "songId": "ornatorpet-stockholms-blodbad",
+      "reason": "Folge = Stockholmer Blutbad 1520 (Christian II.); Song = Instrumental „Stockholms Blodbad“ (Konzeptalbum Blodbad och Efterspel) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Dungeon Synth (Instrumental), kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-17",
       "rejectedBy": "manual"
     },
     {
