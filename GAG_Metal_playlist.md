@@ -1,7 +1,7 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-16 20:13:33 +0200  </small>
-<small>**JSON-Status:** 2026-10-16 19:53:42 +0200  </small>
+<small>**Compile-Datum:** 2026-10-17 14:29:00 +0200<br>**JSON-Status:** 2026-10-17 14:17:35 +0200</small>
+
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues. [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
@@ -42,6 +42,9 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [132](https://gadg.fm/132) | Gesche Gottfried, der Engel von Bremen | Team Scheisse | Spuckstein | C | [link](https://www.youtube.com/watch?v=2JnmtQVgcL0) | [link](https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Warkings | Azrael | C | [link](https://www.youtube.com/watch?v=BXOM-CQGV0E) | [link](https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | B | [link](https://www.youtube.com/watch?v=SGj0HvYXxT4) | [link](https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo) |
+| [144](https://gadg.fm/144) | Die Spanische Grippe | Sarcoptes | Spanish Flu | A | [link](https://www.youtube.com/watch?v=d7XCKmdF2_g) | [link](https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy) |
+| [146](https://gadg.fm/146) | Tripel-Allianz-Krieg | Uncönquerable | Imperial Genocide | B | [link](https://www.youtube.com/watch?v=hsZD5TUGbVM) | [link](https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK) |
+| [146](https://gadg.fm/146) | Tripel-Allianz-Krieg | Kuazar | Machete Che Pope (Acosta Ñu) | B | [link](https://www.youtube.com/watch?v=Y3Er8CwetOw) | [link](https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl) |
 | [152](https://gadg.fm/152) | Ernest Shackleton und die Endurance-Expedition | The Wright Valley Trio | Shackleton | A | [link](https://www.youtube.com/watch?v=sJ7mYvFrc_Y) | [link](https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J) |
 | [157](https://gadg.fm/157) | Salpeter – Aufstieg und Fall einer chemischen Verbindung | Sabaton | Father | C | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
 | [183](https://gadg.fm/183) | Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit | Lupo | Claudia | C | [link](https://www.youtube.com/watch?v=zIlwbluPAIw) | [link](https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn) |
@@ -100,6 +103,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | B | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [390](https://gadg.fm/390) | Kleopatra Selene und das Ende der Römischen Republik | Ex Deo | The Final War (Battle of Actium) | B | [link](https://www.youtube.com/watch?v=qcfaltp8CL0) | [link](https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
+| [397](https://gadg.fm/397) | Hy Brasil | Waylander | Hy Brasil (Isle of Mists) | A | [link](https://www.youtube.com/watch?v=vVd8E4gb5Dk) | [link](https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |
 | [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Goat of Mendes | Curse of Constantine | A | — | [link](https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine) |
 | [420](https://gadg.fm/420) | Harry Anslinger und der erste "War on Drugs" | Six Feet Under | 4:20 | C | [link](https://www.youtube.com/watch?v=rC31wCvTOao) | [link](https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf) |
