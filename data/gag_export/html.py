@@ -238,6 +238,11 @@ tr.row-justification[hidden] {{
 .legend p {{
   margin: 0.2rem 0;
 }}
+.table-hint {{
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 0.6rem;
+}}
 </style>
 </head>
 <body>
@@ -255,6 +260,7 @@ tr.row-justification[hidden] {{
   <div class="legend">
 {legend_html}
   </div>
+  <p class="table-hint">Spaltentitel zum Sortieren anklicken.</p>
   <div class="wrap">
     <table id="{_esc(table_id)}">
       <colgroup>

@@ -75,8 +75,8 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
     lines = [
         "# GAG Metal Playlist: Metal-Song trifft GAG-Folge",
         "",
-        f"<small>**Compile-Datum:** {compiled_at}  </small>",
-        f"<small>**JSON-Status:** {json_line}  </small>",
+        f"<small>**Compile-Datum:** {compiled_at}<br>**JSON-Status:** {json_line}</small>",
+        "",
         f"{REPO_INTRO} [{REPO_LINK_LABEL}]({REPO_URL}).",
         "",
         f"{MITMACHEN_INTRO} [{MITMACHEN_LINK_LABEL}]({ISSUES_NEW_CHOOSE_URL})",
@@ -109,8 +109,8 @@ def render_rejected_markdown(
     lines = [
         "# GAG Metal Rejects: Geprüfte Absagen (Stufe X)",
         "",
-        f"<small>**Compile-Datum:** {compiled_at}  </small>",
-        f"<small>**JSON-Status:** {json_line}  </small>",
+        f"<small>**Compile-Datum:** {compiled_at}<br>**JSON-Status:** {json_line}</small>",
+        "",
         f"{REPO_INTRO} [{REPO_LINK_LABEL}]({REPO_URL}).",
         "",
         f"{MITMACHEN_INTRO} [{MITMACHEN_LINK_LABEL}]({ISSUES_NEW_CHOOSE_URL})",
