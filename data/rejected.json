@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17 15:44:00 +0200",
+  "updatedAt": "2026-10-23 17:24:16 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -16,10 +16,24 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 29,
+      "songId": "serenity-serenade-of-flames",
+      "reason": "Folge = Müller Menocchio / römische Inquisition und Häresieprozess; Song = Heinrich Kramer / Hexenhammer und Hexenverbrennung — anderes Verfahren, andere Person, nur Stichwort Inquisition (Tier X).",
+      "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 31,
       "songId": "iron-maiden-aces-high",
       "reason": "Folge = Fußballsystemstreit unter dem Nationalsozialismus („Blitzkrieg im Fußballstadion“); Song = Luftkampf der RAF in der Schlacht um England 1940 (Spitfire, ME-109) — nur loses „Blitzkrieg“-/Kriegs-Stichwort, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 73,
+      "songId": "enthroned-graced-by-evil-blood",
+      "reason": "Folge = Ludwig XIV. Fistel-Operation 1686; Song = Affäre der Gifte / Montespan und La Voisin — gleiche Person nur als Kulisse, anderes Ereignis (Tier X).",
+      "rejectedAt": "2026-10-23",
       "rejectedBy": "manual"
     },
     {
@@ -331,10 +345,24 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 384,
+      "songId": "schandmaul-tjark-evers",
+      "reason": "Folge = Flaschenpost / Ozeanforschung inkl. Tjark-Evers-Rahmen (#384); Song = Tod und Zigarrenkisten-Botschaft des Tjark Evers — inhaltlich passend (bei Metal wäre Tier B). Genre = Mittelalter-Folk / Folk Rock, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 388,
       "songId": "annihilator-phantasmagoria",
       "reason": "Folge = Marie Tussaud inkl. Erwähnung historischer Phantasmagoria; Song = psychologischer Alptraum-/Dämonen-Horror unter dem Titel Phantasmagoria — reiner Namensanklang, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 388,
+      "songId": "misanthrope-reine-martyre",
+      "reason": "Folge = Madame Tussaud / Wachsfiguren (u. a. Marat); Song = Hinrichtung Marie-Antoinettes — Antoinette nur kurz als Hof-Wachsfigur, kein gemeinsamer Erzählfokus (Tier X).",
+      "rejectedAt": "2026-10-23",
       "rejectedBy": "manual"
     },
     {
@@ -924,6 +952,20 @@
       "reason": "Song = Iran, Öl und westliche Einflussnahme im 20. Jahrhundert (Nationalisierung, Intervention, „Gasoline Era“; Tracktitel u. a. Abadan, Teheran, Spionage). Folge = Anfänge der Petromoderne (D'Arcy 1901, Masjed Soleymān 1908, Lakeview 1910, Jacques de Morgan) — gleiche Öl-/Iran-Welt, andere Phase und kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedBy": "manual",
       "rejectedAt": "2026-10-07"
+    },
+    {
+      "episodeId": 578,
+      "songId": "embryo-ibn-battuta",
+      "reason": "Folge = Ibn Battuta (Hörbuch-Hälfte #578); Song = gleichnamiges Instrumental ohne belegten Erzählkern — bei Metal wäre Tier C (Titel-Widmung). Genre = Jazz Fusion / World / Ethno-Krautrock, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 578,
+      "songId": "schandmaul-tjark-evers",
+      "reason": "Folge = Violet-Jessop-Hörbuch inkl. Tjark-Evers-Rahmen (#578); Song = Tod und Zigarrenkisten-Abschied des Tjark Evers — inhaltlich eng (bei Metal wäre Tier A). Genre = Mittelalter-Folk / Folk Rock, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
     }
   ]
 }

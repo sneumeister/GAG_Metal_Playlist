@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17 17:23:06 +0200",
+  "updatedAt": "2026-10-23 17:38:59 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -136,6 +136,25 @@
       "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
       "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
       "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 39,
+      "episodeTitle": "Die Legion Erzengel Michael und Corneliu Codreanu",
+      "episodeUrl": "https://gadg.fm/39",
+      "songId": "fvneral-fvkk-bishop-of-the-iron-guard",
+      "band": "Fvneral Fvkk",
+      "songTitle": "Bishop of the Iron Guard",
+      "matchTier": "B",
+      "justification": "Folge = Codreanu und Legion Erzengel Michael; Song = Valerian Trifa / Iron-Guard-Straßenterror (Band: Kirche–Faschismus) — dieselbe Bewegung, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Legion Erzengel Michael",
+        "Eiserne Garde",
+        "Rumänien"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
@@ -332,6 +351,24 @@
       "spotifyUrl": "https://open.spotify.com/track/5epQW1revzqLK58ffFcwac",
       "youtubeUrl": "https://www.youtube.com/watch?v=P_KOPhWUXcw",
       "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 102,
+      "episodeTitle": "Ein Picknick, das die Welt verändert",
+      "episodeUrl": "https://gadg.fm/102",
+      "songId": "scorpions-wind-of-change",
+      "band": "Scorpions",
+      "songTitle": "Wind of Change",
+      "matchTier": "C",
+      "justification": "Folge = Paneuropäisches Picknick 1989; Song = Ostblock-Hymne aus Moskau-Stimmung — thematische Nähe Wende 1989, anderer Fokus (Tier C).",
+      "sharedEntities": [
+        "1989",
+        "Eiserner Vorhang"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+      "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
     {
@@ -639,6 +676,42 @@
       "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
       "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 160,
+      "episodeTitle": "Barbareskenstaaten und die europäischen Seemächte",
+      "episodeUrl": "https://gadg.fm/160",
+      "songId": "wilderun-the-coasts-of-high-barbaree",
+      "band": "Wilderun",
+      "songTitle": "The Coasts of High Barbaree",
+      "matchTier": "C",
+      "justification": "Folge = Barbareskenstaaten / Korsaren, Tribut, Hark Olufs; Song = traditionelle Shanty-Schlacht am High Barbaree (Folk-Metal) — thematische Nähe Barbaresken-Küste, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Barbaresken-Küste",
+        "Piraterie"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+      "matchedAt": "2026-10-17",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 180,
+      "episodeTitle": "Die Gelbe Flotte – ein Schiffskonvoi zwischen den Fronten",
+      "episodeUrl": "https://gadg.fm/180",
+      "songId": "sabaton-counterstrike",
+      "band": "Sabaton",
+      "songTitle": "Counterstrike",
+      "matchTier": "B",
+      "justification": "Folge = Gelbe Flotte im Großen Bittersee (Sperrung ab Sechstagekrieg); Song = Sechstagekrieg-Feldzug — gemeinsamer Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Sechstagekrieg",
+        "Sueskanal"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xKOxIcfuzx0",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
@@ -1126,6 +1199,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 267,
+      "episodeTitle": "Die Leichensynode von 897",
+      "episodeUrl": "https://gadg.fm/267",
+      "songId": "fvneral-fvkk-leichensynode",
+      "band": "Fvneral Fvkk",
+      "songTitle": "Leichensynode",
+      "matchTier": "A",
+      "justification": "Folge = Leichensynode 897 / Formosus-Prozess; Song = Band-Track-by-Track: Exhumierung, Thronprozess, Tiber, Rehabilitierung — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Leichensynode",
+        "Formosus",
+        "Stephan VI."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-23",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 272,
       "episodeTitle": "Am Ende der Welt - Napoleons letzte Jahre im Exil",
       "episodeUrl": "https://gadg.fm/272",
@@ -1406,6 +1498,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 322,
+      "episodeTitle": "Portugal und der Seeweg nach Indien",
+      "episodeUrl": "https://gadg.fm/322",
+      "songId": "serenity-far-from-home",
+      "band": "Serenity",
+      "songTitle": "Far From Home",
+      "matchTier": "B",
+      "justification": "Folge = Portugal / Militärstützpunkt Kochi und Seeweg nach Indien; Song = Bartolomeu Dias Kapumrundung 1488 — gemeinsamer Seeweg-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Seeweg Indien",
+        "Portugal"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5OOpEmpsNgafCk26QVLlBC",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sP88-w9DP4E",
+      "matchedAt": "2026-10-23",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 333,
       "episodeTitle": "Alexandria",
       "episodeUrl": "https://gadg.fm/333",
@@ -1422,6 +1532,44 @@
       "spotifyUrl": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E",
       "youtubeUrl": "https://www.youtube.com/watch?v=6BH9HvZx3nI",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 333,
+      "episodeTitle": "Alexandria",
+      "episodeUrl": "https://gadg.fm/333",
+      "songId": "warkings-nightfall",
+      "band": "Warkings",
+      "songTitle": "Nightfall",
+      "matchTier": "C",
+      "justification": "Folge = Alexandria als Kultur-/Nachlassprojekt; Song = Gaugamela / Sturz Dareios’ III. — gemeinsamer historischer Rahmen (Alexander–Perserfeldzug), aber ohne klare Überschneidung (Schlacht vs. Stadt), daher kein Tier B (Tier C).",
+      "sharedEntities": [
+        "Alexander der Große",
+        "Dareios III.",
+        "Perserfeldzug"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qrCn-SkuIWo",
+      "matchedAt": "2026-10-23",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 335,
+      "episodeTitle": "Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts",
+      "episodeUrl": "https://gadg.fm/335",
+      "songId": "ritual-dictates-aqua-tofana",
+      "band": "Ritual Dictates",
+      "songTitle": "Aqua Tofana",
+      "matchTier": "A",
+      "justification": "Folge = Aqua Tofana / Giftmischerinnen Roms (17. Jh.); Song = Giulia Tofana, Astrologa della Lungara, Rezept-Stichworte, „600“ — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Aqua Tofana",
+        "Giulia Tofana",
+        "Rom"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+      "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
     {
@@ -1710,25 +1858,6 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 384,
-      "episodeTitle": "Flaschenpost und die Erforschung der Ozeane",
-      "episodeUrl": "https://gadg.fm/384",
-      "songId": "schandmaul-tjark-evers",
-      "band": "Schandmaul",
-      "songTitle": "Tjark Evers",
-      "matchTier": "B",
-      "justification": "Folge = Flaschenpost / Ozeanforschung (Neumayer) inkl. Tjark-Evers-Rahmen; Song = Tod und Zigarrenkisten-Botschaft des Tjark Evers — gemeinsamer Treibgut-/Flaschenpost-Rahmen, anderer Fokus (Tier B).",
-      "sharedEntities": [
-        "Tjark Evers",
-        "Flaschenpost",
-        "Zigarrenkiste"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lV2ml_5qROo",
-      "matchedAt": "2026-10-11",
-      "curatedBy": "manual"
-    },
-    {
       "episodeId": 390,
       "episodeTitle": "Kleopatra Selene und das Ende der Römischen Republik",
       "episodeUrl": "https://gadg.fm/390",
@@ -1766,6 +1895,24 @@
       "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
       "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 394,
+      "episodeTitle": "Die Verurteilung von Sacco und Vanzetti",
+      "episodeUrl": "https://gadg.fm/394",
+      "songId": "panopticon-la-passione-de-sacco-and-vanzetti",
+      "band": "Panopticon",
+      "songTitle": "La passione de Sacco & Vanzetti",
+      "matchTier": "A",
+      "justification": "Folge = Verurteilung/Hinrichtung Sacco und Vanzetti; Song = Memorial denselben Fall (Bandcamp/MA) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Sacco",
+        "Vanzetti"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=OfMzC2AHrr8",
+      "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
     {
@@ -3182,77 +3329,39 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 39,
-      "episodeTitle": "Die Legion Erzengel Michael und Corneliu Codreanu",
-      "episodeUrl": "https://gadg.fm/39",
-      "songId": "fvneral-fvkk-bishop-of-the-iron-guard",
-      "band": "Fvneral Fvkk",
-      "songTitle": "Bishop of the Iron Guard",
+      "episodeId": 578,
+      "episodeTitle": "HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
+      "episodeUrl": "https://gadg.fm/578",
+      "songId": "enzo-and-the-glory-ensemble-last-weep",
+      "band": "Enzo and the Glory Ensemble",
+      "songTitle": "Last Weep",
       "matchTier": "B",
-      "justification": "Folge = Codreanu und Legion Erzengel Michael; Song = Valerian Trifa / Iron-Guard-Straßenterror (Band: Kirche–Faschismus) — dieselbe Bewegung, anderer Fokus (Tier B).",
+      "justification": "Folge = Ibn Battuta und seine Weltreise (Hörbuch #578); Song = ausdrückliche Hommage an denselben Reisenden, Fokus Begegnung/Wissensaustausch statt biografischer Reiseroute — gemeinsamer Rahmen, anderer Fokus (Tier B).",
       "sharedEntities": [
-        "Legion Erzengel Michael",
-        "Eiserne Garde",
-        "Rumänien"
+        "Ibn Battuta"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
-      "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
-      "matchedAt": "2026-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=elzcvzBDHpU",
+      "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
     {
-      "episodeId": 335,
-      "episodeTitle": "Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts",
-      "episodeUrl": "https://gadg.fm/335",
-      "songId": "ritual-dictates-aqua-tofana",
-      "band": "Ritual Dictates",
-      "songTitle": "Aqua Tofana",
+      "episodeId": 578,
+      "episodeTitle": "HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
+      "episodeUrl": "https://gadg.fm/578",
+      "songId": "infinite-design-violet-jessop",
+      "band": "Infinite Design",
+      "songTitle": "Violet Jessop",
       "matchTier": "A",
-      "justification": "Folge = Aqua Tofana / Giftmischerinnen Roms (17. Jh.); Song = Giulia Tofana, Astrologa della Lungara, Rezept-Stichworte, „600“ — derselbe Kern (Tier A).",
+      "justification": "Folge = Violet Jessop / Olympic-Klasse (Hörbuch #578); Song = Titelporträt auf Konzeptalbum Phases (historische Figuren) — derselbe Kern (Tier A).",
       "sharedEntities": [
-        "Aqua Tofana",
-        "Giulia Tofana",
-        "Rom"
+        "Violet Jessop",
+        "Olympic-Klasse",
+        "Titanic"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
-      "matchedAt": "2026-10-17",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 180,
-      "episodeTitle": "Die Gelbe Flotte – ein Schiffskonvoi zwischen den Fronten",
-      "episodeUrl": "https://gadg.fm/180",
-      "songId": "sabaton-counterstrike",
-      "band": "Sabaton",
-      "songTitle": "Counterstrike",
-      "matchTier": "B",
-      "justification": "Folge = Gelbe Flotte im Großen Bittersee (Sperrung ab Sechstagekrieg); Song = Sechstagekrieg-Feldzug — gemeinsamer Rahmen, anderer Fokus (Tier B).",
-      "sharedEntities": [
-        "Sechstagekrieg",
-        "Sueskanal"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7",
-      "youtubeUrl": "https://www.youtube.com/watch?v=xKOxIcfuzx0",
-      "matchedAt": "2026-10-17",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 160,
-      "episodeTitle": "Barbareskenstaaten und die europäischen Seemächte",
-      "episodeUrl": "https://gadg.fm/160",
-      "songId": "wilderun-the-coasts-of-high-barbaree",
-      "band": "Wilderun",
-      "songTitle": "The Coasts of High Barbaree",
-      "matchTier": "C",
-      "justification": "Folge = Barbareskenstaaten / Korsaren, Tribut, Hark Olufs; Song = traditionelle Shanty-Schlacht am High Barbaree (Folk-Metal) — thematische Nähe Barbaresken-Küste, kein gemeinsamer Erzählgegenstand (Tier C).",
-      "sharedEntities": [
-        "Barbaresken-Küste",
-        "Piraterie"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
-      "matchedAt": "2026-10-17",
+      "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
+      "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     }
   ]

@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-17 17:23:06 +0200<br>**JSON-Status:** 2026-10-17 17:23:06 +0200</small>
+<small>**Compile-Datum:** 2026-10-23 17:38:59 +0200<br>**JSON-Status:** 2026-10-23 17:38:59 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -32,6 +32,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Kamelot | Song of Roland | A | [link](https://www.youtube.com/watch?v=jYAAUwtmKcA) | [link](https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ) |
 | [83](https://gadg.fm/83) | 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege | Saxorior | Hussiten | A | [link](https://www.youtube.com/watch?v=p37k-uPWqQc) | [link](https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud) |
 | [100](https://gadg.fm/100) | Der Fall der „Mignonette“ und seine Folgen | Scent of Amber | Custom of the Sea | A | [link](https://www.youtube.com/watch?v=P_KOPhWUXcw) | [link](https://open.spotify.com/track/5epQW1revzqLK58ffFcwac) |
+| [102](https://gadg.fm/102) | Ein Picknick, das die Welt verändert | Scorpions | Wind of Change | C | [link](https://www.youtube.com/watch?v=n4RjJKxsamQ) | [link](https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw) |
 | [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | [link](https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX) |
 | [107](https://gadg.fm/107) | Eine kurze Geschichte der Guillotine | Saxon | Madame Guillotine | A | [link](https://www.youtube.com/watch?v=Tfca2Kz4064) | [link](https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz) |
 | [118](https://gadg.fm/118) | Ein Werwolf in Livland | Powerwolf | 1589 | C | [link](https://www.youtube.com/watch?v=5S0-oP9JsL0) | [link](https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G) |
@@ -76,6 +77,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [255](https://gadg.fm/255) | Die 47 Ronin | Nightstryke | The Story of the Forty Seven Ronin | A | [link](https://www.youtube.com/watch?v=RX-tdo2q-DQ) | [link](https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | [link](https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7) |
+| [267](https://gadg.fm/267) | Die Leichensynode von 897 | Fvneral Fvkk | Leichensynode | A | — | [link](https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Crystallion | Hundred Days | C | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | C | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [280](https://gadg.fm/280) | Der versunkene Kontinent Lemuria | Visions of Atlantis | Return to Lemuria | C | [link](https://www.youtube.com/watch?v=4tJAdUahyTA) | [link](https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr) |
@@ -91,7 +93,9 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [311](https://gadg.fm/311) | Der Imjin-Krieg | Midnight Force | Choseon | A | [link](https://www.youtube.com/watch?v=tsWWUtm95Kc) | [link](https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835) |
 | [313](https://gadg.fm/313) | Die Geschwister Herschel | Nanowar of Steel | Uranus | B | [link](https://www.youtube.com/watch?v=OSWszdSHkyE) | [link](https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol) |
 | [318](https://gadg.fm/318) | Der Nuklearunfall von Goiânia | Tom Morello & The Bloody Beetroots | Radium Girls | C | [link](https://www.youtube.com/watch?v=yD0P0bwZKk8) | [link](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) |
+| [322](https://gadg.fm/322) | Portugal und der Seeweg nach Indien | Serenity | Far From Home | B | [link](https://www.youtube.com/watch?v=sP88-w9DP4E) | [link](https://open.spotify.com/track/5OOpEmpsNgafCk26QVLlBC) |
 | [333](https://gadg.fm/333) | Alexandria | Iron Maiden | Alexander the Great | C | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
+| [333](https://gadg.fm/333) | Alexandria | Warkings | Nightfall | C | [link](https://www.youtube.com/watch?v=qrCn-SkuIWo) | [link](https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt) |
 | [335](https://gadg.fm/335) | Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts | Ritual Dictates | Aqua Tofana | A | [link](https://www.youtube.com/watch?v=ZaaaFzrRbDs) | [link](https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt) |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Nils Patrik Johansson | Gustav Vasa | B | [link](https://www.youtube.com/watch?v=mAJpW30f0YQ) | [link](https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn) |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Sabaton | Livgardet | C | [link](https://www.youtube.com/watch?v=Um5R_PH7Jek) | [link](https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e) |
@@ -108,9 +112,9 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Sabaton | Templars | A | [link](https://www.youtube.com/watch?v=B10ECkQXQtU) | [link](https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | The Curse of Jacques | A | [link](https://www.youtube.com/watch?v=4C84PeWW8UI) | [link](https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6) |
 | [378](https://gadg.fm/378) | Ein langer Marsch durch Feindesland | Countess | March of the Ten Thousand | A | [link](https://www.youtube.com/watch?v=-OXnxnbJk_g) | [link](https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR) |
-| [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | B | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [390](https://gadg.fm/390) | Kleopatra Selene und das Ende der Römischen Republik | Ex Deo | The Final War (Battle of Actium) | B | [link](https://www.youtube.com/watch?v=qcfaltp8CL0) | [link](https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
+| [394](https://gadg.fm/394) | Die Verurteilung von Sacco und Vanzetti | Panopticon | La passione de Sacco & Vanzetti | A | [link](https://www.youtube.com/watch?v=OfMzC2AHrr8) | — |
 | [397](https://gadg.fm/397) | Hy Brasil | Waylander | Hy Brasil (Isle of Mists) | A | [link](https://www.youtube.com/watch?v=vVd8E4gb5Dk) | [link](https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |
 | [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Goat of Mendes | Curse of Constantine | A | — | [link](https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine) |
@@ -185,3 +189,5 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Onmyō-za | 蒼き独眼 (Aoki Dokugan) | B | [link](https://www.youtube.com/watch?v=j6GJdnEaZQ8) | [link](https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ) |
 | [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Stoppok | Der Kühlschrank | C | [link](https://www.youtube.com/watch?v=_RY5yOlvEgo) | [link](https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8) |
 | [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Weird Al Yankovic | Livin' in the Fridge | C | [link](https://www.youtube.com/watch?v=wH3UncRagXY) | [link](https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV) |
+| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Enzo and the Glory Ensemble | Last Weep | B | [link](https://www.youtube.com/watch?v=elzcvzBDHpU) | [link](https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt) |
+| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) |
