@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-17 17:23:06 +0200<br>**JSON-Status:** 2026-10-17 15:44:00 +0200</small>
+<small>**Compile-Datum:** 2026-10-23 17:38:59 +0200<br>**JSON-Status:** 2026-10-23 17:24:16 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -15,7 +15,9 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | ---: | --- | --- | --- | :---: | :---: | :---: |
 | [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Xynfonica | From Your Father's Skull | X | — | — |
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
+| [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
+| [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | — | — |
 | [86](https://gadg.fm/86) | Sabbatai Zwi – Der falsche Messias | Witchfield | Sabbatai Zevi | X | — | [link](https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs) |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [125](https://gadg.fm/125) | Republik Fredonia | The Marx Brothers | Hail, Hail Freedonia | X | [link](https://www.youtube.com/watch?v=x4OJGdtRx10) | — |
@@ -60,7 +62,9 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | The Lion from the North | X | [link](https://www.youtube.com/watch?v=KkszNmr6Qh0) | [link](https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Shockheaded Peter | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q) | — |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Snip Snip | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280) | — |
+| [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [388](https://gadg.fm/388) | Marie Tussaud und die Wachsfiguren | Annihilator | Phantasmagoria | X | — | [link](https://open.spotify.com/track/4078UGOgKIRJCz7GUqW8BR) |
+| [388](https://gadg.fm/388) | Marie Tussaud und die Wachsfiguren | Misanthrope | Reine martyre | X | — | — |
 | [394](https://gadg.fm/394) | Die Verurteilung von Sacco und Vanzetti | Georges Moustaki | Marche de Sacco et Vanzetti | X | [link](https://www.youtube.com/watch?v=s-1Gi8ocgmc) | [link](https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Joan Baez | Battle Hymn of the Republic | X | [link](https://www.youtube.com/watch?v=YHforl6vnco) | [link](https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa) |
 | [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Abikyokan | Maxentius | X | — | — |
@@ -145,3 +149,5 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Vatican Shadow | Persian Pillars of the Gasoline Era | X | [link](https://www.youtube.com/watch?v=6KvTK-Ee6b8) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Ministry | Rio Grande Blood | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skyclad | Salt On The Earth (Another Man's Poison) | X | — | — |
+| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Embryo | Ibn Battuta | X | [link](https://www.youtube.com/watch?v=Pm6Kg1bGq9c) | — |
+| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |

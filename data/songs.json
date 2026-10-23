@@ -25,6 +25,33 @@
     ]
   },
   {
+    "id": "abikyokan-maxentius",
+    "band": "Abikyokan",
+    "title": "Maxentius",
+    "entities": [
+      "Maxentius",
+      "Konstantin der Große",
+      "Milvische Brücke",
+      "312",
+      "Tiber"
+    ],
+    "era": "312 / 2013",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://abikyokan.bandcamp.com/track/maxentius",
+        "note": "Lyrics: In hoc signo / Maxentius fell / head on a spike / Constantine into Rome"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bandcamp.k47.cz/?art=abikyokan",
+        "note": "Genre-Tags: electronic pop / indie / avant-pop / neo-psychedelia"
+      }
+    ]
+  },
+  {
     "id": "abomination-blood-for-oil",
     "band": "Abomination",
     "title": "Blood For Oil",
@@ -374,6 +401,38 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Arsames_(band)",
         "note": "Iranian death metal, Mashhad"
+      }
+    ]
+  },
+  {
+    "id": "atrocity-shadowtaker",
+    "band": "Atrocity",
+    "title": "Shadowtaker",
+    "entities": [
+      "Magia Posthuma",
+      "Wiedergänger",
+      "Karl Ferdinand von Schertz",
+      "Vampirismus",
+      "Habsburger Monarchie"
+    ],
+    "era": "18. Jh. / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/atrocity/okkultii.html",
+        "note": "Lyrics: Wiedergänger, Menschenfresser, death within eight days, Magia posthuma"
+      },
+      {
+        "type": "interview",
+        "url": "http://www.metal-impressions.de/?s=Atrocity",
+        "note": "Krull: Schertz Magia Posthuma, Flückinger 1732, Vampir-Erlass 1755; slawischer Wiedergänger"
+      },
+      {
+        "type": "secondary",
+        "url": "https://blabbermouth.net/news/atrocity-shadowtaker-video-released",
+        "note": "Okkult II (2018), Massacre; Official Shadowtaker video"
       }
     ]
   },
@@ -1162,6 +1221,34 @@
     ]
   },
   {
+    "id": "embryo-ibn-battuta",
+    "band": "Embryo",
+    "title": "Ibn Battuta",
+    "entities": [
+      "Ibn Battuta"
+    ],
+    "era": "14. Jh. / 1994",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Pm6Kg1bGq9c",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.allmusic.com/album/ibn-battuta-mw0000726915",
+        "note": "Album 1994; International / Art Rock; Middle Eastern-influenced"
+      },
+      {
+        "type": "secondary",
+        "url": "https://rateyourmusic.com/release/album/embryo/ibn-battuta.p/",
+        "note": "RYM: Arabic Jazz / Jazz Fusion; instrumental title track"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Pm6Kg1bGq9c",
+        "note": "Ibn Battuta (instrumental)"
+      }
+    ]
+  },
+  {
     "id": "eno-barony-yaa-asantewaa",
     "band": "Eno Barony",
     "title": "Yaa Asantewaa",
@@ -1178,6 +1265,62 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Yaa_Asantewaa",
         "note": "Rap/Hip-Hop-Hommage an Yaa Asantewaa"
+      }
+    ]
+  },
+  {
+    "id": "enthroned-graced-by-evil-blood",
+    "band": "Enthroned",
+    "title": "Graced By Evil Blood",
+    "entities": [
+      "Affäre der Gifte",
+      "Madame de Montespan",
+      "La Voisin",
+      "Ludwig XIV."
+    ],
+    "era": "1670er/1680er",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.allthelyrics.com/lyrics/enthroned/graced_by_evil_blood-lyrics-443821.html",
+        "note": "Carnage in the Worlds Beyond — Versailles / Montespan / La Voisin / black masses"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.justice.gouv.fr/actualites/actualite/laffaire-poisons",
+        "note": "Affaire des poisons — Montespan / La Voisin Kontext"
+      }
+    ]
+  },
+  {
+    "id": "enzo-and-the-glory-ensemble-last-weep",
+    "band": "Enzo and the Glory Ensemble",
+    "title": "Last Weep",
+    "entities": [
+      "Ibn Battuta",
+      "Rihla",
+      "Hadsch"
+    ],
+    "era": "14. Jh. / 2020",
+    "spotifyUrl": "https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=elzcvzBDHpU",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://metalshockfinland.com/2020/01/02/enzo-and-the-glory-ensemble-release-first-single-last-weep-from-upcoming-album-feat-gary-wehrkamp-mark-zonder-mr-jack-more/",
+        "note": "Enzo: tribute to Ibn Battuta; mutual exchange of knowledge; Spotify shortlink spoti.fi/2PmZjzF"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Enzo_and_the_Glory_Ensemble/In_the_Name_of_the_World_Spirit/822917",
+        "note": "Symphonic Metal; track 9 Last Weep"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=elzcvzBDHpU",
+        "note": "Official video; Journey to Mecca footage"
       }
     ]
   },
@@ -1386,6 +1529,33 @@
     ]
   },
   {
+    "id": "flashback-of-anger-holdout",
+    "band": "Flashback of Anger",
+    "title": "Holdout",
+    "entities": [
+      "Holdouts",
+      "Hiroo Onoda",
+      "Philippinen",
+      "Zweiter Weltkrieg",
+      "Japan"
+    ],
+    "era": "1945–1974 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30",
+    "youtubeUrl": "https://www.youtube.com/watch?v=uxvn-gIFVZo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/flashbackofanger/shades.html",
+        "note": "Lyrics: Philippines island, never surrender, leaflets, ~30 years mountains, Rising Sun"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://flashbackofanger.bandcamp.com/album/shades",
+        "note": "Shades (2018); Melodic Power/Prog Metal; Track 5 Holdout"
+      }
+    ]
+  },
+  {
     "id": "florentin-feat-lars-333",
     "band": "Florentin feat. Lars",
     "title": "333",
@@ -1490,6 +1660,96 @@
     ]
   },
   {
+    "id": "fvneral-fvkk-bishop-of-the-iron-guard",
+    "band": "Fvneral Fvkk",
+    "title": "Bishop of the Iron Guard",
+    "entities": [
+      "Valerian Trifa",
+      "Eiserne Garde",
+      "Legion Erzengel Michael",
+      "Rumänien"
+    ],
+    "era": "1940–1941 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://dyingvictimsproductions.bandcamp.com/track/bishop-of-the-iron-guard",
+        "note": "Lyrics: Brother Trifa, Archangel Michael's Legion, Iron Guard street terror"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal.de/specials/fvneral-fvkk-indecent-idols-track-by-track-mit-decanus-obscaenus-636097/",
+        "note": "Band Track-by-Track: Valerian Trifa, Eiserne Garde, Kirche–Faschismus"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+        "note": "Official visualizer Bishop of the Iron Guard"
+      }
+    ]
+  },
+  {
+    "id": "fvneral-fvkk-leichensynode",
+    "band": "Fvneral Fvkk",
+    "title": "Leichensynode",
+    "entities": [
+      "Leichensynode",
+      "Formosus",
+      "Stephan VI.",
+      "Cadaver Synod"
+    ],
+    "era": "897 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://dyingvictimsproductions.bandcamp.com/album/indecent-idols",
+        "note": "Track 6 on Indecent Idols (2026-10-23)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal.de/specials/fvneral-fvkk-indecent-idols-track-by-track-mit-decanus-obscaenus-636097/",
+        "note": "Band: Formosus-Exhumierung, Thronprozess, Tiber, Rehabilitierung"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Fvneral_Fvkk/Indecent_Idols/1460973",
+        "note": "Epic Doom; Indecent Idols"
+      }
+    ]
+  },
+  {
+    "id": "game-zero-believe",
+    "band": "Game Zero",
+    "title": "Believe",
+    "entities": [
+      "Hiroo Onoda",
+      "Holdouts",
+      "Lubang",
+      "Philippinen",
+      "Zweiter Weltkrieg",
+      "Japan"
+    ],
+    "era": "1944–1974 / 2020",
+    "spotifyUrl": "https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.gamezeroband.com/video.html",
+        "note": "Official: inspired by Onoda Hiroo, Lubang, 29 years, ghost soldier"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+        "note": "Official video: Hiroo Onoda Inspired; Art Gates Records"
+      }
+    ]
+  },
+  {
     "id": "georges-moustaki-marche-de-sacco-et-vanzetti",
     "band": "Georges Moustaki",
     "title": "Marche de Sacco et Vanzetti",
@@ -1571,6 +1831,40 @@
         "type": "secondary",
         "url": "https://open.spotify.com/album/67a4jDUviofnhh2xCw2CsW",
         "note": "A Perfect Absolution (2012)"
+      }
+    ]
+  },
+  {
+    "id": "gotland-adrianopoli",
+    "band": "Gotland",
+    "title": "Adrianopoli",
+    "entities": [
+      "Adrianopel",
+      "Schlacht von Adrianopel 378",
+      "Valens",
+      "Terwingen",
+      "Goten",
+      "Fritigern",
+      "Oströmisches Reich"
+    ],
+    "era": "378 / 2014",
+    "spotifyUrl": "https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YPpQ2qzKBUg",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://gotlandmetal.bandcamp.com/album/gloria-et-morte",
+        "note": "Lyrics: Rom/Goten-Perspektive, Kavallerie-Ambush, Tod des Kaisers, Empire fading"
+      },
+      {
+        "type": "secondary",
+        "url": "https://heavymetalclassicist.home.blog/2019/08/04/gotland-adrianopoli/",
+        "note": "Heavy Metal Classicist: Song = Schlacht von Adrianopel 378"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Gotland/Gloria_et_Morte/401274",
+        "note": "Metal Archives: Gloria et Morte (2014), Folk/Black Metal"
       }
     ]
   },
@@ -1952,6 +2246,37 @@
     ]
   },
   {
+    "id": "infinite-design-violet-jessop",
+    "band": "Infinite Design",
+    "title": "Violet Jessop",
+    "entities": [
+      "Violet Jessop",
+      "Titanic",
+      "Olympic",
+      "Britannic"
+    ],
+    "era": "1911–1916 / 2016",
+    "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
+    "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://infinitedesignmi.bandcamp.com/album/phases-2016",
+        "note": "Track 1 on Phases; concept album of historical portraits (Tesla lyrics biographical)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Infinite_Design/Phases/628215",
+        "note": "Death Metal; Phases 2016"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=x1em4-rgJyI",
+        "note": "Violet Jessop"
+      }
+    ]
+  },
+  {
     "id": "iron-maiden-aces-high",
     "band": "Iron Maiden",
     "title": "Aces High",
@@ -2301,6 +2626,34 @@
     ]
   },
   {
+    "id": "kamelot-song-of-roland",
+    "band": "Kamelot",
+    "title": "Song of Roland",
+    "entities": [
+      "Roland",
+      "Rolandslied",
+      "Karl der Große",
+      "Roncesvalles",
+      "Olifant",
+      "Mauren"
+    ],
+    "era": "778 / 12. Jh. / 1997",
+    "spotifyUrl": "https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jYAAUwtmKcA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/kamelot/dominion.html",
+        "note": "Lyrics Warner: Nachhut, Moors, horn, never knight so worthy"
+      },
+      {
+        "type": "secondary",
+        "url": "https://kamelot.com/release/dominion/",
+        "note": "Dominion (1997), Noise Records; Power/Prog Metal"
+      }
+    ]
+  },
+  {
     "id": "karl-heinz-weichert-affenschande",
     "band": "Karl-Heinz Weichert und Rhythmusgruppe",
     "title": "Affenschande",
@@ -2463,6 +2816,66 @@
         "type": "secondary",
         "url": "https://metalmessage.bandcamp.com/track/kromlek",
         "note": "Stream auf Metal Message Vol. III"
+      }
+    ]
+  },
+  {
+    "id": "kuazar-machete-che-pope-acosta-nu",
+    "band": "Kuazar",
+    "title": "Machete Che Pope (Acosta Ñu)",
+    "entities": [
+      "Acosta Ñu",
+      "Tripel-Allianz-Krieg",
+      "Paraguay",
+      "Conde d’Eu",
+      "Guerra de la Triple Alianza"
+    ],
+    "era": "1869 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+        "note": "Official video lyrics: Acosta Ñu, Count orders kill women/children, Guarani chorus"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.radionacional.gov.py/2023/03/10/kuazar-revive-sangrienta-batalla-con-machete-che-pope-acosta-nu/",
+        "note": "Band: Acosta Ñu massacre in Triple Alliance War; Conde d’Eu"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Kuazar/Hybrid_Power/1144928",
+        "note": "Hybrid Power (2023), Thrash Metal; Track 8"
+      }
+    ]
+  },
+  {
+    "id": "leaves-eyes-galswintha",
+    "band": "Leaves' Eyes",
+    "title": "Galswintha",
+    "entities": [
+      "Galswintha",
+      "Fredegund",
+      "Westgoten",
+      "Neustrien",
+      "Chilperich I.",
+      "Merowinger"
+    ],
+    "era": "6. Jh. / 2013",
+    "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
+        "note": "Lyrics: Visigoth princess, King of Neustria, Fredegund strangles"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Leaves%27_Eyes/Symphonies_of_the_Night/387012",
+        "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
       }
     ]
   },
@@ -2765,6 +3178,70 @@
     ]
   },
   {
+    "id": "midnight-force-choseon",
+    "band": "Midnight Force",
+    "title": "Choseon",
+    "entities": [
+      "Imjin-Krieg",
+      "Joseon",
+      "Yi Sun-sin",
+      "Turtle Ships",
+      "Toyotomi Hideyoshi"
+    ],
+    "era": "1592–1598 / 2024",
+    "spotifyUrl": "https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://dyingvictimsproductions.bandcamp.com/track/choseon",
+        "note": "Lyrics: Choseon, Japanese invasion, Yi Sun-sin, righteous army, armored ships"
+      },
+      {
+        "type": "secondary",
+        "url": "https://thenwothm.com/2024/08/10/review-midnight-force-severan/",
+        "note": "Review: Choseon about Japanese invasion of Korea; NWOTHM / traditional heavy metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+        "note": "Official / release video Choseon"
+      }
+    ]
+  },
+  {
+    "id": "midnight-force-parthia",
+    "band": "Midnight Force",
+    "title": "Parthia",
+    "entities": [
+      "Schlacht bei Carrhae",
+      "Carrhae",
+      "Parther",
+      "Crassus",
+      "Römische Republik"
+    ],
+    "era": "53 v. Chr. / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://midnightforce.bandcamp.com/album/gododdin",
+        "note": "Gododdin (2019) Track Parthia; lyrics: desert march, pride, horse archers"
+      },
+      {
+        "type": "secondary",
+        "url": "https://azlyrics.biz/m/midnight-force-lyrics/midnight-force-parthia-lyrics/",
+        "note": "Lyrics transcript: Roman desert campaign vs Parthia, arrow hail"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+        "note": "Video Parthia"
+      }
+    ]
+  },
+  {
     "id": "ministry-rio-grande-blood",
     "band": "Ministry",
     "title": "Rio Grande Blood",
@@ -2808,6 +3285,26 @@
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=iOafalF22kI",
         "note": "Official upload; Irish Pirate Metal"
+      }
+    ]
+  },
+  {
+    "id": "misanthrope-reine-martyre",
+    "band": "Misanthrope",
+    "title": "Reine martyre",
+    "entities": [
+      "Marie-Antoinette",
+      "Französische Revolution",
+      "Guillotine"
+    ],
+    "era": "1793",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/misanthrope/reine-martyre-lyrics/",
+        "note": "Metal Hurlant (2005) — Hinrichtung Marie-Antoinette 16.10.1793"
       }
     ]
   },
@@ -3051,6 +3548,39 @@
     ]
   },
   {
+    "id": "nils-patrik-johansson-gustav-vasa",
+    "band": "Nils Patrik Johansson",
+    "title": "Gustav Vasa",
+    "entities": [
+      "Gustav Vasa",
+      "Gustav I. Wasa",
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Dalarna",
+      "Kalmarer Union"
+    ],
+    "era": "1520–1523 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.karaoke-lyrics.net/lyrics/johansson-nils-patrik/gustav-vasa-1194387",
+        "note": "Lyrics: Christian the tyrant, Dalecarlians, Stockholm in blood, crowned 1523"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Nils_Patrik_Johansson/Gustav_Vasa/1361327",
+        "note": "Heavy/Power Metal single 2025; album War And Peace"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+        "note": "Official lyric video Gustav Vasa"
+      }
+    ]
+  },
+  {
     "id": "nina-hagen-16-tons",
     "band": "Nina Hagen",
     "title": "16 tons",
@@ -3074,6 +3604,31 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
         "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
+    "id": "nocturnus-climate-controller",
+    "band": "Nocturnus",
+    "title": "Climate Controller",
+    "entities": [
+      "Wetterkontrolle",
+      "Cloud Seeding",
+      "Climate Controller"
+    ],
+    "era": "1992",
+    "spotifyUrl": "https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/nocturnus/thresholds.html",
+        "note": "Okkult-Sci-Fi Weather Dominator; seeding clouds with ice"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Thresholds_(album)",
+        "note": "Thresholds (1992); Technical Death Metal"
       }
     ]
   },
@@ -3162,6 +3717,31 @@
     ]
   },
   {
+    "id": "ornatorpet-stockholms-blodbad",
+    "band": "Örnatorpet",
+    "title": "Stockholms Blodbad",
+    "entities": [
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Gustav Vasa"
+    ],
+    "era": "1520 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
+      },
+      {
+        "type": "secondary",
+        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Label: medievalist dungeon synth"
+      }
+    ]
+  },
+  {
     "id": "ottone-pesante-battle-of-qadesh",
     "band": "Ottone Pesante",
     "title": "Battle of Qadesh",
@@ -3185,6 +3765,33 @@
         "type": "news",
         "url": "https://www.impattosonoro.it/2024/09/13/news/ottone-pesante-il-nuovo-singolo-battle-of-qadesh-con-lili-refrain/",
         "note": "Official single about Qadesh 1274 BCE and later peace treaty"
+      }
+    ]
+  },
+  {
+    "id": "ov-moros-disappearance",
+    "band": "Ov Moros",
+    "title": "Disappearance",
+    "entities": [
+      "Roanoke",
+      "Lost Colony",
+      "Croatoan",
+      "John White",
+      "Walter Raleigh"
+    ],
+    "era": "1587–1590 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dj98LwbwlDg",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ovmoros.bandcamp.com/track/disappearance",
+        "note": "Lyrics: supply ship, three years later, fort gone, Croatoan; album Roanoke"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Ov_Moros/Roanoke/660448",
+        "note": "Progressive Doom Metal; Roanoke (2017), Track 7 Disappearance"
       }
     ]
   },
@@ -3214,6 +3821,36 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Behandelt historische Arbeitskämpfe, gewerkschaftliche Organisierung und Gewalt gegen Bergleute in Kentucky; die Folge behandelt dieselben Kernthemen am Beispie"
+      }
+    ]
+  },
+  {
+    "id": "panopticon-la-passione-de-sacco-and-vanzetti",
+    "band": "Panopticon",
+    "title": "La passione de Sacco & Vanzetti",
+    "entities": [
+      "Nicola Sacco",
+      "Bartolomeo Vanzetti",
+      "Anarchismus"
+    ],
+    "era": "1927 / 2008",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=OfMzC2AHrr8",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://thetruepanopticon.bandcamp.com/album/la-passione-de-sacco-vanzetti",
+        "note": "Single 2008; memorial for Sacco and Vanzetti"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Panopticon/La_passione_de_Sacco_%26_Vanzetti/398961",
+        "note": "Black Metal; in memory of Sacco and Vanzetti murdered by the state"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=OfMzC2AHrr8",
+        "note": "La passione de Sacco & Vanzetti"
       }
     ]
   },
@@ -3428,6 +4065,40 @@
     ]
   },
   {
+    "id": "professor-emeritus-rosamund",
+    "band": "Professor Emeritus",
+    "title": "Rosamund",
+    "entities": [
+      "Rosamunde",
+      "Rosamund",
+      "Alboin",
+      "Kunimund",
+      "Schädelbecher",
+      "Langobarden",
+      "Gepiden"
+    ],
+    "era": "6. Jh. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/professor-emeritus/rosamund-lyrics/",
+        "note": "Lyrics: Rosamund my name; drank from my father's skull; planned his death; Sono Rosamunda"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Professor_Emeritus/Take_Me_to_the_Gallows/681103",
+        "note": "Metal Archives: Take Me to the Gallows (2017), Heavy/Epic Doom; Track 6 Rosamund"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://professoremeritus.bandcamp.com/album/take-me-to-the-gallows",
+        "note": "Bandcamp: Take Me to the Gallows"
+      }
+    ]
+  },
+  {
     "id": "pyogenesis-we-1848",
     "band": "Pyogenesis",
     "title": "We (1848)",
@@ -3590,6 +4261,38 @@
     ]
   },
   {
+    "id": "ritual-dictates-aqua-tofana",
+    "band": "Ritual Dictates",
+    "title": "Aqua Tofana",
+    "entities": [
+      "Giulia Tofana",
+      "Aqua Tofana",
+      "Astrologa della Lungara",
+      "Manna di San Nicola",
+      "Rom"
+    ],
+    "era": "17. Jh. / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://metalanarchy.com/2022/09/02/ritual-dictates-share-music-video-for-new-song-aqua-tofana-featuring-unleash-the-archers-brittney-slayes/",
+        "note": "Hagberg: Song über Giulia Tofana und die 600; feat. Brittney Slayes"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/band/view/id/3540465730",
+        "note": "Metal Archives: Gothic Metal/Rock; Album No Great Loss"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+        "note": "Official video Aqua Tofana"
+      }
+    ]
+  },
+  {
     "id": "rivers-of-nihil-the-silent-life",
     "band": "Rivers of Nihil",
     "title": "The Silent Life",
@@ -3647,6 +4350,39 @@
         "type": "secondary",
         "url": "https://www.farsidemusic.com/acatalog/The-Road-of-Hasekura-Tsunenaga-FSD6365.html",
         "note": "Shakuhachi-Album (Weltmusik/traditionell), dem Hasekura Tsunenaga gewidmet"
+      }
+    ]
+  },
+  {
+    "id": "rorcal-heliogabalus",
+    "band": "Rorcal",
+    "title": "Heliogabalus",
+    "entities": [
+      "Elagabal",
+      "Heliogabalus",
+      "Elagabalus",
+      "Sonnengott",
+      "schwarzer Stein",
+      "Rom"
+    ],
+    "era": "218–222 / 2010",
+    "spotifyUrl": "https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://rorcal.bandcamp.com/album/heliogabalus",
+        "note": "Konzeptalbum: Dekadenz Kaiser Heliogabalus; Parts I–IV (+ Prelude)"
+      },
+      {
+        "type": "interview",
+        "url": "https://vampster.com/interviews/rorcal-doom-it-yourself/",
+        "note": "JP: Konzept über Artaud Heliogabal oder der Anarchist auf dem Thron; Fokus Regierungszeit"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rorcal/Heliogabalus/285674",
+        "note": "Metal Archives: Heliogabalus (2010), Extreme Doom/Sludge"
       }
     ]
   },
@@ -5635,6 +6371,32 @@
     ]
   },
   {
+    "id": "sarcoptes-spanish-flu",
+    "band": "Sarcoptes",
+    "title": "Spanish Flu",
+    "entities": [
+      "Spanische Grippe",
+      "Spanish Flu",
+      "Pandemie 1918",
+      "Erster Weltkrieg"
+    ],
+    "era": "1918–1919 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy",
+    "youtubeUrl": "https://www.youtube.com/watch?v=d7XCKmdF2_g",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.blackmetalspirit.net/2023/02/sarcoptes.html",
+        "note": "Lyrics: Spanish flu, war as prelude, mass graves, choking/gasping"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://sarcoptes.bandcamp.com/album/prayers-to-oblivion",
+        "note": "Prayers to Oblivion (2023); Black/Thrash; Track 2 Spanish Flu"
+      }
+    ]
+  },
+  {
     "id": "sarvekas-the-great-winter",
     "band": "Sarvekas",
     "title": "The Great Winter",
@@ -5852,6 +6614,40 @@
     ]
   },
   {
+    "id": "saxorior-hussiten",
+    "band": "Saxorior",
+    "title": "Hussiten",
+    "entities": [
+      "Jan Hus",
+      "Hussitenkriege",
+      "Konstanz",
+      "Fenstersturz",
+      "Prokop",
+      "Utraquisten",
+      "Sigismund"
+    ],
+    "era": "1415–1436 / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
+    "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://azlyrics.biz/s/saxorior-lyrics/saxorior-hussiten-lyrics/",
+        "note": "Lyrics: Konstanz, Sigismund, Flammen, Fenstersturz, Hussitenzüge, Prokop"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://saxorior.bandcamp.com/album/hem",
+        "note": "HEM (2019); Melodic/Pagan Black Metal; Track 7 Hussiten"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Saxorior/HEM/798015",
+        "note": "Metal Archives: HEM; Themes War/History"
+      }
+    ]
+  },
+  {
     "id": "scent-of-amber-custom-of-the-sea",
     "band": "Scent of Amber",
     "title": "Custom of the Sea",
@@ -5939,6 +6735,36 @@
     ]
   },
   {
+    "id": "sciencenv-the-end-of-a-legend",
+    "band": "ScienceNV",
+    "title": "The End of a Legend",
+    "entities": [
+      "Priesterkönig Johannes",
+      "Prester John",
+      "Quest-Ende"
+    ],
+    "era": "17. Jh. / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zz9I9BaiCpk",
+    "sources": [
+      {
+        "type": "band",
+        "url": "http://www.sciencenv.com/PJnotesALL.htm",
+        "note": "Bandnotiz: 17. Jh. Gelehrte geben Legende auf; >500 Jahre Quests"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.sciencenv.com/Lyrics/The%20End%20of%20a%20Legend.pdf",
+        "note": "Lament erschöpfter Sucher; dreams/love/memories just for letting go"
+      },
+      {
+        "type": "secondary",
+        "url": "https://mwe3.com/reviews/ScienceNV2018-2/",
+        "note": "Interview: Ende der Quest-Epoche / Allegorie fruchtlosen Kriegs"
+      }
+    ]
+  },
+  {
     "id": "scimitar-knights-collapse",
     "band": "Scimitar",
     "title": "Knights Collapse",
@@ -5956,6 +6782,62 @@
         "type": "bandcamp",
         "url": "https://scimitar.bandcamp.com/track/knights-collapse",
         "note": "explicit Agincourt battle narrative"
+      }
+    ]
+  },
+  {
+    "id": "scorpions-wind-of-change",
+    "band": "Scorpions",
+    "title": "Wind of Change",
+    "entities": [
+      "Ende des Kalten Krieges",
+      "Perestroika",
+      "Moskau",
+      "1989"
+    ],
+    "era": "1989/90",
+    "spotifyUrl": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)",
+        "note": "Crazy World — Moscow Music Peace Festival / Glasnost; später Wende-Hymne"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.rollingstone.com/music/music-news/scorpions-wind-of-change-the-oral-history-of-1990s-epic-power-ballad-63069/",
+        "note": "Meine: Song über Moskau, nicht über die Mauer"
+      }
+    ]
+  },
+  {
+    "id": "serenity-far-from-home",
+    "band": "Serenity",
+    "title": "Far From Home",
+    "entities": [
+      "Bartolomeu Dias",
+      "Kap der Guten Hoffnung",
+      "Seeweg Indien"
+    ],
+    "era": "1488",
+    "spotifyUrl": "https://open.spotify.com/track/5OOpEmpsNgafCk26QVLlBC",
+    "youtubeUrl": "https://www.youtube.com/watch?v=sP88-w9DP4E",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — Far from Home = Bartolomeu Dias / Kapumrundung"
+      },
+      {
+        "type": "band",
+        "url": "https://www.serenity-band.com/release/death-legacy/",
+        "note": "Bandseite Death & Legacy Tracklist"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://azlyrics.biz/s/serenity-lyrics/serenity-far-from-home-lyrics/",
+        "note": "southernmost / reaching India by sea"
       }
     ]
   },
@@ -5986,6 +6868,31 @@
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=G38B-vTBiPs",
         "note": "Official Video (Napalm)"
+      }
+    ]
+  },
+  {
+    "id": "serenity-serenade-of-flames",
+    "band": "Serenity",
+    "title": "Serenade of Flames",
+    "entities": [
+      "Heinrich Kramer",
+      "Malleus Maleficarum",
+      "Hexenhammer"
+    ],
+    "era": "1486/87",
+    "spotifyUrl": "https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lQv-IzoH8rI",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Serenade of Flames = Heinrich Kramer / Malleus Maleficarum"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/serenity/serenade-of-flames-lyrics/",
+        "note": "feat. Charlotte Wessels — Malleus Maleficarum / stake"
       }
     ]
   },
@@ -6226,6 +7133,34 @@
     ]
   },
   {
+    "id": "slartibartfass-schwabenkinder",
+    "band": "Slartibartfass",
+    "title": "Schwabenkinder",
+    "entities": [
+      "Schwabenkinder",
+      "Hütekinder",
+      "Schwabengehen",
+      "Tirol",
+      "Vorarlberg",
+      "Schwaben"
+    ],
+    "era": "16.–20. Jh. / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metalmusicarchives.com/album/slartibartfass/funkenfeuer",
+        "note": "Funkenfeuer (2009), Folk Metal; Track 6 Schwabenkinder; Cover Wolfgang Greiner"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.hotel666.de/reviews/slartibartfass-funkenfeuer",
+        "note": "Review: Ulmer Band; Stück auf Funkenfeuer neben Schöner Lau"
+      }
+    ]
+  },
+  {
     "id": "sodom-bloodtrails",
     "band": "Sodom",
     "title": "Bloodtrails",
@@ -6351,6 +7286,30 @@
         "type": "band",
         "url": "http://www.stern-combo-meissen.de/diskographie/",
         "note": "Diskographie / Tracklist Weißes Gold"
+      }
+    ]
+  },
+  {
+    "id": "stoppok-der-kuehlschrank",
+    "band": "Stoppok",
+    "title": "Der Kühlschrank",
+    "entities": [
+      "Kühlschrank",
+      "FCKW"
+    ],
+    "era": "1993",
+    "spotifyUrl": "https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_RY5yOlvEgo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.nomorelyrics.net/stoppok-lyrics/186919-der_kahlschrank-lyrics.html",
+        "note": "Haushaltskühlschrank als „Freund“, Defekt, FCKW-Zeile"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.hitparade.ch/song/Stoppok/Der-Kuehlschrank-674909",
+        "note": "Happy End Im La-La-Land (1993)"
       }
     ]
   },
@@ -6748,6 +7707,73 @@
     ]
   },
   {
+    "id": "the-metal-alliance-the-beast-of-war",
+    "band": "The Metal Alliance",
+    "title": "The Beast of War",
+    "entities": [
+      "Wojtek",
+      "Voytek",
+      "Soldatenbär",
+      "Monte Cassino",
+      "2. polnisches Korps",
+      "22. Artillerie-Versorgungskompanie",
+      "Syrischer Braunbär"
+    ],
+    "era": "1942–1945 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
+    "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.cancioneros.com/lyrics/song/2613612/the-beast-of-war-the-metal-alliance",
+        "note": "Lyrics: Polish 22nd artillery, Private/Corporal Voytek, Monte Cassino, Syrian brown bear"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/The_Metal_Alliance/Forged_by_Steel/670625",
+        "note": "Metal Archives: Forged by Steel (2017), Track The Beast of War; Genre Heavy Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/The_Metal_Alliance/3540431528",
+        "note": "Band: International (NL/NO/SE), Heavy Metal, 2013–"
+      }
+    ]
+  },
+  {
+    "id": "the-pirates-charles-mutiny-on-the-hms-bounty",
+    "band": "The Pirates Charles",
+    "title": "Mutiny on the HMS Bounty",
+    "entities": [
+      "Meuterei auf der Bounty",
+      "HMS Bounty",
+      "William Bligh",
+      "Fletcher Christian",
+      "Tahiti",
+      "Brotfrucht"
+    ],
+    "era": "1789 / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.songlyrics.com/the-pirates-charles/mutiny-on-the-hms-bounty-lyrics/",
+        "note": "Lyrics: Bligh, Christian, Bounty, Tahiti, breadfruit"
+      },
+      {
+        "type": "secondary",
+        "url": "https://genius.com/artists/The-pirates-charles",
+        "note": "Hard Rock / Sea Shanty / Folk Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+        "note": "Video Mutiny on the HMS Bounty"
+      }
+    ]
+  },
+  {
     "id": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
     "band": "The Wolfe Tones",
     "title": "Óró sé do bheatha abhaile",
@@ -6769,6 +7795,38 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag552/",
         "note": "Kommentar: Artefakt nationalistischer Mythologisierung"
+      }
+    ]
+  },
+  {
+    "id": "the-wright-valley-trio-shackleton",
+    "band": "The Wright Valley Trio",
+    "title": "Shackleton",
+    "entities": [
+      "Ernest Shackleton",
+      "Antarktis",
+      "Packeis",
+      "Endurance",
+      "Polarer Überlebenskampf"
+    ],
+    "era": "1914–1917 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J",
+    "youtubeUrl": "https://www.youtube.com/watch?v=sJ7mYvFrc_Y",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://wrightvalley.bandcamp.com/album/shackleton",
+        "note": "Lyrics: Ice Death Cold, Must Walk Crawl, end of the world / hope"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/The_Wright_Valley_Trio/Shackleton/687076",
+        "note": "Metal Archives: Shackleton (2017), Doom/Sludge; Band nach Wright Valley (Antarktis)"
+      },
+      {
+        "type": "band",
+        "url": "https://wrightvalley.com/",
+        "note": "Band: Doom/Sludge, Wiesbaden; Antarctic aesthetic"
       }
     ]
   },
@@ -7032,6 +8090,43 @@
     ]
   },
   {
+    "id": "unconquerable-imperial-genocide",
+    "band": "Uncönquerable",
+    "title": "Imperial Genocide",
+    "entities": [
+      "Acosta Ñu",
+      "Tripel-Allianz-Krieg",
+      "Paraguay",
+      "Guerra da Tríplice Aliança",
+      "Campo Grande"
+    ],
+    "era": "1869 / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://spak-individualthoughtpatterns.blogspot.com/2023/04/unconquerable-post-lyric-video-for-new.html",
+        "note": "Band/label: Acosta Ñu Aug 1869, child soldiers vs Triple Alliance; cover Pedro Américo Campo Grande"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://unconquerable.bandcamp.com/album/imperial-genocide",
+        "note": "EP Imperial Genocide (2022); cover Batalha do Campo Grande 1871"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Unc%C3%B6nquerable/Imperial_Genocide/1084143",
+        "note": "Blackened thrash EP; Track 2 Imperial Genocide"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+        "note": "Official lyric video Imperial Genocide"
+      }
+    ]
+  },
+  {
     "id": "unleash-the-archers-northwest-passage",
     "band": "Unleash the Archers",
     "title": "Northwest Passage",
@@ -7232,6 +8327,37 @@
     ]
   },
   {
+    "id": "warkings-nightfall",
+    "band": "Warkings",
+    "title": "Nightfall",
+    "entities": [
+      "Dareios III.",
+      "Alexander der Große",
+      "Gaugamela",
+      "Perserreich"
+    ],
+    "era": "331 v. Chr. / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qrCn-SkuIWo",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.facebook.com/100057221180708/posts/1638631554720868/",
+        "note": "Band: Song inspired by Gaugamela 331 BC, Darius III vs Alexander"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songlyrics.com/warkings/nightfall-lyrics/",
+        "note": "Lyrics: fallen king, Alexander rises, soldiers flee, dynasty"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=qrCn-SkuIWo",
+        "note": "Official / release video Nightfall"
+      }
+    ]
+  },
+  {
     "id": "warkings-sparta",
     "band": "Warkings",
     "title": "Sparta",
@@ -7309,81 +8435,53 @@
     ]
   },
   {
-    "id": "witchbound-battle-of-kadesh",
-    "band": "Witchbound",
-    "title": "Battle of Kadesh",
+    "id": "waylander-hy-brasil-isle-of-mists",
+    "band": "Waylander",
+    "title": "Hy Brasil (Isle of Mists)",
     "entities": [
-      "Schlacht bei Kadesch",
-      "Ramses II.",
-      "Hethiter",
-      "1274 v. Chr.",
-      "Amun"
+      "Hy Brasil",
+      "Hy-Brasil",
+      "Phantominsel",
+      "Irland"
     ],
-    "era": "-1274",
-    "spotifyUrl": "https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85",
-    "youtubeUrl": "https://www.youtube.com/watch?v=5FKciHZdlN8",
+    "era": "Karten/Mythos / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vVd8E4gb5Dk",
     "sources": [
       {
-        "type": "interview",
-        "url": "https://powermetal.de/content/artikel/show-WITCHBOUND__Interview_mit_Stefan_Kauffmann,10039-1.html",
-        "note": "Kauffmann: Schlacht bei Kadesh, Ägypter/Hethiter, 5. Regierungsjahr Ramses II., Amun-Legende"
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=yTp6-yjc4sw",
+        "note": "Official video / press: inspired by Hy Brasil mist island off Ireland west coast"
       },
       {
         "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Witchbound/End_of_Paradise/928594",
-        "note": "End of Paradise (2021), Track Battle of Kadesh"
+        "url": "https://mhf-mag.com/northern-irish-pagan-metal-pioneers-waylander-new-video-hy-brasil-isle-of-mists/",
+        "note": "Mac Tire Son of the Land (2026); Pagan Metal; Band: tale of mysterious island"
       }
     ]
   },
   {
-    "id": "yves-duteil-dreyfus",
-    "band": "Yves Duteil",
-    "title": "Dreyfus",
+    "id": "weird-al-yankovic-livin-in-the-fridge",
+    "band": "Weird Al Yankovic",
+    "title": "Livin' in the Fridge",
     "entities": [
-      "Dreyfus-Affäre",
-      "Alfred Dreyfus",
-      "Guyane"
+      "Kühlschrank",
+      "Lebensmittelreste",
+      "Schimmel"
     ],
-    "era": "1894–1906",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "era": "1993",
+    "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
     "sources": [
       {
         "type": "lyrics",
-        "url": "https://www.paroles.net/yves-duteil/paroles-dreyfus",
-        "note": "Lyrics: Affaire, Alsacien/juif/capitaine, Guyane, innocence"
+        "url": "https://genius.com/Weird-al-yankovic-livin-in-the-fridge-lyrics",
+        "note": "Aerosmith-Parodie: verschimmelte Reste im Kühlschrank"
       },
-      {
-        "type": "wikipedia",
-        "url": "https://fr.wikipedia.org/wiki/Yves_Duteil",
-        "note": "Chanson française; petit-neveu du capitaine Dreyfus; Touché (1997)"
-      }
-    ]
-  },
-  {
-    "id": "zz-top-jeff-beck-sixteen-tons-live-from-london",
-    "band": "ZZ Top feat. Jeff Beck",
-    "title": "Sixteen Tons (Live from London)",
-    "entities": [
-      "Company Store",
-      "Scrip",
-      "Truck system",
-      "Kohlebergbau",
-      "Appalachen"
-    ],
-    "era": "1947 / 2016",
-    "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
-    "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
-    "sources": [
       {
         "type": "secondary",
-        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge",
-        "note": "Single Sixteen Tons (feat. Jeff Beck) [Live From London], 2016"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
-        "note": "Cover von Merle Travis / Company Store / Truck system"
+        "url": "https://en.wikipedia.org/wiki/Alapalooza",
+        "note": "Alapalooza (1993); Comedy/Parody Rock"
       }
     ]
   },
@@ -7420,613 +8518,59 @@
     ]
   },
   {
-    "id": "sciencenv-the-end-of-a-legend",
-    "band": "ScienceNV",
-    "title": "The End of a Legend",
+    "id": "wilderun-the-coasts-of-high-barbaree",
+    "band": "Wilderun",
+    "title": "The Coasts of High Barbaree",
     "entities": [
-      "Priesterkönig Johannes",
-      "Prester John",
-      "Quest-Ende"
+      "High Barbaree",
+      "Barbaresken-Küste",
+      "Piraten"
     ],
-    "era": "17. Jh. / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=zz9I9BaiCpk",
-    "sources": [
-      {
-        "type": "band",
-        "url": "http://www.sciencenv.com/PJnotesALL.htm",
-        "note": "Bandnotiz: 17. Jh. Gelehrte geben Legende auf; >500 Jahre Quests"
-      },
-      {
-        "type": "lyrics",
-        "url": "http://www.sciencenv.com/Lyrics/The%20End%20of%20a%20Legend.pdf",
-        "note": "Lament erschöpfter Sucher; dreams/love/memories just for letting go"
-      },
-      {
-        "type": "secondary",
-        "url": "https://mwe3.com/reviews/ScienceNV2018-2/",
-        "note": "Interview: Ende der Quest-Epoche / Allegorie fruchtlosen Kriegs"
-      }
-    ]
-  },
-  {
-    "id": "nocturnus-climate-controller",
-    "band": "Nocturnus",
-    "title": "Climate Controller",
-    "entities": [
-      "Wetterkontrolle",
-      "Cloud Seeding",
-      "Climate Controller"
-    ],
-    "era": "1992",
-    "spotifyUrl": "https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/nocturnus/thresholds.html",
-        "note": "Okkult-Sci-Fi Weather Dominator; seeding clouds with ice"
-      },
-      {
-        "type": "secondary",
-        "url": "https://en.wikipedia.org/wiki/Thresholds_(album)",
-        "note": "Thresholds (1992); Technical Death Metal"
-      }
-    ]
-  },
-  {
-    "id": "stoppok-der-kuehlschrank",
-    "band": "Stoppok",
-    "title": "Der Kühlschrank",
-    "entities": [
-      "Kühlschrank",
-      "FCKW"
-    ],
-    "era": "1993",
-    "spotifyUrl": "https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_RY5yOlvEgo",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.nomorelyrics.net/stoppok-lyrics/186919-der_kahlschrank-lyrics.html",
-        "note": "Haushaltskühlschrank als „Freund“, Defekt, FCKW-Zeile"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.hitparade.ch/song/Stoppok/Der-Kuehlschrank-674909",
-        "note": "Happy End Im La-La-Land (1993)"
-      }
-    ]
-  },
-  {
-    "id": "weird-al-yankovic-livin-in-the-fridge",
-    "band": "Weird Al Yankovic",
-    "title": "Livin' in the Fridge",
-    "entities": [
-      "Kühlschrank",
-      "Lebensmittelreste",
-      "Schimmel"
-    ],
-    "era": "1993",
-    "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
-    "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://genius.com/Weird-al-yankovic-livin-in-the-fridge-lyrics",
-        "note": "Aerosmith-Parodie: verschimmelte Reste im Kühlschrank"
-      },
-      {
-        "type": "secondary",
-        "url": "https://en.wikipedia.org/wiki/Alapalooza",
-        "note": "Alapalooza (1993); Comedy/Parody Rock"
-      }
-    ]
-  },
-  {
-    "id": "the-metal-alliance-the-beast-of-war",
-    "band": "The Metal Alliance",
-    "title": "The Beast of War",
-    "entities": [
-      "Wojtek",
-      "Voytek",
-      "Soldatenbär",
-      "Monte Cassino",
-      "2. polnisches Korps",
-      "22. Artillerie-Versorgungskompanie",
-      "Syrischer Braunbär"
-    ],
-    "era": "1942–1945 / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
-    "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.cancioneros.com/lyrics/song/2613612/the-beast-of-war-the-metal-alliance",
-        "note": "Lyrics: Polish 22nd artillery, Private/Corporal Voytek, Monte Cassino, Syrian brown bear"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/The_Metal_Alliance/Forged_by_Steel/670625",
-        "note": "Metal Archives: Forged by Steel (2017), Track The Beast of War; Genre Heavy Metal"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/bands/The_Metal_Alliance/3540431528",
-        "note": "Band: International (NL/NO/SE), Heavy Metal, 2013–"
-      }
-    ]
-  },
-  {
-    "id": "leaves-eyes-galswintha",
-    "band": "Leaves' Eyes",
-    "title": "Galswintha",
-    "entities": [
-      "Galswintha",
-      "Fredegund",
-      "Westgoten",
-      "Neustrien",
-      "Chilperich I.",
-      "Merowinger"
-    ],
-    "era": "6. Jh. / 2013",
-    "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
-    "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
-        "note": "Lyrics: Visigoth princess, King of Neustria, Fredegund strangles"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Leaves%27_Eyes/Symphonies_of_the_Night/387012",
-        "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
-      }
-    ]
-  },
-  {
-    "id": "the-wright-valley-trio-shackleton",
-    "band": "The Wright Valley Trio",
-    "title": "Shackleton",
-    "entities": [
-      "Ernest Shackleton",
-      "Antarktis",
-      "Packeis",
-      "Endurance",
-      "Polarer Überlebenskampf"
-    ],
-    "era": "1914–1917 / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sJ7mYvFrc_Y",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://wrightvalley.bandcamp.com/album/shackleton",
-        "note": "Lyrics: Ice Death Cold, Must Walk Crawl, end of the world / hope"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/The_Wright_Valley_Trio/Shackleton/687076",
-        "note": "Metal Archives: Shackleton (2017), Doom/Sludge; Band nach Wright Valley (Antarktis)"
-      },
-      {
-        "type": "band",
-        "url": "https://wrightvalley.com/",
-        "note": "Band: Doom/Sludge, Wiesbaden; Antarctic aesthetic"
-      }
-    ]
-  },
-  {
-    "id": "gotland-adrianopoli",
-    "band": "Gotland",
-    "title": "Adrianopoli",
-    "entities": [
-      "Adrianopel",
-      "Schlacht von Adrianopel 378",
-      "Valens",
-      "Terwingen",
-      "Goten",
-      "Fritigern",
-      "Oströmisches Reich"
-    ],
-    "era": "378 / 2014",
-    "spotifyUrl": "https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou",
-    "youtubeUrl": "https://www.youtube.com/watch?v=YPpQ2qzKBUg",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://gotlandmetal.bandcamp.com/album/gloria-et-morte",
-        "note": "Lyrics: Rom/Goten-Perspektive, Kavallerie-Ambush, Tod des Kaisers, Empire fading"
-      },
-      {
-        "type": "secondary",
-        "url": "https://heavymetalclassicist.home.blog/2019/08/04/gotland-adrianopoli/",
-        "note": "Heavy Metal Classicist: Song = Schlacht von Adrianopel 378"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Gotland/Gloria_et_Morte/401274",
-        "note": "Metal Archives: Gloria et Morte (2014), Folk/Black Metal"
-      }
-    ]
-  },
-  {
-    "id": "xynfonica-from-your-fathers-skull",
-    "band": "Xynfonica",
-    "title": "From Your Father's Skull",
-    "entities": [
-      "Alboin",
-      "Rosamunde",
-      "Rosamund",
-      "Kunimund",
-      "Schädelbecher",
-      "Langobarden",
-      "Gepiden"
-    ],
-    "era": "6. Jh. / 2007",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://rateyourmusic.com/artist/xynfonica",
-        "note": "RYM: A Feast for Famished Ravens (2008) — Dungeon Synth / MIDI / Experimental; Track Drink My Darling From Your Father's Skull"
-      },
-      {
-        "type": "secondary",
-        "url": "https://music.apple.com/us/artist/xynfonica/258548950",
-        "note": "Apple Music: From Your Father's Skull auf A Feast for Famished Ravens (2007)"
-      }
-    ]
-  },
-  {
-    "id": "professor-emeritus-rosamund",
-    "band": "Professor Emeritus",
-    "title": "Rosamund",
-    "entities": [
-      "Rosamunde",
-      "Rosamund",
-      "Alboin",
-      "Kunimund",
-      "Schädelbecher",
-      "Langobarden",
-      "Gepiden"
-    ],
-    "era": "6. Jh. / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56",
-    "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/professor-emeritus/rosamund-lyrics/",
-        "note": "Lyrics: Rosamund my name; drank from my father's skull; planned his death; Sono Rosamunda"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Professor_Emeritus/Take_Me_to_the_Gallows/681103",
-        "note": "Metal Archives: Take Me to the Gallows (2017), Heavy/Epic Doom; Track 6 Rosamund"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://professoremeritus.bandcamp.com/album/take-me-to-the-gallows",
-        "note": "Bandcamp: Take Me to the Gallows"
-      }
-    ]
-  },
-  {
-    "id": "rorcal-heliogabalus",
-    "band": "Rorcal",
-    "title": "Heliogabalus",
-    "entities": [
-      "Elagabal",
-      "Heliogabalus",
-      "Elagabalus",
-      "Sonnengott",
-      "schwarzer Stein",
-      "Rom"
-    ],
-    "era": "218–222 / 2010",
-    "spotifyUrl": "https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl",
-    "youtubeUrl": "https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g",
+    "era": "Frühe Neuzeit (Shanty) / 2012",
+    "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
     "sources": [
       {
         "type": "bandcamp",
-        "url": "https://rorcal.bandcamp.com/album/heliogabalus",
-        "note": "Konzeptalbum: Dekadenz Kaiser Heliogabalus; Parts I–IV (+ Prelude)"
+        "url": "https://wilderun.bandcamp.com/album/olden-tales-deathly-trails",
+        "note": "Track 6; traditional shanty arrangement; Folk/Prog Metal"
       },
+      {
+        "type": "secondary",
+        "url": "https://www.mainlynorfolk.info/peter.bellamy/songs/highbarbaree.html",
+        "note": "High Barbaree = Rif/Barbary Coast; traditional pirate vs navy ballad"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+        "note": "Video The Coasts of High Barbaree"
+      }
+    ]
+  },
+  {
+    "id": "witchbound-battle-of-kadesh",
+    "band": "Witchbound",
+    "title": "Battle of Kadesh",
+    "entities": [
+      "Schlacht bei Kadesch",
+      "Ramses II.",
+      "Hethiter",
+      "1274 v. Chr.",
+      "Amun"
+    ],
+    "era": "-1274",
+    "spotifyUrl": "https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5FKciHZdlN8",
+    "sources": [
       {
         "type": "interview",
-        "url": "https://vampster.com/interviews/rorcal-doom-it-yourself/",
-        "note": "JP: Konzept über Artaud Heliogabal oder der Anarchist auf dem Thron; Fokus Regierungszeit"
+        "url": "https://powermetal.de/content/artikel/show-WITCHBOUND__Interview_mit_Stefan_Kauffmann,10039-1.html",
+        "note": "Kauffmann: Schlacht bei Kadesh, Ägypter/Hethiter, 5. Regierungsjahr Ramses II., Amun-Legende"
       },
       {
         "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Rorcal/Heliogabalus/285674",
-        "note": "Metal Archives: Heliogabalus (2010), Extreme Doom/Sludge"
-      }
-    ]
-  },
-  {
-    "id": "abikyokan-maxentius",
-    "band": "Abikyokan",
-    "title": "Maxentius",
-    "entities": [
-      "Maxentius",
-      "Konstantin der Große",
-      "Milvische Brücke",
-      "312",
-      "Tiber"
-    ],
-    "era": "312 / 2013",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://abikyokan.bandcamp.com/track/maxentius",
-        "note": "Lyrics: In hoc signo / Maxentius fell / head on a spike / Constantine into Rome"
-      },
-      {
-        "type": "secondary",
-        "url": "https://bandcamp.k47.cz/?art=abikyokan",
-        "note": "Genre-Tags: electronic pop / indie / avant-pop / neo-psychedelia"
-      }
-    ]
-  },
-  {
-    "id": "kamelot-song-of-roland",
-    "band": "Kamelot",
-    "title": "Song of Roland",
-    "entities": [
-      "Roland",
-      "Rolandslied",
-      "Karl der Große",
-      "Roncesvalles",
-      "Olifant",
-      "Mauren"
-    ],
-    "era": "778 / 12. Jh. / 1997",
-    "spotifyUrl": "https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=jYAAUwtmKcA",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/kamelot/dominion.html",
-        "note": "Lyrics Warner: Nachhut, Moors, horn, never knight so worthy"
-      },
-      {
-        "type": "secondary",
-        "url": "https://kamelot.com/release/dominion/",
-        "note": "Dominion (1997), Noise Records; Power/Prog Metal"
-      }
-    ]
-  },
-  {
-    "id": "wotan-la-chanson-de-roland",
-    "band": "Wotan",
-    "title": "La Chanson de Roland",
-    "entities": [
-      "Roland",
-      "Rolandslied",
-      "Durendal",
-      "Olifant",
-      "Roncesvalles"
-    ],
-    "era": "778 / 12. Jh. / 2007",
-    "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
-    "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.elyrics.net/read/w/wotan-lyrics/la-chanson-de-roland-lyrics.html",
-        "note": "Lyrics: horn, Durendal unbreakable, last blow, death in mountains"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Wotan/Epos/114019",
-        "note": "Epos (2007), Epic Heavy Metal; Track La Chanson de Roland ~15 min"
-      }
-    ]
-  },
-  {
-    "id": "saxorior-hussiten",
-    "band": "Saxorior",
-    "title": "Hussiten",
-    "entities": [
-      "Jan Hus",
-      "Hussitenkriege",
-      "Konstanz",
-      "Fenstersturz",
-      "Prokop",
-      "Utraquisten",
-      "Sigismund"
-    ],
-    "era": "1415–1436 / 2019",
-    "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
-    "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://azlyrics.biz/s/saxorior-lyrics/saxorior-hussiten-lyrics/",
-        "note": "Lyrics: Konstanz, Sigismund, Flammen, Fenstersturz, Hussitenzüge, Prokop"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://saxorior.bandcamp.com/album/hem",
-        "note": "HEM (2019); Melodic/Pagan Black Metal; Track 7 Hussiten"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Saxorior/HEM/798015",
-        "note": "Metal Archives: HEM; Themes War/History"
-      }
-    ]
-  },
-  {
-    "id": "slartibartfass-schwabenkinder",
-    "band": "Slartibartfass",
-    "title": "Schwabenkinder",
-    "entities": [
-      "Schwabenkinder",
-      "Hütekinder",
-      "Schwabengehen",
-      "Tirol",
-      "Vorarlberg",
-      "Schwaben"
-    ],
-    "era": "16.–20. Jh. / 2009",
-    "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
-    "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.metalmusicarchives.com/album/slartibartfass/funkenfeuer",
-        "note": "Funkenfeuer (2009), Folk Metal; Track 6 Schwabenkinder; Cover Wolfgang Greiner"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.hotel666.de/reviews/slartibartfass-funkenfeuer",
-        "note": "Review: Ulmer Band; Stück auf Funkenfeuer neben Schöner Lau"
-      }
-    ]
-  },
-  {
-    "id": "atrocity-shadowtaker",
-    "band": "Atrocity",
-    "title": "Shadowtaker",
-    "entities": [
-      "Magia Posthuma",
-      "Wiedergänger",
-      "Karl Ferdinand von Schertz",
-      "Vampirismus",
-      "Habsburger Monarchie"
-    ],
-    "era": "18. Jh. / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
-    "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/atrocity/okkultii.html",
-        "note": "Lyrics: Wiedergänger, Menschenfresser, death within eight days, Magia posthuma"
-      },
-      {
-        "type": "interview",
-        "url": "http://www.metal-impressions.de/?s=Atrocity",
-        "note": "Krull: Schertz Magia Posthuma, Flückinger 1732, Vampir-Erlass 1755; slawischer Wiedergänger"
-      },
-      {
-        "type": "secondary",
-        "url": "https://blabbermouth.net/news/atrocity-shadowtaker-video-released",
-        "note": "Okkult II (2018), Massacre; Official Shadowtaker video"
-      }
-    ]
-  },
-  {
-    "id": "flashback-of-anger-holdout",
-    "band": "Flashback of Anger",
-    "title": "Holdout",
-    "entities": [
-      "Holdouts",
-      "Hiroo Onoda",
-      "Philippinen",
-      "Zweiter Weltkrieg",
-      "Japan"
-    ],
-    "era": "1945–1974 / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30",
-    "youtubeUrl": "https://www.youtube.com/watch?v=uxvn-gIFVZo",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/flashbackofanger/shades.html",
-        "note": "Lyrics: Philippines island, never surrender, leaflets, ~30 years mountains, Rising Sun"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://flashbackofanger.bandcamp.com/album/shades",
-        "note": "Shades (2018); Melodic Power/Prog Metal; Track 5 Holdout"
-      }
-    ]
-  },
-  {
-    "id": "game-zero-believe",
-    "band": "Game Zero",
-    "title": "Believe",
-    "entities": [
-      "Hiroo Onoda",
-      "Holdouts",
-      "Lubang",
-      "Philippinen",
-      "Zweiter Weltkrieg",
-      "Japan"
-    ],
-    "era": "1944–1974 / 2020",
-    "spotifyUrl": "https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.gamezeroband.com/video.html",
-        "note": "Official: inspired by Onoda Hiroo, Lubang, 29 years, ghost soldier"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
-        "note": "Official video: Hiroo Onoda Inspired; Art Gates Records"
-      }
-    ]
-  },
-  {
-    "id": "ov-moros-disappearance",
-    "band": "Ov Moros",
-    "title": "Disappearance",
-    "entities": [
-      "Roanoke",
-      "Lost Colony",
-      "Croatoan",
-      "John White",
-      "Walter Raleigh"
-    ],
-    "era": "1587–1590 / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM",
-    "youtubeUrl": "https://www.youtube.com/watch?v=dj98LwbwlDg",
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://ovmoros.bandcamp.com/track/disappearance",
-        "note": "Lyrics: supply ship, three years later, fort gone, Croatoan; album Roanoke"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Ov_Moros/Roanoke/660448",
-        "note": "Progressive Doom Metal; Roanoke (2017), Track 7 Disappearance"
-      }
-    ]
-  },
-  {
-    "id": "zao-croatoan",
-    "band": "Zao",
-    "title": "Croatoan",
-    "entities": [
-      "Croatoan",
-      "Roanoke",
-      "Lost Colony"
-    ],
-    "era": "1587–1590 / 2021",
-    "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
-    "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://officialzao.bandcamp.com/track/croatoan",
-        "note": "Lyrics: dissociation/dream metaphor; title word Croatoan only"
-      },
-      {
-        "type": "interview",
-        "url": "https://metalinjection.net/new-music/zao-tells-the-tale-of-disappeared-settlers-in-new-song-croatoan",
-        "note": "Band: Roanoke Lost Colony inspiration; Weyandt: vehicle for dissociation"
+        "url": "https://www.metal-archives.com/albums/Witchbound/End_of_Paradise/928594",
+        "note": "End of Paradise (2021), Track Battle of Kadesh"
       }
     ]
   },
@@ -8055,220 +8599,29 @@
     ]
   },
   {
-    "id": "waylander-hy-brasil-isle-of-mists",
-    "band": "Waylander",
-    "title": "Hy Brasil (Isle of Mists)",
+    "id": "wotan-la-chanson-de-roland",
+    "band": "Wotan",
+    "title": "La Chanson de Roland",
     "entities": [
-      "Hy Brasil",
-      "Hy-Brasil",
-      "Phantominsel",
-      "Irland"
+      "Roland",
+      "Rolandslied",
+      "Durendal",
+      "Olifant",
+      "Roncesvalles"
     ],
-    "era": "Karten/Mythos / 2026",
-    "spotifyUrl": "https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w",
-    "youtubeUrl": "https://www.youtube.com/watch?v=vVd8E4gb5Dk",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=yTp6-yjc4sw",
-        "note": "Official video / press: inspired by Hy Brasil mist island off Ireland west coast"
-      },
-      {
-        "type": "secondary",
-        "url": "https://mhf-mag.com/northern-irish-pagan-metal-pioneers-waylander-new-video-hy-brasil-isle-of-mists/",
-        "note": "Mac Tire Son of the Land (2026); Pagan Metal; Band: tale of mysterious island"
-      }
-    ]
-  },
-  {
-    "id": "sarcoptes-spanish-flu",
-    "band": "Sarcoptes",
-    "title": "Spanish Flu",
-    "entities": [
-      "Spanische Grippe",
-      "Spanish Flu",
-      "Pandemie 1918",
-      "Erster Weltkrieg"
-    ],
-    "era": "1918–1919 / 2023",
-    "spotifyUrl": "https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy",
-    "youtubeUrl": "https://www.youtube.com/watch?v=d7XCKmdF2_g",
+    "era": "778 / 12. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
+    "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
     "sources": [
       {
         "type": "lyrics",
-        "url": "http://www.blackmetalspirit.net/2023/02/sarcoptes.html",
-        "note": "Lyrics: Spanish flu, war as prelude, mass graves, choking/gasping"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://sarcoptes.bandcamp.com/album/prayers-to-oblivion",
-        "note": "Prayers to Oblivion (2023); Black/Thrash; Track 2 Spanish Flu"
-      }
-    ]
-  },
-  {
-    "id": "kuazar-machete-che-pope-acosta-nu",
-    "band": "Kuazar",
-    "title": "Machete Che Pope (Acosta Ñu)",
-    "entities": [
-      "Acosta Ñu",
-      "Tripel-Allianz-Krieg",
-      "Paraguay",
-      "Conde d’Eu",
-      "Guerra de la Triple Alianza"
-    ],
-    "era": "1869 / 2023",
-    "spotifyUrl": "https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
-        "note": "Official video lyrics: Acosta Ñu, Count orders kill women/children, Guarani chorus"
+        "url": "https://www.elyrics.net/read/w/wotan-lyrics/la-chanson-de-roland-lyrics.html",
+        "note": "Lyrics: horn, Durendal unbreakable, last blow, death in mountains"
       },
       {
         "type": "secondary",
-        "url": "https://www.radionacional.gov.py/2023/03/10/kuazar-revive-sangrienta-batalla-con-machete-che-pope-acosta-nu/",
-        "note": "Band: Acosta Ñu massacre in Triple Alliance War; Conde d’Eu"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Kuazar/Hybrid_Power/1144928",
-        "note": "Hybrid Power (2023), Thrash Metal; Track 8"
-      }
-    ]
-  },
-  {
-    "id": "unconquerable-imperial-genocide",
-    "band": "Uncönquerable",
-    "title": "Imperial Genocide",
-    "entities": [
-      "Acosta Ñu",
-      "Tripel-Allianz-Krieg",
-      "Paraguay",
-      "Guerra da Tríplice Aliança",
-      "Campo Grande"
-    ],
-    "era": "1869 / 2022",
-    "spotifyUrl": "https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK",
-    "youtubeUrl": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://spak-individualthoughtpatterns.blogspot.com/2023/04/unconquerable-post-lyric-video-for-new.html",
-        "note": "Band/label: Acosta Ñu Aug 1869, child soldiers vs Triple Alliance; cover Pedro Américo Campo Grande"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://unconquerable.bandcamp.com/album/imperial-genocide",
-        "note": "EP Imperial Genocide (2022); cover Batalha do Campo Grande 1871"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Unc%C3%B6nquerable/Imperial_Genocide/1084143",
-        "note": "Blackened thrash EP; Track 2 Imperial Genocide"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
-        "note": "Official lyric video Imperial Genocide"
-      }
-    ]
-  },
-  {
-    "id": "midnight-force-choseon",
-    "band": "Midnight Force",
-    "title": "Choseon",
-    "entities": [
-      "Imjin-Krieg",
-      "Joseon",
-      "Yi Sun-sin",
-      "Turtle Ships",
-      "Toyotomi Hideyoshi"
-    ],
-    "era": "1592–1598 / 2024",
-    "spotifyUrl": "https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835",
-    "youtubeUrl": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://dyingvictimsproductions.bandcamp.com/track/choseon",
-        "note": "Lyrics: Choseon, Japanese invasion, Yi Sun-sin, righteous army, armored ships"
-      },
-      {
-        "type": "secondary",
-        "url": "https://thenwothm.com/2024/08/10/review-midnight-force-severan/",
-        "note": "Review: Choseon about Japanese invasion of Korea; NWOTHM / traditional heavy metal"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
-        "note": "Official / release video Choseon"
-      }
-    ]
-  },
-  {
-    "id": "midnight-force-parthia",
-    "band": "Midnight Force",
-    "title": "Parthia",
-    "entities": [
-      "Schlacht bei Carrhae",
-      "Carrhae",
-      "Parther",
-      "Crassus",
-      "Römische Republik"
-    ],
-    "era": "53 v. Chr. / 2019",
-    "spotifyUrl": "https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw",
-    "youtubeUrl": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://midnightforce.bandcamp.com/album/gododdin",
-        "note": "Gododdin (2019) Track Parthia; lyrics: desert march, pride, horse archers"
-      },
-      {
-        "type": "secondary",
-        "url": "https://azlyrics.biz/m/midnight-force-lyrics/midnight-force-parthia-lyrics/",
-        "note": "Lyrics transcript: Roman desert campaign vs Parthia, arrow hail"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
-        "note": "Video Parthia"
-      }
-    ]
-  },
-  {
-    "id": "nils-patrik-johansson-gustav-vasa",
-    "band": "Nils Patrik Johansson",
-    "title": "Gustav Vasa",
-    "entities": [
-      "Gustav Vasa",
-      "Gustav I. Wasa",
-      "Stockholmer Blutbad",
-      "Christian II.",
-      "Dalarna",
-      "Kalmarer Union"
-    ],
-    "era": "1520–1523 / 2025",
-    "spotifyUrl": "https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn",
-    "youtubeUrl": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.karaoke-lyrics.net/lyrics/johansson-nils-patrik/gustav-vasa-1194387",
-        "note": "Lyrics: Christian the tyrant, Dalecarlians, Stockholm in blood, crowned 1523"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Nils_Patrik_Johansson/Gustav_Vasa/1361327",
-        "note": "Heavy/Power Metal single 2025; album War And Peace"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
-        "note": "Official lyric video Gustav Vasa"
+        "url": "https://www.metal-archives.com/albums/Wotan/Epos/114019",
+        "note": "Epos (2007), Epic Heavy Metal; Track La Chanson de Roland ~15 min"
       }
     ]
   },
@@ -8304,153 +8657,108 @@
     ]
   },
   {
-    "id": "the-pirates-charles-mutiny-on-the-hms-bounty",
-    "band": "The Pirates Charles",
-    "title": "Mutiny on the HMS Bounty",
+    "id": "xynfonica-from-your-fathers-skull",
+    "band": "Xynfonica",
+    "title": "From Your Father's Skull",
     "entities": [
-      "Meuterei auf der Bounty",
-      "HMS Bounty",
-      "William Bligh",
-      "Fletcher Christian",
-      "Tahiti",
-      "Brotfrucht"
+      "Alboin",
+      "Rosamunde",
+      "Rosamund",
+      "Kunimund",
+      "Schädelbecher",
+      "Langobarden",
+      "Gepiden"
     ],
-    "era": "1789 / 2009",
-    "spotifyUrl": "https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl",
-    "youtubeUrl": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://www.songlyrics.com/the-pirates-charles/mutiny-on-the-hms-bounty-lyrics/",
-        "note": "Lyrics: Bligh, Christian, Bounty, Tahiti, breadfruit"
-      },
-      {
-        "type": "secondary",
-        "url": "https://genius.com/artists/The-pirates-charles",
-        "note": "Hard Rock / Sea Shanty / Folk Metal"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
-        "note": "Video Mutiny on the HMS Bounty"
-      }
-    ]
-  },
-  {
-    "id": "ornatorpet-stockholms-blodbad",
-    "band": "Örnatorpet",
-    "title": "Stockholms Blodbad",
-    "entities": [
-      "Stockholmer Blutbad",
-      "Christian II.",
-      "Gustav Vasa"
-    ],
-    "era": "1520 / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
+    "era": "6. Jh. / 2007",
+    "spotifyUrl": null,
     "youtubeUrl": null,
     "sources": [
       {
-        "type": "bandcamp",
-        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
+        "type": "secondary",
+        "url": "https://rateyourmusic.com/artist/xynfonica",
+        "note": "RYM: A Feast for Famished Ravens (2008) — Dungeon Synth / MIDI / Experimental; Track Drink My Darling From Your Father's Skull"
       },
       {
         "type": "secondary",
-        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Label: medievalist dungeon synth"
+        "url": "https://music.apple.com/us/artist/xynfonica/258548950",
+        "note": "Apple Music: From Your Father's Skull auf A Feast for Famished Ravens (2007)"
       }
     ]
   },
   {
-    "id": "fvneral-fvkk-bishop-of-the-iron-guard",
-    "band": "Fvneral Fvkk",
-    "title": "Bishop of the Iron Guard",
+    "id": "yves-duteil-dreyfus",
+    "band": "Yves Duteil",
+    "title": "Dreyfus",
     "entities": [
-      "Valerian Trifa",
-      "Eiserne Garde",
-      "Legion Erzengel Michael",
-      "Rumänien"
+      "Dreyfus-Affäre",
+      "Alfred Dreyfus",
+      "Guyane"
     ],
-    "era": "1940–1941 / 2026",
-    "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+    "era": "1894–1906",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
     "sources": [
       {
-        "type": "bandcamp",
-        "url": "https://dyingvictimsproductions.bandcamp.com/track/bishop-of-the-iron-guard",
-        "note": "Lyrics: Brother Trifa, Archangel Michael's Legion, Iron Guard street terror"
+        "type": "lyrics",
+        "url": "https://www.paroles.net/yves-duteil/paroles-dreyfus",
+        "note": "Lyrics: Affaire, Alsacien/juif/capitaine, Guyane, innocence"
       },
       {
-        "type": "secondary",
-        "url": "https://www.metal.de/specials/fvneral-fvkk-indecent-idols-track-by-track-mit-decanus-obscaenus-636097/",
-        "note": "Band Track-by-Track: Valerian Trifa, Eiserne Garde, Kirche–Faschismus"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
-        "note": "Official visualizer Bishop of the Iron Guard"
+        "type": "wikipedia",
+        "url": "https://fr.wikipedia.org/wiki/Yves_Duteil",
+        "note": "Chanson française; petit-neveu du capitaine Dreyfus; Touché (1997)"
       }
     ]
   },
   {
-    "id": "ritual-dictates-aqua-tofana",
-    "band": "Ritual Dictates",
-    "title": "Aqua Tofana",
+    "id": "zao-croatoan",
+    "band": "Zao",
+    "title": "Croatoan",
     "entities": [
-      "Giulia Tofana",
-      "Aqua Tofana",
-      "Astrologa della Lungara",
-      "Manna di San Nicola",
-      "Rom"
+      "Croatoan",
+      "Roanoke",
+      "Lost Colony"
     ],
-    "era": "17. Jh. / 2022",
-    "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+    "era": "1587–1590 / 2021",
+    "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
+    "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
     "sources": [
       {
-        "type": "secondary",
-        "url": "https://metalanarchy.com/2022/09/02/ritual-dictates-share-music-video-for-new-song-aqua-tofana-featuring-unleash-the-archers-brittney-slayes/",
-        "note": "Hagberg: Song über Giulia Tofana und die 600; feat. Brittney Slayes"
+        "type": "lyrics",
+        "url": "https://officialzao.bandcamp.com/track/croatoan",
+        "note": "Lyrics: dissociation/dream metaphor; title word Croatoan only"
       },
       {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/band/view/id/3540465730",
-        "note": "Metal Archives: Gothic Metal/Rock; Album No Great Loss"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
-        "note": "Official video Aqua Tofana"
+        "type": "interview",
+        "url": "https://metalinjection.net/new-music/zao-tells-the-tale-of-disappeared-settlers-in-new-song-croatoan",
+        "note": "Band: Roanoke Lost Colony inspiration; Weyandt: vehicle for dissociation"
       }
     ]
   },
   {
-    "id": "wilderun-the-coasts-of-high-barbaree",
-    "band": "Wilderun",
-    "title": "The Coasts of High Barbaree",
+    "id": "zz-top-jeff-beck-sixteen-tons-live-from-london",
+    "band": "ZZ Top feat. Jeff Beck",
+    "title": "Sixteen Tons (Live from London)",
     "entities": [
-      "High Barbaree",
-      "Barbaresken-Küste",
-      "Piraten"
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
     ],
-    "era": "Frühe Neuzeit (Shanty) / 2012",
-    "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+    "era": "1947 / 2016",
+    "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
     "sources": [
       {
-        "type": "bandcamp",
-        "url": "https://wilderun.bandcamp.com/album/olden-tales-deathly-trails",
-        "note": "Track 6; traditional shanty arrangement; Folk/Prog Metal"
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge",
+        "note": "Single Sixteen Tons (feat. Jeff Beck) [Live From London], 2016"
       },
       {
-        "type": "secondary",
-        "url": "https://www.mainlynorfolk.info/peter.bellamy/songs/highbarbaree.html",
-        "note": "High Barbaree = Rif/Barbary Coast; traditional pirate vs navy ballad"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
-        "note": "Video The Coasts of High Barbaree"
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
       }
     ]
   }
