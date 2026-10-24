@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 19:04:46 +0200",
+  "updatedAt": "2026-10-24 19:54:46 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -202,19 +202,19 @@
       "episodeId": 49,
       "episodeTitle": "Der »Dig Tree« und die erste Durchquerung Australiens",
       "episodeUrl": "https://gadg.fm/49",
-      "songId": "the-masters-apprentices-burke-and-wills-and-me",
-      "band": "The Masters Apprentices",
-      "songTitle": "Burke and Wills and Me",
+      "songId": "neil-murray-menindee",
+      "band": "Neil Murray",
+      "songTitle": "Menindee",
       "matchTier": "A",
-      "justification": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = denselben Expeditionskern (Melbourne–Norden, Cooper Creek); nur auf Raven-LP Hands Of Time (1980, dort „Bourke & Wills & Me“), kein Streaming — derselbe Kern (Tier A).",
+      "justification": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Expeditionsstück von Menindee über Burke/Wright bis Cooper-Creek-Rückkehr („nine hours before“) — derselbe Kern (Tier A).",
       "sharedEntities": [
         "Burke and Wills",
-        "Dig Tree",
-        "Cooper's Creek",
-        "Melbourne"
+        "Menindee",
+        "Cooper Creek",
+        "Dig Tree"
       ],
-      "spotifyUrl": null,
-      "youtubeUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NVmbDASq1ws",
       "matchedAt": "2026-10-24",
       "curatedBy": "manual"
     },

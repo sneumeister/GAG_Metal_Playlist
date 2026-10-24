@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-24 19:29:09 +0200<br>**JSON-Status:** 2026-10-24 19:04:46 +0200</small>
+<small>**Compile-Datum:** 2026-10-24 19:58:18 +0200<br>**JSON-Status:** 2026-10-24 19:54:46 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -24,7 +24,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [39](https://gadg.fm/39) | Die Legion Erzengel Michael und Corneliu Codreanu | Fvneral Fvkk | Bishop of the Iron Guard | B | [link](https://www.youtube.com/watch?v=hR_QWyIsW1I) | [link](https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0) |
 | [40](https://gadg.fm/40) | Über den Ursprung der Seidenstraße | Saxon | Kubla Khan And The Merchant Of Venice | C | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
 | [47](https://gadg.fm/47) | Die Schwabenkinder und ihre Geschichte | Slartibartfass | Schwabenkinder | A | [link](https://www.youtube.com/watch?v=c64SQsd8PuY) | [link](https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7) |
-| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Masters Apprentices | Burke and Wills and Me | A | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Neil Murray | Menindee | A | [link](https://www.youtube.com/watch?v=NVmbDASq1ws) | [link](https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr) |
 | [59](https://gadg.fm/59) | The Lost Colony | Zao | Croatoan | C | [link](https://www.youtube.com/watch?v=R2oA5aM11xU) | [link](https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W) |
 | [59](https://gadg.fm/59) | The Lost Colony | Ov Moros | Disappearance | A | [link](https://www.youtube.com/watch?v=dj98LwbwlDg) | [link](https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM) |
 | [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Game Zero | Believe | A | [link](https://www.youtube.com/watch?v=ePwIct8A2Kw) | [link](https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD) |

@@ -487,6 +487,31 @@
     ]
   },
   {
+    "id": "australian-crawl-reckless",
+    "band": "Australian Crawl",
+    "title": "Reckless (Don't Be So)",
+    "entities": [
+      "Burke and Wills",
+      "Dig Tree",
+      "Manly Ferry"
+    ],
+    "era": "1860–1861 / 1983",
+    "spotifyUrl": "https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC",
+    "youtubeUrl": "https://www.youtube.com/watch?v=w_U-jjGhLmU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://readdork.com/lyrics/australian-crawl-reckless-don-t-be-so-1983",
+        "note": "Burke and Wills and camels / Initials in the tree"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/australian-crawl/reckless",
+        "note": "Songfacts: Dig-Tree-/Depot-Baum-Anspielung als Isolationsmetapher"
+      }
+    ]
+  },
+  {
     "id": "bangkok-impact-junge-dame-mit-freundlicher-tellephonstimme",
     "band": "Bangkok Impact",
     "title": "Junge Dame Mit Freundlicher Tellephonstimme",
@@ -3526,6 +3551,33 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Erwähnt die Entdeckung des Uranus durch Wilhelm Herschel; die Folge porträtiert Wilhelm und Caroline Herschel umfassender."
+      }
+    ]
+  },
+  {
+    "id": "neil-murray-menindee",
+    "band": "Neil Murray",
+    "title": "Menindee",
+    "entities": [
+      "Burke and Wills",
+      "Menindee",
+      "Cooper Creek",
+      "William Wright",
+      "Dig Tree"
+    ],
+    "era": "1860–1861 / 1992",
+    "spotifyUrl": "https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NVmbDASq1ws",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/menindee.htm",
+        "note": "Volltext: Menindee 1860, Burke, Wright, Gulf–Cooper, nine hours"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.greenleft.org.au/1996/241/culture/neil-murrays-third-album",
+        "note": "Dust-Review: cheeky mockery of Burke and Wills"
       }
     ]
   },
@@ -7908,6 +7960,29 @@
     ]
   },
   {
+    "id": "the-twindows-dig-tree",
+    "band": "The Twindows",
+    "title": "Dig Tree",
+    "entities": [
+      "Dig Tree"
+    ],
+    "era": "2018",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://thetwindows.bandcamp.com/track/dig-tree",
+        "note": "Valkyrie 2.0 (2018); Track Dig Tree"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.shockya.com/news/2018/02/18/twindows-valkyrie-2-0-album-review/",
+        "note": "Review: persönlicher Emotions-/Lebensfokus, kein Burke/Wills"
+      }
+    ]
+  },
+  {
     "id": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
     "band": "The Wolfe Tones",
     "title": "Óró sé do bheatha abhaile",
@@ -8616,6 +8691,56 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Alapalooza",
         "note": "Alapalooza (1993); Comedy/Parody Rock"
+      }
+    ]
+  },
+  {
+    "id": "welders-dog-burkes-song",
+    "band": "Welder's Dog",
+    "title": "Burke's Song",
+    "entities": [
+      "Robert O'Hara Burke",
+      "Burke and Wills",
+      "Castlemaine"
+    ],
+    "era": "1860 / 2000s",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/welders_dog_1.htm",
+        "note": "Ich-Perspektive Burke: Expedition übernehmen"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
+        "note": "Burke-&-Wills-Musikliste; Band = Celtic Folk (Peter Harris)"
+      }
+    ]
+  },
+  {
+    "id": "welders-dog-how-many-days",
+    "band": "Welder's Dog",
+    "title": "How Many Days?",
+    "entities": [
+      "Robert O'Hara Burke",
+      "Burke and Wills",
+      "Gulf of Carpentaria"
+    ],
+    "era": "1860–1861 / 2000s",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/welders_dog_2.htm",
+        "note": "Peter Harris: Burke am Golf (Mangroven/Gezeitenbach)"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
+        "note": "Burke-&-Wills-Musikliste; Band = Celtic Folk (Peter Harris)"
       }
     ]
   },

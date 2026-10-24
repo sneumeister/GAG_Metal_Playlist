@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-24 19:29:09 +0200<br>**JSON-Status:** 2026-10-24 19:29:08 +0200</small>
+<small>**Compile-Datum:** 2026-10-24 19:58:18 +0200<br>**JSON-Status:** 2026-10-24 19:58:18 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -17,6 +17,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
 | [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Masters Apprentices | Burke and Wills and Me | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | Burke's Song | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Twindows | Dig Tree | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | How Many Days? | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Australian Crawl | Reckless (Don't Be So) | X | [link](https://www.youtube.com/watch?v=w_U-jjGhLmU) | [link](https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC) |
 | [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | — | — |
 | [86](https://gadg.fm/86) | Sabbatai Zwi – Der falsche Messias | Witchfield | Sabbatai Zevi | X | — | [link](https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs) |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |

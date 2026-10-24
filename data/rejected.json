@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 19:29:08 +0200",
+  "updatedAt": "2026-10-24 19:58:18 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -27,6 +27,41 @@
       "songId": "iron-maiden-aces-high",
       "reason": "Folge = Fußballsystemstreit unter dem Nationalsozialismus („Blitzkrieg im Fußballstadion“); Song = Luftkampf der RAF in der Schlacht um England 1940 (Spitfire, ME-109) — nur loses „Blitzkrieg“-/Kriegs-Stichwort, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "australian-crawl-reckless",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = Beziehungsstück (Manly Ferry), Burke/Wills und „Initials in the tree“ nur als Isolationsmetapher — reiner Stichwortanklang ohne Expeditionsfokus (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "the-masters-apprentices-burke-and-wills-and-me",
+      "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = denselben Expeditionskern (Melbourne–Norden, Cooper Creek) — inhaltlich eng passend (bei Streaming-Verfügbarkeit wäre Tier A). Keine Streaming-Links (Spotify/YouTube), nur Raven-LP Hands Of Time (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "the-twindows-dig-tree",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = persönliches Indie-/Punk-Stück (Leben, Emotionen, Gesellschaft), Titel nur Namensanklang ohne Expeditionsfokus (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "welders-dog-burkes-song",
+      "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Ich-Perspektive Robert O'Hara Burkes vor/bei Übernahme der Expedition — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "welders-dog-how-many-days",
+      "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Burke am Golf (Mangroven, Gezeitenbach, Umkehrzwang) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {
