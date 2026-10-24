@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-23 17:38:59 +0200<br>**JSON-Status:** 2026-10-23 17:38:59 +0200</small>
+<small>**Compile-Datum:** 2026-10-24 19:29:09 +0200<br>**JSON-Status:** 2026-10-24 19:04:46 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -24,6 +24,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [39](https://gadg.fm/39) | Die Legion Erzengel Michael und Corneliu Codreanu | Fvneral Fvkk | Bishop of the Iron Guard | B | [link](https://www.youtube.com/watch?v=hR_QWyIsW1I) | [link](https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0) |
 | [40](https://gadg.fm/40) | Über den Ursprung der Seidenstraße | Saxon | Kubla Khan And The Merchant Of Venice | C | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
 | [47](https://gadg.fm/47) | Die Schwabenkinder und ihre Geschichte | Slartibartfass | Schwabenkinder | A | [link](https://www.youtube.com/watch?v=c64SQsd8PuY) | [link](https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7) |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Masters Apprentices | Burke and Wills and Me | A | — | — |
 | [59](https://gadg.fm/59) | The Lost Colony | Zao | Croatoan | C | [link](https://www.youtube.com/watch?v=R2oA5aM11xU) | [link](https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W) |
 | [59](https://gadg.fm/59) | The Lost Colony | Ov Moros | Disappearance | A | [link](https://www.youtube.com/watch?v=dj98LwbwlDg) | [link](https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM) |
 | [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Game Zero | Believe | A | [link](https://www.youtube.com/watch?v=ePwIct8A2Kw) | [link](https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD) |
@@ -107,6 +108,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Ancient Rites | 13th of October 1307 | A | [link](https://www.youtube.com/watch?v=3hL5cjgjZqY) | [link](https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu) |
+| [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Serenity | Heavenly Mission | A | [link](https://www.youtube.com/watch?v=18PM8wwJ05E) | [link](https://open.spotify.com/track/2JAfWoa0vwT0VCye4Zyu4W) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Inquisition | A | [link](https://www.youtube.com/watch?v=IKGbWrpn474) | [link](https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Grave Digger | Monks of War | A | [link](https://www.youtube.com/watch?v=Omzyyj401ys) | [link](https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Sabaton | Templars | A | [link](https://www.youtube.com/watch?v=B10ECkQXQtU) | [link](https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy) |

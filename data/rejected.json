@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23 17:24:16 +0200",
+  "updatedAt": "2026-10-24 19:29:08 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -111,6 +111,20 @@
       "songId": "warkings-battle-of-marathon",
       "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 253,
+      "songId": "serenity-changing-fate",
+      "reason": "Folge = Martin Frobisher / Steine und Fool’s-Gold-Expeditionen; Song = Elizabeth I. und Francis Drake (Armada, Queen–Freibeuter-Dialog) — andere Person und anderes Ereignis, nur gemeinsamer Hof-/See-Rahmen (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 253,
+      "songId": "serenity-new-horizons",
+      "reason": "Folge = Martin Frobisher / Steine und Fool’s-Gold-Expeditionen; Song = Francis Drake Weltumsegelung (Nova Albion) — andere Person und anderes Ereignis, nur gemeinsamer Hof-/See-Rahmen (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {
@@ -692,6 +706,13 @@
       "songId": "warkings-spartacus",
       "reason": "Folge = Vergil und die Aeneis; Song = Spartacus — nur Rom, andere Person (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 560,
+      "songId": "ahab-yet-another-raft-of-the-medusa",
+      "reason": "Folge = Méduse 1816 und Entstehung von Géricaults „Floß der Medusa“; Song = Essex 1820 / Pollard (Marquesas, offene See), Titel und Cover nur als Méduse-Analogie — anderes Ereignis und andere Person (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {

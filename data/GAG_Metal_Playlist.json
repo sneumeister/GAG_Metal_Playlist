@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23 17:38:59 +0200",
+  "updatedAt": "2026-10-24 19:04:46 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -196,6 +196,26 @@
       "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
       "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
       "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "episodeTitle": "Der »Dig Tree« und die erste Durchquerung Australiens",
+      "episodeUrl": "https://gadg.fm/49",
+      "songId": "the-masters-apprentices-burke-and-wills-and-me",
+      "band": "The Masters Apprentices",
+      "songTitle": "Burke and Wills and Me",
+      "matchTier": "A",
+      "justification": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = denselben Expeditionskern (Melbourne–Norden, Cooper Creek); nur auf Raven-LP Hands Of Time (1980, dort „Bourke & Wills & Me“), kein Streaming — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Burke and Wills",
+        "Dig Tree",
+        "Cooper's Creek",
+        "Melbourne"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-24",
       "curatedBy": "manual"
     },
     {
@@ -1834,6 +1854,24 @@
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 377,
+      "episodeTitle": "Aufstieg und Fall des Templerordens",
+      "episodeUrl": "https://gadg.fm/377",
+      "songId": "serenity-heavenly-mission",
+      "band": "Serenity",
+      "songTitle": "Heavenly Mission",
+      "matchTier": "A",
+      "justification": "Folge = Aufstieg und Fall des Templerordens; Song = Jacques de Molay / Ende der Templer (letzter Meister, Flammentod) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Jacques de Molay",
+        "Templerorden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2JAfWoa0vwT0VCye4Zyu4W",
+      "youtubeUrl": "https://www.youtube.com/watch?v=18PM8wwJ05E",
+      "matchedAt": "2026-10-24",
       "curatedBy": "manual"
     },
     {

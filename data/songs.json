@@ -135,6 +135,37 @@
     ]
   },
   {
+    "id": "ahab-yet-another-raft-of-the-medusa",
+    "band": "Ahab",
+    "title": "Yet Another Raft of the Medusa (Pollard's Weakness)",
+    "entities": [
+      "Essex",
+      "George Pollard",
+      "Walfang",
+      "Floß der Medusa"
+    ],
+    "era": "1820",
+    "spotifyUrl": "https://open.spotify.com/track/0VrirvyOumorZl8xpstTMs",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RGlTIMDGOEc",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Divinity_of_Oceans",
+        "note": "Album = Essex 1820; Cover = Géricault Raft of the Medusa"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.letras.com.br/ahab/yet-another-raft-of-the-medusa-%28pollards-weakness%29",
+        "note": "Marquesas, open sea, Pollard's Weakness"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.metal1.info/interviews/ahab/",
+        "note": "Band: Divinity of Oceans = Essex / Chase / Philbrick"
+      }
+    ]
+  },
+  {
     "id": "alestorm-magellans-expedition",
     "band": "Alestorm",
     "title": "Magellan's Expedition",
@@ -6812,6 +6843,31 @@
     ]
   },
   {
+    "id": "serenity-changing-fate",
+    "band": "Serenity",
+    "title": "Changing Fate",
+    "entities": [
+      "Elizabeth I.",
+      "Francis Drake",
+      "Spanische Armada"
+    ],
+    "era": "1588 / Elizabethanisch",
+    "spotifyUrl": "https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hl6fbXMoPug",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — Changing Fate = Elizabeth I. und Sir Francis Drake"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/serenity/changing-fate-lyrics/",
+        "note": "feat. Amanda Somerville — Sir Drake, Armada, Queen"
+      }
+    ]
+  },
+  {
     "id": "serenity-far-from-home",
     "band": "Serenity",
     "title": "Far From Home",
@@ -6838,6 +6894,56 @@
         "type": "lyrics",
         "url": "https://azlyrics.biz/s/serenity-lyrics/serenity-far-from-home-lyrics/",
         "note": "southernmost / reaching India by sea"
+      }
+    ]
+  },
+  {
+    "id": "serenity-heavenly-mission",
+    "band": "Serenity",
+    "title": "Heavenly Mission",
+    "entities": [
+      "Jacques de Molay",
+      "Templerorden",
+      "Heiliges Land"
+    ],
+    "era": "1307–1314",
+    "spotifyUrl": "https://open.spotify.com/track/2JAfWoa0vwT0VCye4Zyu4W",
+    "youtubeUrl": "https://www.youtube.com/watch?v=18PM8wwJ05E",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — Heavenly Mission = Jacques de Molay / last Templar Grand Master"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/serenity/heavenly-mission-lyrics/",
+        "note": "last of the masters, templar cross, die by the flames"
+      }
+    ]
+  },
+  {
+    "id": "serenity-new-horizons",
+    "band": "Serenity",
+    "title": "New Horizons",
+    "entities": [
+      "Francis Drake",
+      "Nova Albion",
+      "Weltumsegelung"
+    ],
+    "era": "1577–1580",
+    "spotifyUrl": "https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7JsdtV7O3dI",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — New Horizons = Sir Francis Drake exploits / circumnavigation"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/s/serenity-lyrics/new-horizons-lyrics.html",
+        "note": "Nova Albion, sailed around the world, sailing for the Queen"
       }
     ]
   },
@@ -7703,6 +7809,34 @@
         "type": "bandcamp",
         "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
         "note": "Album The Last Great Awakening (2025), Title Track"
+      }
+    ]
+  },
+  {
+    "id": "the-masters-apprentices-burke-and-wills-and-me",
+    "band": "The Masters Apprentices",
+    "title": "Burke and Wills and Me",
+    "entities": [
+      "Burke and Wills",
+      "Robert O'Hara Burke",
+      "William John Wills",
+      "Cooper's Creek",
+      "Dig Tree",
+      "Melbourne"
+    ],
+    "era": "1860–1861 / 1970",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1748241-The-Masters-Apprentices-Hands-Of-Time",
+        "note": "Hands Of Time LP (Raven RVLP-01, 1980) Track B3 „Bourke & Wills & Me“; auf CD-Neuauflage RVCD-13 weggelassen"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Poems/masters_apprentices.htm",
+        "note": "Lyrics © 1970 Doug Ford & Jim Keays; Expedition Melbourne–Norden, Cooper's Creek"
       }
     ]
   },
