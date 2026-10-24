@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-23 17:38:59 +0200<br>**JSON-Status:** 2026-10-23 17:24:16 +0200</small>
+<small>**Compile-Datum:** 2026-10-24 19:58:18 +0200<br>**JSON-Status:** 2026-10-24 19:58:18 +0200</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -17,6 +17,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
 | [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Masters Apprentices | Burke and Wills and Me | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | Burke's Song | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Twindows | Dig Tree | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | How Many Days? | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Australian Crawl | Reckless (Don't Be So) | X | [link](https://www.youtube.com/watch?v=w_U-jjGhLmU) | [link](https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC) |
 | [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | — | — |
 | [86](https://gadg.fm/86) | Sabbatai Zwi – Der falsche Messias | Witchfield | Sabbatai Zevi | X | — | [link](https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs) |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
@@ -29,6 +34,8 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [242](https://gadg.fm/242) | Eine kurze Geschichte der Olympischen Spiele (der Neuzeit) | Warkings | Battle of Marathon | X | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
+| [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | Changing Fate | X | [link](https://www.youtube.com/watch?v=hl6fbXMoPug) | [link](https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT) |
+| [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | New Horizons | X | [link](https://www.youtube.com/watch?v=7JsdtV7O3dI) | [link](https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9) |
 | [255](https://gadg.fm/255) | Die 47 Ronin | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Freddy Quinn | St. Helena | X | [link](https://www.youtube.com/watch?v=9pB-QZ5ytuY) | — |
@@ -113,6 +120,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | My Dying Bride | Feel the Misery | X | — | — |
+| [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Ahab | Yet Another Raft of the Medusa (Pollard's Weakness) | X | [link](https://www.youtube.com/watch?v=RGlTIMDGOEc) | [link](https://open.spotify.com/track/0VrirvyOumorZl8xpstTMs) |
 | [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | 24/7 Diva Heaven | Rat Race | X | — | — |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | Black Flag | Shed Reading (Rattus Norvegicus) | X | — | [link](https://open.spotify.com/track/0v6Ho2YM7QQ7QaaZSnLwyJ) |

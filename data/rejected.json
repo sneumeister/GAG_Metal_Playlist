@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23 17:24:16 +0200",
+  "updatedAt": "2026-10-24 19:58:18 +0200",
   "entries": [
     {
       "episodeId": 1,
@@ -27,6 +27,41 @@
       "songId": "iron-maiden-aces-high",
       "reason": "Folge = Fußballsystemstreit unter dem Nationalsozialismus („Blitzkrieg im Fußballstadion“); Song = Luftkampf der RAF in der Schlacht um England 1940 (Spitfire, ME-109) — nur loses „Blitzkrieg“-/Kriegs-Stichwort, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "australian-crawl-reckless",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = Beziehungsstück (Manly Ferry), Burke/Wills und „Initials in the tree“ nur als Isolationsmetapher — reiner Stichwortanklang ohne Expeditionsfokus (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "the-masters-apprentices-burke-and-wills-and-me",
+      "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = denselben Expeditionskern (Melbourne–Norden, Cooper Creek) — inhaltlich eng passend (bei Streaming-Verfügbarkeit wäre Tier A). Keine Streaming-Links (Spotify/YouTube), nur Raven-LP Hands Of Time (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "the-twindows-dig-tree",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = persönliches Indie-/Punk-Stück (Leben, Emotionen, Gesellschaft), Titel nur Namensanklang ohne Expeditionsfokus (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "welders-dog-burkes-song",
+      "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Ich-Perspektive Robert O'Hara Burkes vor/bei Übernahme der Expedition — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "welders-dog-how-many-days",
+      "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Burke am Golf (Mangroven, Gezeitenbach, Umkehrzwang) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {
@@ -111,6 +146,20 @@
       "songId": "warkings-battle-of-marathon",
       "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 253,
+      "songId": "serenity-changing-fate",
+      "reason": "Folge = Martin Frobisher / Steine und Fool’s-Gold-Expeditionen; Song = Elizabeth I. und Francis Drake (Armada, Queen–Freibeuter-Dialog) — andere Person und anderes Ereignis, nur gemeinsamer Hof-/See-Rahmen (Tier X).",
+      "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 253,
+      "songId": "serenity-new-horizons",
+      "reason": "Folge = Martin Frobisher / Steine und Fool’s-Gold-Expeditionen; Song = Francis Drake Weltumsegelung (Nova Albion) — andere Person und anderes Ereignis, nur gemeinsamer Hof-/See-Rahmen (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {
@@ -692,6 +741,13 @@
       "songId": "warkings-spartacus",
       "reason": "Folge = Vergil und die Aeneis; Song = Spartacus — nur Rom, andere Person (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 560,
+      "songId": "ahab-yet-another-raft-of-the-medusa",
+      "reason": "Folge = Méduse 1816 und Entstehung von Géricaults „Floß der Medusa“; Song = Essex 1820 / Pollard (Marquesas, offene See), Titel und Cover nur als Méduse-Analogie — anderes Ereignis und andere Person (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {

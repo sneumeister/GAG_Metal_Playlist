@@ -135,6 +135,37 @@
     ]
   },
   {
+    "id": "ahab-yet-another-raft-of-the-medusa",
+    "band": "Ahab",
+    "title": "Yet Another Raft of the Medusa (Pollard's Weakness)",
+    "entities": [
+      "Essex",
+      "George Pollard",
+      "Walfang",
+      "Floß der Medusa"
+    ],
+    "era": "1820",
+    "spotifyUrl": "https://open.spotify.com/track/0VrirvyOumorZl8xpstTMs",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RGlTIMDGOEc",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Divinity_of_Oceans",
+        "note": "Album = Essex 1820; Cover = Géricault Raft of the Medusa"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.letras.com.br/ahab/yet-another-raft-of-the-medusa-%28pollards-weakness%29",
+        "note": "Marquesas, open sea, Pollard's Weakness"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.metal1.info/interviews/ahab/",
+        "note": "Band: Divinity of Oceans = Essex / Chase / Philbrick"
+      }
+    ]
+  },
+  {
     "id": "alestorm-magellans-expedition",
     "band": "Alestorm",
     "title": "Magellan's Expedition",
@@ -452,6 +483,31 @@
         "type": "lyrics",
         "url": "https://antiwarsongs.org/canzone.php?id=46261&lang=en",
         "note": "Gulf War protest — Blood for oil"
+      }
+    ]
+  },
+  {
+    "id": "australian-crawl-reckless",
+    "band": "Australian Crawl",
+    "title": "Reckless (Don't Be So)",
+    "entities": [
+      "Burke and Wills",
+      "Dig Tree",
+      "Manly Ferry"
+    ],
+    "era": "1860–1861 / 1983",
+    "spotifyUrl": "https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC",
+    "youtubeUrl": "https://www.youtube.com/watch?v=w_U-jjGhLmU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://readdork.com/lyrics/australian-crawl-reckless-don-t-be-so-1983",
+        "note": "Burke and Wills and camels / Initials in the tree"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/australian-crawl/reckless",
+        "note": "Songfacts: Dig-Tree-/Depot-Baum-Anspielung als Isolationsmetapher"
       }
     ]
   },
@@ -3495,6 +3551,33 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Erwähnt die Entdeckung des Uranus durch Wilhelm Herschel; die Folge porträtiert Wilhelm und Caroline Herschel umfassender."
+      }
+    ]
+  },
+  {
+    "id": "neil-murray-menindee",
+    "band": "Neil Murray",
+    "title": "Menindee",
+    "entities": [
+      "Burke and Wills",
+      "Menindee",
+      "Cooper Creek",
+      "William Wright",
+      "Dig Tree"
+    ],
+    "era": "1860–1861 / 1992",
+    "spotifyUrl": "https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NVmbDASq1ws",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/menindee.htm",
+        "note": "Volltext: Menindee 1860, Burke, Wright, Gulf–Cooper, nine hours"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.greenleft.org.au/1996/241/culture/neil-murrays-third-album",
+        "note": "Dust-Review: cheeky mockery of Burke and Wills"
       }
     ]
   },
@@ -6812,6 +6895,31 @@
     ]
   },
   {
+    "id": "serenity-changing-fate",
+    "band": "Serenity",
+    "title": "Changing Fate",
+    "entities": [
+      "Elizabeth I.",
+      "Francis Drake",
+      "Spanische Armada"
+    ],
+    "era": "1588 / Elizabethanisch",
+    "spotifyUrl": "https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hl6fbXMoPug",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — Changing Fate = Elizabeth I. und Sir Francis Drake"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/serenity/changing-fate-lyrics/",
+        "note": "feat. Amanda Somerville — Sir Drake, Armada, Queen"
+      }
+    ]
+  },
+  {
     "id": "serenity-far-from-home",
     "band": "Serenity",
     "title": "Far From Home",
@@ -6838,6 +6946,56 @@
         "type": "lyrics",
         "url": "https://azlyrics.biz/s/serenity-lyrics/serenity-far-from-home-lyrics/",
         "note": "southernmost / reaching India by sea"
+      }
+    ]
+  },
+  {
+    "id": "serenity-heavenly-mission",
+    "band": "Serenity",
+    "title": "Heavenly Mission",
+    "entities": [
+      "Jacques de Molay",
+      "Templerorden",
+      "Heiliges Land"
+    ],
+    "era": "1307–1314",
+    "spotifyUrl": "https://open.spotify.com/track/2JAfWoa0vwT0VCye4Zyu4W",
+    "youtubeUrl": "https://www.youtube.com/watch?v=18PM8wwJ05E",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — Heavenly Mission = Jacques de Molay / last Templar Grand Master"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/serenity/heavenly-mission-lyrics/",
+        "note": "last of the masters, templar cross, die by the flames"
+      }
+    ]
+  },
+  {
+    "id": "serenity-new-horizons",
+    "band": "Serenity",
+    "title": "New Horizons",
+    "entities": [
+      "Francis Drake",
+      "Nova Albion",
+      "Weltumsegelung"
+    ],
+    "era": "1577–1580",
+    "spotifyUrl": "https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7JsdtV7O3dI",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_%26_Legacy",
+        "note": "Death & Legacy — New Horizons = Sir Francis Drake exploits / circumnavigation"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/s/serenity-lyrics/new-horizons-lyrics.html",
+        "note": "Nova Albion, sailed around the world, sailing for the Queen"
       }
     ]
   },
@@ -7707,6 +7865,34 @@
     ]
   },
   {
+    "id": "the-masters-apprentices-burke-and-wills-and-me",
+    "band": "The Masters Apprentices",
+    "title": "Burke and Wills and Me",
+    "entities": [
+      "Burke and Wills",
+      "Robert O'Hara Burke",
+      "William John Wills",
+      "Cooper's Creek",
+      "Dig Tree",
+      "Melbourne"
+    ],
+    "era": "1860–1861 / 1970",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1748241-The-Masters-Apprentices-Hands-Of-Time",
+        "note": "Hands Of Time LP (Raven RVLP-01, 1980) Track B3 „Bourke & Wills & Me“; auf CD-Neuauflage RVCD-13 weggelassen"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Poems/masters_apprentices.htm",
+        "note": "Lyrics © 1970 Doug Ford & Jim Keays; Expedition Melbourne–Norden, Cooper's Creek"
+      }
+    ]
+  },
+  {
     "id": "the-metal-alliance-the-beast-of-war",
     "band": "The Metal Alliance",
     "title": "The Beast of War",
@@ -7770,6 +7956,29 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
         "note": "Video Mutiny on the HMS Bounty"
+      }
+    ]
+  },
+  {
+    "id": "the-twindows-dig-tree",
+    "band": "The Twindows",
+    "title": "Dig Tree",
+    "entities": [
+      "Dig Tree"
+    ],
+    "era": "2018",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://thetwindows.bandcamp.com/track/dig-tree",
+        "note": "Valkyrie 2.0 (2018); Track Dig Tree"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.shockya.com/news/2018/02/18/twindows-valkyrie-2-0-album-review/",
+        "note": "Review: persönlicher Emotions-/Lebensfokus, kein Burke/Wills"
       }
     ]
   },
@@ -8482,6 +8691,56 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Alapalooza",
         "note": "Alapalooza (1993); Comedy/Parody Rock"
+      }
+    ]
+  },
+  {
+    "id": "welders-dog-burkes-song",
+    "band": "Welder's Dog",
+    "title": "Burke's Song",
+    "entities": [
+      "Robert O'Hara Burke",
+      "Burke and Wills",
+      "Castlemaine"
+    ],
+    "era": "1860 / 2000s",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/welders_dog_1.htm",
+        "note": "Ich-Perspektive Burke: Expedition übernehmen"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
+        "note": "Burke-&-Wills-Musikliste; Band = Celtic Folk (Peter Harris)"
+      }
+    ]
+  },
+  {
+    "id": "welders-dog-how-many-days",
+    "band": "Welder's Dog",
+    "title": "How Many Days?",
+    "entities": [
+      "Robert O'Hara Burke",
+      "Burke and Wills",
+      "Gulf of Carpentaria"
+    ],
+    "era": "1860–1861 / 2000s",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/welders_dog_2.htm",
+        "note": "Peter Harris: Burke am Golf (Mangroven/Gezeitenbach)"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
+        "note": "Burke-&-Wills-Musikliste; Band = Celtic Folk (Peter Harris)"
       }
     ]
   },
