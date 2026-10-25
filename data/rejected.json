@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 19:58:18 +0200",
+  "updatedAt": "2026-10-25 14:55:58 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -38,6 +38,13 @@
     },
     {
       "episodeId": 49,
+      "songId": "graham-rodger-burke-and-wills",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = Expeditionsstück inkl. Dig-Tree-Nahverfehlung (Cooper Creek, Camp 65) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Bush Ballad / Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-25",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
       "songId": "the-masters-apprentices-burke-and-wills-and-me",
       "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = denselben Expeditionskern (Melbourne–Norden, Cooper Creek) — inhaltlich eng passend (bei Streaming-Verfügbarkeit wäre Tier A). Keine Streaming-Links (Spotify/YouTube), nur Raven-LP Hands Of Time (Tier X).",
       "rejectedAt": "2026-10-24",
@@ -55,6 +62,13 @@
       "songId": "welders-dog-burkes-song",
       "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Ich-Perspektive Robert O'Hara Burkes vor/bei Übernahme der Expedition — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "welders-dog-endless-flight",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = Burkes Tod am Cooper Creek (Pistole, Bibelvers, Coolabah) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
@@ -671,6 +685,13 @@
       "songId": "serenity-the-art-of-war",
       "reason": "Song = Napoleon I. und seine Kriegskunst (War of Ages). Folge = Kaiserin Eugénie — andere Person (Tier X).",
       "rejectedAt": "2026-09-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 543,
+      "songId": "crucible-steel-ulfberht",
+      "reason": "Folge = Witham-Schwert / Ulfberht-Stahlgeschichte; Song = Instrumentalstück mit Titel Ulfberht, keine Lyrics und kein prüfbarer Erzählfokus — reiner Titelanklang (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {

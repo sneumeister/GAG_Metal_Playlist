@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-24 19:58:18 +0200<br>**JSON-Status:** 2026-10-24 19:58:18 +0200</small>
+<small>**Compile-Datum:** 2026-10-25 15:19:47 +0100<br>**JSON-Status:** 2026-10-25 14:55:58 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -17,9 +17,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
 | [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Graham Rodger | Burke and Wills | X | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Masters Apprentices | Burke and Wills and Me | X | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | Burke's Song | X | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Twindows | Dig Tree | X | — | — |
+| [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | Endless Flight | X | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | How Many Days? | X | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Australian Crawl | Reckless (Don't Be So) | X | [link](https://www.youtube.com/watch?v=w_U-jjGhLmU) | [link](https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC) |
 | [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | — | — |
@@ -109,6 +111,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Serenity | The Art of War | X | [link](https://www.youtube.com/watch?v=U77UB9sRCxo) | [link](https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi) |
+| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Crucible Steel | Ulfberht | X | — | — |
 | [550](https://gadg.fm/550) | Akbar und die Entstehung des Mogulreichs | Mughal-E-Funk | Akbar | X | — | [link](https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |

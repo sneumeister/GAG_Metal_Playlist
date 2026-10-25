@@ -893,6 +893,30 @@
     ]
   },
   {
+    "id": "crucible-steel-ulfberht",
+    "band": "Crucible Steel",
+    "title": "Ulfberht",
+    "entities": [
+      "Ulfberht",
+      "Crucible steel"
+    ],
+    "era": "2017",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://theapollyongroup.bandcamp.com/track/ulfberht",
+        "note": "Forge the Blade (2017); Track Ulfberht"
+      },
+      {
+        "type": "secondary",
+        "url": "http://aeafanzine.blogspot.com/2018/06/band-interview-crucible-steel.html",
+        "note": "Interview: Bandname nach Ulfberht/Tiegelstahl; keine Songlyrics"
+      }
+    ]
+  },
+  {
     "id": "crystallion-hougoumont",
     "band": "Crystallion",
     "title": "Hougoumont",
@@ -1921,6 +1945,32 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Gotland/Gloria_et_Morte/401274",
         "note": "Metal Archives: Gloria et Morte (2014), Folk/Black Metal"
+      }
+    ]
+  },
+  {
+    "id": "graham-rodger-burke-and-wills",
+    "band": "Graham Rodger",
+    "title": "Burke and Wills",
+    "entities": [
+      "Burke and Wills",
+      "Cooper Creek",
+      "Dig Tree",
+      "Camp 65"
+    ],
+    "era": "1860–1861 / 2000s",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/rodger.htm",
+        "note": "Dig-Tree-Nahverfehlung, Cooper Creek, Camp 65"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
+        "note": "Burke-&-Wills-Musikliste; Bush Ballad / Folk"
       }
     ]
   },
@@ -4291,6 +4341,138 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/podcast/gag295/#comment-3567",
         "note": "Kommentar: explizit kein Metal"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-miklagard",
+    "band": "Rebellion",
+    "title": "Miklagard",
+    "entities": [
+      "Miklagard",
+      "Konstantinopel",
+      "Warägergarde",
+      "Varangian Guard"
+    ],
+    "era": "10.–11. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/7IQOMAQi7h64LLLLLQ7xFo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dRk0grBXtGw",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
+        "note": "One of the emperor's guard to be / Varangian"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
+        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-the-rus",
+    "band": "Rebellion",
+    "title": "The Rus",
+    "entities": [
+      "Rus",
+      "Rurik",
+      "Nowgorod",
+      "Svjatoslav"
+    ],
+    "era": "862–10. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
+        "note": "Rurik 862, Novgorod, Svjatoslav, rivers to Miklagard"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
+        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-kiew",
+    "band": "Rebellion",
+    "title": "Kiew",
+    "entities": [
+      "Kiew",
+      "Askold",
+      "Dir",
+      "Dnepr",
+      "Rus"
+    ],
+    "era": "9. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
+        "note": "Askod and Dyr / town on Dnepr / Oh Kiew"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
+        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-ulfberth",
+    "band": "Rebellion",
+    "title": "Ulfberth",
+    "entities": [
+      "Ulfberht",
+      "Franken",
+      "Wikinger",
+      "Schwert"
+    ],
+    "era": "9.–11. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NfFj9aEJDOc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
+        "note": "Swords from Franconia / Ulfberth sword of a master"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
+        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-the-uprising",
+    "band": "Rebellion",
+    "title": "The Uprising",
+    "entities": [
+      "Warägergarde",
+      "Harald Hardrada",
+      "Michael V.",
+      "Konstantinopel",
+      "Sizilien"
+    ],
+    "era": "1042 / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
+        "note": "Varangians unite / Harald / Michael the 5th"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
+        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
       }
     ]
   },
@@ -8716,6 +8898,32 @@
         "type": "secondary",
         "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
         "note": "Burke-&-Wills-Musikliste; Band = Celtic Folk (Peter Harris)"
+      }
+    ]
+  },
+  {
+    "id": "welders-dog-endless-flight",
+    "band": "Welder's Dog",
+    "title": "Endless Flight",
+    "entities": [
+      "Robert O'Hara Burke",
+      "Burke and Wills",
+      "Cooper Creek",
+      "Dig Tree"
+    ],
+    "era": "1861 / 2000s",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/welders_dog_3.htm",
+        "note": "Burkes Tod am Cooper Creek; Peter Harris Bandtext"
+      },
+      {
+        "type": "secondary",
+        "url": "http://www.burkeandwills.net.au/Bibliography/Music/index.htm",
+        "note": "Burke-&-Wills-Musikliste; Celtic Folk (Peter Harris)"
       }
     ]
   },
