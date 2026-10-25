@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-25 15:19:47 +0100<br>**JSON-Status:** 2026-10-25 14:55:58 +0100</small>
+<small>**Compile-Datum:** 2026-10-25 15:52:05 +0100<br>**JSON-Status:** 2026-10-25 15:52:05 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -14,6 +14,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
 | [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Xynfonica | From Your Father's Skull | X | — | — |
+| [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Sole Survivors in Ligny | X | — | [link](https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV) |
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
 | [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
@@ -32,6 +33,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [197](https://gadg.fm/197) | Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron | Sabaton | Talvisota | X | [link](https://www.youtube.com/watch?v=jtfBcDV7etA) | [link](https://open.spotify.com/track/3GhlV5FpkyZvNPMA7v3G1t) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rosalía | De Madrugá | X | [link](https://www.youtube.com/watch?v=QEQZs8SLhQE) | [link](https://open.spotify.com/track/6F52Ls9K7a6vNNi0lip9Gm) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Turisas | In the Court of Jarisleif | X | [link](https://www.youtube.com/watch?v=zcvW7dBKB0U) | [link](https://open.spotify.com/track/1HMcYg6gxITWNk9equYdE8) |
+| [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Civil War | Tears From The North | X | — | [link](https://open.spotify.com/track/7LaSBbnuCojlS87Yvo3fOz) |
 | [199](https://gadg.fm/199) | UC 71 und der U-Boot-Krieg im Ersten Weltkrieg | Sabaton | Wolfpack | X | [link](https://www.youtube.com/watch?v=GaUCBheWCMA) | [link](https://open.spotify.com/track/0mK6UUHnQi0Jhu0IB319LO) |
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |

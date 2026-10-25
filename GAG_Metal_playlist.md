@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-25 15:19:47 +0100<br>**JSON-Status:** 2026-10-25 15:19:47 +0100</small>
+<small>**Compile-Datum:** 2026-10-25 15:52:05 +0100<br>**JSON-Status:** 2026-10-25 15:41:13 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -59,7 +59,10 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Burning Witches | Executed | C | [link](https://www.youtube.com/watch?v=840vcVzth-0) | [link](https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1) |
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Feuerschwanz | Malleus Maleficarum | C | [link](https://www.youtube.com/watch?v=OigEnWlVN14) | [link](https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq) |
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Saxon | Witches Of Salem | C | [link](https://www.youtube.com/watch?v=mN5mfBDUNMQ) | [link](https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr) |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Crossing of the Alps | B | — | [link](https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5) |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Hispania (The Siege of Saguntum) | C | — | [link](https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | B | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | The Rise of Hannibal | C | — | [link](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) |
 | [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | B | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | [link](https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld) |
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |

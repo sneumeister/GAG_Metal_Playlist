@@ -834,6 +834,32 @@
     ]
   },
   {
+    "id": "civil-war-tears-from-the-north",
+    "band": "Civil War",
+    "title": "Tears From The North",
+    "entities": [
+      "Rurik",
+      "Waräger",
+      "Wikinger",
+      "Rus"
+    ],
+    "era": "9. Jh. / 2015",
+    "spotifyUrl": "https://open.spotify.com/track/7LaSBbnuCojlS87Yvo3fOz",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/civil-war-tears-from-the-north-130389",
+        "note": "Rurik on the rivers in the east / Mother Russia / Eriksson America"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/4qR64lFYU770My5RL6uPm7",
+        "note": "Gods and Generals (2015)"
+      }
+    ]
+  },
+  {
     "id": "countess-march-of-the-ten-thousand",
     "band": "Countess",
     "title": "March of the Ten Thousand",
@@ -913,6 +939,33 @@
         "type": "secondary",
         "url": "http://aeafanzine.blogspot.com/2018/06/band-interview-crucible-steel.html",
         "note": "Interview: Bandname nach Ulfberht/Tiegelstahl; keine Songlyrics"
+      }
+    ]
+  },
+  {
+    "id": "crystallion-sole-survivors-in-ligny",
+    "band": "Crystallion",
+    "title": "Sole Survivors in Ligny",
+    "entities": [
+      "Ligny",
+      "Napoleon",
+      "Quatre Bras",
+      "Hundert Tage",
+      "Preußen"
+    ],
+    "era": "1815 / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/crystallion/hundreddays.html",
+        "note": "Ligny and Quatre Bras / Sole survivors in Ligny"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Crystallion/Hundred_Days/241105",
+        "note": "Hundred Days (2009)"
       }
     ]
   },
@@ -1453,6 +1506,86 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
         "note": "Zama Regia; Hannibal vs Scipio"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-crossing-of-the-alps",
+    "band": "Ex Deo",
+    "title": "Crossing of the Alps",
+    "entities": [
+      "Hannibal",
+      "Alpenübergang",
+      "Alpen",
+      "Karthago",
+      "Zweiter Punischer Krieg"
+    ],
+    "era": "218 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Hispania has fallen / forty beasts / I am Hannibal / bowels of Rome"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-the-rise-of-hannibal",
+    "band": "Ex Deo",
+    "title": "The Rise of Hannibal",
+    "entities": [
+      "Hannibal",
+      "Hamilcar",
+      "Karthago",
+      "Eid gegen Rom"
+    ],
+    "era": "237 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Hamilcar / never be a friend of Rome / Fear me for I am Hannibal"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-hispania-the-siege-of-saguntum",
+    "band": "Ex Deo",
+    "title": "Hispania (The Siege of Saguntum)",
+    "entities": [
+      "Hannibal",
+      "Saguntum",
+      "Hispania",
+      "Karthago",
+      "Zweiter Punischer Krieg"
+    ],
+    "era": "219 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "I lay siege to Saguntum / Conquer Hispania / This is War"
       },
       {
         "type": "wikipedia",

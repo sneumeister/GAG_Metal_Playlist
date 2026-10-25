@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25 15:19:47 +0100",
+  "updatedAt": "2026-10-25 15:41:13 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -883,6 +883,62 @@
       "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
       "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-crossing-of-the-alps",
+      "band": "Ex Deo",
+      "songTitle": "Crossing of the Alps",
+      "matchTier": "B",
+      "justification": "Folge = Schlacht bei Cannae (Hannibal vs. Rom); Song = Hannibals Alpenübergang (Hispania gefallen, Elefanten/„forty beasts“, Marsch auf Rom) — gleicher Feldzug/Feldherr, Song-Kern der Übergang nicht die Schlacht (Tier B).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg",
+        "Alpenübergang"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-the-rise-of-hannibal",
+      "band": "Ex Deo",
+      "songTitle": "The Rise of Hannibal",
+      "matchTier": "C",
+      "justification": "Folge = Schlacht bei Cannae (Doppelumfassung 216); Song = Kindheitseid gegen Rom vor Hamilcar („never be a friend of Rome“) und Aufstieg Hannibals — gemeinsame Person/Rom-Feindschaft, kein gemeinsamer Erzählgegenstand (weder Cannae noch Italienfeldzug) (Tier C).",
+      "sharedEntities": [
+        "Hannibal",
+        "Rom",
+        "Karthago"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-hispania-the-siege-of-saguntum",
+      "band": "Ex Deo",
+      "songTitle": "Hispania (The Siege of Saguntum)",
+      "matchTier": "C",
+      "justification": "Folge = Schlacht bei Cannae in Italien (216); Song = Belagerung Saguntums in Hispania („I lay siege to Saguntum“, casus belli) — gleicher Feldherr/Krieg, anderer Ort und Ereignis, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
     {

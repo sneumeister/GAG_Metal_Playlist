@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-25 14:55:58 +0100",
+  "updatedAt": "2026-10-25 15:52:05 +0100",
   "entries": [
     {
       "episodeId": 1,
       "songId": "xynfonica-from-your-fathers-skull",
       "reason": "Folge = Alboin / Rosamunde und Trinkbecher aus Kunimunds Schädel (#1); Song = Alboin-Rosamunde-Moritat mit Schädelbecher — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Dungeon Synth / Experimental / MIDI, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-16",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 4,
+      "songId": "crystallion-sole-survivors-in-ligny",
+      "reason": "Folge = Uxbridge-Bein / Wellington in Waterloo; Song = Schlacht bei Ligny (Napoleon vs. Preußen, 16.6.) — anderer Schlachttag und Fokus, nur loser Hundert-Tage-Anklang (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
@@ -132,6 +139,13 @@
       "songId": "turisas-in-the-court-of-jarisleif",
       "reason": "Song = Trinkgelage am Hof Jaroslaws des Weisen (Jarisleif). Folge = Olga von Kiew / Igor (10. Jh.) — gleiche Rus-/Waräger-Welt, andere Person und Generation, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-09-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "songId": "civil-war-tears-from-the-north",
+      "reason": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = generisches Wikinger-Panorama mit Rurik-Namensnennung und Eriksson/Amerika — nur loser Rus-/Waräger-Anklang ohne belastbaren Erzählbezug (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
