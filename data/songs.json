@@ -1515,6 +1515,32 @@
     ]
   },
   {
+    "id": "ex-deo-the-spoils-of-war",
+    "band": "Ex Deo",
+    "title": "The Spoils of War",
+    "entities": [
+      "Hannibal",
+      "Karthago",
+      "Rom",
+      "Zweiter Punischer Krieg"
+    ],
+    "era": "202 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Hannibal Barca / Rome demands your ultimate surrender"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
     "id": "ex-deo-crossing-of-the-alps",
     "band": "Ex Deo",
     "title": "Crossing of the Alps",
@@ -1586,6 +1612,32 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
         "note": "I lay siege to Saguntum / Conquer Hispania / This is War"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-cato-major-carthago-delenda-est",
+    "band": "Ex Deo",
+    "title": "Cato Major: Carthago Delenda Est!",
+    "entities": [
+      "Cato Maior",
+      "Carthago delenda est",
+      "Karthago",
+      "Rom"
+    ],
+    "era": "2.–1. Jh. v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Cato / Carthago delenda est / Rise General Scipio"
       },
       {
         "type": "wikipedia",
@@ -3087,6 +3139,33 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Kuazar/Hybrid_Power/1144928",
         "note": "Hybrid Power (2023), Thrash Metal; Track 8"
+      }
+    ]
+  },
+  {
+    "id": "leaves-eyes-maid-of-lorraine",
+    "band": "Leaves' Eyes",
+    "title": "Maid of Lorraine",
+    "entities": [
+      "Jeanne d'Arc",
+      "Joan of Arc",
+      "La Pucelle d’Orléans",
+      "Hundertjähriger Krieg",
+      "Rouen"
+    ],
+    "era": "1431 / 2013",
+    "spotifyUrl": "https://open.spotify.com/track/2MxHkoQcqy6FOhy9uaGDjI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=x5lAUJ-OyII",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
+        "note": "La Pucelle d’Orléans; Jeanne d’Arc; May 1431; burn at the stake"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Leaves%27_Eyes/Symphonies_of_the_Night/387012",
+        "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
       }
     ]
   },

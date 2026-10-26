@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-25 15:52:05 +0100<br>**JSON-Status:** 2026-10-25 15:41:13 +0100</small>
+<small>**Compile-Datum:** 2026-10-26 13:57:29 +0100<br>**JSON-Status:** 2026-10-26 13:54:01 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -121,6 +121,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [378](https://gadg.fm/378) | Ein langer Marsch durch Feindesland | Countess | March of the Ten Thousand | A | [link](https://www.youtube.com/watch?v=-OXnxnbJk_g) | [link](https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR) |
 | [390](https://gadg.fm/390) | Kleopatra Selene und das Ende der Römischen Republik | Ex Deo | The Final War (Battle of Actium) | B | [link](https://www.youtube.com/watch?v=qcfaltp8CL0) | [link](https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
+| [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | The Spoils of War | B | — | [link](https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV) |
 | [394](https://gadg.fm/394) | Die Verurteilung von Sacco und Vanzetti | Panopticon | La passione de Sacco & Vanzetti | A | [link](https://www.youtube.com/watch?v=OfMzC2AHrr8) | — |
 | [397](https://gadg.fm/397) | Hy Brasil | Waylander | Hy Brasil (Isle of Mists) | A | [link](https://www.youtube.com/watch?v=vVd8E4gb5Dk) | [link](https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |

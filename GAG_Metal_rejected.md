@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-25 15:52:05 +0100<br>**JSON-Status:** 2026-10-25 15:52:05 +0100</small>
+<small>**Compile-Datum:** 2026-10-26 13:57:29 +0100<br>**JSON-Status:** 2026-10-26 13:57:29 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -30,6 +30,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [125](https://gadg.fm/125) | Republik Fredonia | The Marx Brothers | Hail, Hail Freedonia | X | [link](https://www.youtube.com/watch?v=x4OJGdtRx10) | — |
 | [147](https://gadg.fm/147) | Das Fräulein vom Amt | Bangkok Impact | Junge Dame Mit Freundlicher Tellephonstimme | X | [link](https://www.youtube.com/watch?v=ci7n4_3Gk2Q) | — |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Cato Major: Carthago Delenda Est! | X | — | [link](https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z) |
 | [197](https://gadg.fm/197) | Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron | Sabaton | Talvisota | X | [link](https://www.youtube.com/watch?v=jtfBcDV7etA) | [link](https://open.spotify.com/track/3GhlV5FpkyZvNPMA7v3G1t) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rosalía | De Madrugá | X | [link](https://www.youtube.com/watch?v=QEQZs8SLhQE) | [link](https://open.spotify.com/track/6F52Ls9K7a6vNNi0lip9Gm) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Turisas | In the Court of Jarisleif | X | [link](https://www.youtube.com/watch?v=zcvW7dBKB0U) | [link](https://open.spotify.com/track/1HMcYg6gxITWNk9equYdE8) |
@@ -50,6 +51,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [291](https://gadg.fm/291) | Ein erfolgreicher Kampf gegen die Kolonialisierung | Iron Maiden | Run to the Hills | X | [link](https://www.youtube.com/watch?v=86URGgqONvA) | [link](https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl) |
 | [295](https://gadg.fm/295) | Die Verwandlung des Axolotls | Rathergood | The Axolotl Song | X | [link](https://www.youtube.com/watch?v=MxA0QVGVEJw) | — |
 | [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Powerwolf | Joan of Arc | X | [link](https://www.youtube.com/watch?v=1ZD-_KLSSKg) | [link](https://open.spotify.com/track/7D2UpWgfgxzGNzmcIoWd9l) |
+| [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Leaves' Eyes | Maid of Lorraine | X | [link](https://www.youtube.com/watch?v=x5lAUJ-OyII) | [link](https://open.spotify.com/track/2MxHkoQcqy6FOhy9uaGDjI) |
 | [306](https://gadg.fm/306) | Motoren, Krieg und Inflation – Aufstieg und Fall des Unternehmers Camillo Castiglioni | Iron Maiden | Empire of the Clouds | X | [link](https://www.youtube.com/watch?v=9CWTig2kBKE) | [link](https://open.spotify.com/track/7C6K5CQkYOqCS1qcmGUQfV) |
 | [320](https://gadg.fm/320) | In 72 Tagen um die Welt – Journalistin Nellie Bly | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
 | [323](https://gadg.fm/323) | Die Republik Ezo und das Ende des Shogunats | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
@@ -76,6 +78,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [388](https://gadg.fm/388) | Marie Tussaud und die Wachsfiguren | Annihilator | Phantasmagoria | X | — | [link](https://open.spotify.com/track/4078UGOgKIRJCz7GUqW8BR) |
 | [388](https://gadg.fm/388) | Marie Tussaud und die Wachsfiguren | Misanthrope | Reine martyre | X | — | — |
+| [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Cato Major: Carthago Delenda Est! | X | — | [link](https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z) |
 | [394](https://gadg.fm/394) | Die Verurteilung von Sacco und Vanzetti | Georges Moustaki | Marche de Sacco et Vanzetti | X | [link](https://www.youtube.com/watch?v=s-1Gi8ocgmc) | [link](https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Joan Baez | Battle Hymn of the Republic | X | [link](https://www.youtube.com/watch?v=YHforl6vnco) | [link](https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa) |
 | [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Abikyokan | Maxentius | X | — | — |

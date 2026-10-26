@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25 15:41:13 +0100",
+  "updatedAt": "2026-10-26 13:54:01 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -2025,6 +2025,25 @@
       "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
       "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 393,
+      "episodeTitle": "Die Schlacht von Zama",
+      "episodeUrl": "https://gadg.fm/393",
+      "songId": "ex-deo-the-spoils-of-war",
+      "band": "Ex Deo",
+      "songTitle": "The Spoils of War",
+      "matchTier": "B",
+      "justification": "Folge = Schlacht von Zama (Scipio vs. Hannibal); Song = römische Kapitulationsforderung an Hannibal Barca und Siegesnachspiel („ultimate surrender“, „master tactician“) — derselbe Endkampf, Song-Kern Folge der Niederlage nicht die Schlachtordnung (Tier B).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg",
+        "Karthago"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
     {
