@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-24 19:58:18 +0200",
+  "updatedAt": "2026-10-26 13:57:29 +0100",
   "entries": [
     {
       "episodeId": 1,
       "songId": "xynfonica-from-your-fathers-skull",
       "reason": "Folge = Alboin / Rosamunde und Trinkbecher aus Kunimunds Schädel (#1); Song = Alboin-Rosamunde-Moritat mit Schädelbecher — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Dungeon Synth / Experimental / MIDI, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-16",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 4,
+      "songId": "crystallion-sole-survivors-in-ligny",
+      "reason": "Folge = Uxbridge-Bein / Wellington in Waterloo; Song = Schlacht bei Ligny (Napoleon vs. Preußen, 16.6.) — anderer Schlachttag und Fokus, nur loser Hundert-Tage-Anklang (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
@@ -38,6 +45,13 @@
     },
     {
       "episodeId": 49,
+      "songId": "graham-rodger-burke-and-wills",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = Expeditionsstück inkl. Dig-Tree-Nahverfehlung (Cooper Creek, Camp 65) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Bush Ballad / Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-25",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
       "songId": "the-masters-apprentices-burke-and-wills-and-me",
       "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = denselben Expeditionskern (Melbourne–Norden, Cooper Creek) — inhaltlich eng passend (bei Streaming-Verfügbarkeit wäre Tier A). Keine Streaming-Links (Spotify/YouTube), nur Raven-LP Hands Of Time (Tier X).",
       "rejectedAt": "2026-10-24",
@@ -55,6 +69,13 @@
       "songId": "welders-dog-burkes-song",
       "reason": "Folge = Dig Tree / erste Australien-Durchquerung (Burke & Wills); Song = Ich-Perspektive Robert O'Hara Burkes vor/bei Übernahme der Expedition — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 49,
+      "songId": "welders-dog-endless-flight",
+      "reason": "Folge = Dig Tree / Burke-Wills-Durchquerung; Song = Burkes Tod am Cooper Creek (Pistole, Bibelvers, Coolabah) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk / Bush Ballad, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
@@ -118,6 +139,13 @@
       "songId": "turisas-in-the-court-of-jarisleif",
       "reason": "Song = Trinkgelage am Hof Jaroslaws des Weisen (Jarisleif). Folge = Olga von Kiew / Igor (10. Jh.) — gleiche Rus-/Waräger-Welt, andere Person und Generation, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-09-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "songId": "civil-war-tears-from-the-north",
+      "reason": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = generisches Wikinger-Panorama mit Rurik-Namensnennung und Eriksson/Amerika — nur loser Rus-/Waräger-Anklang ohne belastbaren Erzählbezug (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
@@ -230,6 +258,13 @@
       "songId": "powerwolf-joan-of-arc",
       "reason": "Song = Jeanne d'Arc / Jungfrau von Orléans (Rouen, Scheiterhaufen). Folge = Johanna von Flandern („Jeanne la Flamme“) im bretonischen Erbfolgekrieg — Namens-/Beiname-Anklang, andere Person und Konflikt (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 296,
+      "songId": "leaves-eyes-maid-of-lorraine",
+      "reason": "Folge = Johanna von Flandern („Jeanne la Flamme“) und Belagerung Hennebont im bretonischen Erbfolgekrieg (14. Jh.); Song = Jeanne d’Arc / La Pucelle d’Orléans (Stimme Gottes, 70 Anklagepunkte, Scheiterhaufen, Mai 1431) — nur Namens-/Beiname-Anklang „Jeanne“, andere Person und Konflikt (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     },
     {
@@ -674,6 +709,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 543,
+      "songId": "crucible-steel-ulfberht",
+      "reason": "Folge = Witham-Schwert / Ulfberht-Stahlgeschichte; Song = Instrumentalstück mit Titel Ulfberht, keine Lyrics und kein prüfbarer Erzählfokus — reiner Titelanklang (Tier X).",
+      "rejectedAt": "2026-10-25",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 550,
       "songId": "mughal-e-funk-akbar",
       "reason": "Song = Instrumentalstück zu Kaiser Akbar. Folge = Akbar und Entstehung des Mogulreichs — inhaltlich eng (bei Metal wäre Tier A). Genre = Funk / Instrumental-Fusion, kein Rock/Metal (Tier X).",
@@ -1021,6 +1063,20 @@
       "songId": "schandmaul-tjark-evers",
       "reason": "Folge = Violet-Jessop-Hörbuch inkl. Tjark-Evers-Rahmen (#578); Song = Tod und Zigarrenkisten-Abschied des Tjark Evers — inhaltlich eng (bei Metal wäre Tier A). Genre = Mittelalter-Folk / Folk Rock, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 393,
+      "songId": "ex-deo-cato-major-carthago-delenda-est",
+      "reason": "Folge = Schlacht von Zama (Scipio vs. Hannibal, 202); Song = Cato Maior / „Carthago delenda est“ (Titelkern) — andere Person und Fokus, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "songId": "ex-deo-cato-major-carthago-delenda-est",
+      "reason": "Folge = Schlacht bei Cannae (216); Song = Cato Maior / „Carthago delenda est“ — andere Person und Kriegsphase, nur loser Rom–Karthago-Anklang (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     }
   ]

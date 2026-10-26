@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 19:54:46 +0200",
+  "updatedAt": "2026-10-26 13:54:01 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -886,6 +886,62 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-crossing-of-the-alps",
+      "band": "Ex Deo",
+      "songTitle": "Crossing of the Alps",
+      "matchTier": "B",
+      "justification": "Folge = Schlacht bei Cannae (Hannibal vs. Rom); Song = Hannibals Alpenübergang (Hispania gefallen, Elefanten/„forty beasts“, Marsch auf Rom) — gleicher Feldzug/Feldherr, Song-Kern der Übergang nicht die Schlacht (Tier B).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg",
+        "Alpenübergang"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-the-rise-of-hannibal",
+      "band": "Ex Deo",
+      "songTitle": "The Rise of Hannibal",
+      "matchTier": "C",
+      "justification": "Folge = Schlacht bei Cannae (Doppelumfassung 216); Song = Kindheitseid gegen Rom vor Hamilcar („never be a friend of Rome“) und Aufstieg Hannibals — gemeinsame Person/Rom-Feindschaft, kein gemeinsamer Erzählgegenstand (weder Cannae noch Italienfeldzug) (Tier C).",
+      "sharedEntities": [
+        "Hannibal",
+        "Rom",
+        "Karthago"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-hispania-the-siege-of-saguntum",
+      "band": "Ex Deo",
+      "songTitle": "Hispania (The Siege of Saguntum)",
+      "matchTier": "C",
+      "justification": "Folge = Schlacht bei Cannae in Italien (216); Song = Belagerung Saguntums in Hispania („I lay siege to Saguntum“, casus belli) — gleicher Feldherr/Krieg, anderer Ort und Ereignis, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 190,
       "episodeTitle": "Die Assassinen",
       "episodeUrl": "https://gadg.fm/190",
@@ -940,6 +996,42 @@
       "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
       "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "episodeTitle": "Olga von Kiew oder Mit den Spatzen kam der Tod",
+      "episodeUrl": "https://gadg.fm/198",
+      "songId": "rebellion-the-rus",
+      "band": "Rebellion",
+      "songTitle": "The Rus",
+      "matchTier": "C",
+      "justification": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = Rurik 862 / Nowgorod und Svjatoslav als Flussreich der Rus — thematische Nähe Kiewer Rus/Waräger ohne gemeinsamen Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Rus",
+        "Waräger",
+        "Kiewer Rus"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "episodeTitle": "Olga von Kiew oder Mit den Spatzen kam der Tod",
+      "episodeUrl": "https://gadg.fm/198",
+      "songId": "rebellion-kiew",
+      "band": "Rebellion",
+      "songTitle": "Kiew",
+      "matchTier": "C",
+      "justification": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = Askold/Dir und Stadtporträt Kiews am Dnepr — nur thematische Nähe über den Ort Kiew, kein gemeinsamer Erzählgegenstand (weder Olga noch Derevljanen) (Tier C).",
+      "sharedEntities": [
+        "Kiew"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
     {
@@ -1936,6 +2028,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 393,
+      "episodeTitle": "Die Schlacht von Zama",
+      "episodeUrl": "https://gadg.fm/393",
+      "songId": "ex-deo-the-spoils-of-war",
+      "band": "Ex Deo",
+      "songTitle": "The Spoils of War",
+      "matchTier": "B",
+      "justification": "Folge = Schlacht von Zama (Scipio vs. Hannibal); Song = römische Kapitulationsforderung an Hannibal Barca und Siegesnachspiel („ultimate surrender“, „master tactician“) — derselbe Endkampf, Song-Kern Folge der Niederlage nicht die Schlachtordnung (Tier B).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg",
+        "Karthago"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-26",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 394,
       "episodeTitle": "Die Verurteilung von Sacco und Vanzetti",
       "episodeUrl": "https://gadg.fm/394",
@@ -2665,6 +2776,25 @@
       "episodeId": 519,
       "episodeTitle": "Die Warägergarde",
       "episodeUrl": "https://gadg.fm/519",
+      "songId": "rebellion-miklagard",
+      "band": "Rebellion",
+      "songTitle": "Miklagard",
+      "matchTier": "A",
+      "justification": "Folge = Warägergarde am byzantinischen Hof; Song = Ankunft in Miklagard mit Ziel, in die Kaiser-Garde einzutreten („One of the emperor's guard to be / Varangian“) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Konstantinopel",
+        "Miklagard"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7IQOMAQi7h64LLLLLQ7xFo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dRk0grBXtGw",
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
       "songId": "turisas-the-march-of-the-varangian-guard",
       "band": "Turisas",
       "songTitle": "The March of the Varangian Guard",
@@ -2696,6 +2826,25 @@
       "spotifyUrl": "https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL",
       "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
       "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
+      "songId": "rebellion-the-uprising",
+      "band": "Rebellion",
+      "songTitle": "The Uprising",
+      "matchTier": "B",
+      "justification": "Folge = Warägergarde als Institution (Aufgaben, Zusammensetzung, Ende); Song = Harald Hardrada / Waräger stürzen Michael V. 1042 (Sizilien-Feldzug, Kerker, Palastbrand) — gleiche Einheit am byzantinischen Hof, Song-Fokus ein Einzelereignis (Tier B).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Konstantinopel",
+        "Harald Hardrada"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
     {
@@ -2774,6 +2923,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa",
       "youtubeUrl": "https://www.youtube.com/watch?v=NuugQSaHM7Y",
       "matchedAt": "2026-10-15",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 543,
+      "episodeTitle": "Vom Tiegel in den Fluss",
+      "episodeUrl": "https://gadg.fm/543",
+      "songId": "rebellion-ulfberth",
+      "band": "Rebellion",
+      "songTitle": "Ulfberth",
+      "matchTier": "B",
+      "justification": "Folge = Witham-Schwert (Inschriftenklinge), Stahlgeschichte und Bedeutung jenseits der Schlacht; Song = Franken-Ulfberht als Handels- und Kampfwaffe aus nordischer Sicht — gemeinsamer Ulfberht-/Frankenschwert-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Ulfberht",
+        "Frankenschwert",
+        "Stahl"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NfFj9aEJDOc",
+      "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
     {
