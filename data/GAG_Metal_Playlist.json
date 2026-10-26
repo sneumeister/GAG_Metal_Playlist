@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26 13:54:01 +0100",
+  "updatedAt": "2026-10-26 15:58:57 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1816,6 +1816,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 365,
+      "episodeTitle": "The Ghost Army",
+      "episodeUrl": "https://gadg.fm/365",
+      "songId": "the-human-error-ghost-army",
+      "band": "The Human Error",
+      "songTitle": "Ghost Army",
+      "matchTier": "A",
+      "justification": "Folge = US-Ghost Army / 23rd Headquarters Special Troops (Attrappen, Sound, Funk-Täuschung); Song = dieselbe Täuschungseinheit (603rd, Spoof-Radio, aufblasbare Fahrzeuge) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Ghost Army",
+        "23rd Headquarters Special Troops",
+        "603rd Camouflage Engineer Battalion"
+      ],
+      "spotifyUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-26",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 367,
       "episodeTitle": "Untergang und Comeback der VASA",
       "episodeUrl": "https://gadg.fm/367",
@@ -2942,6 +2961,27 @@
       "spotifyUrl": "https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=NfFj9aEJDOc",
       "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 545,
+      "episodeTitle": "Der Nika-Aufstand und die Zirkusparteien",
+      "episodeUrl": "https://gadg.fm/545",
+      "songId": "deuteronomy-nika-riots",
+      "band": "Deuteronomy",
+      "songTitle": "Nika Riots",
+      "matchTier": "A",
+      "justification": "Folge = Nika-Aufstand 532 und Zirkusparteien in Konstantinopel; Song = derselbe Aufstand (Blau/Grün, Gegenkaiser Hypatius, Niederschlagung durch Belisarius im Hippodrom) — gemeinsamer Kerngegenstand (Tier A).",
+      "sharedEntities": [
+        "Nika-Aufstand",
+        "Hypatius",
+        "Belisarius",
+        "Hippodrom",
+        "Konstantinopel"
+      ],
+      "spotifyUrl": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
     {

@@ -1,5 +1,33 @@
 [
   {
+    "id": "1914-1916-the-sudtirol-offensive",
+    "band": "1914",
+    "title": "1916 (The Südtirol Offensive)",
+    "entities": [
+      "Südtirol",
+      "Trentino",
+      "Schlacht um Asiago",
+      "Frühjahrsoffensive 1916",
+      "Erster Weltkrieg",
+      "Italienfront"
+    ],
+    "era": "1916 / 2025",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=n-QDGBnCqoQ",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=n-QDGBnCqoQ",
+        "note": "Napalm official video; Asiago / Trentino Offensive May–June 1916"
+      },
+      {
+        "type": "secondary",
+        "url": "https://metalinjection.net/video/1914-returns-with-historically-accurate-new-single-1916-the-sudtirol-offensive",
+        "note": "Viribus Unitis (2025); Battle of Asiago"
+      }
+    ]
+  },
+  {
     "id": "24-7-diva-heaven-rat-race",
     "band": "24/7 Diva Heaven",
     "title": "Rat Race",
@@ -555,6 +583,30 @@
     ]
   },
   {
+    "id": "besna-paracelsus",
+    "band": "Besna",
+    "title": "Paracelsus",
+    "entities": [
+      "Paracelsus",
+      "Alchemie"
+    ],
+    "era": "2025",
+    "spotifyUrl": "https://besna.bandcamp.com/track/paracelsus",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2IdHtXV36B0",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://besna.bandcamp.com/track/paracelsus",
+        "note": "Krásno (2025); Lyrics: Alchymista as urban deception metaphor"
+      },
+      {
+        "type": "secondary",
+        "url": "https://besna.bandcamp.com/album/kr-sno",
+        "note": "Album about societal stagnation; ENG lyrics on Bandcamp"
+      }
+    ]
+  },
+  {
     "id": "bible-of-the-devil-greek-fire",
     "band": "Bible of the Devil",
     "title": "Greek Fire",
@@ -895,6 +947,31 @@
     ]
   },
   {
+    "id": "country-gentlemen-matterhorn",
+    "band": "The Country Gentlemen",
+    "title": "Matterhorn",
+    "entities": [
+      "Matterhorn",
+      "Alpinismus",
+      "1865"
+    ],
+    "era": "1865 / 1966",
+    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://pickersguide.com/vocal-song/matterhorn/",
+        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
+        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
+      }
+    ]
+  },
+  {
     "id": "cr7z-gaia",
     "band": "Cr7z",
     "title": "Gaia",
@@ -1176,6 +1253,35 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Deos/In_Nomine_Romae/671807",
         "note": "Review nennt Mylae als bewusstes, weniger bekanntes römisches Episode-Thema"
+      }
+    ]
+  },
+  {
+    "id": "deuteronomy-nika-riots",
+    "band": "Deuteronomy",
+    "title": "Nika Riots",
+    "entities": [
+      "Nika-Aufstand",
+      "Belisarius",
+      "Hypatius",
+      "Justinian",
+      "Zirkusparteien",
+      "Hippodrom",
+      "Konstantinopel"
+    ],
+    "era": "532 / 2020",
+    "spotifyUrl": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
+        "note": "The Last Roman (2020); Lyrics: Hypatius, Belisarius, Hippodrome"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Deuteronomy/The_Last_Roman/822871",
+        "note": "Blackened Death Metal; Track 9 Nika Riots"
       }
     ]
   },
@@ -2284,6 +2390,31 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
         "note": "Hinrichtung Jacques de Molay / Fluch"
+      }
+    ]
+  },
+  {
+    "id": "gwenno-dafydd-wild-west-walian-warrior-women",
+    "band": "Gwenno Dafydd",
+    "title": "Wild West Walian Warrior Women (The Ballad of Jemima Nicholas)",
+    "entities": [
+      "Jemima Nicholas",
+      "Fishguard",
+      "1797"
+    ],
+    "era": "1797 / 2022",
+    "spotifyUrl": "https://orcd.co/warriorwomen",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://orcd.co/warriorwomen",
+        "note": "Single 2022; co-written with Katherine Cole"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.abergavennychronicle.com/news/15th-welsh-purple-plaque-unveiled-667649",
+        "note": "Purple plaque Fishguard; Dafydd sang Jemima song at unveiling"
       }
     ]
   },
@@ -5809,6 +5940,33 @@
     ]
   },
   {
+    "id": "sabaton-maid-of-steel",
+    "band": "Sabaton",
+    "title": "Maid of Steel",
+    "entities": [
+      "Jeanne d'Arc",
+      "Joan of Arc",
+      "Maid of Orleans",
+      "Orléans",
+      "Hundertjähriger Krieg"
+    ],
+    "era": "1412–1431 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/1t1g8mx2GQLX2UUk5azWAu",
+    "youtubeUrl": "https://www.youtube.com/watch?v=fTqB-kWVnBA",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/maid-of-steel-lyrics/",
+        "note": "Historic Fact: Jeanne d’Arc; Siege of Orleans; executed 1431"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Legends_(Sabaton_album)",
+        "note": "Legends (2025)"
+      }
+    ]
+  },
+  {
     "id": "sabaton-midway",
     "band": "Sabaton",
     "title": "Midway",
@@ -8259,6 +8417,32 @@
     ]
   },
   {
+    "id": "the-human-error-ghost-army",
+    "band": "The Human Error",
+    "title": "Ghost Army",
+    "entities": [
+      "Ghost Army",
+      "23rd Headquarters Special Troops",
+      "603rd Camouflage Engineer Battalion",
+      "Zweiter Weltkrieg"
+    ],
+    "era": "1944–1945 / 2025",
+    "spotifyUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
+        "note": "Ghost Army Deception (2025); Lyrics: 603, spoof radio, armed balloon"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.slapmag.co.uk/album-review-ghost-army-deception-by-the-human-error/",
+        "note": "Review: WW2 American 603 unit / inflatable tanks / fake radio"
+      }
+    ]
+  },
+  {
     "id": "the-masters-apprentices-burke-and-wills-and-me",
     "band": "The Masters Apprentices",
     "title": "Burke and Wills and Me",
@@ -8752,6 +8936,30 @@
         "type": "lyrics",
         "url": "https://genius.com/Stan-rogers-northwest-passage-lyrics",
         "note": "Original lyrics name Franklin and Beaufort Sea; cover keeps them"
+      }
+    ]
+  },
+  {
+    "id": "usnea-healing-through-death",
+    "band": "Usnea",
+    "title": "Healing Through Death",
+    "entities": [
+      "Paracelsus",
+      "Alchemie"
+    ],
+    "era": "2014",
+    "spotifyUrl": "https://usneadoom.bandcamp.com/track/healing-through-death",
+    "youtubeUrl": "https://www.youtube.com/watch?v=miEhmEEhGCg",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://usneadoom.bandcamp.com/track/healing-through-death",
+        "note": "Random Cosmic Violence (Relapse 2014); Lyrics: Paracelsus opening"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metalunderground.com/news/details.cfm?newsid=106577",
+        "note": "Track premiere / album announcement"
       }
     ]
   },

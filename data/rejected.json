@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26 13:57:29 +0100",
+  "updatedAt": "2026-10-26 16:04:10 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -268,6 +268,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 296,
+      "songId": "sabaton-maid-of-steel",
+      "reason": "Folge = Johanna von Flandern („Jeanne la Flamme“) und Belagerung Hennebont im bretonischen Erbfolgekrieg (14. Jh.); Song = Jeanne d’Arc („maiden of Orleans“, Belagerung Orléans, Scheiterhaufen) — nur Namens-/Beiname-Anklang „Jeanne“, andere Person und Konflikt (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 306,
       "songId": "iron-maiden-empire-of-the-clouds",
       "reason": "Song = Absturz des britischen Luftschiffs R101 (1930). Folge = Camillo Castiglioni (u. a. Habsburger Militärluftschiff mit Porsche) — nur loser Luftschiff-Rahmen, anderes Ereignis und Person (Tier X).",
@@ -391,6 +398,13 @@
       "songId": "schweisser-pausenclown",
       "reason": "Song = Saxophon allenfalls stilistisches Mittel im Crossover. Folge = Adolphe Sax und Erfindungs-/Patentgeschichte — Instrumentklang ≠ Erfindungsgeschichte (Tier X).",
       "rejectedAt": "2026-10-02",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 360,
+      "songId": "country-gentlemen-matterhorn",
+      "reason": "Folge = Erstbesteigung Matterhorn 1865 (Whymper) und Absturz beim Abstieg; Song = fiktive Matterhorn-Seilschaft mit tödlichen Abstürzen (Tillis/Burch; kulturell ans 1865er Unglück angelehnt) — gemeinsamer Berg-/Unglücksrahmen, anderer Fokus (bei Metal wäre Tier B). Genre = Bluegrass / Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     },
     {
@@ -1076,6 +1090,41 @@
       "episodeId": 189,
       "songId": "ex-deo-cato-major-carthago-delenda-est",
       "reason": "Folge = Schlacht bei Cannae (216); Song = Cato Maior / „Carthago delenda est“ — andere Person und Kriegsphase, nur loser Rom–Karthago-Anklang (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 413,
+      "songId": "usnea-healing-through-death",
+      "reason": "Folge = Paracelsus als historischer Arzt/Alchemist (Basel 1527, Abkehr von Avicenna); Song = okkulte Doom-Vision mit Namensaufruf und Alchemie-Floskeln (Tinktur/Elixier), ohne Biographie oder gemeinsamen Erzählgegenstand — reiner Stichwortanklang (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 367,
+      "songId": "sabaton-gott-mit-uns",
+      "reason": "Folge = Untergang der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = Schlacht bei Breitenfeld 1631 / Feldherr Gustav II. Adolf — gemeinsame Person, anderer Fokus und Ereignis (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 413,
+      "songId": "besna-paracelsus",
+      "reason": "Folge = historischer Paracelsus (Arzt, Alchemie, Basel); Song = zeitgenössische Stadt-/Konsumkritik unter Titel „Paracelsus“ (Alchemist-Metapher, keine Biographie) — nur Titelanklang, anderer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 203,
+      "songId": "1914-1916-the-sudtirol-offensive",
+      "reason": "Folge = Option in Südtirol 1939 (Hitler-Mussolini: Auswandern vs. Bleiben); Song = Frühjahrsoffensive / Schlacht um Asiago 1916 (k.u.k. 3. Armee, Trentino) — gleiche Region, anderes Ereignis und Jahr (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 441,
+      "songId": "gwenno-dafydd-wild-west-walian-warrior-women",
+      "reason": "Folge = Jemima Nicholas und letzte Invasion Großbritanniens bei Fishguard 1797; Song = Ballade über Jemima und Fishguard — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Ballade / Cabaret, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     }
