@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-26 13:57:29 +0100<br>**JSON-Status:** 2026-10-26 13:57:29 +0100</small>
+<small>**Compile-Datum:** 2026-10-26 16:04:11 +0100<br>**JSON-Status:** 2026-10-26 16:04:10 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -36,6 +36,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Turisas | In the Court of Jarisleif | X | [link](https://www.youtube.com/watch?v=zcvW7dBKB0U) | [link](https://open.spotify.com/track/1HMcYg6gxITWNk9equYdE8) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Civil War | Tears From The North | X | — | [link](https://open.spotify.com/track/7LaSBbnuCojlS87Yvo3fOz) |
 | [199](https://gadg.fm/199) | UC 71 und der U-Boot-Krieg im Ersten Weltkrieg | Sabaton | Wolfpack | X | [link](https://www.youtube.com/watch?v=GaUCBheWCMA) | [link](https://open.spotify.com/track/0mK6UUHnQi0Jhu0IB319LO) |
+| [203](https://gadg.fm/203) | Bleiben oder gehen? Die Option in Südtirol 1939 | 1914 | 1916 (The Südtirol Offensive) | X | [link](https://www.youtube.com/watch?v=n-QDGBnCqoQ) | — |
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [242](https://gadg.fm/242) | Eine kurze Geschichte der Olympischen Spiele (der Neuzeit) | Warkings | Battle of Marathon | X | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
@@ -52,6 +53,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [295](https://gadg.fm/295) | Die Verwandlung des Axolotls | Rathergood | The Axolotl Song | X | [link](https://www.youtube.com/watch?v=MxA0QVGVEJw) | — |
 | [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Powerwolf | Joan of Arc | X | [link](https://www.youtube.com/watch?v=1ZD-_KLSSKg) | [link](https://open.spotify.com/track/7D2UpWgfgxzGNzmcIoWd9l) |
 | [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Leaves' Eyes | Maid of Lorraine | X | [link](https://www.youtube.com/watch?v=x5lAUJ-OyII) | [link](https://open.spotify.com/track/2MxHkoQcqy6FOhy9uaGDjI) |
+| [296](https://gadg.fm/296) | Jeanne la Flamme und der bretonische Erbfolgekrieg | Sabaton | Maid of Steel | X | [link](https://www.youtube.com/watch?v=fTqB-kWVnBA) | [link](https://open.spotify.com/track/1t1g8mx2GQLX2UUk5azWAu) |
 | [306](https://gadg.fm/306) | Motoren, Krieg und Inflation – Aufstieg und Fall des Unternehmers Camillo Castiglioni | Iron Maiden | Empire of the Clouds | X | [link](https://www.youtube.com/watch?v=9CWTig2kBKE) | [link](https://open.spotify.com/track/7C6K5CQkYOqCS1qcmGUQfV) |
 | [320](https://gadg.fm/320) | In 72 Tagen um die Welt – Journalistin Nellie Bly | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
 | [323](https://gadg.fm/323) | Die Republik Ezo und das Ende des Shogunats | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
@@ -70,8 +72,10 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [351](https://gadg.fm/351) | Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax | Rivers of Nihil | The Silent Life | X | [link](https://www.youtube.com/watch?v=N6_WKGTeWH8) | [link](https://open.spotify.com/track/4iDQzPpa7FJ1RYfIGdH49e) |
 | [351](https://gadg.fm/351) | Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax | Rivers of Nihil | Where Owls Know My Name | X | [link](https://youtu.be/LBAXZto7uVc) | [link](https://open.spotify.com/track/6NgRSCfGt18L0ZbpHVBZWW) |
 | [351](https://gadg.fm/351) | Die Erfindung des Saxophons - Aufstieg und Fall des Adolphe Sax | Schweisser | ich bin du 2 | X | [link](https://www.youtube.com/watch?v=xpFUpcb6E98) | [link](https://open.spotify.com/track/6Fes7eGlr1Xg7kuUq7jROg) |
+| [360](https://gadg.fm/360) | Unglück am Matterhorn | The Country Gentlemen | Matterhorn | X | — | [link](https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC) |
 | [364](https://gadg.fm/364) | Mord und Madrigale – Carlo Gesualdo | Carlo Gesualdo / Collegium Vocale Gent / Philippe Herreweghe | Moro, lasso! Al mio duolo (Madrigali Libro sesto) | X | — | [link](https://open.spotify.com/track/41OMSBMxZN2DWUFTpjw8pf) |
 | [365](https://gadg.fm/365) | The Ghost Army | Sabaton | Ghost Division | X | [link](https://www.youtube.com/watch?v=ICfzQVh3lvs) | [link](https://open.spotify.com/track/3ZiJwNnZWMSKmUUTvYhIKx) |
+| [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | Gott mit uns | X | [link](https://www.youtube.com/watch?v=rLXBjLN1fOY) | — |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | The Lion from the North | X | [link](https://www.youtube.com/watch?v=KkszNmr6Qh0) | [link](https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Shockheaded Peter | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q) | — |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Snip Snip | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280) | — |
@@ -85,8 +89,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [405](https://gadg.fm/405) | Bonifatius, Apostel der Deutschen | KromleK | Kromlek | X | — | — |
 | [407](https://gadg.fm/407) | Das katastrophale Ende einer Kolonie | Alestorm | Magellan's Expedition | X | [link](https://www.youtube.com/watch?v=gsHmOb36-Js) | [link](https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW) |
 | [407](https://gadg.fm/407) | Das katastrophale Ende einer Kolonie | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
+| [413](https://gadg.fm/413) | Paracelsus – Arzt und Alchemist | Usnea | Healing Through Death | X | [link](https://www.youtube.com/watch?v=miEhmEEhGCg) | [link](https://usneadoom.bandcamp.com/track/healing-through-death) |
+| [413](https://gadg.fm/413) | Paracelsus – Arzt und Alchemist | Besna | Paracelsus | X | [link](https://www.youtube.com/watch?v=2IdHtXV36B0) | [link](https://besna.bandcamp.com/track/paracelsus) |
 | [414](https://gadg.fm/414) | Ibn Fadlān und die Reise zur Wolga | Turisas | To Holmgard and Beyond | X | [link](https://www.youtube.com/watch?v=CB1_60VTCVg) | [link](https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS) |
 | [420](https://gadg.fm/420) | Harry Anslinger und der erste "War on Drugs" | Louis Armstrong | Muggles | X | [link](https://www.youtube.com/watch?v=R8TvgVTGkBQ) | — |
+| [441](https://gadg.fm/441) | Jemima Nicholas und die Schlacht von Fishguard | Gwenno Dafydd | Wild West Walian Warrior Women (The Ballad of Jemima Nicholas) | X | — | [link](https://orcd.co/warriorwomen) |
 | [447](https://gadg.fm/447) | Christina, Hans und Heinrich oder Wie ein Gemälde entsteht | Rick Wakeman | The Six Wives of Henry VIII | X | [link](https://www.youtube.com/watch?v=ApohmdSVTT8) | — |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Karl-Heinz Weichert und Rhythmusgruppe | Affenschande | X | [link](https://www.youtube.com/watch?v=ZIzvhZXhnlM) | — |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Fight in the Shade | X | [link](https://www.youtube.com/watch?v=5PWVOywu5Dg) | [link](https://open.spotify.com/track/4vLX79K7l6bK1OqvsqkaaM) |

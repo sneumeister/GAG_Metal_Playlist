@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-26 13:57:29 +0100<br>**JSON-Status:** 2026-10-26 13:54:01 +0100</small>
+<small>**Compile-Datum:** 2026-10-26 16:04:11 +0100<br>**JSON-Status:** 2026-10-26 15:58:57 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -110,6 +110,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schmetterlinge | Kampflied der Bauern | A | [link](https://www.youtube.com/watch?v=EQHL0ZL8peM) | [link](https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schnitter | Thomas Müntzer | C | [link](https://www.youtube.com/watch?v=J7uHye4hU1M) | [link](https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR) |
 | [364](https://gadg.fm/364) | Mord und Madrigale – Carlo Gesualdo | Wrekmeister Harmonies | Night of Your Ascension | A | [link](https://www.youtube.com/watch?v=-YslNNsZx7A) | [link](https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7) |
+| [365](https://gadg.fm/365) | The Ghost Army | The Human Error | Ghost Army | A | — | [link](https://thehumanerrorband.bandcamp.com/track/ghost-army) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Ancient Rites | 13th of October 1307 | A | [link](https://www.youtube.com/watch?v=3hL5cjgjZqY) | [link](https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu) |
@@ -169,6 +170,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Rebellion | Ulfberth | B | [link](https://www.youtube.com/watch?v=NfFj9aEJDOc) | [link](https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ) |
+| [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Deuteronomy | Nika Riots | A | — | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Turisas | Venetoi! – Prasinoi! | B | [link](https://www.youtube.com/watch?v=8DDnNhpNRoI) | [link](https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Miracle of Sound | Gráinne Mhaol, Queen of Pirates | A | [link](https://www.youtube.com/watch?v=iOafalF22kI) | [link](https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr) |
