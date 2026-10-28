@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26 16:04:10 +0100",
+  "updatedAt": "2026-10-28 16:13:09 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -121,10 +121,24 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 189,
+      "songId": "ex-deo-cato-major-carthago-delenda-est",
+      "reason": "Folge = Schlacht bei Cannae (216); Song = Cato Maior / „Carthago delenda est“ — andere Person und Kriegsphase, nur loser Rom–Karthago-Anklang (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 197,
       "songId": "sabaton-talvisota",
       "reason": "Song = Winterkrieg 1939/40 (Sowjetunion vs. Finnland). Folge = kurzlebiges Königreich Finnland / Friedrich Karl von Hessen 1918 — nur Länder-Stichwort Finnland, anderes Ereignis und Jahrzehnt (Tier X).",
       "rejectedAt": "2026-09-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "songId": "civil-war-tears-from-the-north",
+      "reason": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = generisches Wikinger-Panorama mit Rurik-Namensnennung und Eriksson/Amerika — nur loser Rus-/Waräger-Anklang ohne belastbaren Erzählbezug (Tier X).",
+      "rejectedAt": "2026-10-25",
       "rejectedBy": "manual"
     },
     {
@@ -142,17 +156,17 @@
       "rejectedBy": "manual"
     },
     {
-      "episodeId": 198,
-      "songId": "civil-war-tears-from-the-north",
-      "reason": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = generisches Wikinger-Panorama mit Rurik-Namensnennung und Eriksson/Amerika — nur loser Rus-/Waräger-Anklang ohne belastbaren Erzählbezug (Tier X).",
-      "rejectedAt": "2026-10-25",
-      "rejectedBy": "manual"
-    },
-    {
       "episodeId": 199,
       "songId": "sabaton-wolfpack",
       "reason": "Song = U-Boot-Rudelkrieg WWII / Convoy ON 92 (Mai 1942, Wolfsrudel Hecht). Folge = UC 71 und U-Boot-Krieg im Ersten Weltkrieg — gleiches Stichwort U-Boote, anderer Krieg und anderes Boot (Tier X).",
       "rejectedAt": "2026-09-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 203,
+      "songId": "1914-1916-the-sudtirol-offensive",
+      "reason": "Folge = Option in Südtirol 1939 (Hitler-Mussolini: Auswandern vs. Bleiben); Song = Frühjahrsoffensive / Schlacht um Asiago 1916 (k.u.k. 3. Armee, Trentino) — gleiche Region, anderes Ereignis und Jahr (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     },
     {
@@ -255,16 +269,16 @@
     },
     {
       "episodeId": 296,
-      "songId": "powerwolf-joan-of-arc",
-      "reason": "Song = Jeanne d'Arc / Jungfrau von Orléans (Rouen, Scheiterhaufen). Folge = Johanna von Flandern („Jeanne la Flamme“) im bretonischen Erbfolgekrieg — Namens-/Beiname-Anklang, andere Person und Konflikt (Tier X).",
-      "rejectedAt": "2026-09-28",
+      "songId": "leaves-eyes-maid-of-lorraine",
+      "reason": "Folge = Johanna von Flandern („Jeanne la Flamme“) und Belagerung Hennebont im bretonischen Erbfolgekrieg (14. Jh.); Song = Jeanne d’Arc / La Pucelle d’Orléans (Stimme Gottes, 70 Anklagepunkte, Scheiterhaufen, Mai 1431) — nur Namens-/Beiname-Anklang „Jeanne“, andere Person und Konflikt (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     },
     {
       "episodeId": 296,
-      "songId": "leaves-eyes-maid-of-lorraine",
-      "reason": "Folge = Johanna von Flandern („Jeanne la Flamme“) und Belagerung Hennebont im bretonischen Erbfolgekrieg (14. Jh.); Song = Jeanne d’Arc / La Pucelle d’Orléans (Stimme Gottes, 70 Anklagepunkte, Scheiterhaufen, Mai 1431) — nur Namens-/Beiname-Anklang „Jeanne“, andere Person und Konflikt (Tier X).",
-      "rejectedAt": "2026-10-26",
+      "songId": "powerwolf-joan-of-arc",
+      "reason": "Song = Jeanne d'Arc / Jungfrau von Orléans (Rouen, Scheiterhaufen). Folge = Johanna von Flandern („Jeanne la Flamme“) im bretonischen Erbfolgekrieg — Namens-/Beiname-Anklang, andere Person und Konflikt (Tier X).",
+      "rejectedAt": "2026-09-28",
       "rejectedBy": "manual"
     },
     {
@@ -423,6 +437,13 @@
     },
     {
       "episodeId": 367,
+      "songId": "sabaton-gott-mit-uns",
+      "reason": "Folge = Untergang der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = Schlacht bei Breitenfeld 1631 / Feldherr Gustav II. Adolf — gemeinsame Person, anderer Fokus und Ereignis (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 367,
       "songId": "sabaton-the-lion-from-the-north",
       "reason": "Song = Gustav II. Adolf als Feldherr im Dreißigjährigen Krieg („Lion from the North“). Folge = Untergang und Comeback der Vasa — König nur Auftraggeber des Schiffs, Song thematisiert weder Schiff noch Marineunglück (Tier X).",
       "rejectedAt": "2026-09-26",
@@ -461,6 +482,13 @@
       "songId": "misanthrope-reine-martyre",
       "reason": "Folge = Madame Tussaud / Wachsfiguren (u. a. Marat); Song = Hinrichtung Marie-Antoinettes — Antoinette nur kurz als Hof-Wachsfigur, kein gemeinsamer Erzählfokus (Tier X).",
       "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 393,
+      "songId": "ex-deo-cato-major-carthago-delenda-est",
+      "reason": "Folge = Schlacht von Zama (Scipio vs. Hannibal, 202); Song = Cato Maior / „Carthago delenda est“ (Titelkern) — andere Person und Fokus, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     },
     {
@@ -506,6 +534,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 413,
+      "songId": "besna-paracelsus",
+      "reason": "Folge = historischer Paracelsus (Arzt, Alchemie, Basel); Song = zeitgenössische Stadt-/Konsumkritik unter Titel „Paracelsus“ (Alchemist-Metapher, keine Biographie) — nur Titelanklang, anderer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 413,
+      "songId": "usnea-healing-through-death",
+      "reason": "Folge = Paracelsus als historischer Arzt/Alchemist (Basel 1527, Abkehr von Avicenna); Song = okkulte Doom-Vision mit Namensaufruf und Alchemie-Floskeln (Tinktur/Elixier), ohne Biographie oder gemeinsamen Erzählgegenstand — reiner Stichwortanklang (Tier X).",
+      "rejectedAt": "2026-10-26",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 414,
       "songId": "turisas-to-holmgard-and-beyond",
       "reason": "Song = fiktive Waräger-Crew (Hakon) Richtung Holmgard/Neva/Aldeigju. Folge = Ibn-Fadlān-Gesandtschaft 921 zu den Wolgabulgaren — anderer Weg, andere Personen, kein gemeinsamer Erzählgegenstand; nur loser Ostweg-/Rus-Anklang (Tier X).",
@@ -517,6 +559,13 @@
       "songId": "louis-armstrong-muggles",
       "reason": "Folge = Harry Anslinger und der erste War on Drugs (Cannabis-Kampagne 1930er); Song = Jazz-Stück „Muggles“ (Cannabis-Slang, Reefer-Kultur) — gemeinsamer Cannabis-/Prohibitions-Rahmen, anderer Fokus (bei Metal wäre Tier B). Genre = Jazz / Hot Jazz, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 441,
+      "songId": "gwenno-dafydd-wild-west-walian-warrior-women",
+      "reason": "Folge = Jemima Nicholas und letzte Invasion Großbritanniens bei Fishguard 1797; Song = Ballade über Jemima und Fishguard — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Ballade / Cabaret, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-26",
       "rejectedBy": "manual"
     },
     {
@@ -657,6 +706,20 @@
       "songId": "savatage-the-wake-of-magellan",
       "reason": "Song/Album = Maersk-Dubai-Drama + fiktiver Magellan-Seemann (1990er). Folge = Bougainville/Baret-Weltumseglung 18. Jh. — nur loser Seefahrt-/Weltreise-Rahmen, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 536,
+      "songId": "martin-howley-doctor-crippen",
+      "reason": "Folge = Crippen-Fall und Wireless-Verfolgung 1910 (Montrose); Song = irische Traditionsballade über Giftmord, Leiche, Flucht mit Le Neve, Verhaftung auf der Montrose und Hinrichtung — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Traditionsballade, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 537,
+      "songId": "rammstein-roter-sand",
+      "reason": "Folge = Fontane 1870 im Deutsch-Französischen Krieg (Kriegsberichterstattung, Gefängnis in Frankreich); Song = Pistolenduell um eine Frau, lose an Fontanes Roman Effi Briest angelehnt — gleicher Autor, anderer Stoff und anderer Fokus (Tier X).",
+      "rejectedAt": "2026-10-28",
       "rejectedBy": "manual"
     },
     {
@@ -860,6 +923,13 @@
       "songId": "warkings-spartacus",
       "reason": "Folge = Flottenkatastrophe von Kamarina; Song = Spartacus — nur Rom, andere Person (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 572,
+      "songId": "kate-bush-houdini",
+      "reason": "Folge = Houdini und Spiritismus (Atlantic-City-Séance 1922 mit Conan Doyle, Bruch der Freundschaft); Song = Bess Houdini nach 1926 bei Séancen (Code „Rosabel, believe“) plus Escape-Kuss mit Schlüssel — inhaltlich eng passend (bei Metal wäre Tier B). Genre = Art Pop / Progressive Pop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-28",
       "rejectedBy": "manual"
     },
     {
@@ -1080,52 +1150,10 @@
       "rejectedBy": "manual"
     },
     {
-      "episodeId": 393,
-      "songId": "ex-deo-cato-major-carthago-delenda-est",
-      "reason": "Folge = Schlacht von Zama (Scipio vs. Hannibal, 202); Song = Cato Maior / „Carthago delenda est“ (Titelkern) — andere Person und Fokus, kein gemeinsamer Erzählgegenstand (Tier X).",
-      "rejectedAt": "2026-10-26",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 189,
-      "songId": "ex-deo-cato-major-carthago-delenda-est",
-      "reason": "Folge = Schlacht bei Cannae (216); Song = Cato Maior / „Carthago delenda est“ — andere Person und Kriegsphase, nur loser Rom–Karthago-Anklang (Tier X).",
-      "rejectedAt": "2026-10-26",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 413,
-      "songId": "usnea-healing-through-death",
-      "reason": "Folge = Paracelsus als historischer Arzt/Alchemist (Basel 1527, Abkehr von Avicenna); Song = okkulte Doom-Vision mit Namensaufruf und Alchemie-Floskeln (Tinktur/Elixier), ohne Biographie oder gemeinsamen Erzählgegenstand — reiner Stichwortanklang (Tier X).",
-      "rejectedAt": "2026-10-26",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 367,
-      "songId": "sabaton-gott-mit-uns",
-      "reason": "Folge = Untergang der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = Schlacht bei Breitenfeld 1631 / Feldherr Gustav II. Adolf — gemeinsame Person, anderer Fokus und Ereignis (Tier X).",
-      "rejectedAt": "2026-10-26",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 413,
-      "songId": "besna-paracelsus",
-      "reason": "Folge = historischer Paracelsus (Arzt, Alchemie, Basel); Song = zeitgenössische Stadt-/Konsumkritik unter Titel „Paracelsus“ (Alchemist-Metapher, keine Biographie) — nur Titelanklang, anderer Erzählgegenstand (Tier X).",
-      "rejectedAt": "2026-10-26",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 203,
-      "songId": "1914-1916-the-sudtirol-offensive",
-      "reason": "Folge = Option in Südtirol 1939 (Hitler-Mussolini: Auswandern vs. Bleiben); Song = Frühjahrsoffensive / Schlacht um Asiago 1916 (k.u.k. 3. Armee, Trentino) — gleiche Region, anderes Ereignis und Jahr (Tier X).",
-      "rejectedAt": "2026-10-26",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 441,
-      "songId": "gwenno-dafydd-wild-west-walian-warrior-women",
-      "reason": "Folge = Jemima Nicholas und letzte Invasion Großbritanniens bei Fishguard 1797; Song = Ballade über Jemima und Fishguard — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Ballade / Cabaret, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-10-26",
+      "episodeId": 579,
+      "songId": "hermans-hermits-no-milk-today",
+      "reason": "Folge = Elektromobilität um 1900 (Hamburg-Taxis, Batterien, früher Porsche); Song = Pop-Ballade über Trennung, symbolisiert durch den Milchflaschen-Zettel „No milk today“ — Richard nennt den Song im Abschlussgespräch der Folge; inhaltlich nur loses Stichwort/Assoziation (bei Metal höchstens Tier C). Genre = Baroque Pop / Pop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-28",
       "rejectedBy": "manual"
     }
   ]

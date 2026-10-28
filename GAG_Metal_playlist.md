@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-26 16:04:11 +0100<br>**JSON-Status:** 2026-10-26 15:58:57 +0100</small>
+<small>**Compile-Datum:** 2026-10-28 16:15:17 +0100<br>**JSON-Status:** 2026-10-28 16:15:17 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -168,6 +168,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [526](https://gadg.fm/526) | Nanga Parbat Schicksalsberg | Stormcrow | Nanga Parbat | A | [link](https://www.youtube.com/watch?v=6fuC4C2JQns) | [link](https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
+| [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Deep Blue Something | Dr. Crippen | B | [link](https://www.youtube.com/watch?v=-2w6yQPDFPM) | [link](https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d) |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Rebellion | Ulfberth | B | [link](https://www.youtube.com/watch?v=NfFj9aEJDOc) | [link](https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Deuteronomy | Nika Riots | A | — | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) |
@@ -204,3 +205,4 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Weird Al Yankovic | Livin' in the Fridge | C | [link](https://www.youtube.com/watch?v=wH3UncRagXY) | [link](https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Enzo and the Glory Ensemble | Last Weep | B | [link](https://www.youtube.com/watch?v=elzcvzBDHpU) | [link](https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | — | — |

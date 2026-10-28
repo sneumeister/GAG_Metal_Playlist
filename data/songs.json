@@ -1020,33 +1020,6 @@
     ]
   },
   {
-    "id": "crystallion-sole-survivors-in-ligny",
-    "band": "Crystallion",
-    "title": "Sole Survivors in Ligny",
-    "entities": [
-      "Ligny",
-      "Napoleon",
-      "Quatre Bras",
-      "Hundert Tage",
-      "Preußen"
-    ],
-    "era": "1815 / 2009",
-    "spotifyUrl": "https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/crystallion/hundreddays.html",
-        "note": "Ligny and Quatre Bras / Sole survivors in Ligny"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Crystallion/Hundred_Days/241105",
-        "note": "Hundred Days (2009)"
-      }
-    ]
-  },
-  {
     "id": "crystallion-hougoumont",
     "band": "Crystallion",
     "title": "Hougoumont",
@@ -1124,6 +1097,33 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Crystallion",
         "note": "Hattin (2008)"
+      }
+    ]
+  },
+  {
+    "id": "crystallion-sole-survivors-in-ligny",
+    "band": "Crystallion",
+    "title": "Sole Survivors in Ligny",
+    "entities": [
+      "Ligny",
+      "Napoleon",
+      "Quatre Bras",
+      "Hundert Tage",
+      "Preußen"
+    ],
+    "era": "1815 / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/crystallion/hundreddays.html",
+        "note": "Ligny and Quatre Bras / Sole survivors in Ligny"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Crystallion/Hundred_Days/241105",
+        "note": "Hundred Days (2009)"
       }
     ]
   },
@@ -1220,6 +1220,33 @@
         "type": "band",
         "url": "http://www.metalimperium.com/2023/03/interview-with-dartagnan.html",
         "note": "Band: Folk Rock / Musketier-Rock"
+      }
+    ]
+  },
+  {
+    "id": "deep-blue-something-dr-crippen",
+    "band": "Deep Blue Something",
+    "title": "Dr. Crippen",
+    "entities": [
+      "Hawley Crippen",
+      "Cora Crippen",
+      "Belle Elmore",
+      "Hilldrop Crescent",
+      "1910"
+    ],
+    "era": "1910 / 1998",
+    "spotifyUrl": "https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-2w6yQPDFPM",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d",
+        "note": "Byzantium (1998); Alt-Rock; Crippen / missus in the room"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=-2w6yQPDFPM",
+        "note": "YouTube"
       }
     ]
   },
@@ -1621,23 +1648,23 @@
     ]
   },
   {
-    "id": "ex-deo-the-spoils-of-war",
+    "id": "ex-deo-cato-major-carthago-delenda-est",
     "band": "Ex Deo",
-    "title": "The Spoils of War",
+    "title": "Cato Major: Carthago Delenda Est!",
     "entities": [
-      "Hannibal",
+      "Cato Maior",
+      "Carthago delenda est",
       "Karthago",
-      "Rom",
-      "Zweiter Punischer Krieg"
+      "Rom"
     ],
-    "era": "202 v. Chr. / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
+    "era": "2.–1. Jh. v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z",
     "youtubeUrl": null,
     "sources": [
       {
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
-        "note": "Hannibal Barca / Rome demands your ultimate surrender"
+        "note": "Cato / Carthago delenda est / Rise General Scipio"
       },
       {
         "type": "wikipedia",
@@ -1674,32 +1701,6 @@
     ]
   },
   {
-    "id": "ex-deo-the-rise-of-hannibal",
-    "band": "Ex Deo",
-    "title": "The Rise of Hannibal",
-    "entities": [
-      "Hannibal",
-      "Hamilcar",
-      "Karthago",
-      "Eid gegen Rom"
-    ],
-    "era": "237 v. Chr. / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
-        "note": "Hamilcar / never be a friend of Rome / Fear me for I am Hannibal"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
-        "note": "The Immortal Wars (2017)"
-      }
-    ]
-  },
-  {
     "id": "ex-deo-hispania-the-siege-of-saguntum",
     "band": "Ex Deo",
     "title": "Hispania (The Siege of Saguntum)",
@@ -1718,32 +1719,6 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
         "note": "I lay siege to Saguntum / Conquer Hispania / This is War"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
-        "note": "The Immortal Wars (2017)"
-      }
-    ]
-  },
-  {
-    "id": "ex-deo-cato-major-carthago-delenda-est",
-    "band": "Ex Deo",
-    "title": "Cato Major: Carthago Delenda Est!",
-    "entities": [
-      "Cato Maior",
-      "Carthago delenda est",
-      "Karthago",
-      "Rom"
-    ],
-    "era": "2.–1. Jh. v. Chr. / 2017",
-    "spotifyUrl": "https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
-        "note": "Cato / Carthago delenda est / Rise General Scipio"
       },
       {
         "type": "wikipedia",
@@ -1821,6 +1796,58 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/exdeo/thethirteenyearsofnero.html",
         "note": "Nero kills Agrippina"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-the-rise-of-hannibal",
+    "band": "Ex Deo",
+    "title": "The Rise of Hannibal",
+    "entities": [
+      "Hannibal",
+      "Hamilcar",
+      "Karthago",
+      "Eid gegen Rom"
+    ],
+    "era": "237 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Hamilcar / never be a friend of Rome / Fear me for I am Hannibal"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
+      }
+    ]
+  },
+  {
+    "id": "ex-deo-the-spoils-of-war",
+    "band": "Ex Deo",
+    "title": "The Spoils of War",
+    "entities": [
+      "Hannibal",
+      "Karthago",
+      "Rom",
+      "Zweiter Punischer Krieg"
+    ],
+    "era": "202 v. Chr. / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/exdeo/theimmortalwars.html",
+        "note": "Hannibal Barca / Rome demands your ultimate surrender"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
+        "note": "The Immortal Wars (2017)"
       }
     ]
   },
@@ -2452,6 +2479,26 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=-ze1LkruSec",
         "note": "Fan-/Promo-Upload Aeneid Track 05 (2013)"
+      }
+    ]
+  },
+  {
+    "id": "hermans-hermits-no-milk-today",
+    "band": "Herman's Hermits",
+    "title": "No Milk Today",
+    "entities": [
+      "Milchbote",
+      "Milchflasche",
+      "Trennung"
+    ],
+    "era": "1966",
+    "spotifyUrl": "https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/No_Milk_Today",
+        "note": "Baroque pop / pop; Graham Gouldman; milkman note breakup metaphor"
       }
     ]
   },
@@ -3104,6 +3151,38 @@
     ]
   },
   {
+    "id": "kate-bush-houdini",
+    "band": "Kate Bush",
+    "title": "Houdini",
+    "entities": [
+      "Harry Houdini",
+      "Bess Houdini",
+      "Spiritismus",
+      "Séance",
+      "Rosabel believe"
+    ],
+    "era": "1920er / 1982",
+    "spotifyUrl": "https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y",
+    "youtubeUrl": "https://www.youtube.com/watch?v=r9e_BzHSWpE",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.katebushencyclopedia.com/houdini/",
+        "note": "The Dreaming (1982); Bess/Séance/Rosabel; Art Rock"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y",
+        "note": "Spotify track"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=r9e_BzHSWpE",
+        "note": "YouTube"
+      }
+    ]
+  },
+  {
     "id": "khshathra-war-drums",
     "band": "Khshathra",
     "title": "War Drums",
@@ -3274,33 +3353,6 @@
     ]
   },
   {
-    "id": "leaves-eyes-maid-of-lorraine",
-    "band": "Leaves' Eyes",
-    "title": "Maid of Lorraine",
-    "entities": [
-      "Jeanne d'Arc",
-      "Joan of Arc",
-      "La Pucelle d’Orléans",
-      "Hundertjähriger Krieg",
-      "Rouen"
-    ],
-    "era": "1431 / 2013",
-    "spotifyUrl": "https://open.spotify.com/track/2MxHkoQcqy6FOhy9uaGDjI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=x5lAUJ-OyII",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
-        "note": "La Pucelle d’Orléans; Jeanne d’Arc; May 1431; burn at the stake"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Leaves%27_Eyes/Symphonies_of_the_Night/387012",
-        "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
-      }
-    ]
-  },
-  {
     "id": "leaves-eyes-galswintha",
     "band": "Leaves' Eyes",
     "title": "Galswintha",
@@ -3320,6 +3372,33 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
         "note": "Lyrics: Visigoth princess, King of Neustria, Fredegund strangles"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Leaves%27_Eyes/Symphonies_of_the_Night/387012",
+        "note": "Symphonies of the Night (2013); Symphonic/Gothic Metal, Napalm"
+      }
+    ]
+  },
+  {
+    "id": "leaves-eyes-maid-of-lorraine",
+    "band": "Leaves' Eyes",
+    "title": "Maid of Lorraine",
+    "entities": [
+      "Jeanne d'Arc",
+      "Joan of Arc",
+      "La Pucelle d’Orléans",
+      "Hundertjähriger Krieg",
+      "Rouen"
+    ],
+    "era": "1431 / 2013",
+    "spotifyUrl": "https://open.spotify.com/track/2MxHkoQcqy6FOhy9uaGDjI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=x5lAUJ-OyII",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/leaveseyes/symphoniesofthenight.html",
+        "note": "La Pucelle d’Orléans; Jeanne d’Arc; May 1431; burn at the stake"
       },
       {
         "type": "secondary",
@@ -3556,6 +3635,28 @@
         "type": "secondary",
         "url": "https://musicbrainz.org/release/0e11d508-33e1-45a8-bd6c-fa37badd9fd6",
         "note": "Der blaue Engel (1930); Friedrich Hollaender / Robert Liebmann"
+      }
+    ]
+  },
+  {
+    "id": "martin-howley-doctor-crippen",
+    "band": "Martin Howley",
+    "title": "Doctor Crippen",
+    "entities": [
+      "Hawley Crippen",
+      "Belle Elmore",
+      "Ethel Le Neve",
+      "Montrose",
+      "1910"
+    ],
+    "era": "1910 / Trad. (Aufn. 1975)",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.clarelibrary.ie/eolas/coclare/songs/cmc/doctor_crippen_mhowley.htm",
+        "note": "Roud 18472; Carroll Mackenzie Collection; Traditional Irish ballad"
       }
     ]
   },
@@ -4637,6 +4738,26 @@
     ]
   },
   {
+    "id": "rammstein-roter-sand",
+    "band": "Rammstein",
+    "title": "Roter Sand",
+    "entities": [
+      "Theodor Fontane",
+      "Effi Briest",
+      "Duell"
+    ],
+    "era": "19. Jh. / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/2eQAr4IgxjMEMgBc7Wa4iz",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/2eQAr4IgxjMEMgBc7Wa4iz",
+        "note": "Liebe ist für alle da (2009); Duell-Motiv / Effi Briest"
+      }
+    ]
+  },
+  {
     "id": "rancid-meteor-of-war",
     "band": "Rancid",
     "title": "Meteor of War",
@@ -4684,6 +4805,33 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/podcast/gag295/#comment-3567",
         "note": "Kommentar: explizit kein Metal"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-kiew",
+    "band": "Rebellion",
+    "title": "Kiew",
+    "entities": [
+      "Kiew",
+      "Askold",
+      "Dir",
+      "Dnepr",
+      "Rus"
+    ],
+    "era": "9. Jh. / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
+        "note": "Askod and Dyr / town on Dnepr / Oh Kiew"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
+        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
       }
     ]
   },
@@ -4740,24 +4888,24 @@
     ]
   },
   {
-    "id": "rebellion-kiew",
+    "id": "rebellion-the-uprising",
     "band": "Rebellion",
-    "title": "Kiew",
+    "title": "The Uprising",
     "entities": [
-      "Kiew",
-      "Askold",
-      "Dir",
-      "Dnepr",
-      "Rus"
+      "Warägergarde",
+      "Harald Hardrada",
+      "Michael V.",
+      "Konstantinopel",
+      "Sizilien"
     ],
-    "era": "9. Jh. / 2007",
-    "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
+    "era": "1042 / 2007",
+    "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
     "youtubeUrl": null,
     "sources": [
       {
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
-        "note": "Askod and Dyr / town on Dnepr / Oh Kiew"
+        "note": "Varangians unite / Harald / Michael the 5th"
       },
       {
         "type": "secondary",
@@ -4784,33 +4932,6 @@
         "type": "lyrics",
         "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
         "note": "Swords from Franconia / Ulfberth sword of a master"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
-        "note": "Miklagard – The History of the Vikings Vol. II (2007)"
-      }
-    ]
-  },
-  {
-    "id": "rebellion-the-uprising",
-    "band": "Rebellion",
-    "title": "The Uprising",
-    "entities": [
-      "Warägergarde",
-      "Harald Hardrada",
-      "Michael V.",
-      "Konstantinopel",
-      "Sizilien"
-    ],
-    "era": "1042 / 2007",
-    "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "http://www.darklyrics.com/lyrics/rebellion/miklagardthehistoryofthevikingsvolumeii.html",
-        "note": "Varangians unite / Harald / Michael the 5th"
       },
       {
         "type": "secondary",
@@ -7279,6 +7400,27 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Saxorior/HEM/798015",
         "note": "Metal Archives: HEM; Themes War/History"
+      }
+    ]
+  },
+  {
+    "id": "scabies-no-milk-today",
+    "band": "Scabies",
+    "title": "No Milk Today",
+    "entities": [
+      "Milchbote",
+      "Milchflasche",
+      "Trennung",
+      "Herman's Hermits Cover"
+    ],
+    "era": "1966 / Cover 1998",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.whosampled.com/Scabies/covers/",
+        "note": "Punk/Ska-Cover von Herman's Hermits (2011/1998 Chartbusters); Blöde Punx als No Milk"
       }
     ]
   },

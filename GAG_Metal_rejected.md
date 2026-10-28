@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-26 16:04:11 +0100<br>**JSON-Status:** 2026-10-26 16:04:10 +0100</small>
+<small>**Compile-Datum:** 2026-10-28 16:15:17 +0100<br>**JSON-Status:** 2026-10-28 16:13:09 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -114,7 +114,9 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
 | [527](https://gadg.fm/527) | Botanik, Baret und Bougainville | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
+| [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Martin Howley | Doctor Crippen | X | — | — |
 | [537](https://gadg.fm/537) | Tinte, Blut und Eisen – Fontane an der Front | Temple of Oblivion | Das Wunder von Königgrätz | X | [link](https://www.youtube.com/watch?v=9m4GvNCnVmI) | [link](https://open.spotify.com/track/0shtet0BcnzRZ87nhjznUC) |
+| [537](https://gadg.fm/537) | Tinte, Blut und Eisen – Fontane an der Front | Rammstein | Roter Sand | X | — | [link](https://open.spotify.com/track/2eQAr4IgxjMEMgBc7Wa4iz) |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Iron Maiden | Genghis Khan | X | [link](https://www.youtube.com/watch?v=bcRLbh5CYek) | [link](https://open.spotify.com/track/3EstYjUGr9m3C7A4BAyJta) |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Warkings | Genghis Khan | X | — | — |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Sabaton | Hordes of Khan | X | [link](https://www.youtube.com/watch?v=Ug0isWpubjk) | [link](https://open.spotify.com/track/275EXSVi2oyj4S5SPMo9qx) |
@@ -143,6 +145,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Aeneas | X | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
+| [572](https://gadg.fm/572) | Houdini und der Spiritismus | Kate Bush | Houdini | X | [link](https://www.youtube.com/watch?v=r9e_BzHSWpE) | [link](https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Tennessee Ernie Ford | Sixteen Tons | X | [link](https://www.youtube.com/watch?v=B9j91-18Kb4) | [link](https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | The Burned Over | The Last Great Awakening | X | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Noriko Kishi | Hasekura: Bonds Beyond the Seas and Time | X | [link](https://www.youtube.com/watch?v=yTEw9zh1-i8) | [link](https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1) |
@@ -174,3 +177,4 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skyclad | Salt On The Earth (Another Man's Poison) | X | — | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Embryo | Ibn Battuta | X | [link](https://www.youtube.com/watch?v=Pm6Kg1bGq9c) | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Herman's Hermits | No Milk Today | X | — | [link](https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH) |

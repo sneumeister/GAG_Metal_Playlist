@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26 15:58:57 +0100",
+  "updatedAt": "2026-10-28 16:15:17 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -870,25 +870,6 @@
       "episodeId": 189,
       "episodeTitle": "Die Schlacht bei Cannae",
       "episodeUrl": "https://gadg.fm/189",
-      "songId": "sabaton-lightning-at-the-gates",
-      "band": "Sabaton",
-      "songTitle": "Lightning at the Gates",
-      "matchTier": "B",
-      "justification": "Sabaton Historic Fact verortet den Song in Hannibals Italienfeldzug inkl. Cannae als berühmtestem Erfolg; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang – gemeinsamer Hannibal-/Cannae-Rahmen, anderer Fokus. (Tier B).",
-      "sharedEntities": [
-        "Hannibal",
-        "Schlacht bei Cannae",
-        "Zweiter Punischer Krieg"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
-      "matchedAt": "2026-09-26",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 189,
-      "episodeTitle": "Die Schlacht bei Cannae",
-      "episodeUrl": "https://gadg.fm/189",
       "songId": "ex-deo-crossing-of-the-alps",
       "band": "Ex Deo",
       "songTitle": "Crossing of the Alps",
@@ -900,6 +881,24 @@
         "Alpenübergang"
       ],
       "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
+      "songId": "ex-deo-hispania-the-siege-of-saguntum",
+      "band": "Ex Deo",
+      "songTitle": "Hispania (The Siege of Saguntum)",
+      "matchTier": "C",
+      "justification": "Folge = Schlacht bei Cannae in Italien (216); Song = Belagerung Saguntums in Hispania („I lay siege to Saguntum“, casus belli) — gleicher Feldherr/Krieg, anderer Ort und Ereignis, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Hannibal",
+        "Zweiter Punischer Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
       "youtubeUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
@@ -927,18 +926,19 @@
       "episodeId": 189,
       "episodeTitle": "Die Schlacht bei Cannae",
       "episodeUrl": "https://gadg.fm/189",
-      "songId": "ex-deo-hispania-the-siege-of-saguntum",
-      "band": "Ex Deo",
-      "songTitle": "Hispania (The Siege of Saguntum)",
-      "matchTier": "C",
-      "justification": "Folge = Schlacht bei Cannae in Italien (216); Song = Belagerung Saguntums in Hispania („I lay siege to Saguntum“, casus belli) — gleicher Feldherr/Krieg, anderer Ort und Ereignis, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "songId": "sabaton-lightning-at-the-gates",
+      "band": "Sabaton",
+      "songTitle": "Lightning at the Gates",
+      "matchTier": "B",
+      "justification": "Sabaton Historic Fact verortet den Song in Hannibals Italienfeldzug inkl. Cannae als berühmtestem Erfolg; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang – gemeinsamer Hannibal-/Cannae-Rahmen, anderer Fokus. (Tier B).",
       "sharedEntities": [
         "Hannibal",
+        "Schlacht bei Cannae",
         "Zweiter Punischer Krieg"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
-      "youtubeUrl": null,
-      "matchedAt": "2026-10-25",
+      "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -1002,6 +1002,23 @@
       "episodeId": 198,
       "episodeTitle": "Olga von Kiew oder Mit den Spatzen kam der Tod",
       "episodeUrl": "https://gadg.fm/198",
+      "songId": "rebellion-kiew",
+      "band": "Rebellion",
+      "songTitle": "Kiew",
+      "matchTier": "C",
+      "justification": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = Askold/Dir und Stadtporträt Kiews am Dnepr — nur thematische Nähe über den Ort Kiew, kein gemeinsamer Erzählgegenstand (weder Olga noch Derevljanen) (Tier C).",
+      "sharedEntities": [
+        "Kiew"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 198,
+      "episodeTitle": "Olga von Kiew oder Mit den Spatzen kam der Tod",
+      "episodeUrl": "https://gadg.fm/198",
       "songId": "rebellion-the-rus",
       "band": "Rebellion",
       "songTitle": "The Rus",
@@ -1013,23 +1030,6 @@
         "Kiewer Rus"
       ],
       "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
-      "youtubeUrl": null,
-      "matchedAt": "2026-10-25",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 198,
-      "episodeTitle": "Olga von Kiew oder Mit den Spatzen kam der Tod",
-      "episodeUrl": "https://gadg.fm/198",
-      "songId": "rebellion-kiew",
-      "band": "Rebellion",
-      "songTitle": "Kiew",
-      "matchTier": "C",
-      "justification": "Folge = Olga von Kiew und Rachefeldzug gegen die Derevljanen; Song = Askold/Dir und Stadtporträt Kiews am Dnepr — nur thematische Nähe über den Ort Kiew, kein gemeinsamer Erzählgegenstand (weder Olga noch Derevljanen) (Tier C).",
-      "sharedEntities": [
-        "Kiew"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
       "youtubeUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
@@ -2814,6 +2814,25 @@
       "episodeId": 519,
       "episodeTitle": "Die Warägergarde",
       "episodeUrl": "https://gadg.fm/519",
+      "songId": "rebellion-the-uprising",
+      "band": "Rebellion",
+      "songTitle": "The Uprising",
+      "matchTier": "B",
+      "justification": "Folge = Warägergarde als Institution (Aufgaben, Zusammensetzung, Ende); Song = Harald Hardrada / Waräger stürzen Michael V. 1042 (Sizilien-Feldzug, Kerker, Palastbrand) — gleiche Einheit am byzantinischen Hof, Song-Fokus ein Einzelereignis (Tier B).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Konstantinopel",
+        "Harald Hardrada"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
       "songId": "turisas-the-march-of-the-varangian-guard",
       "band": "Turisas",
       "songTitle": "The March of the Varangian Guard",
@@ -2845,25 +2864,6 @@
       "spotifyUrl": "https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL",
       "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
       "matchedAt": "2026-10-11",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 519,
-      "episodeTitle": "Die Warägergarde",
-      "episodeUrl": "https://gadg.fm/519",
-      "songId": "rebellion-the-uprising",
-      "band": "Rebellion",
-      "songTitle": "The Uprising",
-      "matchTier": "B",
-      "justification": "Folge = Warägergarde als Institution (Aufgaben, Zusammensetzung, Ende); Song = Harald Hardrada / Waräger stürzen Michael V. 1042 (Sizilien-Feldzug, Kerker, Palastbrand) — gleiche Einheit am byzantinischen Hof, Song-Fokus ein Einzelereignis (Tier B).",
-      "sharedEntities": [
-        "Warägergarde",
-        "Konstantinopel",
-        "Harald Hardrada"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
-      "youtubeUrl": null,
-      "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
     {
@@ -2921,6 +2921,25 @@
       "spotifyUrl": "https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU",
       "youtubeUrl": "https://www.youtube.com/watch?v=01Pu07vBK1Q",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 536,
+      "episodeTitle": "Eine gescheiterte Flucht über den Atlantik",
+      "episodeUrl": "https://gadg.fm/536",
+      "songId": "deep-blue-something-dr-crippen",
+      "band": "Deep Blue Something",
+      "songTitle": "Dr. Crippen",
+      "matchTier": "B",
+      "justification": "Folge = Crippen-Fall 1910 mit Fokus Wireless-Jagd auf der Montrose; Song = Alt-Rock-Perspektive auf den Mord (Cora/Belle „right here in the room“, „don’t dance anymore“) — derselbe Fall und dieselbe Person, anderer Fokus (Hausleichen-Detail vs. Funk-Verfolgung) (Tier B).",
+      "sharedEntities": [
+        "Hawley Crippen",
+        "Cora Crippen",
+        "Belle Elmore"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-2w6yQPDFPM",
+      "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
     {
@@ -3608,6 +3627,23 @@
       "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
       "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
       "matchedAt": "2026-10-23",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 579,
+      "episodeTitle": "Als 1900 die Taxis schon elektrisch fuhren",
+      "episodeUrl": "https://gadg.fm/579",
+      "songId": "scabies-no-milk-today",
+      "band": "Scabies",
+      "songTitle": "No Milk Today",
+      "matchTier": "C",
+      "justification": "Folge = Elektromobilität um 1900; Song = Punk-Cover von „No Milk Today“ — Richard nennt den Song im Abschlussgespräch der Folge; trägt nichts zur Erzählung bei, nur assoziative Erwähnung. Das Original von Herman’s Hermits ist Genre-Fail (Baroque Pop / Pop), daher dieses Punk-Cover (Tier C).",
+      "sharedEntities": [
+        "No Milk Today"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     }
   ]
