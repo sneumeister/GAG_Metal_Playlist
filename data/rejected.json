@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 15:28:56 +0100",
+  "updatedAt": "2026-10-28 16:13:09 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -926,6 +926,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 572,
+      "songId": "kate-bush-houdini",
+      "reason": "Folge = Houdini und Spiritismus (Atlantic-City-Séance 1922 mit Conan Doyle, Bruch der Freundschaft); Song = Bess Houdini nach 1926 bei Séancen (Code „Rosabel, believe“) plus Escape-Kuss mit Schlüssel — inhaltlich eng passend (bei Metal wäre Tier B). Genre = Art Pop / Progressive Pop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-28",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 573,
       "songId": "tennessee-ernie-ford-sixteen-tons",
       "reason": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Schuld und Company Store im Kohlebergbau („I owe my soul to the company store“) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Country / Folk, kein Rock/Metal (Tier X).",
@@ -1140,6 +1147,13 @@
       "songId": "schandmaul-tjark-evers",
       "reason": "Folge = Violet-Jessop-Hörbuch inkl. Tjark-Evers-Rahmen (#578); Song = Tod und Zigarrenkisten-Abschied des Tjark Evers — inhaltlich eng (bei Metal wäre Tier A). Genre = Mittelalter-Folk / Folk Rock, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-23",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 579,
+      "songId": "hermans-hermits-no-milk-today",
+      "reason": "Folge = Elektromobilität um 1900 (Hamburg-Taxis, Batterien, früher Porsche); Song = Pop-Ballade über Trennung, symbolisiert durch den Milchflaschen-Zettel „No milk today“ — Richard nennt den Song im Abschlussgespräch der Folge; inhaltlich nur loses Stichwort/Assoziation (bei Metal höchstens Tier C). Genre = Baroque Pop / Pop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-28",
       "rejectedBy": "manual"
     }
   ]

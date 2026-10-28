@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 15:37:40 +0100",
+  "updatedAt": "2026-10-28 16:15:17 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3445,26 +3445,6 @@
       "episodeId": 572,
       "episodeTitle": "Houdini und der Spiritismus",
       "episodeUrl": "https://gadg.fm/572",
-      "songId": "kate-bush-houdini",
-      "band": "Kate Bush",
-      "songTitle": "Houdini",
-      "matchTier": "B",
-      "justification": "Folge = Houdini und Spiritismus (Atlantic-City-Séance 1922 mit Conan Doyle, Bruch der Freundschaft); Song = Bess Houdini nach 1926 bei Séancen (Code „Rosabel, believe“) plus Escape-Kuss mit Schlüssel — gemeinsam Houdini und Séancen/Spiritismus-Entlarvung, anderer Fokus und Zeitpunkt (Bess/Witwe vs. Doyle 1922) (Tier B).",
-      "sharedEntities": [
-        "Harry Houdini",
-        "Bess Houdini",
-        "Spiritismus",
-        "Séance"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y",
-      "youtubeUrl": "https://www.youtube.com/watch?v=r9e_BzHSWpE",
-      "matchedAt": "2026-10-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 572,
-      "episodeTitle": "Houdini und der Spiritismus",
-      "episodeUrl": "https://gadg.fm/572",
       "songId": "the-burned-over-the-last-great-awakening",
       "band": "The Burned Over",
       "songTitle": "The Last Great Awakening",
@@ -3647,6 +3627,23 @@
       "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
       "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
       "matchedAt": "2026-10-23",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 579,
+      "episodeTitle": "Als 1900 die Taxis schon elektrisch fuhren",
+      "episodeUrl": "https://gadg.fm/579",
+      "songId": "scabies-no-milk-today",
+      "band": "Scabies",
+      "songTitle": "No Milk Today",
+      "matchTier": "C",
+      "justification": "Folge = Elektromobilität um 1900; Song = Punk-Cover von „No Milk Today“ — Richard nennt den Song im Abschlussgespräch der Folge; trägt nichts zur Erzählung bei, nur assoziative Erwähnung. Das Original von Herman’s Hermits ist Genre-Fail (Baroque Pop / Pop), daher dieses Punk-Cover (Tier C).",
+      "sharedEntities": [
+        "No Milk Today"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     }
   ]

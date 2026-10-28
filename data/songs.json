@@ -2483,6 +2483,26 @@
     ]
   },
   {
+    "id": "hermans-hermits-no-milk-today",
+    "band": "Herman's Hermits",
+    "title": "No Milk Today",
+    "entities": [
+      "Milchbote",
+      "Milchflasche",
+      "Trennung"
+    ],
+    "era": "1966",
+    "spotifyUrl": "https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/No_Milk_Today",
+        "note": "Baroque pop / pop; Graham Gouldman; milkman note breakup metaphor"
+      }
+    ]
+  },
+  {
     "id": "herzel-la-flamme",
     "band": "Herzel",
     "title": "La Flamme",
@@ -7380,6 +7400,27 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Saxorior/HEM/798015",
         "note": "Metal Archives: HEM; Themes War/History"
+      }
+    ]
+  },
+  {
+    "id": "scabies-no-milk-today",
+    "band": "Scabies",
+    "title": "No Milk Today",
+    "entities": [
+      "Milchbote",
+      "Milchflasche",
+      "Trennung",
+      "Herman's Hermits Cover"
+    ],
+    "era": "1966 / Cover 1998",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.whosampled.com/Scabies/covers/",
+        "note": "Punk/Ska-Cover von Herman's Hermits (2011/1998 Chartbusters); Blöde Punx als No Milk"
       }
     ]
   },

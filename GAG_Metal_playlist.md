@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-28 15:37:40 +0100<br>**JSON-Status:** 2026-10-28 15:37:40 +0100</small>
+<small>**Compile-Datum:** 2026-10-28 16:15:17 +0100<br>**JSON-Status:** 2026-10-28 16:15:17 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -194,7 +194,6 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Deos | Mylae | B | [link](https://www.youtube.com/watch?v=XJabWzbLoIg) | [link](https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF) |
-| [572](https://gadg.fm/572) | Houdini und der Spiritismus | Kate Bush | Houdini | B | [link](https://www.youtube.com/watch?v=r9e_BzHSWpE) | [link](https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=OYfdXL7sKVI) | [link](https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Nina Hagen | 16 tons | A | [link](https://www.youtube.com/watch?v=_vKDiyo178E) | [link](https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq) |
@@ -206,3 +205,4 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Weird Al Yankovic | Livin' in the Fridge | C | [link](https://www.youtube.com/watch?v=wH3UncRagXY) | [link](https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Enzo and the Glory Ensemble | Last Weep | B | [link](https://www.youtube.com/watch?v=elzcvzBDHpU) | [link](https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | — | — |
