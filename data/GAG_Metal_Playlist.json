@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 17:21:08 +0100",
+  "updatedAt": "2026-10-28 17:48:48 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1088,7 +1088,7 @@
         "Kiew"
       ],
       "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=L5SCRvI2MWg",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1107,7 +1107,7 @@
         "Kiewer Rus"
       ],
       "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=AqFPUu1-uDE",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1402,7 +1402,7 @@
         "Stephan VI."
       ],
       "spotifyUrl": "https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=vYSDBBdCANk",
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -1907,7 +1907,7 @@
         "603rd Camouflage Engineer Battalion"
       ],
       "spotifyUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=9WPUlaLayxU",
       "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
@@ -2138,7 +2138,7 @@
         "Karthago"
       ],
       "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q3En2lpy1aI",
       "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
@@ -2451,7 +2451,7 @@
         "1961"
       ],
       "spotifyUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=BUE_FrVf8m0",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -2902,7 +2902,7 @@
         "Harald Hardrada"
       ],
       "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=KufuujY63Rc",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -3074,7 +3074,7 @@
         "England"
       ],
       "spotifyUrl": "https://sellsword.bandcamp.com/track/hardrada",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=YAwkaPWTfrY",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -3737,8 +3737,8 @@
       "sharedEntities": [
         "No Milk Today"
       ],
-      "spotifyUrl": null,
-      "youtubeUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     }

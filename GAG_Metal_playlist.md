@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-28 17:21:08 +0100<br>**JSON-Status:** 2026-10-28 17:21:08 +0100</small>
+<small>**Compile-Datum:** 2026-10-28 17:48:48 +0100<br>**JSON-Status:** 2026-10-28 17:48:48 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -70,8 +70,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Sellsword | Saxon Steel | C | [link](https://www.youtube.com/watch?v=GD-eZVQorPI) | — |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |
-| [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | Kiew | C | — | [link](https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC) |
-| [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | The Rus | C | — | [link](https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x) |
+| [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | Kiew | C | [link](https://www.youtube.com/watch?v=L5SCRvI2MWg) | [link](https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC) |
+| [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | The Rus | C | [link](https://www.youtube.com/watch?v=AqFPUu1-uDE) | [link](https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x) |
 | [205](https://gadg.fm/205) | Die Befreiung von Schloss Itter | Sabaton | The Last Battle | A | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
 | [211](https://gadg.fm/211) | Griechisches Feuer | Bible of the Devil | Greek Fire | A | [link](https://www.youtube.com/watch?v=bYMfPY6ZVmU) | [link](https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt) |
 | [211](https://gadg.fm/211) | Griechisches Feuer | Turisas | Greek Fire | A | [link](https://www.youtube.com/watch?v=NYoUaDLExV0) | [link](https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg) |
@@ -87,7 +87,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [255](https://gadg.fm/255) | Die 47 Ronin | Nightstryke | The Story of the Forty Seven Ronin | A | [link](https://www.youtube.com/watch?v=RX-tdo2q-DQ) | [link](https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Scimitar | Knights Collapse | A | [link](https://www.youtube.com/watch?v=Q-Weoj3Zc7A) | [link](https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao) |
 | [266](https://gadg.fm/266) | Die Schlacht von Azincourt | Skelator | Victory (Henry V) | B | [link](https://www.youtube.com/watch?v=OW0U92r63Jc) | [link](https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7) |
-| [267](https://gadg.fm/267) | Die Leichensynode von 897 | Fvneral Fvkk | Leichensynode | A | — | [link](https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74) |
+| [267](https://gadg.fm/267) | Die Leichensynode von 897 | Fvneral Fvkk | Leichensynode | A | [link](https://www.youtube.com/watch?v=vYSDBBdCANk) | [link](https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Crystallion | Hundred Days | C | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Sabaton | I, Emperor | C | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [280](https://gadg.fm/280) | Der versunkene Kontinent Lemuria | Visions of Atlantis | Return to Lemuria | C | [link](https://www.youtube.com/watch?v=4tJAdUahyTA) | [link](https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr) |
@@ -114,7 +114,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schmetterlinge | Kampflied der Bauern | A | [link](https://www.youtube.com/watch?v=EQHL0ZL8peM) | [link](https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schnitter | Thomas Müntzer | C | [link](https://www.youtube.com/watch?v=J7uHye4hU1M) | [link](https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR) |
 | [364](https://gadg.fm/364) | Mord und Madrigale – Carlo Gesualdo | Wrekmeister Harmonies | Night of Your Ascension | A | [link](https://www.youtube.com/watch?v=-YslNNsZx7A) | [link](https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7) |
-| [365](https://gadg.fm/365) | The Ghost Army | The Human Error | Ghost Army | A | — | [link](https://thehumanerrorband.bandcamp.com/track/ghost-army) |
+| [365](https://gadg.fm/365) | The Ghost Army | The Human Error | Ghost Army | A | [link](https://www.youtube.com/watch?v=9WPUlaLayxU) | [link](https://thehumanerrorband.bandcamp.com/track/ghost-army) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Blazon Stone | The Tale of Vasa | A | [link](https://www.youtube.com/watch?v=gp2mokffolk) | [link](https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | Knorkator | Konrad | A | [link](https://www.youtube.com/watch?v=Js4pGy_q35k) | [link](https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS) |
 | [377](https://gadg.fm/377) | Aufstieg und Fall des Templerordens | Ancient Rites | 13th of October 1307 | A | [link](https://www.youtube.com/watch?v=3hL5cjgjZqY) | [link](https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu) |
@@ -126,7 +126,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [378](https://gadg.fm/378) | Ein langer Marsch durch Feindesland | Countess | March of the Ten Thousand | A | [link](https://www.youtube.com/watch?v=-OXnxnbJk_g) | [link](https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR) |
 | [390](https://gadg.fm/390) | Kleopatra Selene und das Ende der Römischen Republik | Ex Deo | The Final War (Battle of Actium) | B | [link](https://www.youtube.com/watch?v=qcfaltp8CL0) | [link](https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb) |
 | [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | Ad Victoriam (The Battle of Zama) | A | [link](https://www.youtube.com/watch?v=E1O4sH4fZcc) | [link](https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6) |
-| [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | The Spoils of War | B | — | [link](https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV) |
+| [393](https://gadg.fm/393) | Die Schlacht von Zama | Ex Deo | The Spoils of War | B | [link](https://www.youtube.com/watch?v=Q3En2lpy1aI) | [link](https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV) |
 | [394](https://gadg.fm/394) | Die Verurteilung von Sacco und Vanzetti | Panopticon | La passione de Sacco & Vanzetti | A | [link](https://www.youtube.com/watch?v=OfMzC2AHrr8) | — |
 | [397](https://gadg.fm/397) | Hy Brasil | Waylander | Hy Brasil (Isle of Mists) | A | [link](https://www.youtube.com/watch?v=vVd8E4gb5Dk) | [link](https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w) |
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |
@@ -142,7 +142,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
 | [439](https://gadg.fm/439) | Kyros II. und die Entstehung eines Mythos | Arsames | Cyrus the Great | A | [link](https://www.youtube.com/watch?v=au4lTYwErDc) | [link](https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt) |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part I - Hero) | B | [link](https://www.youtube.com/watch?v=cw0fl3AFsLU) | [link](https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U) |
-| [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part II - Victim) | B | — | [link](https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim) |
+| [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part II - Victim) | B | [link](https://www.youtube.com/watch?v=BUE_FrVf8m0) | [link](https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Sparta | A | [link](https://www.youtube.com/watch?v=MeOSgsJJ12M) | [link](https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
@@ -167,14 +167,14 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [514](https://gadg.fm/514) | Anna Komnene – Prinzessin, Intellektuelle und Historikerin | Turisas | Miklagard Overture | C | [link](https://www.youtube.com/watch?v=u5OvUSgUfRE) | [link](https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Rebellion | Miklagard | A | [link](https://www.youtube.com/watch?v=dRk0grBXtGw) | [link](https://open.spotify.com/track/7IQOMAQi7h64LLLLLQ7xFo) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | The March of the Varangian Guard | A | [link](https://www.youtube.com/watch?v=8kIv7ZJOyB4) | [link](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |
-| [519](https://gadg.fm/519) | Die Warägergarde | Rebellion | The Uprising | B | — | [link](https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE) |
+| [519](https://gadg.fm/519) | Die Warägergarde | Rebellion | The Uprising | B | [link](https://www.youtube.com/watch?v=KufuujY63Rc) | [link](https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Warkings | Varangoi | A | [link](https://www.youtube.com/watch?v=zQ_juxVX06Q) | [link](https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL) |
 | [526](https://gadg.fm/526) | Nanga Parbat Schicksalsberg | Stormcrow | Nanga Parbat | A | [link](https://www.youtube.com/watch?v=6fuC4C2JQns) | [link](https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Deep Blue Something | Dr. Crippen | B | [link](https://www.youtube.com/watch?v=-2w6yQPDFPM) | [link](https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d) |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) |
-| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Sellsword | Hardrada | C | — | [link](https://sellsword.bandcamp.com/track/hardrada) |
+| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Sellsword | Hardrada | C | [link](https://www.youtube.com/watch?v=YAwkaPWTfrY) | [link](https://sellsword.bandcamp.com/track/hardrada) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Rebellion | Ulfberth | B | [link](https://www.youtube.com/watch?v=NfFj9aEJDOc) | [link](https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Deuteronomy | Nika Riots | A | — | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Turisas | Venetoi! – Prasinoi! | B | [link](https://www.youtube.com/watch?v=8DDnNhpNRoI) | [link](https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I) |
@@ -210,4 +210,4 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Weird Al Yankovic | Livin' in the Fridge | C | [link](https://www.youtube.com/watch?v=wH3UncRagXY) | [link](https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Enzo and the Glory Ensemble | Last Weep | B | [link](https://www.youtube.com/watch?v=elzcvzBDHpU) | [link](https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) |
-| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | — | — |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | [link](https://www.youtube.com/watch?v=w6vP8LvhUFU) | [link](https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c) |

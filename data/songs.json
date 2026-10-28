@@ -1837,7 +1837,7 @@
     ],
     "era": "202 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q3En2lpy1aI",
     "sources": [
       {
         "type": "lyrics",
@@ -1848,6 +1848,11 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/The_Immortal_Wars",
         "note": "The Immortal Wars (2017)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Q3En2lpy1aI",
+        "note": "YouTube (Ex Deo - Topic)"
       }
     ]
   },
@@ -2100,7 +2105,7 @@
     ],
     "era": "897 / 2026",
     "spotifyUrl": "https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=vYSDBBdCANk",
     "sources": [
       {
         "type": "bandcamp",
@@ -2116,6 +2121,11 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Fvneral_Fvkk/Indecent_Idols/1460973",
         "note": "Epic Doom; Indecent Idols"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=vYSDBBdCANk",
+        "note": "YouTube (Fvneral Fvkk - Topic)"
       }
     ]
   },
@@ -3576,7 +3586,7 @@
     ],
     "era": "1961",
     "spotifyUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=BUE_FrVf8m0",
     "sources": [
       {
         "type": "band",
@@ -3587,6 +3597,11 @@
         "type": "secondary",
         "url": "https://www.betreutesproggen.de/2019/07/lorimer-burst-dispersion/",
         "note": "Review: Part II Victim — Ängste des Astrochimps"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=BUE_FrVf8m0",
+        "note": "YouTube (Lorimer Burst - Topic)"
       }
     ]
   },
@@ -4889,7 +4904,7 @@
     ],
     "era": "9. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=L5SCRvI2MWg",
     "sources": [
       {
         "type": "lyrics",
@@ -4900,6 +4915,11 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
         "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=L5SCRvI2MWg",
+        "note": "YouTube (Rebellion - Topic)"
       }
     ]
   },
@@ -4972,7 +4992,7 @@
     ],
     "era": "862–10. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=AqFPUu1-uDE",
     "sources": [
       {
         "type": "lyrics",
@@ -4983,6 +5003,11 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
         "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=AqFPUu1-uDE",
+        "note": "YouTube (Rebellion - Topic)"
       }
     ]
   },
@@ -4999,7 +5024,7 @@
     ],
     "era": "1042 / 2007",
     "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=KufuujY63Rc",
     "sources": [
       {
         "type": "lyrics",
@@ -5010,6 +5035,11 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
         "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=KufuujY63Rc",
+        "note": "YouTube (Rebellion - Topic)"
       }
     ]
   },
@@ -7513,13 +7543,23 @@
       "Herman's Hermits Cover"
     ],
     "era": "1966 / Cover 1998",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
+    "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
     "sources": [
       {
         "type": "secondary",
         "url": "https://www.whosampled.com/Scabies/covers/",
         "note": "Punk/Ska-Cover von Herman's Hermits (2011/1998 Chartbusters); Blöde Punx als No Milk"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
+        "note": "Spotify"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
+        "note": "YouTube"
       }
     ]
   },
@@ -7719,7 +7759,7 @@
       "1066"
     ],
     "era": "1066 / 2016",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=YAwkaPWTfrY",
     "sources": [
       {
         "type": "band",
@@ -7730,6 +7770,11 @@
         "type": "secondary",
         "url": "https://open.spotify.com/album/3NJWfcgmrdLFaBHIWw1hYQ",
         "note": "Album on Spotify (track Hardrada)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=YAwkaPWTfrY",
+        "note": "YouTube (Sellsword - Topic)"
       }
     ]
   },
@@ -8767,7 +8812,7 @@
     ],
     "era": "1944–1945 / 2025",
     "spotifyUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9WPUlaLayxU",
     "sources": [
       {
         "type": "bandcamp",
@@ -8778,6 +8823,11 @@
         "type": "secondary",
         "url": "https://www.slapmag.co.uk/album-review-ghost-army-deception-by-the-human-error/",
         "note": "Review: WW2 American 603 unit / inflatable tanks / fake radio"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=9WPUlaLayxU",
+        "note": "YouTube (The Human Error - Topic)"
       }
     ]
   },
