@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-28 16:15:17 +0100<br>**JSON-Status:** 2026-10-28 16:15:17 +0100</small>
+<small>**Compile-Datum:** 2026-10-28 17:21:08 +0100<br>**JSON-Status:** 2026-10-28 17:21:08 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -15,8 +15,11 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
 | [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Professor Emeritus | Rosamund | A | [link](https://www.youtube.com/watch?v=wGfekg9xP2k) | [link](https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56) |
+| [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Judicator | Elan | B | [link](https://www.youtube.com/watch?v=ERqSQckYP7c) | [link](https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Hougoumont | B | [link](https://www.youtube.com/watch?v=AeRLXiYmt_c) | [link](https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM) |
+| [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Rebellion | Sweet Dreams | B | [link](https://www.youtube.com/watch?v=KxyNkl6LKyg) | [link](https://open.spotify.com/track/3O95gZM3iSiY0LYEv4eSAl) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Running Wild | The Battle of Waterloo | B | [link](https://www.youtube.com/watch?v=Sy8umtt8Bgg) | [link](https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1) |
+| [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Judicator | Tu N'es Pas Mort, Coquin? | B | [link](https://www.youtube.com/watch?v=H5A72PIG9eM) | [link](https://open.spotify.com/track/5VSt0BS9bX7EEVOItzvaEl) |
 | [12](https://gadg.fm/12) | Ein Kaiser, ein Gott, viele Todesfälle | Rorcal | Heliogabalus | A | [link](https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g) | [link](https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl) |
 | [22](https://gadg.fm/22) | Vom Goldjungen zum Staatsgefangenen | Stern-Combo Meißen | Die Erkenntnis | A | [link](https://www.youtube.com/watch?v=dpTogEzcbvo) | [link](https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z) |
 | [22](https://gadg.fm/22) | Vom Goldjungen zum Staatsgefangenen | Stern-Combo Meißen | Weißes Gold | A | [link](https://www.youtube.com/watch?v=plMh2A33ino) | [link](https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke) |
@@ -65,6 +68,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | The Rise of Hannibal | C | — | [link](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) |
 | [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | B | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | [link](https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld) |
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
+| [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Sellsword | Saxon Steel | C | [link](https://www.youtube.com/watch?v=GD-eZVQorPI) | — |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | Kiew | C | — | [link](https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | The Rus | C | — | [link](https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x) |
@@ -170,6 +174,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Deep Blue Something | Dr. Crippen | B | [link](https://www.youtube.com/watch?v=-2w6yQPDFPM) | [link](https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d) |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) |
+| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Sellsword | Hardrada | C | — | [link](https://sellsword.bandcamp.com/track/hardrada) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Rebellion | Ulfberth | B | [link](https://www.youtube.com/watch?v=NfFj9aEJDOc) | [link](https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Deuteronomy | Nika Riots | A | — | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Turisas | Venetoi! – Prasinoi! | B | [link](https://www.youtube.com/watch?v=8DDnNhpNRoI) | [link](https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I) |

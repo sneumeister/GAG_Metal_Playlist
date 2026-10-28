@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 16:13:09 +0100",
+  "updatedAt": "2026-10-28 17:21:08 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -685,6 +685,13 @@
       "songId": "sabaton-swedish-pagans",
       "reason": "Song = generische Wikinger-/Berserker-Hymne (Valhalla, Thor, Fenrir); Lyrics ohne Warägergarde, Byzanz oder Miklagard. Folge = Warägergarde am byzantinischen Hof — nur loser Skandinavien-Bezug (Tier X).",
       "rejectedAt": "2026-09-25",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "songId": "sellsword-hardrada",
+      "reason": "Folge = Warägergarde am byzantinischen Hof; Song = Hardrada bei Fulford/Stamford Bridge 1066 — andere Phase und Ereignis, kein Garde-/Byzanz-Bezug (Tier X).",
+      "rejectedAt": "2026-10-28",
       "rejectedBy": "manual"
     },
     {

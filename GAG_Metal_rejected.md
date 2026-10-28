@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-28 16:15:17 +0100<br>**JSON-Status:** 2026-10-28 16:13:09 +0100</small>
+<small>**Compile-Datum:** 2026-10-28 17:21:08 +0100<br>**JSON-Status:** 2026-10-28 17:21:08 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -110,6 +110,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [502](https://gadg.fm/502) | Die Fehde und Kohlhase | Allerseelen | Schwefelfaden (Michael Kohlhaas) | X | — | — |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Electric Light Orchestra | Roll Over Beethoven | X | [link](https://www.youtube.com/watch?v=c84FY_y8PYs) | [link](https://open.spotify.com/track/0UnR8nWskCt0BgfvypzaDl) |
 | [515](https://gadg.fm/515) | Bhagwan und Bioterror | Sufjan Stevens | My Rajneesh | X | [link](https://www.youtube.com/watch?v=jn7_JpmhZP0) | [link](https://open.spotify.com/track/3SpWpHiCt8tbPuZG9AX0Wi) |
+| [519](https://gadg.fm/519) | Die Warägergarde | Sellsword | Hardrada | X | — | — |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | Stand Up and Fight | X | [link](https://www.youtube.com/watch?v=7woW7DmnR0E) | [link](https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |

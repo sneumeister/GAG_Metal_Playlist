@@ -3019,6 +3019,43 @@
     ]
   },
   {
+    "id": "judicator-elan",
+    "band": "Judicator",
+    "title": "Elan",
+    "entities": [
+      "Schlacht bei Waterloo",
+      "Alte Garde",
+      "Cambronne",
+      "1815",
+      "Napoleon"
+    ],
+    "era": "1815 / 2012",
+    "spotifyUrl": "https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ERqSQckYP7c",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://judicatormetal.bandcamp.com/track/elan",
+        "note": "King of Rome (2012); Waterloo Old Guard / Cambronne"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metalkingdom.net/lyrics-song/judicator-elan-280396",
+        "note": "Lyrics: Old Guard squares, Cambronne captured, French retreat"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh",
+        "note": "Spotify"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=ERqSQckYP7c",
+        "note": "YouTube"
+      }
+    ]
+  },
+  {
     "id": "judicator-king-of-rome",
     "band": "Judicator",
     "title": "King of Rome",
@@ -3066,6 +3103,37 @@
         "type": "metal-archives",
         "url": "https://www.metal-archives.com/albums/Judicator/The_Last_Emperor/700506",
         "note": "The Last Emperor (2018)"
+      }
+    ]
+  },
+  {
+    "id": "judicator-tu-nes-pas-mort-coquin",
+    "band": "Judicator",
+    "title": "Tu N'es Pas Mort, Coquin?",
+    "entities": [
+      "Schlacht bei Waterloo",
+      "Frederick Ponsonby",
+      "12th Light Dragoons",
+      "1815"
+    ],
+    "era": "1815 / 2012",
+    "spotifyUrl": "https://open.spotify.com/track/5VSt0BS9bX7EEVOItzvaEl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=H5A72PIG9eM",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://judicatormetal.bandcamp.com/track/tu-nes-pas-mort-coquin",
+        "note": "King of Rome (2012); Ponsonby Waterloo wound anecdote"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/5VSt0BS9bX7EEVOItzvaEl",
+        "note": "Spotify"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=H5A72PIG9eM",
+        "note": "YouTube"
       }
     ]
   },
@@ -4858,6 +4926,37 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Rebellion/Miklagard_-_The_History_of_the_Vikings_-_Volume_II/142942",
         "note": "Miklagard – The History of the Vikings Vol. II (2007)"
+      }
+    ]
+  },
+  {
+    "id": "rebellion-sweet-dreams",
+    "band": "Rebellion",
+    "title": "Sweet Dreams",
+    "entities": [
+      "Napoleon",
+      "Waterloo",
+      "La Grande Nation",
+      "1815"
+    ],
+    "era": "Napoleonische Kriege / 2021",
+    "spotifyUrl": "https://open.spotify.com/track/3O95gZM3iSiY0LYEv4eSAl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=KxyNkl6LKyg",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.rebellion-metal.de/we-are-the-people/",
+        "note": "We Are the People (2021); Napoleonic Wars / Waterloo endpoint"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metalkingdom.net/lyrics-song/rebellion-sweet-dreams-249055",
+        "note": "Lyrics: Napoleon POV, At Waterloo it all will end"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=KxyNkl6LKyg",
+        "note": "YouTube"
       }
     ]
   },
@@ -7585,6 +7684,104 @@
         "type": "interview",
         "url": "https://www.rollingstone.com/music/music-news/scorpions-wind-of-change-the-oral-history-of-1990s-epic-power-ballad-63069/",
         "note": "Meine: Song über Moskau, nicht über die Mauer"
+      }
+    ]
+  },
+  {
+    "id": "sellsword-boadicea-rise",
+    "band": "Sellsword",
+    "title": "Boadicea, Rise!",
+    "entities": [
+      "Boudicca",
+      "Boadicea",
+      "Iceni",
+      "Römisches Britannien",
+      "Britannia"
+    ],
+    "era": "60/61 n. Chr. / 2026",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://sellsword.bandcamp.com/album/with-might-and-vengeance",
+        "note": "...With Might and Vengeance (2026); Boudicca-Aufstand, Lyrics auf Albumseite"
+      }
+    ]
+  },
+  {
+    "id": "sellsword-hardrada",
+    "band": "Sellsword",
+    "title": "Hardrada",
+    "entities": [
+      "Harald Hardrada",
+      "Schlacht bei Stamford Bridge",
+      "Fulford Gate",
+      "1066"
+    ],
+    "era": "1066 / 2016",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://sellsword.bandcamp.com/track/hardrada",
+        "note": "...And Now We Ride (2016); Fulford → Stamford Bridge"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/3NJWfcgmrdLFaBHIWw1hYQ",
+        "note": "Album on Spotify (track Hardrada)"
+      }
+    ]
+  },
+  {
+    "id": "sellsword-saxon-steel",
+    "band": "Sellsword",
+    "title": "Saxon Steel",
+    "entities": [
+      "Angelsachsen",
+      "Wikinger",
+      "England"
+    ],
+    "era": "Frühmittelalter / 2024",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GD-eZVQorPI",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://sellsword.bandcamp.com/track/saxon-steel",
+        "note": "Single 2024 / ...With Might and Vengeance; Anglo-Saxon vs Vikings"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=GD-eZVQorPI",
+        "note": "Official music video"
+      },
+      {
+        "type": "secondary",
+        "url": "https://moshville.co.uk/news/video/2025/04/mercenary-symphonic-power-metallers-sellsword-release-battlecry-single-saxon-steel/",
+        "note": "Band: night before battle with invading Vikings"
+      }
+    ]
+  },
+  {
+    "id": "sellsword-warwolf",
+    "band": "Sellsword",
+    "title": "Warwolf",
+    "entities": [
+      "Warwolf",
+      "Belagerung von Stirling",
+      "Stirling Castle",
+      "Edward I.",
+      "Longshanks",
+      "1304",
+      "Trebuchet"
+    ],
+    "era": "1304 / 2026",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://sellsword.bandcamp.com/album/with-might-and-vengeance",
+        "note": "...With Might and Vengeance (2026); Stirling 1304, Warwolf-Trebuchet, Longshanks"
       }
     ]
   },

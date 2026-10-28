@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 16:15:17 +0100",
+  "updatedAt": "2026-10-28 17:21:08 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -39,6 +39,64 @@
       "spotifyUrl": "https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM",
       "youtubeUrl": "https://www.youtube.com/watch?v=AeRLXiYmt_c",
       "matchedAt": "2026-09-27",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 4,
+      "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
+      "episodeUrl": "https://gadg.fm/4",
+      "songId": "judicator-elan",
+      "band": "Judicator",
+      "songTitle": "Elan",
+      "matchTier": "B",
+      "justification": "Folge = Waterloo 1815 mit Fokus Uxbridge-/Paget-Bein und Wellington; Song = letzte Phase Waterloo aus Sicht der Alten Garde (Karrees, Cambronne gefangen, französischer Rückzug) — dieselbe Schlacht, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Schlacht bei Waterloo",
+        "Alte Garde",
+        "Cambronne",
+        "1815"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ERqSQckYP7c",
+      "matchedAt": "2026-10-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 4,
+      "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
+      "episodeUrl": "https://gadg.fm/4",
+      "songId": "judicator-tu-nes-pas-mort-coquin",
+      "band": "Judicator",
+      "songTitle": "Tu N'es Pas Mort, Coquin?",
+      "matchTier": "B",
+      "justification": "Folge = Waterloo 1815 mit Fokus Uxbridge-/Paget-Beinamputation; Song = Sir Frederick Ponsonby (12th Light Dragoons) bei Waterloo: Armwunden, Lanzenstich („Tu n’es pas mort, coquin?“), als Schild missbraucht — dieselbe Schlacht und ähnliche Verwundungsanekdote, andere Person (Tier B).",
+      "sharedEntities": [
+        "Schlacht bei Waterloo",
+        "Frederick Ponsonby",
+        "1815"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5VSt0BS9bX7EEVOItzvaEl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=H5A72PIG9eM",
+      "matchedAt": "2026-10-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 4,
+      "episodeTitle": "Wellingtons Rache, oder: Ein Bein für ein Königreich",
+      "episodeUrl": "https://gadg.fm/4",
+      "songId": "rebellion-sweet-dreams",
+      "band": "Rebellion",
+      "songTitle": "Sweet Dreams",
+      "matchTier": "B",
+      "justification": "Folge = Waterloo 1815 mit Fokus Uxbridge-/Paget-Bein; Song = Napoleon/„La Grande Nation“ und Kriegspreis („Daddy dies in war“), Waterloo nur als Endpunkt („At Waterloo it all will end“) — gemeinsamer Waterloo-/Napoleon-Rahmen, klar anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Napoleon",
+        "Waterloo",
+        "1815"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3O95gZM3iSiY0LYEv4eSAl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KxyNkl6LKyg",
+      "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
     {
@@ -976,6 +1034,25 @@
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 191,
+      "episodeTitle": "Aethelfled - Warrior Queen of Mercia",
+      "episodeUrl": "https://gadg.fm/191",
+      "songId": "sellsword-saxon-steel",
+      "band": "Sellsword",
+      "songTitle": "Saxon Steel",
+      "matchTier": "C",
+      "justification": "Folge = Aethelfled / Mercia gegen Wikinger; Song = anonymer Angelsachsen-Krieger vor Wikinger-Schlacht — thematische Nähe derselben Frühengland-Welt, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Angelsachsen",
+        "Wikinger",
+        "Frühengland"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=GD-eZVQorPI",
+      "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
     {
@@ -2980,6 +3057,25 @@
       "spotifyUrl": "https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=NfFj9aEJDOc",
       "matchedAt": "2026-10-25",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 543,
+      "episodeTitle": "Vom Tiegel in den Fluss",
+      "episodeUrl": "https://gadg.fm/543",
+      "songId": "sellsword-hardrada",
+      "band": "Sellsword",
+      "songTitle": "Hardrada",
+      "matchTier": "C",
+      "justification": "Folge = Witham-Schwert / Stahlkultur; Song = Hardrada-Desaster an Fulford und Stamford Bridge 1066 — 1066-Anklang ohne Schwertfokus (Tier C).",
+      "sharedEntities": [
+        "1066",
+        "Stamford Bridge",
+        "England"
+      ],
+      "spotifyUrl": "https://sellsword.bandcamp.com/track/hardrada",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
     {
