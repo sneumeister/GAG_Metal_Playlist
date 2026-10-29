@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 14:29:51 +0100",
+  "updatedAt": "2026-10-29 16:04:45 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1202,6 +1202,41 @@
       "episodeId": 540,
       "songId": "stormwind-the-man-behind-the-iron-mask",
       "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Mann mit der eisernen Maske (Dumas-Legende) — anderer Erzählgegenstand, nur Hof/Epoche plus externe Bazeries-Assoziation ohne Beleg in Song oder Folgenkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 570,
+      "songId": "sabaton-i-emperor",
+      "reason": "Folge = Appert und Erfindung der Konservendose (napoleonischer Militärpreis nur als Rahmen); Song = Napoleon als Kaiser und Eroberer — nur loser Zeitrahmen, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 578,
+      "songId": "nightwish-sleeping-sun",
+      "reason": "Folge = Violet Jessop / Olympic-Klasse (Hörbuch #578); Song = Sonnenfinsternis-Ballade 1999 — Titanic/Britannic nur Fan-/YT-Assoziation, kein Erzählkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 562,
+      "songId": "allegaeon-concerto-in-dm",
+      "reason": "Folge = Chevalier John Taylor / Augenoperation an Bach; Song = Metal-Arrangement BWV 1052 — Bach nur als Operierter in der Folge, Song ohne Taylor-/Blindheits-Erzählkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 540,
+      "songId": "blind-guardian-black-chamber",
+      "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Blind Guardian „Black Chamber“ (Twin-Peaks-Motiv, Somewhere Far Beyond) — nur Titelanklang „Kammer“, kein historischer Chiffre-/Überwachungsbezug (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 507,
+      "songId": "kowloon-walled-city-wrong-side-of-history",
+      "reason": "Folge = Kowloon Walled City als historischer Ort (Wachstum, Alltag, Abriss); Song = generische Isolation-/Zeitdruck-Lyrics ohne Hongkong-/Enklaven-Bezug — Bandname nach dem Ort (Forumsfund), Diskografie ohne Stadt-Erzählkern, nur Namensanker (Tier X).",
       "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     }

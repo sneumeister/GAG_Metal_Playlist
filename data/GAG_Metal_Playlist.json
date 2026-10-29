@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 14:02:37 +0100",
+  "updatedAt": "2026-10-29 16:34:57 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -662,6 +662,25 @@
       "episodeId": 133,
       "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
       "episodeUrl": "https://gadg.fm/133",
+      "songId": "hammerfall-steel-meets-steel",
+      "band": "HammerFall",
+      "songTitle": "Steel Meets Steel",
+      "matchTier": "B",
+      "justification": "Folge = Alexios I. und Urban II. / Entstehung des Ersten Kreuzzugs; Song = Aufruf 1095, Marsch und Einnahme Jerusalems Juli 1099 aus Ritter-POV („We, the Templars“ anachronistisch, Orden erst 1119) — derselbe Kreuzzug, Fokus Eroberung/Schlacht statt Alexios/byzantinischer Politik (Tier B).",
+      "sharedEntities": [
+        "Erster Kreuzzug",
+        "1095",
+        "Jerusalem"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 133,
+      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
+      "episodeUrl": "https://gadg.fm/133",
       "songId": "judicator-the-queen-of-all-cities",
       "band": "Judicator",
       "songTitle": "The Queen of All Cities",
@@ -675,6 +694,25 @@
       "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
       "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 133,
+      "episodeTitle": "Alexios Komnenos und der Erste Kreuzzug",
+      "episodeUrl": "https://gadg.fm/133",
+      "songId": "powerwolf-christ-and-combat",
+      "band": "Powerwolf",
+      "songTitle": "Christ & Combat",
+      "matchTier": "B",
+      "justification": "Folge = Alexios I. Komnenos und Urban II. / Entstehung des Ersten Kreuzzugs ab 1095; Song = Kreuzfahrermarsch (Byzanz, Konstantinopel, Jordan, Jerusalem, 1097) — derselbe Kreuzzug, anderer Fokus (Marsch/Martyrium statt Alexios/Urban; „Sturm“ auf Konstantinopel historisch verkürzt) (Tier B).",
+      "sharedEntities": [
+        "Erster Kreuzzug",
+        "Konstantinopel",
+        "Jerusalem"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
     {
@@ -976,7 +1014,7 @@
         "Alpenübergang"
       ],
       "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=96hIqTCmqbY",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1277,6 +1315,25 @@
       "spotifyUrl": "https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq",
       "youtubeUrl": "https://www.youtube.com/watch?v=y8DB-MpxMTs",
       "matchedAt": "2026-10-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 225,
+      "episodeTitle": "Die Rundfahrt der Schlachtfelder",
+      "episodeUrl": "https://gadg.fm/225",
+      "songId": "sabaton-fields-of-verdun",
+      "band": "Sabaton",
+      "songTitle": "Fields of Verdun",
+      "matchTier": "C",
+      "justification": "Folge = Circuit des Champs de Bataille 1919 entlang der Westfront inkl. Verdun; Song = Schlacht um Verdun 1916 — gleicher Schauplatz/Kriegsrahmen, anderes Ereignis (Tier C).",
+      "sharedEntities": [
+        "Verdun",
+        "Erster Weltkrieg",
+        "Westfront"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yJDBmP9Mexk",
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
     {
@@ -2453,6 +2510,23 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 443,
+      "episodeTitle": "J.S. Bach oder Wie sich ein Komponist den Lebensunterhalt verdient",
+      "episodeUrl": "https://gadg.fm/443",
+      "songId": "allegaeon-concerto-in-dm",
+      "band": "Allegaeon",
+      "songTitle": "Concerto in Dm",
+      "matchTier": "C",
+      "justification": "Folge = J.S. Bach als Berufsmusiker / Lebensunterhalt; Song = Metal-Arrangement von Bachs Cembalokonzert d-Moll BWV 1052 (Allegro) — gleiche Person als Komponist, kein Biografie-Erzählkern (Tier C).",
+      "sharedEntities": [
+        "Johann Sebastian Bach"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_EtcIrkG8FA",
+      "matchedAt": "2026-10-29",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 452,
       "episodeTitle": "Der erste Mensch im All",
       "episodeUrl": "https://gadg.fm/452",
@@ -3019,6 +3093,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 534,
+      "episodeTitle": "Wie der Walzer zum Walzer wurde",
+      "episodeUrl": "https://gadg.fm/534",
+      "songId": "the-great-kat-strauss-the-blue-danube",
+      "band": "The Great Kat",
+      "songTitle": "Strauss' The Blue Danube",
+      "matchTier": "B",
+      "justification": "Folge = Entstehung des Walzers mit Johann Strauss Sohn und dem Donauwalzer (u. a. Boston World Peace Jubilee); Song = Metal-Shred des Donauwalzers — dasselbe Stück als Kernobjekt, Fokus Performance statt Tanz-/Gesellschaftsgeschichte (Tier B).",
+      "sharedEntities": [
+        "Donauwalzer",
+        "Johann Strauss Sohn"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HeMyN6FyAHs",
+      "matchedAt": "2026-10-29",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 535,
       "episodeTitle": "Das Jahr 536 und die Spätantike Kleine Eiszeit",
       "episodeUrl": "https://gadg.fm/535",
@@ -3154,6 +3246,25 @@
       "spotifyUrl": "https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I",
       "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
       "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 549,
+      "episodeTitle": "Coca und Cola",
+      "episodeUrl": "https://gadg.fm/549",
+      "songId": "english-majors-vin-mariani",
+      "band": "English Majors",
+      "songTitle": "Vin Mariani",
+      "matchTier": "A",
+      "justification": "Folge = Angelo Mariani / Vin Mariani (Papstbegeisterung) und Weg über US-Coca-Wein zu Coca-Cola; Song = Vin Mariani, Chemiker in Frankreich, Papst Leo, Drogerie — derselbe Mariani-Kern (Tier A).",
+      "sharedEntities": [
+        "Vin Mariani",
+        "Angelo Mariani",
+        "Papst Leo XIII."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1vQuvrJEJb89z3o91UKznT",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wp28LJzMN4Y",
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
     {
@@ -3533,6 +3644,24 @@
       "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 569,
+      "episodeTitle": "HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru",
+      "episodeUrl": "https://gadg.fm/569",
+      "songId": "bastille-zheng-yi-sao-and-questions-for-her",
+      "band": "Bastille",
+      "songTitle": "Zheng Yi Sao & Questions For Her",
+      "matchTier": "A",
+      "justification": "Folge = Hörbuch Zheng Yisao (Flotte, Ruhestand); Song = Fragen an Zheng Yi Sao (Herrschaft auf See, Austritt aus dem Imperium, Namensverlust) — derselbe Kern inkl. Rückzug. Genre = Indie Pop / Alternative (redaktionell übernommen) (Tier A).",
+      "sharedEntities": [
+        "Zheng Yi Sao",
+        "Ching Shih"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GG14Geys7uY",
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
     {
