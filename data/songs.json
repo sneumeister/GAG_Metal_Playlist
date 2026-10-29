@@ -2216,6 +2216,42 @@
     ]
   },
   {
+    "id": "god-dethroned-typhoid-mary",
+    "band": "God Dethroned",
+    "title": "Typhoid Mary",
+    "entities": [
+      "Typhoid Mary",
+      "Mary Mallon",
+      "Typhus",
+      "New York"
+    ],
+    "era": "frühes 20. Jh. / 2006",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=EtTHEJLa44M",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/lyrics/god-dethroned/typhoid-mary",
+        "note": "Lyrics: typhoid in blood, toxic touch, angel of disease"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal.de/interviews/god-dethroned-36444/",
+        "note": "Henri: Köchin/Haushälterin mit Typhus ohne Symptome (Mallon)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=EtTHEJLa44M",
+        "note": "YouTube (God Dethroned - Topic); Issue #37"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/God_Dethroned/The_Toxic_Touch/118113",
+        "note": "The Toxic Touch (2006)"
+      }
+    ]
+  },
+  {
     "id": "gorod-birds-of-sulphur",
     "band": "Gorod",
     "title": "Birds of Sulphur",
