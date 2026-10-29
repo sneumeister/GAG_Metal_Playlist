@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-29 15:05:39 +0100<br>**JSON-Status:** 2026-10-29 15:05:39 +0100</small>
+<small>**Compile-Datum:** 2026-10-29 15:23:44 +0100<br>**JSON-Status:** 2026-10-29 15:23:44 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -144,6 +144,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
 | [439](https://gadg.fm/439) | Kyros II. und die Entstehung eines Mythos | Arsames | Cyrus the Great | A | [link](https://www.youtube.com/watch?v=au4lTYwErDc) | [link](https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt) |
+| [443](https://gadg.fm/443) | J.S. Bach oder Wie sich ein Komponist den Lebensunterhalt verdient | Allegaeon | Concerto in Dm | C | [link](https://www.youtube.com/watch?v=_EtcIrkG8FA) | [link](https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i) |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part I - Hero) | B | [link](https://www.youtube.com/watch?v=cw0fl3AFsLU) | [link](https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U) |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part II - Victim) | B | [link](https://www.youtube.com/watch?v=BUE_FrVf8m0) | [link](https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
@@ -174,6 +175,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [519](https://gadg.fm/519) | Die Warägergarde | Warkings | Varangoi | A | [link](https://www.youtube.com/watch?v=zQ_juxVX06Q) | [link](https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL) |
 | [526](https://gadg.fm/526) | Nanga Parbat Schicksalsberg | Stormcrow | Nanga Parbat | A | [link](https://www.youtube.com/watch?v=6fuC4C2JQns) | [link](https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
+| [534](https://gadg.fm/534) | Wie der Walzer zum Walzer wurde | The Great Kat | Strauss' The Blue Danube | B | — | [link](https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR) |
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Deep Blue Something | Dr. Crippen | B | [link](https://www.youtube.com/watch?v=-2w6yQPDFPM) | [link](https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d) |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) |

@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-29 15:05:39 +0100<br>**JSON-Status:** 2026-10-29 14:29:51 +0100</small>
+<small>**Compile-Datum:** 2026-10-29 15:23:44 +0100<br>**JSON-Status:** 2026-10-29 15:23:44 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -122,6 +122,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Iron Maiden | Genghis Khan | X | [link](https://www.youtube.com/watch?v=bcRLbh5CYek) | [link](https://open.spotify.com/track/3EstYjUGr9m3C7A4BAyJta) |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Warkings | Genghis Khan | X | — | — |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Sabaton | Hordes of Khan | X | [link](https://www.youtube.com/watch?v=Ug0isWpubjk) | [link](https://open.spotify.com/track/275EXSVi2oyj4S5SPMo9qx) |
+| [540](https://gadg.fm/540) | Schwarze Kammern und die Große Chiffre | Blind Guardian | Black Chamber | X | — | — |
 | [540](https://gadg.fm/540) | Schwarze Kammern und die Große Chiffre | Stormwind | The Man Behind the Iron Mask | X | — | — |
 | [541](https://gadg.fm/541) | Eine kleine Geschichte des Sushi | Rainald Grebe & Die Kapelle der Versöhnung | Dreißigjährige Pärchen | X | [link](https://www.youtube.com/watch?v=6ZcIUAe-DdI) | [link](https://open.spotify.com/track/2ym5jsfte1PFyuDsXSW9pw) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Crystallion | Hundred Days | X | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
@@ -143,9 +144,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | My Dying Bride | Feel the Misery | X | — | — |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Ahab | Yet Another Raft of the Medusa (Pollard's Weakness) | X | [link](https://www.youtube.com/watch?v=RGlTIMDGOEc) | [link](https://open.spotify.com/track/0VrirvyOumorZl8xpstTMs) |
 | [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
+| [562](https://gadg.fm/562) | Chevalier John Taylor, Ophthalmiater | Allegaeon | Concerto in Dm | X | [link](https://www.youtube.com/watch?v=_EtcIrkG8FA) | [link](https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i) |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | 24/7 Diva Heaven | Rat Race | X | — | — |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | Black Flag | Shed Reading (Rattus Norvegicus) | X | — | [link](https://open.spotify.com/track/0v6Ho2YM7QQ7QaaZSnLwyJ) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Sabaton | The Last Battle | X | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) |
+| [570](https://gadg.fm/570) | Die Erfindung der Konservendose | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Aeneas | X | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
@@ -180,6 +183,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Ministry | Rio Grande Blood | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skyclad | Salt On The Earth (Another Man's Poison) | X | — | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Embryo | Ibn Battuta | X | [link](https://www.youtube.com/watch?v=Pm6Kg1bGq9c) | — |
+| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Nightwish | Sleeping Sun | X | [link](https://www.youtube.com/watch?v=UGfKMV5AbMI) | [link](https://open.spotify.com/track/2xPQjEJca0tRpvNxj0RP0f) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Metallica | Battery | X | — | [link](https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Thule | La Jamais Contente | X | — | — |

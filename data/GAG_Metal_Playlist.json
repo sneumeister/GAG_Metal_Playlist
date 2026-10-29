@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 15:05:39 +0100",
+  "updatedAt": "2026-10-29 15:23:44 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3796,6 +3796,41 @@
       "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
       "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
       "matchedAt": "2026-10-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 443,
+      "episodeTitle": "J.S. Bach oder Wie sich ein Komponist den Lebensunterhalt verdient",
+      "episodeUrl": "https://gadg.fm/443",
+      "songId": "allegaeon-concerto-in-dm",
+      "band": "Allegaeon",
+      "songTitle": "Concerto in Dm",
+      "matchTier": "C",
+      "justification": "Folge = J.S. Bach als Berufsmusiker / Lebensunterhalt; Song = Metal-Arrangement von Bachs Cembalokonzert d-Moll BWV 1052 (Allegro) — gleiche Person als Komponist, kein Biografie-Erzählkern (Tier C).",
+      "sharedEntities": [
+        "Johann Sebastian Bach"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_EtcIrkG8FA",
+      "matchedAt": "2026-10-29",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 534,
+      "episodeTitle": "Wie der Walzer zum Walzer wurde",
+      "episodeUrl": "https://gadg.fm/534",
+      "songId": "the-great-kat-strauss-the-blue-danube",
+      "band": "The Great Kat",
+      "songTitle": "Strauss' The Blue Danube",
+      "matchTier": "B",
+      "justification": "Folge = Entstehung des Walzers mit Johann Strauss Sohn und dem Donauwalzer (u. a. Boston World Peace Jubilee); Song = Metal-Shred des Donauwalzers — dasselbe Stück als Kernobjekt, Fokus Performance statt Tanz-/Gesellschaftsgeschichte (Tier B).",
+      "sharedEntities": [
+        "Donauwalzer",
+        "Johann Strauss Sohn"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     }
   ]

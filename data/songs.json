@@ -214,6 +214,36 @@
     ]
   },
   {
+    "id": "allegaeon-concerto-in-dm",
+    "band": "Allegaeon",
+    "title": "Concerto in Dm",
+    "entities": [
+      "Johann Sebastian Bach",
+      "BWV 1052",
+      "Cembalokonzert d-Moll"
+    ],
+    "era": "um 1730er (BWV 1052) / 2020",
+    "spotifyUrl": "https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_EtcIrkG8FA",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://allegaeon.bandcamp.com/track/concerto-in-dm",
+        "note": "Digital Single 2020; instrumental Metal-Arrangement BWV 1052"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metalblade.com/us/news/allegaeon-releases-digital-single-concerto-in-dm/",
+        "note": "Burgess: Arrangementstraum zu Bach; Melodic Death Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://flyingfiddlesticks.com/2020/12/07/allegaeon-concerto-in-dm-metal-blade-2020/",
+        "note": "Identifiziert als Harpsichord Concerto BWV 1052 Allegro"
+      }
+    ]
+  },
+  {
     "id": "allerseelen-schwefelfaden-michael-kohlhaas",
     "band": "Allerseelen",
     "title": "Schwefelfaden (Michael Kohlhaas)",
@@ -708,6 +738,25 @@
         "type": "band",
         "url": "https://www.metal-archives.com/albums/Blazon_Stone/Return_to_Port_Royal/611361",
         "note": "Return to Port Royal (2013); Definitive Edition 2020"
+      }
+    ]
+  },
+  {
+    "id": "blind-guardian-black-chamber",
+    "band": "Blind Guardian",
+    "title": "Black Chamber",
+    "entities": [
+      "Twin Peaks",
+      "Black Lodge"
+    ],
+    "era": "1992",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Blind_Guardian/Somewhere_Far_Beyond/78",
+        "note": "Somewhere Far Beyond (1992); Kurzstück Twin-Peaks-inspiriert"
       }
     ]
   },
@@ -4325,6 +4374,30 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Nightstryke/Power_Shall_Prevail/676890",
         "note": "Power Shall Prevail (2017)"
+      }
+    ]
+  },
+  {
+    "id": "nightwish-sleeping-sun",
+    "band": "Nightwish",
+    "title": "Sleeping Sun",
+    "entities": [
+      "Sonnenfinsternis",
+      "Eclipse"
+    ],
+    "era": "1999",
+    "spotifyUrl": "https://open.spotify.com/track/2xPQjEJca0tRpvNxj0RP0f",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UGfKMV5AbMI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.nightwish.com/songs/sleeping-sun",
+        "note": "Official lyrics: solar eclipse / night-time ballad"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sleeping_Sun_(Four_Ballads_of_the_Eclipse)",
+        "note": "Single Aug 1999 zur totalen Sonnenfinsternis; Oceanborn-Ära / Symphonic Metal"
       }
     ]
   },
@@ -8972,6 +9045,32 @@
         "type": "bandcamp",
         "url": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
         "note": "Album The Last Great Awakening (2025), Title Track"
+      }
+    ]
+  },
+  {
+    "id": "the-great-kat-strauss-the-blue-danube",
+    "band": "The Great Kat",
+    "title": "Strauss' The Blue Danube",
+    "entities": [
+      "Johann Strauss Sohn",
+      "Donauwalzer",
+      "An der schönen blauen Donau",
+      "Walzer"
+    ],
+    "era": "1867 / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/The_Great_Kat/65304",
+        "note": "Speed/Thrash / Shred; Metal-Archives"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
+        "note": "Violin Goddess (2023) / Worship the Metal Legend — instrumental Shred des Donauwalzers"
       }
     ]
   },
