@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 17:48:48 +0100",
+  "updatedAt": "2026-10-29 14:02:37 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -394,6 +394,24 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 80,
+      "episodeTitle": "Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden",
+      "episodeUrl": "https://gadg.fm/80",
+      "songId": "god-dethroned-arch-enemy-spain",
+      "band": "God Dethroned",
+      "songTitle": "Arch Enemy Spain",
+      "matchTier": "C",
+      "justification": "Folge = Dachbodenkirche Amsterdam (Ons’ Lieve Heer op Solder); Song = Achtzigjähriger Krieg (Alba, Oranien, Balthazar) — Kriegsrahmen nur als Folgenkontext, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Achtzigjähriger Krieg",
+        "Niederlande"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-29",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 83,
       "episodeTitle": "100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege",
       "episodeUrl": "https://gadg.fm/83",
@@ -411,6 +429,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
       "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
       "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 92,
+      "episodeTitle": "Die Geschichte der Typhoid Mary",
+      "episodeUrl": "https://gadg.fm/92",
+      "songId": "god-dethroned-typhoid-mary",
+      "band": "God Dethroned",
+      "songTitle": "Typhoid Mary",
+      "matchTier": "A",
+      "justification": "Folge = Mary Mallon / Typhoid Mary (Köchin, Typhus-Ausbrüche, Isolation); Song = dieselbe Figur als „angel of disease“ / giftige Berührung — gemeinsamer Kerngegenstand, Song dunkler personifiziert (Tier A).",
+      "sharedEntities": [
+        "Typhoid Mary",
+        "Mary Mallon",
+        "Typhus"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=EtTHEJLa44M",
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
     {
