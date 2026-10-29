@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-29 14:29:51 +0100<br>**JSON-Status:** 2026-10-29 14:02:37 +0100</small>
+<small>**Compile-Datum:** 2026-10-29 15:05:39 +0100<br>**JSON-Status:** 2026-10-29 15:05:39 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -81,6 +81,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [215](https://gadg.fm/215) | Wojtek, polnischer Soldatenbär | The Metal Alliance | The Beast of War | A | [link](https://www.youtube.com/watch?v=u5XtLHmLjoY) | [link](https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Judicator | King of Rome | C | [link](https://www.youtube.com/watch?v=t4maP9qGQPc) | [link](https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk) |
 | [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | C | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) |
+| [225](https://gadg.fm/225) | Die Rundfahrt der Schlachtfelder | Sabaton | Fields of Verdun | C | [link](https://www.youtube.com/watch?v=yJDBmP9Mexk) | — |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | A | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Kamelot | Elizabeth (Parts I–III) | A | [link](https://www.youtube.com/watch?v=ecvHBLadaxM) | [link](https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD) |
@@ -137,8 +138,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1 de Novembro | A | [link](https://www.youtube.com/watch?v=vh3Mvd9NGwQ) | [link](https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1755 | A | [link](https://www.youtube.com/watch?v=4O-SUiKyVtA) | [link](https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | Evento | A | [link](https://www.youtube.com/watch?v=ZEqKPJgM-HE) | [link](https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt) |
-| [433](https://gadg.fm/433) | Der Schinderhannes | dArtagnan | Schinderhannes | A | [link](https://www.youtube.com/watch?v=TH2IR4slz74) | [link](https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt) |
 | [433](https://gadg.fm/433) | Der Schinderhannes | Spessarträuber | Schinderhannes | A | [link](https://www.youtube.com/watch?v=XGvCtubo7cE) | [link](https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL) |
+| [433](https://gadg.fm/433) | Der Schinderhannes | dArtagnan | Schinderhannes | A | [link](https://www.youtube.com/watch?v=TH2IR4slz74) | [link](https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Midnight Force | Parthia | A | [link](https://www.youtube.com/watch?v=pR4AXDXKoLk) | [link](https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |

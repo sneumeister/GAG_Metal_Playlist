@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 14:02:37 +0100",
+  "updatedAt": "2026-10-29 15:05:39 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1280,6 +1280,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 225,
+      "episodeTitle": "Die Rundfahrt der Schlachtfelder",
+      "episodeUrl": "https://gadg.fm/225",
+      "songId": "sabaton-fields-of-verdun",
+      "band": "Sabaton",
+      "songTitle": "Fields of Verdun",
+      "matchTier": "C",
+      "justification": "Folge = Circuit des Champs de Bataille 1919 entlang der Westfront inkl. Verdun; Song = Schlacht um Verdun 1916 — gleicher Schauplatz/Kriegsrahmen, anderes Ereignis (Tier C).",
+      "sharedEntities": [
+        "Verdun",
+        "Erster Weltkrieg",
+        "Westfront"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=yJDBmP9Mexk",
+      "matchedAt": "2026-10-29",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 229,
       "episodeTitle": "Elisabeth Báthory, die (angebliche) Blutgräfin",
       "episodeUrl": "https://gadg.fm/229",
@@ -2339,25 +2358,6 @@
       "episodeId": 433,
       "episodeTitle": "Der Schinderhannes",
       "episodeUrl": "https://gadg.fm/433",
-      "songId": "dartagnan-schinderhannes",
-      "band": "dArtagnan",
-      "songTitle": "Schinderhannes",
-      "matchTier": "A",
-      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Schinderhannes",
-        "Johannes Bückler",
-        "Hunsrück"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
-      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
-      "matchedAt": "2026-10-08",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 433,
-      "episodeTitle": "Der Schinderhannes",
-      "episodeUrl": "https://gadg.fm/433",
       "songId": "spessartraeuber-schinderhannes",
       "band": "Spessarträuber",
       "songTitle": "Schinderhannes",
@@ -2372,6 +2372,25 @@
       "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
       "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
       "matchedAt": "2026-10-09",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 433,
+      "episodeTitle": "Der Schinderhannes",
+      "episodeUrl": "https://gadg.fm/433",
+      "songId": "dartagnan-schinderhannes",
+      "band": "dArtagnan",
+      "songTitle": "Schinderhannes",
+      "matchTier": "A",
+      "justification": "Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-These; Song = Moritat-Perspektive auf Gefangennahme und Hinrichtung („kein Held“) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Schinderhannes",
+        "Johannes Bückler",
+        "Hunsrück"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
+      "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
     {
