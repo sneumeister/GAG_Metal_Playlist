@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 13:53:19 +0100",
+  "updatedAt": "2026-10-29 14:02:37 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -391,6 +391,24 @@
       "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
       "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
       "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 80,
+      "episodeTitle": "Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden",
+      "episodeUrl": "https://gadg.fm/80",
+      "songId": "god-dethroned-arch-enemy-spain",
+      "band": "God Dethroned",
+      "songTitle": "Arch Enemy Spain",
+      "matchTier": "C",
+      "justification": "Folge = Dachbodenkirche Amsterdam (Ons’ Lieve Heer op Solder); Song = Achtzigjähriger Krieg (Alba, Oranien, Balthazar) — Kriegsrahmen nur als Folgenkontext, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Achtzigjähriger Krieg",
+        "Niederlande"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
     {

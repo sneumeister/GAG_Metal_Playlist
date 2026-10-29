@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-29 13:53:19 +0100<br>**JSON-Status:** 2026-10-29 13:53:19 +0100</small>
+<small>**Compile-Datum:** 2026-10-29 14:02:37 +0100<br>**JSON-Status:** 2026-10-29 14:02:37 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -34,6 +34,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Flashback of Anger | Holdout | A | [link](https://www.youtube.com/watch?v=uxvn-gIFVZo) | [link](https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30) |
 | [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Wotan | La Chanson de Roland | A | [link](https://www.youtube.com/watch?v=i1-M8BmWB5o) | [link](https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On) |
 | [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Kamelot | Song of Roland | A | [link](https://www.youtube.com/watch?v=jYAAUwtmKcA) | [link](https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ) |
+| [80](https://gadg.fm/80) | Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden | God Dethroned | Arch Enemy Spain | C | — | — |
 | [83](https://gadg.fm/83) | 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege | Saxorior | Hussiten | A | [link](https://www.youtube.com/watch?v=p37k-uPWqQc) | [link](https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud) |
 | [92](https://gadg.fm/92) | Die Geschichte der Typhoid Mary | God Dethroned | Typhoid Mary | A | [link](https://www.youtube.com/watch?v=EtTHEJLa44M) | — |
 | [100](https://gadg.fm/100) | Der Fall der „Mignonette“ und seine Folgen | Scent of Amber | Custom of the Sea | A | [link](https://www.youtube.com/watch?v=P_KOPhWUXcw) | [link](https://open.spotify.com/track/5epQW1revzqLK58ffFcwac) |

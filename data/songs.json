@@ -2216,6 +2216,39 @@
     ]
   },
   {
+    "id": "god-dethroned-arch-enemy-spain",
+    "band": "God Dethroned",
+    "title": "Arch Enemy Spain",
+    "entities": [
+      "Achtzigjähriger Krieg",
+      "Herzog von Alba",
+      "Wilhelm von Oranien",
+      "Balthasar Gérard",
+      "Blutrat",
+      "Niederlande"
+    ],
+    "era": "1568–1648 / 2004",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.lyricscopy.com/en/god-dethroned/arch-enemy-spain.htm",
+        "note": "Lyrics: Alba, blood council, 80 years, Nassau, Balthazar"
+      },
+      {
+        "type": "secondary",
+        "url": "https://neckbreaker.de/interviews/97-interview-mit-henri-sattler-a-isaac-delahaye-god-dethroned",
+        "note": "Henri: historischer Song über den 80-jährigen Krieg mit Spanien"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/God_Dethroned/The_Lair_of_the_White_Worm/52894",
+        "note": "The Lair of the White Worm (2004)"
+      }
+    ]
+  },
+  {
     "id": "god-dethroned-typhoid-mary",
     "band": "God Dethroned",
     "title": "Typhoid Mary",
