@@ -1410,6 +1410,32 @@
     ]
   },
   {
+    "id": "eisenschwein-verbleite-zeit",
+    "band": "Eisenschwein",
+    "title": "Verbleite Zeit",
+    "entities": [
+      "Casanova",
+      "Bleikammern",
+      "Piombi",
+      "Venedig"
+    ],
+    "era": "18. Jh. (Casanova) / 2016",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://eisenschwein.bandcamp.com/album/eisenschwein-demo-cd-2016",
+        "note": "Demo CD 2016: Lyrics zu Casanova / Bleikammern (Piombi), Refrain Verbleite/Bleierne Zeit"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.backstagepro.de/eisenschwein",
+        "note": "Erfurt; Metal/Punk („Schweinerock“)"
+      }
+    ]
+  },
+  {
     "id": "electric-light-orchestra-roll-over-beethoven",
     "band": "Electric Light Orchestra",
     "title": "Roll Over Beethoven",
@@ -3858,6 +3884,32 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag484/",
         "note": "Kommentar unter #484: Schellack / Flut-Kontext"
+      }
+    ]
+  },
+  {
+    "id": "metallica-battery",
+    "band": "Metallica",
+    "title": "Battery",
+    "entities": [
+      "Battery Street",
+      "San Francisco",
+      "Bay Area Thrash",
+      "Old Waldorf"
+    ],
+    "era": "1986",
+    "spotifyUrl": "https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Battery_(song)",
+        "note": "Master of Puppets Opener; Battery Street / Thrash-Szene; nicht Bleiakkumulator"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/metallica/battery",
+        "note": "Hetfield: gute/schlechte Seite einer battery; Szene-Bezug"
       }
     ]
   },
@@ -7720,6 +7772,29 @@
     ]
   },
   {
+    "id": "schweisser-perpetuum-mobile",
+    "band": "Schweisser",
+    "title": "Perpetuum Mobile",
+    "entities": [
+      "Perpetuum Mobile"
+    ],
+    "era": "1994",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/schweisser/perpetuum-mobile-lyrics/",
+        "note": "Eisenkopf (1994): Metapher Chrom/Stahl-Maschine, kein historischer Bessler-Bezug"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/Schweisser/3540317122",
+        "note": "German heavy metal / crossover"
+      }
+    ]
+  },
+  {
     "id": "sciencenv-the-end-of-a-legend",
     "band": "ScienceNV",
     "title": "The End of a Legend",
@@ -8585,6 +8660,37 @@
     ]
   },
   {
+    "id": "stormwind-the-man-behind-the-iron-mask",
+    "band": "Stormwind",
+    "title": "The Man Behind the Iron Mask",
+    "entities": [
+      "Mann mit der eisernen Maske",
+      "Bastille",
+      "Ludwig XIV.",
+      "Île Sainte-Marguerite"
+    ],
+    "era": "1669–1703 / 2001",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/stormwind-the-man-behind-the-iron-mask-183130",
+        "note": "Reflections (2001): Bastille, Iron Mask, twin of the sun King, Sainte-Marguerite"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Stormwind/Reflections/17668",
+        "note": "Neoclassical Power Metal; Massacre Records"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://blacklodgerecords.bandcamp.com/album/reflections",
+        "note": "Remaster 2021, Track 3"
+      }
+    ]
+  },
+  {
     "id": "stratovarius-frozen-in-time",
     "band": "Stratovarius",
     "title": "Frozen in Time",
@@ -9072,6 +9178,30 @@
         "type": "band",
         "url": "https://wrightvalley.com/",
         "note": "Band: Doom/Sludge, Wiesbaden; Antarctic aesthetic"
+      }
+    ]
+  },
+  {
+    "id": "thule-la-jamais-contente",
+    "band": "Thule",
+    "title": "La Jamais Contente",
+    "entities": [
+      "La Jamais Contente",
+      "Camille Jenatzy"
+    ],
+    "era": "1899 / 1989",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://eil.com/shop/moreinfo.asp?catalogid=505759",
+        "note": "12\"-EP Wiiija WIIIJIT3, 1989; Tracks: Springtime (Etched In Ice), Owed To Kreed, Looking Backward To See You, Disko Beach"
+      },
+      {
+        "type": "secondary",
+        "url": "https://dubdigger.com/artist/96050",
+        "note": "Londoner Ensemble; Sound Kraftwerk/Tackhead/Chrome — Industrial Electronic / Experimental"
       }
     ]
   },

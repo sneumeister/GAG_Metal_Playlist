@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28 17:21:08 +0100",
+  "updatedAt": "2026-10-29 14:29:51 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1161,6 +1161,48 @@
       "songId": "hermans-hermits-no-milk-today",
       "reason": "Folge = Elektromobilität um 1900 (Hamburg-Taxis, Batterien, früher Porsche); Song = Pop-Ballade über Trennung, symbolisiert durch den Milchflaschen-Zettel „No milk today“ — Richard nennt den Song im Abschlussgespräch der Folge; inhaltlich nur loses Stichwort/Assoziation (bei Metal höchstens Tier C). Genre = Baroque Pop / Pop, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 579,
+      "songId": "thule-la-jamais-contente",
+      "reason": "Folge = Elektromobilität um 1900 inkl. Elektro-Geschwindigkeitsrekord (Jenatzy / La Jamais Contente); Song/EP = Thule „La Jamais Contente“ (Titel-Hommage, Tracks ohne belegten Jenatzy-Erzählkern) — bei Metal wäre Tier C. Genre = Industrial Electronic / Experimental Electronica, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 579,
+      "songId": "eisenschwein-verbleite-zeit",
+      "reason": "Folge = Elektromobilität um 1900 / schwere Bleiakkus („Eisenschweine“); Song = Casanova-Bleikammern und Freiheits-Metapher — nur Namens-/Titelanklang (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 579,
+      "songId": "metallica-battery",
+      "reason": "Folge = wiederaufladbare Batterien und E-Taxis um 1900; Song = Thrash-Szene / Battery Street / assault-and-battery-Wortspiel — Titelhomonym ohne historischen Bezug (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 547,
+      "songId": "schweisser-perpetuum-mobile",
+      "reason": "Folge = Orffyreus/Bessler und das Perpetuum-Mobile-Experiment auf Schloss Weißenstein; Song = Metapher einer sinnlosen, ewig mahlenden Chrom-Stahl-Maschine — nur Titel-/Motivanklang, kein historischer Bessler-Bezug (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 489,
+      "songId": "saxorior-hussiten",
+      "reason": "Folge = Konzil von Konstanz, Absetzung Johannes’ XXIII. und Poggio als Bücherjäger; Song = Jan Hus / Hussitenkriege (bereits passend zu #83) — gemeinsamer Schauplatz Konstanz, anderer Erzählkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 540,
+      "songId": "stormwind-the-man-behind-the-iron-mask",
+      "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Mann mit der eisernen Maske (Dumas-Legende) — anderer Erzählgegenstand, nur Hof/Epoche plus externe Bazeries-Assoziation ohne Beleg in Song oder Folgenkern (Tier X).",
+      "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     }
   ]

@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-29 14:02:37 +0100<br>**JSON-Status:** 2026-10-28 17:21:08 +0100</small>
+<small>**Compile-Datum:** 2026-10-29 14:29:51 +0100<br>**JSON-Status:** 2026-10-29 14:29:51 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -100,6 +100,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [483](https://gadg.fm/483) | Bounty, Brotfrucht und die Rum-Rebellion | Running Wild | Mutiny | X | — | — |
 | [484](https://gadg.fm/484) | Emil Berliner und die Erfindung der Musikindustrie | Led Zeppelin | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=JM3fodiK9rY) | [link](https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF) |
 | [484](https://gadg.fm/484) | Emil Berliner und die Erfindung der Musikindustrie | Memphis Minnie & Kansas Joe McCoy | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=WSlt8-fmvas) | [link](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) |
+| [489](https://gadg.fm/489) | Ein Konzil, ein Papst und ein Bücherjäger | Saxorior | Hussiten | X | [link](https://www.youtube.com/watch?v=p37k-uPWqQc) | [link](https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud) |
 | [490](https://gadg.fm/490) | Eunus und der erste Sklavenkrieg | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [491](https://gadg.fm/491) | Die Dreyfus-Affäre | John Cage | 4′33″ | X | [link](https://www.youtube.com/watch?v=AWVUp12XPpU) | — |
 | [491](https://gadg.fm/491) | Die Dreyfus-Affäre | Yves Duteil | Dreyfus | X | — | — |
@@ -121,12 +122,14 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Iron Maiden | Genghis Khan | X | [link](https://www.youtube.com/watch?v=bcRLbh5CYek) | [link](https://open.spotify.com/track/3EstYjUGr9m3C7A4BAyJta) |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Warkings | Genghis Khan | X | — | — |
 | [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Sabaton | Hordes of Khan | X | [link](https://www.youtube.com/watch?v=Ug0isWpubjk) | [link](https://open.spotify.com/track/275EXSVi2oyj4S5SPMo9qx) |
+| [540](https://gadg.fm/540) | Schwarze Kammern und die Große Chiffre | Stormwind | The Man Behind the Iron Mask | X | — | — |
 | [541](https://gadg.fm/541) | Eine kleine Geschichte des Sushi | Rainald Grebe & Die Kapelle der Versöhnung | Dreißigjährige Pärchen | X | [link](https://www.youtube.com/watch?v=6ZcIUAe-DdI) | [link](https://open.spotify.com/track/2ym5jsfte1PFyuDsXSW9pw) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Crystallion | Hundred Days | X | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Serenity | The Art of War | X | [link](https://www.youtube.com/watch?v=U77UB9sRCxo) | [link](https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Crucible Steel | Ulfberht | X | — | — |
+| [547](https://gadg.fm/547) | Orffyreus und das Perpetuum Mobile | Schweisser | Perpetuum Mobile | X | — | — |
 | [550](https://gadg.fm/550) | Akbar und die Entstehung des Mogulreichs | Mughal-E-Funk | Akbar | X | — | [link](https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
@@ -178,4 +181,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skyclad | Salt On The Earth (Another Man's Poison) | X | — | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Embryo | Ibn Battuta | X | [link](https://www.youtube.com/watch?v=Pm6Kg1bGq9c) | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Metallica | Battery | X | — | [link](https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C) |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Thule | La Jamais Contente | X | — | — |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Herman's Hermits | No Milk Today | X | — | [link](https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH) |
+| [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Eisenschwein | Verbleite Zeit | X | — | — |
