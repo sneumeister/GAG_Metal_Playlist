@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-29 15:23:44 +0100<br>**JSON-Status:** 2026-10-29 15:23:44 +0100</small>
+<small>**Compile-Datum:** 2026-10-29 16:34:57 +0100<br>**JSON-Status:** 2026-10-29 16:34:57 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -49,6 +49,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Iron Maiden | Stranger in a Strange Land | B | [link](https://www.youtube.com/watch?v=UJsl-bB7lmk) | [link](https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2) |
 | [132](https://gadg.fm/132) | Gesche Gottfried, der Engel von Bremen | Team Scheisse | Spuckstein | C | [link](https://www.youtube.com/watch?v=2JnmtQVgcL0) | [link](https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Warkings | Azrael | C | [link](https://www.youtube.com/watch?v=BXOM-CQGV0E) | [link](https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz) |
+| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Powerwolf | Christ & Combat | B | — | [link](https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r) |
+| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | HammerFall | Steel Meets Steel | B | — | [link](https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | B | [link](https://www.youtube.com/watch?v=SGj0HvYXxT4) | [link](https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo) |
 | [144](https://gadg.fm/144) | Die Spanische Grippe | Sarcoptes | Spanish Flu | A | [link](https://www.youtube.com/watch?v=d7XCKmdF2_g) | [link](https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy) |
 | [146](https://gadg.fm/146) | Tripel-Allianz-Krieg | Uncönquerable | Imperial Genocide | B | [link](https://www.youtube.com/watch?v=hsZD5TUGbVM) | [link](https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK) |
@@ -64,7 +66,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Burning Witches | Executed | C | [link](https://www.youtube.com/watch?v=840vcVzth-0) | [link](https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1) |
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Feuerschwanz | Malleus Maleficarum | C | [link](https://www.youtube.com/watch?v=OigEnWlVN14) | [link](https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq) |
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Saxon | Witches Of Salem | C | [link](https://www.youtube.com/watch?v=mN5mfBDUNMQ) | [link](https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr) |
-| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Crossing of the Alps | B | — | [link](https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5) |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Crossing of the Alps | B | [link](https://www.youtube.com/watch?v=96hIqTCmqbY) | [link](https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Hispania (The Siege of Saguntum) | C | — | [link](https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | B | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | The Rise of Hannibal | C | — | [link](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) |
@@ -81,7 +83,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [215](https://gadg.fm/215) | Wojtek, polnischer Soldatenbär | The Metal Alliance | The Beast of War | A | [link](https://www.youtube.com/watch?v=u5XtLHmLjoY) | [link](https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Judicator | King of Rome | C | [link](https://www.youtube.com/watch?v=t4maP9qGQPc) | [link](https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk) |
 | [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | C | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) |
-| [225](https://gadg.fm/225) | Die Rundfahrt der Schlachtfelder | Sabaton | Fields of Verdun | C | [link](https://www.youtube.com/watch?v=yJDBmP9Mexk) | — |
+| [225](https://gadg.fm/225) | Die Rundfahrt der Schlachtfelder | Sabaton | Fields of Verdun | C | [link](https://www.youtube.com/watch?v=yJDBmP9Mexk) | [link](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | A | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Kamelot | Elizabeth (Parts I–III) | A | [link](https://www.youtube.com/watch?v=ecvHBLadaxM) | [link](https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD) |
@@ -138,8 +140,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1 de Novembro | A | [link](https://www.youtube.com/watch?v=vh3Mvd9NGwQ) | [link](https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1755 | A | [link](https://www.youtube.com/watch?v=4O-SUiKyVtA) | [link](https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | Evento | A | [link](https://www.youtube.com/watch?v=ZEqKPJgM-HE) | [link](https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt) |
-| [433](https://gadg.fm/433) | Der Schinderhannes | Spessarträuber | Schinderhannes | A | [link](https://www.youtube.com/watch?v=XGvCtubo7cE) | [link](https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL) |
 | [433](https://gadg.fm/433) | Der Schinderhannes | dArtagnan | Schinderhannes | A | [link](https://www.youtube.com/watch?v=TH2IR4slz74) | [link](https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt) |
+| [433](https://gadg.fm/433) | Der Schinderhannes | Spessarträuber | Schinderhannes | A | [link](https://www.youtube.com/watch?v=XGvCtubo7cE) | [link](https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Midnight Force | Parthia | A | [link](https://www.youtube.com/watch?v=pR4AXDXKoLk) | [link](https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
@@ -175,7 +177,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [519](https://gadg.fm/519) | Die Warägergarde | Warkings | Varangoi | A | [link](https://www.youtube.com/watch?v=zQ_juxVX06Q) | [link](https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL) |
 | [526](https://gadg.fm/526) | Nanga Parbat Schicksalsberg | Stormcrow | Nanga Parbat | A | [link](https://www.youtube.com/watch?v=6fuC4C2JQns) | [link](https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
-| [534](https://gadg.fm/534) | Wie der Walzer zum Walzer wurde | The Great Kat | Strauss' The Blue Danube | B | — | [link](https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR) |
+| [534](https://gadg.fm/534) | Wie der Walzer zum Walzer wurde | The Great Kat | Strauss' The Blue Danube | B | [link](https://www.youtube.com/watch?v=HeMyN6FyAHs) | [link](https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR) |
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Deep Blue Something | Dr. Crippen | B | [link](https://www.youtube.com/watch?v=-2w6yQPDFPM) | [link](https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d) |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) |
@@ -183,6 +185,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Rebellion | Ulfberth | B | [link](https://www.youtube.com/watch?v=NfFj9aEJDOc) | [link](https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Deuteronomy | Nika Riots | A | — | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Turisas | Venetoi! – Prasinoi! | B | [link](https://www.youtube.com/watch?v=8DDnNhpNRoI) | [link](https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I) |
+| [549](https://gadg.fm/549) | Coca und Cola | English Majors | Vin Mariani | A | [link](https://www.youtube.com/watch?v=wp28LJzMN4Y) | [link](https://open.spotify.com/track/1vQuvrJEJb89z3o91UKznT) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Miracle of Sound | Gráinne Mhaol, Queen of Pirates | A | [link](https://www.youtube.com/watch?v=iOafalF22kI) | [link](https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Saxon | Atila the Hun | C | [link](https://www.youtube.com/watch?v=dwEXrFD8eKU) | [link](https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck) |
@@ -203,6 +206,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [567](https://gadg.fm/567) | Die Fibonacci-Folge | Tool | Lateralus | B | [link](https://www.youtube.com/watch?v=Y7JG63IuaWs) | [link](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) |
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |
+| [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Bastille | Zheng Yi Sao & Questions For Her | A | [link](https://www.youtube.com/watch?v=GG14Geys7uY) | [link](https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Deos | Mylae | B | [link](https://www.youtube.com/watch?v=XJabWzbLoIg) | [link](https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=OYfdXL7sKVI) | [link](https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |

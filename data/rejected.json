@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 15:23:44 +0100",
+  "updatedAt": "2026-10-29 16:04:45 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1230,6 +1230,13 @@
       "episodeId": 540,
       "songId": "blind-guardian-black-chamber",
       "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Blind Guardian „Black Chamber“ (Twin-Peaks-Motiv, Somewhere Far Beyond) — nur Titelanklang „Kammer“, kein historischer Chiffre-/Überwachungsbezug (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 507,
+      "songId": "kowloon-walled-city-wrong-side-of-history",
+      "reason": "Folge = Kowloon Walled City als historischer Ort (Wachstum, Alltag, Abriss); Song = generische Isolation-/Zeitdruck-Lyrics ohne Hongkong-/Enklaven-Bezug — Bandname nach dem Ort (Forumsfund), Diskografie ohne Stadt-Erzählkern, nur Namensanker (Tier X).",
       "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     }

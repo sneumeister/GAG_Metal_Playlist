@@ -593,6 +593,32 @@
     ]
   },
   {
+    "id": "bastille-zheng-yi-sao-and-questions-for-her",
+    "band": "Bastille",
+    "title": "Zheng Yi Sao & Questions For Her",
+    "entities": [
+      "Zheng Yi Sao",
+      "Ching Shih",
+      "Rote Flagge",
+      "Südchinesisches Meer"
+    ],
+    "era": "1801–1810 / 2024",
+    "spotifyUrl": "https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GG14Geys7uY",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://readdork.com/track/bastille-zheng-yi-sao-questions-for-her",
+        "note": "& (Ampersand) 2024; Zheng Yi Sao, Imperium, Rückzug"
+      },
+      {
+        "type": "interview",
+        "url": "https://shows.acast.com/muses/episodes/zheng-yi-sao-zheng-yi-sao-questions-for-her",
+        "note": "Dan Smith mit Historiker Leon Rocha zu Zheng Yi Sao"
+      }
+    ]
+  },
+  {
     "id": "battle-symphony-the-fall-of-the-queen-of-cities",
     "band": "Battle Symphony",
     "title": "The Fall of the Queen of Cities",
@@ -1590,6 +1616,32 @@
     ]
   },
   {
+    "id": "english-majors-vin-mariani",
+    "band": "English Majors",
+    "title": "Vin Mariani",
+    "entities": [
+      "Vin Mariani",
+      "Angelo Mariani",
+      "Papst Leo XIII.",
+      "Coca"
+    ],
+    "era": "1863 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/1vQuvrJEJb89z3o91UKznT",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wp28LJzMN4Y",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://englishmajors.bandcamp.com/track/vin-mariani",
+        "note": "Milhouse (2023); Vin Mariani, Papst Leo, Chemiker in Frankreich"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vin_Mariani",
+        "note": "Coca-Wein Angelo Mariani; Inspiration für Pemberton/Coca-Cola"
+      }
+    ]
+  },
+  {
     "id": "eno-barony-yaa-asantewaa",
     "band": "Eno Barony",
     "title": "Yaa Asantewaa",
@@ -1761,7 +1813,7 @@
     ],
     "era": "218 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=96hIqTCmqbY",
     "sources": [
       {
         "type": "lyrics",
@@ -2596,6 +2648,33 @@
         "type": "secondary",
         "url": "https://www.abergavennychronicle.com/news/15th-welsh-purple-plaque-unveiled-667649",
         "note": "Purple plaque Fishguard; Dafydd sang Jemima song at unveiling"
+      }
+    ]
+  },
+  {
+    "id": "hammerfall-steel-meets-steel",
+    "band": "HammerFall",
+    "title": "Steel Meets Steel",
+    "entities": [
+      "Erster Kreuzzug",
+      "1095",
+      "Jerusalem",
+      "1099",
+      "Templer"
+    ],
+    "era": "1095–1099",
+    "spotifyUrl": "https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://hammerfall.net/disco/glory-to-the-brave/",
+        "note": "Glory to the Brave (1997); 1095 Aufruf, Jerusalem Juli 1099, Templer-POV"
+      },
+      {
+        "type": "interview",
+        "url": "https://nocturnemagazine.net/intervjui/476/joacim-cans-hammerfall-ostati-veran-sebi-je-duh-heavy-metala",
+        "note": "Cans: aus Templer-/Ritterperspektive geschrieben, keine Billigung"
       }
     ]
   },
@@ -3510,6 +3589,29 @@
         "type": "lyrics",
         "url": "https://www.songlyrics.com/kontrust/lederhosen-overkill-lyrics/",
         "note": "Lederhosen/Dirndl als Party-Motiv"
+      }
+    ]
+  },
+  {
+    "id": "kowloon-walled-city-wrong-side-of-history",
+    "band": "Kowloon Walled City",
+    "title": "Wrong Side of History",
+    "entities": [
+      "Kowloon Walled City"
+    ],
+    "era": "2012",
+    "spotifyUrl": "https://open.spotify.com/track/3xuct5UR3WzQHSClaQowi7",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PnFcNGnhoiI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://inthewalledcity.com/container-ships-lyrics.html",
+        "note": "Container Ships (2012); Isolation-/Zeitdruck-Lyrics, kein Enklaven-Bezug"
+      },
+      {
+        "type": "secondary",
+        "url": "https://de.zxc.wiki/wiki/Kowloon_Walled_City_%28Band%29",
+        "note": "Bandname nach der Hongkong-Enklave (Forumsfund)"
       }
     ]
   },
@@ -4872,6 +4974,33 @@
     ]
   },
   {
+    "id": "powerwolf-christ-and-combat",
+    "band": "Powerwolf",
+    "title": "Christ & Combat",
+    "entities": [
+      "Erster Kreuzzug",
+      "Konstantinopel",
+      "Jerusalem",
+      "1097",
+      "Jordan"
+    ],
+    "era": "1096–1099",
+    "spotifyUrl": "https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://bookofmetal.com/powerwolf/lyric/christ-amp-combat",
+        "note": "Blessed & Possessed (2015); Byzanz/Konstantinopel/Jordan/Jerusalem/1097"
+      },
+      {
+        "type": "interview",
+        "url": "https://stormbringer.at/interviews/1719/interview-powerwolf",
+        "note": "Falk: konkrete Kreuzzugsbeschreibung inkl. Konstantinopel"
+      }
+    ]
+  },
+  {
     "id": "powerwolf-joan-of-arc",
     "band": "Powerwolf",
     "title": "Joan of Arc",
@@ -5987,7 +6116,7 @@
       "Schlacht um Verdun"
     ],
     "era": "1916",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T",
     "youtubeUrl": "https://www.youtube.com/watch?v=yJDBmP9Mexk",
     "sources": [
       {
@@ -9060,7 +9189,7 @@
     ],
     "era": "1867 / 2022",
     "spotifyUrl": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=HeMyN6FyAHs",
     "sources": [
       {
         "type": "secondary",
