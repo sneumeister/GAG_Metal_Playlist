@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 16:34:57 +0100",
+  "updatedAt": "2026-10-30 08:52:17 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3906,6 +3906,86 @@
       "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
       "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
       "matchedAt": "2026-10-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "confessor-sixteen-tons",
+      "band": "Confessor",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Doom/Prog-Thrash-Cover von Sixteen Tons (Schuld und Company Store im Kohlebergbau) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-30",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "memento-mori-sixteen-tons",
+      "band": "Memento Mori",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Doom-Metal-Cover von Sixteen Tons (Company Store / Schuldknechtschaft) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-30",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "tuff-sixteen-tons",
+      "band": "Tuff",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Hard-Rock-Cover von Sixteen Tons (Company Store) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-30",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "eric-burdon-sixteen-tons",
+      "band": "Eric Burdon",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Rock-Cover von Sixteen Tons (Company Store) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     }
   ]

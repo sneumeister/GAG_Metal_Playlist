@@ -987,6 +987,33 @@
     ]
   },
   {
+    "id": "confessor-sixteen-tons",
+    "band": "Confessor",
+    "title": "Sixteen Tons",
+    "entities": [
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
+    ],
+    "era": "1947 / 1991",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Hidden track auf Condemned (1991); Progressive Doom/Thrash-Cover"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
     "id": "countess-march-of-the-ten-thousand",
     "band": "Countess",
     "title": "March of the Ten Thousand",
@@ -1018,31 +1045,6 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Countess/Spawn_of_Steel/76754",
         "note": "Metal Archives: Black/Power-Metal-Mix, Barbarian Wrath"
-      }
-    ]
-  },
-  {
-    "id": "country-gentlemen-matterhorn",
-    "band": "The Country Gentlemen",
-    "title": "Matterhorn",
-    "entities": [
-      "Matterhorn",
-      "Alpinismus",
-      "1865"
-    ],
-    "era": "1865 / 1966",
-    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://pickersguide.com/vocal-song/matterhorn/",
-        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
-      },
-      {
-        "type": "secondary",
-        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
-        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
       }
     ]
   },
@@ -1260,41 +1262,6 @@
         "type": "secondary",
         "url": "https://music.apple.com/us/album/houdinis-great-escapade/1615080953?i=1615080964",
         "note": "Apple Music"
-      }
-    ]
-  },
-  {
-    "id": "dartagnan-schinderhannes",
-    "band": "dArtagnan",
-    "title": "Schinderhannes",
-    "entities": [
-      "Schinderhannes",
-      "Johannes Bückler",
-      "Hunsrück"
-    ],
-    "era": "um 1803",
-    "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.muzikum.eu/nl/dartagnan/schinderhannes-songtekst",
-        "note": "Lyrics: Johannes Bückler; „Doch ein Held, das war ich nicht“; Moritat-Perspektive Gefangennahme/Hinrichtung"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.lieder-archiv.de/schinderhannes-notenblatt_400193.html",
-        "note": "Fränkisches Volkslied/Moritat als Textvorlage"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://de.wikipedia.org/wiki/Johannes_B%C3%BCckler",
-        "note": "Erwähnung des dArtagnan-Tracks zur Anti-Helden-/Mythos-These"
-      },
-      {
-        "type": "band",
-        "url": "http://www.metalimperium.com/2023/03/interview-with-dartagnan.html",
-        "note": "Band: Folk Rock / Musketier-Rock"
       }
     ]
   },
@@ -1744,6 +1711,33 @@
         "type": "secondary",
         "url": "https://music.apple.com/us/album/british-petroleum/1849539778?i=1849540185",
         "note": "Apple Music: British Petroleum - Single"
+      }
+    ]
+  },
+  {
+    "id": "eric-burdon-sixteen-tons",
+    "band": "Eric Burdon",
+    "title": "Sixteen Tons",
+    "entities": [
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
+    ],
+    "era": "1947 / 1990",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Rock-Cover (u. a. Joe Versus the Volcano / Nightwinds Dying; Access All Areas mit Brian Auger)"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
       }
     ]
   },
@@ -2652,6 +2646,31 @@
     ]
   },
   {
+    "id": "hmbc-vo-mello-bis-ge-schoppornou",
+    "band": "HMBC",
+    "title": "Vo Mello bis ge Schoppornou",
+    "entities": [
+      "Mellau",
+      "Schoppernau",
+      "Bregenzerwald"
+    ],
+    "era": "2010",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=wmI2m06YFfc",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.hmbc.at/de/medien/songtexte/vo-mello-bis-ge-schoppornou",
+        "note": "Offizielle Übersetzung: Heimweg nach Sauftour"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.diepresse.com/606729/vo-mello-bis-ge-schoppernou-gsibergerisch-als-kult",
+        "note": "Alpen-Pop/Reggae/Volksmusik-Hit"
+      }
+    ]
+  },
+  {
     "id": "hammerfall-steel-meets-steel",
     "band": "HammerFall",
     "title": "Steel Meets Steel",
@@ -2790,31 +2809,6 @@
     ]
   },
   {
-    "id": "hmbc-vo-mello-bis-ge-schoppornou",
-    "band": "HMBC",
-    "title": "Vo Mello bis ge Schoppornou",
-    "entities": [
-      "Mellau",
-      "Schoppernau",
-      "Bregenzerwald"
-    ],
-    "era": "2010",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=wmI2m06YFfc",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://www.hmbc.at/de/medien/songtexte/vo-mello-bis-ge-schoppornou",
-        "note": "Offizielle Übersetzung: Heimweg nach Sauftour"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.diepresse.com/606729/vo-mello-bis-ge-schoppernou-gsibergerisch-als-kult",
-        "note": "Alpen-Pop/Reggae/Volksmusik-Hit"
-      }
-    ]
-  },
-  {
     "id": "horresque-deepwater-horizon",
     "band": "Horresque",
     "title": "Deepwater Horizon",
@@ -2840,25 +2834,6 @@
     ]
   },
   {
-    "id": "iced-earth-attila",
-    "band": "Iced Earth",
-    "title": "Attila",
-    "entities": [
-      "Attila",
-      "Hunnen"
-    ],
-    "era": "5. Jh.",
-    "spotifyUrl": "https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1",
-    "youtubeUrl": "https://www.youtube.com/watch?v=1FU-FDxx31k",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://icedearth.com/albums/the-glorious-burden/",
-        "note": "The Glorious Burden"
-      }
-    ]
-  },
-  {
     "id": "ics-vortex-oil-in-water",
     "band": "ICS Vortex",
     "title": "Oil In Water",
@@ -2874,6 +2849,25 @@
         "type": "lyrics",
         "url": "https://www.metalkingdom.net/lyrics-song/ics-vortex-oil-in-water-57185",
         "note": "Storm Seeker (2011) — crude oil in water, spill metaphor"
+      }
+    ]
+  },
+  {
+    "id": "iced-earth-attila",
+    "band": "Iced Earth",
+    "title": "Attila",
+    "entities": [
+      "Attila",
+      "Hunnen"
+    ],
+    "era": "5. Jh.",
+    "spotifyUrl": "https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1FU-FDxx31k",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://icedearth.com/albums/the-glorious-burden/",
+        "note": "The Glorious Burden"
       }
     ]
   },
@@ -3990,26 +3984,29 @@
     ]
   },
   {
-    "id": "marx-brothers-hail-hail-freedonia",
-    "band": "The Marx Brothers",
-    "title": "Hail, Hail Freedonia",
+    "id": "memento-mori-sixteen-tons",
+    "band": "Memento Mori",
+    "title": "Sixteen Tons",
     "entities": [
-      "Freedonia",
-      "Duck Soup"
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
     ],
-    "era": "1933",
+    "era": "1947 / 1993",
     "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+    "youtubeUrl": null,
     "sources": [
       {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
-        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
+        "type": "secondary",
+        "url": "https://www.songlyrics.com/memento-mori/16-tons-lyrics/",
+        "note": "Hidden track Rhymes of Lunacy (1993) / auch Life, Death and Other Morbid Tales; Doom-Metal-Cover"
       },
       {
-        "type": "reference",
-        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
-        "note": "Hymn to Freedonia / Duck Soup"
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
       }
     ]
   },
@@ -4673,31 +4670,6 @@
     ]
   },
   {
-    "id": "ornatorpet-stockholms-blodbad",
-    "band": "Örnatorpet",
-    "title": "Stockholms Blodbad",
-    "entities": [
-      "Stockholmer Blutbad",
-      "Christian II.",
-      "Gustav Vasa"
-    ],
-    "era": "1520 / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
-      },
-      {
-        "type": "secondary",
-        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Label: medievalist dungeon synth"
-      }
-    ]
-  },
-  {
     "id": "ottone-pesante-battle-of-qadesh",
     "band": "Ottone Pesante",
     "title": "Battle of Qadesh",
@@ -4877,36 +4849,6 @@
         "type": "lyrics",
         "url": "http://pigwithfaceofboy.blogspot.com/2010/08/",
         "note": "Offizielle Lyrics/Video-Kontext"
-      }
-    ]
-  },
-  {
-    "id": "pogues-the-wake-of-the-medusa",
-    "band": "The Pogues",
-    "title": "The Wake of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault"
-    ],
-    "era": "1816 / Gemälde 1818–19",
-    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
-        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
-        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
-        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -7938,24 +7880,6 @@
     ]
   },
   {
-    "id": "schweisser-ich-bin-du-2",
-    "band": "Schweisser",
-    "title": "ich bin du 2",
-    "entities": [
-      "Saxophon"
-    ],
-    "era": "",
-    "spotifyUrl": "https://open.spotify.com/track/6Fes7eGlr1Xg7kuUq7jROg",
-    "youtubeUrl": "https://www.youtube.com/watch?v=xpFUpcb6E98",
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
-        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder."
-      }
-    ]
-  },
-  {
     "id": "schweisser-pausenclown",
     "band": "Schweisser",
     "title": "Pausenclown",
@@ -7993,6 +7917,24 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/bands/Schweisser/3540317122",
         "note": "German heavy metal / crossover"
+      }
+    ]
+  },
+  {
+    "id": "schweisser-ich-bin-du-2",
+    "band": "Schweisser",
+    "title": "ich bin du 2",
+    "entities": [
+      "Saxophon"
+    ],
+    "era": "",
+    "spotifyUrl": "https://open.spotify.com/track/6Fes7eGlr1Xg7kuUq7jROg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xpFUpcb6E98",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
+        "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Verwendet das für Schweissers frühe Metal-Crossover-Besetzung prägende Saxophon; die Folge behandelt das Instrument und seinen Erfinder."
       }
     ]
   },
@@ -8621,6 +8563,32 @@
     ]
   },
   {
+    "id": "sons-of-kemet-my-queen-is-yaa-asantewaa",
+    "band": "Sons of Kemet",
+    "title": "My Queen Is Yaa Asantewaa",
+    "entities": [
+      "Yaa Asantewaa",
+      "Asante",
+      "Goldener Schemel",
+      "1900"
+    ],
+    "era": "1900",
+    "spotifyUrl": "https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi",
+        "note": "Your Queen Is a Reptile (2018); Jazz/Afrobeat-Hommage an Yaa Asantewaa"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Yaa_Asantewaa",
+        "note": "Yaa Asantewaa / War of the Golden Stool"
+      }
+    ]
+  },
+  {
     "id": "spessartraeuber-schinderhannes",
     "band": "Spessarträuber",
     "title": "Schinderhannes",
@@ -8929,6 +8897,33 @@
     ]
   },
   {
+    "id": "stringybark-band-the-catalpa",
+    "band": "Stringybark Band",
+    "title": "The Catalpa",
+    "entities": [
+      "Catalpa",
+      "Fenians",
+      "Fremantle",
+      "New Bedford",
+      "1876"
+    ],
+    "era": "1876",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://stringybarkband.bandcamp.com/track/the-catalpa",
+        "note": "Folk-Ballade zur Catalpa-Rettung der Fenians aus Fremantle 1876"
+      },
+      {
+        "type": "secondary",
+        "url": "https://stewarthendrickson.com/songs/Catalpa.html",
+        "note": "Traditional Ballad of the Catalpa / Fenian escape"
+      }
+    ]
+  },
+  {
     "id": "sufjan-stevens-my-rajneesh",
     "band": "Sufjan Stevens",
     "title": "My Rajneesh",
@@ -9178,6 +9173,31 @@
     ]
   },
   {
+    "id": "country-gentlemen-matterhorn",
+    "band": "The Country Gentlemen",
+    "title": "Matterhorn",
+    "entities": [
+      "Matterhorn",
+      "Alpinismus",
+      "1865"
+    ],
+    "era": "1865 / 1966",
+    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://pickersguide.com/vocal-song/matterhorn/",
+        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
+        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
+      }
+    ]
+  },
+  {
     "id": "the-great-kat-strauss-the-blue-danube",
     "band": "The Great Kat",
     "title": "Strauss' The Blue Danube",
@@ -9231,6 +9251,30 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=9WPUlaLayxU",
         "note": "YouTube (The Human Error - Topic)"
+      }
+    ]
+  },
+  {
+    "id": "marx-brothers-hail-hail-freedonia",
+    "band": "The Marx Brothers",
+    "title": "Hail, Hail Freedonia",
+    "entities": [
+      "Freedonia",
+      "Duck Soup"
+    ],
+    "era": "1933",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+    "sources": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
+      },
+      {
+        "type": "reference",
+        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
+        "note": "Hymn to Freedonia / Duck Soup"
       }
     ]
   },
@@ -9326,6 +9370,86 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
         "note": "Video Mutiny on the HMS Bounty"
+      }
+    ]
+  },
+  {
+    "id": "pogues-the-wake-of-the-medusa",
+    "band": "The Pogues",
+    "title": "The Wake of the Medusa",
+    "entities": [
+      "Floß der Medusa",
+      "Méduse",
+      "Géricault"
+    ],
+    "era": "1816 / Gemälde 1818–19",
+    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
+        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
+        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
+        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-shockheaded-peter",
+    "band": "The Tiger Lillies",
+    "title": "Shockheaded Peter",
+    "entities": [
+      "Struwwelpeter",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Shockheaded Peter: A Junk Opera"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "note": "Musical nach Hoffmanns Struwwelpeter"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-snip-snip",
+    "band": "The Tiger Lillies",
+    "title": "Snip Snip",
+    "entities": [
+      "Struwwelpeter",
+      "Daumenlutscher",
+      "Konrad",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Track Snip Snip; Conrad / scissors man"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag369/",
+        "note": "Kommentar: Daumenlutscher Konrad"
       }
     ]
   },
@@ -9434,56 +9558,6 @@
     ]
   },
   {
-    "id": "tiger-lillies-shockheaded-peter",
-    "band": "The Tiger Lillies",
-    "title": "Shockheaded Peter",
-    "entities": [
-      "Struwwelpeter",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Shockheaded Peter: A Junk Opera"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
-        "note": "Musical nach Hoffmanns Struwwelpeter"
-      }
-    ]
-  },
-  {
-    "id": "tiger-lillies-snip-snip",
-    "band": "The Tiger Lillies",
-    "title": "Snip Snip",
-    "entities": [
-      "Struwwelpeter",
-      "Daumenlutscher",
-      "Konrad",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Track Snip Snip; Conrad / scissors man"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag369/",
-        "note": "Kommentar: Daumenlutscher Konrad"
-      }
-    ]
-  },
-  {
     "id": "tom-morello-the-bloody-beetroots-radium-girls",
     "band": "Tom Morello & The Bloody Beetroots",
     "title": "Radium Girls",
@@ -9523,6 +9597,33 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Fibonacci-Folge als Grundlage der Silbenstruktur; die Episode behandelt ihre Geschichte."
+      }
+    ]
+  },
+  {
+    "id": "tuff-sixteen-tons",
+    "band": "Tuff",
+    "title": "Sixteen Tons",
+    "entities": [
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
+    ],
+    "era": "1947 / 1995",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Religious Fix (1995); Hard-Rock-Cover"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
       }
     ]
   },
@@ -10414,6 +10515,33 @@
     ]
   },
   {
+    "id": "zz-top-jeff-beck-sixteen-tons-live-from-london",
+    "band": "ZZ Top feat. Jeff Beck",
+    "title": "Sixteen Tons (Live from London)",
+    "entities": [
+      "Company Store",
+      "Scrip",
+      "Truck system",
+      "Kohlebergbau",
+      "Appalachen"
+    ],
+    "era": "1947 / 2016",
+    "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge",
+        "note": "Single Sixteen Tons (feat. Jeff Beck) [Live From London], 2016"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+        "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
     "id": "zao-croatoan",
     "band": "Zao",
     "title": "Croatoan",
@@ -10439,29 +10567,62 @@
     ]
   },
   {
-    "id": "zz-top-jeff-beck-sixteen-tons-live-from-london",
-    "band": "ZZ Top feat. Jeff Beck",
-    "title": "Sixteen Tons (Live from London)",
+    "id": "dartagnan-schinderhannes",
+    "band": "dArtagnan",
+    "title": "Schinderhannes",
     "entities": [
-      "Company Store",
-      "Scrip",
-      "Truck system",
-      "Kohlebergbau",
-      "Appalachen"
+      "Schinderhannes",
+      "Johannes Bückler",
+      "Hunsrück"
     ],
-    "era": "1947 / 2016",
-    "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
-    "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
+    "era": "um 1803",
+    "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
     "sources": [
       {
+        "type": "lyrics",
+        "url": "https://www.muzikum.eu/nl/dartagnan/schinderhannes-songtekst",
+        "note": "Lyrics: Johannes Bückler; „Doch ein Held, das war ich nicht“; Moritat-Perspektive Gefangennahme/Hinrichtung"
+      },
+      {
         "type": "secondary",
-        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge",
-        "note": "Single Sixteen Tons (feat. Jeff Beck) [Live From London], 2016"
+        "url": "https://www.lieder-archiv.de/schinderhannes-notenblatt_400193.html",
+        "note": "Fränkisches Volkslied/Moritat als Textvorlage"
       },
       {
         "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
-        "note": "Cover von Merle Travis / Company Store / Truck system"
+        "url": "https://de.wikipedia.org/wiki/Johannes_B%C3%BCckler",
+        "note": "Erwähnung des dArtagnan-Tracks zur Anti-Helden-/Mythos-These"
+      },
+      {
+        "type": "band",
+        "url": "http://www.metalimperium.com/2023/03/interview-with-dartagnan.html",
+        "note": "Band: Folk Rock / Musketier-Rock"
+      }
+    ]
+  },
+  {
+    "id": "ornatorpet-stockholms-blodbad",
+    "band": "Örnatorpet",
+    "title": "Stockholms Blodbad",
+    "entities": [
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Gustav Vasa"
+    ],
+    "era": "1520 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
+      },
+      {
+        "type": "secondary",
+        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Label: medievalist dungeon synth"
       }
     ]
   }
