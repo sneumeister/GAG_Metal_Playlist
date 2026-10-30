@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-29 16:34:57 +0100<br>**JSON-Status:** 2026-10-29 16:04:45 +0100</small>
+<small>**Compile-Datum:** 2026-10-30 08:52:17 +0100<br>**JSON-Status:** 2026-10-30 08:48:52 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -110,11 +110,14 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [501](https://gadg.fm/501) | Wie die Jeans entstand | Manowar | Kings of Metal | X | [link](https://www.youtube.com/watch?v=RSSmwXy98IY) | [link](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) |
 | [502](https://gadg.fm/502) | Die Fehde und Kohlhase | Allerseelen | Schwefelfaden (Michael Kohlhaas) | X | — | — |
 | [507](https://gadg.fm/507) | Gefangen zwischen zwei Reichen – die Kowloon Walled City | Kowloon Walled City | Wrong Side of History | X | [link](https://www.youtube.com/watch?v=PnFcNGnhoiI) | [link](https://open.spotify.com/track/3xuct5UR3WzQHSClaQowi7) |
+| [509](https://gadg.fm/509) | Filmreife Flucht | Stringybark Band | The Catalpa | X | — | — |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Electric Light Orchestra | Roll Over Beethoven | X | [link](https://www.youtube.com/watch?v=c84FY_y8PYs) | [link](https://open.spotify.com/track/0UnR8nWskCt0BgfvypzaDl) |
+| [511](https://gadg.fm/511) | Eine Prinzessin auf der Flucht | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [515](https://gadg.fm/515) | Bhagwan und Bioterror | Sufjan Stevens | My Rajneesh | X | [link](https://www.youtube.com/watch?v=jn7_JpmhZP0) | [link](https://open.spotify.com/track/3SpWpHiCt8tbPuZG9AX0Wi) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sellsword | Hardrada | X | [link](https://www.youtube.com/watch?v=YAwkaPWTfrY) | — |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | Stand Up and Fight | X | [link](https://www.youtube.com/watch?v=7woW7DmnR0E) | [link](https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
+| [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Sons of Kemet | My Queen Is Yaa Asantewaa | X | — | [link](https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
 | [527](https://gadg.fm/527) | Botanik, Baret und Bougainville | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Martin Howley | Doctor Crippen | X | — | — |

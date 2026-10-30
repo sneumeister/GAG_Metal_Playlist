@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29 16:04:45 +0100",
+  "updatedAt": "2026-10-30 08:48:52 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1238,6 +1238,27 @@
       "songId": "kowloon-walled-city-wrong-side-of-history",
       "reason": "Folge = Kowloon Walled City als historischer Ort (Wachstum, Alltag, Abriss); Song = generische Isolation-/Zeitdruck-Lyrics ohne Hongkong-/Enklaven-Bezug — Bandname nach dem Ort (Forumsfund), Diskografie ohne Stadt-Erzählkern, nur Namensanker (Tier X).",
       "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 509,
+      "songId": "stringybark-band-the-catalpa",
+      "reason": "Folge = Catalpa-Rettung der Fenians aus Fremantle 1876; Song = Ballade derselben Flucht — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Traditional, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-30",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 521,
+      "songId": "sons-of-kemet-my-queen-is-yaa-asantewaa",
+      "reason": "Folge = Yaa Asantewaa und Krieg um den Goldenen Schemel; Song = Hommage an dieselbe Königinmutter und denselben Krieg — inhaltlich eng (bei Metal wäre Tier A). Genre = Jazz / Afrobeat, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-30",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 511,
+      "songId": "schandmaul-tjark-evers",
+      "reason": "Folge = Emily Ruete / Sayyida Salme (Sansibar-Flucht 1866, Bismarck-Kolonialpolitik); Song = Tod des Navigationsschülers Tjark Evers im Wattenmeer vor Baltrum 1866 — nur gemeinsames Jahr, andere Person und Ereignis (Tier X).",
+      "rejectedAt": "2026-10-30",
       "rejectedBy": "manual"
     }
   ]
