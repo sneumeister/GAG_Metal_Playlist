@@ -987,33 +987,6 @@
     ]
   },
   {
-    "id": "confessor-sixteen-tons",
-    "band": "Confessor",
-    "title": "Sixteen Tons",
-    "entities": [
-      "Company Store",
-      "Scrip",
-      "Truck system",
-      "Kohlebergbau",
-      "Appalachen"
-    ],
-    "era": "1947 / 1991",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "secondary",
-        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
-        "note": "Hidden track auf Condemned (1991); Progressive Doom/Thrash-Cover"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
-        "note": "Cover von Merle Travis / Company Store / Truck system"
-      }
-    ]
-  },
-  {
     "id": "countess-march-of-the-ten-thousand",
     "band": "Countess",
     "title": "March of the Ten Thousand",
@@ -1834,7 +1807,7 @@
     ],
     "era": "219 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=hA9BbIKxx1w",
     "sources": [
       {
         "type": "lyrics",
@@ -2349,8 +2322,8 @@
       "Niederlande"
     ],
     "era": "1568–1648 / 2004",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2f2jkP9Z8XtocOU4BRIS3f",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tARQH0vOulA",
     "sources": [
       {
         "type": "secondary",
@@ -2380,7 +2353,7 @@
       "New York"
     ],
     "era": "frühes 20. Jh. / 2006",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5iwvJrUZuneo0E3m2UQzk9",
     "youtubeUrl": "https://www.youtube.com/watch?v=EtTHEJLa44M",
     "sources": [
       {
@@ -2683,7 +2656,7 @@
     ],
     "era": "1095–1099",
     "spotifyUrl": "https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=bhAUntDJvSI",
     "sources": [
       {
         "type": "lyrics",
@@ -4928,7 +4901,7 @@
     ],
     "era": "1096–1099",
     "spotifyUrl": "https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r",
-    "youtubeUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=CIXchfB_sVc",
     "sources": [
       {
         "type": "lyrics",
@@ -8093,7 +8066,8 @@
         "url": "https://moshville.co.uk/news/video/2025/04/mercenary-symphonic-power-metallers-sellsword-release-battlecry-single-saxon-steel/",
         "note": "Band: night before battle with invading Vikings"
       }
-    ]
+    ],
+    "spotifyUrl": "https://open.spotify.com/track/3WdqYcoUjctK1LvqsHk6WX"
   },
   {
     "id": "sellsword-warwolf",

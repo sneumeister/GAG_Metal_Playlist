@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30 09:00:31 +0100",
+  "updatedAt": "2026-10-30 11:57:21 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -406,8 +406,8 @@
         "Achtzigjähriger Krieg",
         "Niederlande"
       ],
-      "spotifyUrl": null,
-      "youtubeUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/2f2jkP9Z8XtocOU4BRIS3f",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tARQH0vOulA",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -445,7 +445,7 @@
         "Mary Mallon",
         "Typhus"
       ],
-      "spotifyUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/5iwvJrUZuneo0E3m2UQzk9",
       "youtubeUrl": "https://www.youtube.com/watch?v=EtTHEJLa44M",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
@@ -673,7 +673,7 @@
         "Jerusalem"
       ],
       "spotifyUrl": "https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=bhAUntDJvSI",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -711,7 +711,7 @@
         "Jerusalem"
       ],
       "spotifyUrl": "https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=CIXchfB_sVc",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -1032,7 +1032,7 @@
         "Zweiter Punischer Krieg"
       ],
       "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
-      "youtubeUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=hA9BbIKxx1w",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1125,7 +1125,7 @@
         "Wikinger",
         "Frühengland"
       ],
-      "spotifyUrl": null,
+      "spotifyUrl": "https://open.spotify.com/track/3WdqYcoUjctK1LvqsHk6WX",
       "youtubeUrl": "https://www.youtube.com/watch?v=GD-eZVQorPI",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
@@ -3906,26 +3906,6 @@
       "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
       "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
       "matchedAt": "2026-10-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 573,
-      "episodeTitle": "Scrip, Truck und der Company Store",
-      "episodeUrl": "https://gadg.fm/573",
-      "songId": "confessor-sixteen-tons",
-      "band": "Confessor",
-      "songTitle": "Sixteen Tons",
-      "matchTier": "A",
-      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Doom/Prog-Thrash-Cover von Sixteen Tons (Schuld und Company Store im Kohlebergbau) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Company Store",
-        "Scrip",
-        "Truck system",
-        "Kohlebergbau"
-      ],
-      "spotifyUrl": null,
-      "youtubeUrl": null,
-      "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     },
     {

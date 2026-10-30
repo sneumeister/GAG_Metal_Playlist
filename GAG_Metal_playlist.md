@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-30 09:00:31 +0100<br>**JSON-Status:** 2026-10-30 09:00:31 +0100</small>
+<small>**Compile-Datum:** 2026-10-30 11:57:21 +0100<br>**JSON-Status:** 2026-10-30 11:57:21 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -34,9 +34,9 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Flashback of Anger | Holdout | A | [link](https://www.youtube.com/watch?v=uxvn-gIFVZo) | [link](https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30) |
 | [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Wotan | La Chanson de Roland | A | [link](https://www.youtube.com/watch?v=i1-M8BmWB5o) | [link](https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On) |
 | [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Kamelot | Song of Roland | A | [link](https://www.youtube.com/watch?v=jYAAUwtmKcA) | [link](https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ) |
-| [80](https://gadg.fm/80) | Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden | God Dethroned | Arch Enemy Spain | C | — | — |
+| [80](https://gadg.fm/80) | Eine Kirche auf dem Dachboden – Reformation und das Goldene Zeitalter in den Niederlanden | God Dethroned | Arch Enemy Spain | C | [link](https://www.youtube.com/watch?v=tARQH0vOulA) | [link](https://open.spotify.com/track/2f2jkP9Z8XtocOU4BRIS3f) |
 | [83](https://gadg.fm/83) | 100 Jahre vor der Reformation – Jan Hus und die Hussitenkriege | Saxorior | Hussiten | A | [link](https://www.youtube.com/watch?v=p37k-uPWqQc) | [link](https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud) |
-| [92](https://gadg.fm/92) | Die Geschichte der Typhoid Mary | God Dethroned | Typhoid Mary | A | [link](https://www.youtube.com/watch?v=EtTHEJLa44M) | — |
+| [92](https://gadg.fm/92) | Die Geschichte der Typhoid Mary | God Dethroned | Typhoid Mary | A | [link](https://www.youtube.com/watch?v=EtTHEJLa44M) | [link](https://open.spotify.com/track/5iwvJrUZuneo0E3m2UQzk9) |
 | [100](https://gadg.fm/100) | Der Fall der „Mignonette“ und seine Folgen | Scent of Amber | Custom of the Sea | A | [link](https://www.youtube.com/watch?v=P_KOPhWUXcw) | [link](https://open.spotify.com/track/5epQW1revzqLK58ffFcwac) |
 | [102](https://gadg.fm/102) | Ein Picknick, das die Welt verändert | Scorpions | Wind of Change | C | [link](https://www.youtube.com/watch?v=n4RjJKxsamQ) | [link](https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw) |
 | [104](https://gadg.fm/104) | Crécy - Chronik eines Versagens | Fireforce | Fly Arrow Fly (Crécy 1346) | A | [link](https://www.youtube.com/watch?v=rnBBQPzwDxo) | [link](https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX) |
@@ -49,8 +49,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [126](https://gadg.fm/126) | Für immer im Eis – die Franklin Expedition | Iron Maiden | Stranger in a Strange Land | B | [link](https://www.youtube.com/watch?v=UJsl-bB7lmk) | [link](https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2) |
 | [132](https://gadg.fm/132) | Gesche Gottfried, der Engel von Bremen | Team Scheisse | Spuckstein | C | [link](https://www.youtube.com/watch?v=2JnmtQVgcL0) | [link](https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Warkings | Azrael | C | [link](https://www.youtube.com/watch?v=BXOM-CQGV0E) | [link](https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz) |
-| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Powerwolf | Christ & Combat | B | — | [link](https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r) |
-| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | HammerFall | Steel Meets Steel | B | — | [link](https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN) |
+| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Powerwolf | Christ & Combat | B | [link](https://www.youtube.com/watch?v=CIXchfB_sVc) | [link](https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r) |
+| [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | HammerFall | Steel Meets Steel | B | [link](https://www.youtube.com/watch?v=bhAUntDJvSI) | [link](https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN) |
 | [133](https://gadg.fm/133) | Alexios Komnenos und der Erste Kreuzzug | Judicator | The Queen of All Cities | B | [link](https://www.youtube.com/watch?v=SGj0HvYXxT4) | [link](https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo) |
 | [144](https://gadg.fm/144) | Die Spanische Grippe | Sarcoptes | Spanish Flu | A | [link](https://www.youtube.com/watch?v=d7XCKmdF2_g) | [link](https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy) |
 | [146](https://gadg.fm/146) | Tripel-Allianz-Krieg | Uncönquerable | Imperial Genocide | B | [link](https://www.youtube.com/watch?v=hsZD5TUGbVM) | [link](https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK) |
@@ -67,12 +67,12 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Feuerschwanz | Malleus Maleficarum | C | [link](https://www.youtube.com/watch?v=OigEnWlVN14) | [link](https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq) |
 | [184](https://gadg.fm/184) | Katharina Kepler – ein Hexenprozess in der Frühen Neuzeit | Saxon | Witches Of Salem | C | [link](https://www.youtube.com/watch?v=mN5mfBDUNMQ) | [link](https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Crossing of the Alps | B | [link](https://www.youtube.com/watch?v=96hIqTCmqbY) | [link](https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5) |
-| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Hispania (The Siege of Saguntum) | C | — | [link](https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF) |
+| [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Hispania (The Siege of Saguntum) | C | [link](https://www.youtube.com/watch?v=hA9BbIKxx1w) | [link](https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Sabaton | Lightning at the Gates | B | [link](https://www.youtube.com/watch?v=SXLvfxYC5NQ) | [link](https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD) |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | The Rise of Hannibal | C | — | [link](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) |
 | [190](https://gadg.fm/190) | Die Assassinen | Grave Digger | Fanatic Assassins | B | [link](https://www.youtube.com/watch?v=9AQZxSDE8Aw) | [link](https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld) |
 | [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Forefather | Cween of the Mark | A | [link](https://www.youtube.com/watch?v=JiwF23IXGoI) | — |
-| [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Sellsword | Saxon Steel | C | [link](https://www.youtube.com/watch?v=GD-eZVQorPI) | — |
+| [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Sellsword | Saxon Steel | C | [link](https://www.youtube.com/watch?v=GD-eZVQorPI) | [link](https://open.spotify.com/track/3WdqYcoUjctK1LvqsHk6WX) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Gorod | Birds of Sulphur | A | [link](https://www.youtube.com/watch?v=898nYYqS4Bg) | [link](https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | Kiew | C | [link](https://www.youtube.com/watch?v=L5SCRvI2MWg) | [link](https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rebellion | The Rus | C | [link](https://www.youtube.com/watch?v=AqFPUu1-uDE) | [link](https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x) |
@@ -211,7 +211,6 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=OYfdXL7sKVI) | [link](https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Nina Hagen | 16 tons | A | [link](https://www.youtube.com/watch?v=_vKDiyo178E) | [link](https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq) |
-| [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Confessor | Sixteen Tons | A | — | — |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Memento Mori | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=wkhSwt5dUIs) | [link](https://open.spotify.com/track/41ohp3jJvzNwztKho8VI8F) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Tuff | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=sufrH2MNhHU) | [link](https://open.spotify.com/track/3hEqEzQg6KGMuzROEcELrL) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Eric Burdon | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=1IIittOtGZA) | [link](https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry) |
