@@ -13,7 +13,7 @@ declare(strict_types=1);
     <header class="hero">
       <p class="brand">GAG Metal Playlist</p>
       <h1>Mitmachen</h1>
-      <p class="lead">Songvorschlag, Korrektur oder anderes Feedback – ohne GitHub-Login. Nach Absenden landet ein Issue im öffentlichen Repo.</p>
+      <p class="lead">Songvorschlag, Korrektur oder anderes Feedback – ohne GitHub-Login. Nach Absenden landet ein Issue im öffentlichen Repo. Alternativ mit Ihrem GitHub-Account direkt den <a href="https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose">Issue anlegen</a>.</p>
     </header>
 
     <form id="mitmachen" class="form" novalidate>

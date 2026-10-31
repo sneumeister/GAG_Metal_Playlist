@@ -81,6 +81,11 @@ h1 {
   color: var(--muted);
   line-height: 1.45;
 }
+.lead a {
+  color: var(--accent);
+  text-underline-offset: 0.15em;
+}
+.lead a:hover { color: var(--ink); }
 
 .form {
   display: grid;
