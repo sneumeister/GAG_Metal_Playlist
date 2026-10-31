@@ -29,7 +29,7 @@ if (!RateLimit::allow($dir, 'code_mail_' . RateLimit::emailHash($email), $maxMai
 
 $code = OneTimeCode::generate();
 $ttl = (int) ($cfg['codeTtlSeconds'] ?? 1200);
-OneTimeCode::store((string) $cfg['codesDir'], $code, $ttl);
+$codesDir = (string) $cfg['codesDir'];
 
 $minutes = max(1, (int) round($ttl / 60));
 $body = "Dein Bestätigungscode für die GAG Metal Playlist:\n\n"
@@ -45,8 +45,19 @@ try {
         'Dein Code – GAG Metal Playlist',
         $body
     );
+} catch (MailerException $e) {
+    app_json_response([
+        'ok' => false,
+        'error' => $e->getMessage(),
+        'phase' => $e->phase,
+    ], 502);
 } catch (Throwable $e) {
-    app_json_response(['ok' => false, 'error' => 'Code-Mail konnte nicht versendet werden. Bitte später erneut versuchen.'], 502);
+    app_json_response([
+        'ok' => false,
+        'error' => 'Unerwarteter Fehler beim Mailversand: ' . $e->getMessage(),
+        'phase' => 'unknown',
+    ], 502);
 }
 
+OneTimeCode::store($codesDir, $code, $ttl);
 app_json_response(['ok' => true, 'message' => 'Wenn die Adresse gültig ist, wurde ein Code versendet.']);

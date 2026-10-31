@@ -1,6 +1,17 @@
 <?php
 declare(strict_types=1);
 
+final class MailerException extends RuntimeException
+{
+    public function __construct(
+        string $message,
+        public readonly string $phase = 'smtp',
+        ?Throwable $previous = null
+    ) {
+        parent::__construct($message, 0, $previous);
+    }
+}
+
 final class Mailer
 {
     /** @param array<string,mixed> $smtp */
@@ -14,8 +25,11 @@ final class Mailer
         $fromName = (string) ($smtp['fromName'] ?? $from);
         $enc = (string) ($smtp['encryption'] ?? 'ssl');
 
-        if ($host === '' || $user === '' || $pass === '') {
-            throw new RuntimeException('SMTP ist unvollständig konfiguriert.');
+        if ($host === '' || $user === '' || $pass === '' || str_starts_with($pass, 'YOUR_')) {
+            throw new MailerException(
+                'SMTP ist unvollständig konfiguriert (Host/User/Passwort in private/config.php prüfen).',
+                'config'
+            );
         }
 
         $remote = ($enc === 'ssl' ? 'ssl://' : '') . $host . ':' . $port;
@@ -23,19 +37,24 @@ final class Mailer
         $errstr = '';
         $fp = @stream_socket_client($remote, $errno, $errstr, 30, STREAM_CLIENT_CONNECT);
         if ($fp === false) {
-            throw new RuntimeException('SMTP-Verbindung fehlgeschlagen: ' . $errstr);
+            throw new MailerException(
+                'SMTP-Server nicht erreichbar (' . $host . ':' . $port . ')'
+                . ($errstr !== '' ? ': ' . $errstr : '')
+                . '. Host/Port/SSL bzw. Firewall prüfen.',
+                'connect'
+            );
         }
         stream_set_timeout($fp, 30);
 
         try {
-            self::expect($fp, 220);
-            self::cmd($fp, 'EHLO gag-playlist.local', 250);
-            self::cmd($fp, 'AUTH LOGIN', 334);
-            self::cmd($fp, base64_encode($user), 334);
-            self::cmd($fp, base64_encode($pass), 235);
-            self::cmd($fp, 'MAIL FROM:<' . $from . '>', 250);
-            self::cmd($fp, 'RCPT TO:<' . $to . '>', 250);
-            self::cmd($fp, 'DATA', 354);
+            self::expect($fp, 220, 'connect');
+            self::cmd($fp, 'EHLO gag-playlist.local', 250, 'handshake');
+            self::cmd($fp, 'AUTH LOGIN', 334, 'auth');
+            self::cmd($fp, base64_encode($user), 334, 'auth');
+            self::cmd($fp, base64_encode($pass), 235, 'auth');
+            self::cmd($fp, 'MAIL FROM:<' . $from . '>', 250, 'from');
+            self::cmd($fp, 'RCPT TO:<' . $to . '>', 250, 'recipient');
+            self::cmd($fp, 'DATA', 354, 'data');
 
             $headers = [
                 'Date: ' . date('r'),
@@ -48,22 +67,22 @@ final class Mailer
             ];
             $data = implode("\r\n", $headers) . "\r\n\r\n" . self::dotStuff($body) . "\r\n.";
             fwrite($fp, $data . "\r\n");
-            self::expect($fp, 250);
-            self::cmd($fp, 'QUIT', 221);
+            self::expect($fp, 250, 'data');
+            self::cmd($fp, 'QUIT', 221, 'quit');
         } finally {
             fclose($fp);
         }
     }
 
     /** @param resource $fp */
-    private static function cmd($fp, string $line, int $expectCode): void
+    private static function cmd($fp, string $line, int $expectCode, string $phase): void
     {
         fwrite($fp, $line . "\r\n");
-        self::expect($fp, $expectCode);
+        self::expect($fp, $expectCode, $phase);
     }
 
     /** @param resource $fp */
-    private static function expect($fp, int $code): void
+    private static function expect($fp, int $code, string $phase): void
     {
         $resp = '';
         while (($line = fgets($fp, 515)) !== false) {
@@ -74,8 +93,38 @@ final class Mailer
         }
         $got = (int) substr($resp, 0, 3);
         if ($got !== $code) {
-            throw new RuntimeException('SMTP unerwartet: ' . trim($resp));
+            throw new MailerException(self::friendly($phase, $got, trim($resp)), $phase);
         }
+    }
+
+    private static function friendly(string $phase, int $got, string $resp): string
+    {
+        $snip = self::safeSmtpSnippet($resp);
+        return match ($phase) {
+            'auth' => 'SMTP-Anmeldung fehlgeschlagen (vermutlich falsches Postfach-Passwort oder User).'
+                . ($snip !== '' ? ' Server: ' . $snip : ''),
+            'recipient' => 'Empfänger vom SMTP-Server abgelehnt (Adresse ungültig oder nicht zustellbar).'
+                . ($snip !== '' ? ' Server: ' . $snip : ''),
+            'from' => 'Absender vom SMTP-Server abgelehnt (From/User in der Config prüfen).'
+                . ($snip !== '' ? ' Server: ' . $snip : ''),
+            'connect' => 'SMTP-Begrüßung fehlgeschlagen.'
+                . ($snip !== '' ? ' Server: ' . $snip : ''),
+            'data' => 'SMTP hat die Mail-Daten nicht akzeptiert.'
+                . ($snip !== '' ? ' Server: ' . $snip : ''),
+            default => 'SMTP-Fehler (Phase ' . $phase . ', Code ' . $got . ').'
+                . ($snip !== '' ? ' Server: ' . $snip : ''),
+        };
+    }
+
+    /** SMTP-Text ohne Credential-Leaks kürzen. */
+    private static function safeSmtpSnippet(string $resp): string
+    {
+        $resp = preg_replace('/[A-Za-z0-9+\/=]{20,}/', '[…]', $resp) ?? $resp;
+        $resp = preg_replace('/\b\S+@\S+\b/', '[Adresse]', $resp) ?? $resp;
+        if (strlen($resp) > 160) {
+            $resp = substr($resp, 0, 157) . '…';
+        }
+        return $resp;
     }
 
     private static function encodeAddress(string $name, string $email): string

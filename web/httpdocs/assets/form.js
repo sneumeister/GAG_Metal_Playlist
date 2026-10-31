@@ -45,9 +45,21 @@
       body.set('email', email);
       body.set('website', form.website.value);
       const res = await fetch('request_code.php', { method: 'POST', body, credentials: 'same-origin' });
-      const data = await res.json().catch(() => ({}));
+      const raw = await res.text();
+      let data = {};
+      try {
+        data = raw ? JSON.parse(raw) : {};
+      } catch {
+        showStatus(
+          'Serverantwort ungültig (HTTP ' + res.status + '). '
+          + (raw ? raw.replace(/\s+/g, ' ').slice(0, 180) : 'Leerer Body – PHP-/Pfadfehler prüfen.'),
+          'err'
+        );
+        return;
+      }
       if (!res.ok || !data.ok) {
-        showStatus(data.error || 'Code konnte nicht angefordert werden.', 'err');
+        const phase = data.phase ? ' [' + data.phase + ']' : '';
+        showStatus((data.error || ('Code konnte nicht angefordert werden (HTTP ' + res.status + ').')) + phase, 'err');
         return;
       }
       showStatus(data.message || 'Code versendet. Bitte Posteingang und Spam prüfen.', 'ok');

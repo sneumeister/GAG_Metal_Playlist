@@ -13,10 +13,11 @@ function app_config(): array
     }
     $path = dirname(__DIR__, 2) . DIRECTORY_SEPARATOR . 'private' . DIRECTORY_SEPARATOR . 'config.php';
     if (!is_file($path)) {
-        http_response_code(500);
-        header('Content-Type: text/plain; charset=utf-8');
-        echo 'Konfiguration fehlt (private/config.php).';
-        exit(1);
+        app_json_response([
+            'ok' => false,
+            'error' => 'Server-Konfiguration fehlt (private/config.php). Bitte per SFTP anlegen.',
+            'phase' => 'config',
+        ], 500);
     }
     $cfg = require $path;
     if (!is_array($cfg)) {
