@@ -25,7 +25,7 @@ body:
     id: eintrag
     attributes:
       label: Betroffener Eintrag
-      description: Band – Song und/oder Folgennummer bzw. Folgentitel, damit wir den Eintrag finden.
+      description: Freitext – Band, Song und/oder Folge bzw. was geändert werden soll (auch Rejects), damit wir den Eintrag finden.
       placeholder: z. B. Sabaton – The Last Stand / Folge 123
     validations:
       required: true
