@@ -3957,6 +3957,37 @@
     ]
   },
   {
+    "id": "mastodon-blood-and-thunder",
+    "band": "Mastodon",
+    "title": "Blood and Thunder",
+    "entities": [
+      "Moby Dick",
+      "Captain Ahab",
+      "Herman Melville",
+      "Pequod"
+    ],
+    "era": "1851 / 2004",
+    "spotifyUrl": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TsdIO8RHMTc",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songfacts.com/lyrics/mastodon/blood-and-thunder",
+        "note": "Leviathan (2004) — Ahab / white whale (Moby-Dick)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Leviathan_(Mastodon_album)",
+        "note": "Concept album Moby-Dick; full artwork wave echoes Hokusai"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.revolvermag.com/culture/mastodons-leviathan-story-behind-cover-art/",
+        "note": "Paul Romano: Hokusai wave in Leviathan artwork"
+      }
+    ]
+  },
+  {
     "id": "memento-mori-sixteen-tons",
     "band": "Memento Mori",
     "title": "Sixteen Tons",
