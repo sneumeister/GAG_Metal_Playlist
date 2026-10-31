@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-30 11:57:21 +0100<br>**JSON-Status:** 2026-10-30 11:57:21 +0100</small>
+<small>**Compile-Datum:** 2026-10-31 22:27:09 +0100<br>**JSON-Status:** 2026-10-31 22:27:09 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -149,6 +149,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [443](https://gadg.fm/443) | J.S. Bach oder Wie sich ein Komponist den Lebensunterhalt verdient | Allegaeon | Concerto in Dm | C | [link](https://www.youtube.com/watch?v=_EtcIrkG8FA) | [link](https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i) |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part I - Hero) | B | [link](https://www.youtube.com/watch?v=cw0fl3AFsLU) | [link](https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U) |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Lorimer Burst | The Flight of Ham (Part II - Victim) | B | [link](https://www.youtube.com/watch?v=BUE_FrVf8m0) | [link](https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim) |
+| [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Battle of Marathon | C | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Sparta | A | [link](https://www.youtube.com/watch?v=MeOSgsJJ12M) | [link](https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
