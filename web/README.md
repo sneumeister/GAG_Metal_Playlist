@@ -10,8 +10,12 @@ web/private/    → config.php (Secrets), form-codes/, rate-limits/
 ```
 
 1. `web/private/config.example.php` nach `config.php` kopieren und Secrets setzen.
-2. Docroot auf `web/httpdocs` zeigen (PHP ≥ 8.1, cURL, mbstring).
+2. Docroot auf `web/httpdocs` zeigen (**PHP ≥ 8.1**, cURL, OpenSSL, mbstring).
 3. `private/` darf nicht öffentlich erreichbar sein.
+
+**Plesk:** Domain/Subdomain → PHP-Einstellungen → Version **8.1+** (nicht 7.4).  
+`open_basedir` = 2. Vorlage `{WEBSPACEROOT}{/}{:}{TMP}{/}{:}{/}var{/}lib{/}php{/}sessions` (nicht nur `{DOCROOT}` – sonst kein Zugriff auf `../private`).  
+Diagnose: `/health.php` (`phpOk`, `configExists` müssen `true` sein).
 
 ## Deploy (Plesk Git)
 

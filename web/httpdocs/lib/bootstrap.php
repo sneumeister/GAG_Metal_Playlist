@@ -3,7 +3,20 @@ declare(strict_types=1);
 
 /**
  * Gemeinsames Bootstrap für Formular-Endpunkte.
+ * Benötigt PHP ≥ 8.1 (match, str_starts_with, …).
  */
+
+if (PHP_VERSION_ID < 80100) {
+    http_response_code(500);
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode([
+        'ok' => false,
+        'error' => 'PHP ' . PHP_VERSION . ' ist zu alt. Bitte in Plesk für diese Subdomain PHP 8.1 oder neuer einstellen (aktuell erforderlich wegen match/str_starts_with).',
+        'phase' => 'php',
+        'php' => PHP_VERSION,
+    ], JSON_UNESCAPED_UNICODE);
+    exit(1);
+}
 
 function app_private_dir(): string
 {

@@ -1,14 +1,34 @@
 (() => {
   const form = document.getElementById('mitmachen');
   const typeSelect = document.getElementById('type');
-  const statusEl = document.getElementById('status');
+  const codeStatusEl = document.getElementById('code-status');
+  const resultEl = document.getElementById('result');
+  const resultTextEl = document.getElementById('result-text');
   const btnCode = document.getElementById('btn-code');
   const btnSubmit = document.getElementById('btn-submit');
 
-  function showStatus(msg, kind) {
-    statusEl.hidden = false;
-    statusEl.textContent = msg;
-    statusEl.className = 'status ' + (kind || '');
+  function showCodeStatus(msg, kind) {
+    codeStatusEl.hidden = false;
+    codeStatusEl.textContent = msg;
+    codeStatusEl.className = 'status ' + (kind || '');
+  }
+
+  function clearCodeStatus() {
+    codeStatusEl.hidden = true;
+    codeStatusEl.textContent = '';
+    codeStatusEl.className = 'status';
+  }
+
+  function showResult(msg, kind) {
+    resultEl.hidden = false;
+    resultEl.className = 'result ' + (kind || '');
+    resultTextEl.textContent = msg;
+  }
+
+  function clearResult() {
+    resultEl.hidden = true;
+    resultEl.className = 'result';
+    resultTextEl.textContent = '';
   }
 
   function setBusy(busy) {
@@ -34,12 +54,13 @@
   btnCode.addEventListener('click', async () => {
     const email = form.email.value.trim();
     if (!email) {
-      showStatus('Bitte zuerst eine E-Mail-Adresse eintragen.', 'err');
+      showCodeStatus('Bitte zuerst eine E-Mail-Adresse eintragen.', 'err');
       form.email.focus();
       return;
     }
     setBusy(true);
-    showStatus('Code wird versendet …', '');
+    clearResult();
+    showCodeStatus('Code wird versendet …', '');
     try {
       const body = new FormData();
       body.set('email', email);
@@ -50,7 +71,7 @@
       try {
         data = raw ? JSON.parse(raw) : {};
       } catch {
-        showStatus(
+        showCodeStatus(
           'Serverantwort ungültig (HTTP ' + res.status + '). '
           + (raw ? raw.replace(/\s+/g, ' ').slice(0, 180) : 'Leerer Body – PHP-Fatal/Extensions prüfen (…/health.php).'),
           'err'
@@ -62,13 +83,13 @@
         const fallback = !raw
           ? 'Code-Anforderung fehlgeschlagen (HTTP ' + res.status + ', leerer Body). Bitte /health.php prüfen.'
           : 'Code konnte nicht angefordert werden (HTTP ' + res.status + ').';
-        showStatus((data.error || fallback) + phase, 'err');
+        showCodeStatus((data.error || fallback) + phase, 'err');
         return;
       }
-      showStatus(data.message || 'Code versendet. Bitte Posteingang und Spam prüfen.', 'ok');
+      showCodeStatus(data.message || 'Code versendet. Bitte Posteingang und Spam prüfen.', 'ok');
       form.code.focus();
     } catch {
-      showStatus('Netzwerkfehler beim Anfordern des Codes.', 'err');
+      showCodeStatus('Netzwerkfehler beim Anfordern des Codes.', 'err');
     } finally {
       setBusy(false);
     }
@@ -78,29 +99,40 @@
     ev.preventDefault();
     const code = form.code.value.trim();
     if (!/^[A-Za-z0-9]{8}$/.test(code)) {
-      showStatus('Bitte den 8-stelligen Code aus der Mail eintragen.', 'err');
+      showCodeStatus('Bitte den 8-stelligen Code aus der Mail eintragen.', 'err');
       form.code.focus();
       return;
     }
     setBusy(true);
-    showStatus('Wird geprüft und eingereicht …', '');
+    clearCodeStatus();
+    showResult('Wird geprüft und eingereicht …', '');
     try {
       const body = new FormData(form);
-      // Nur Felder des aktiven Typs mitsenden: disabled Inputs fehlen schon.
       const res = await fetch('submit_form.php', { method: 'POST', body, credentials: 'same-origin' });
-      const data = await res.json().catch(() => ({}));
+      const raw = await res.text();
+      let data = {};
+      try {
+        data = raw ? JSON.parse(raw) : {};
+      } catch {
+        showResult(
+          'Serverantwort ungültig (HTTP ' + res.status + '). '
+          + (raw ? raw.replace(/\s+/g, ' ').slice(0, 180) : 'Leerer Body.'),
+          'err'
+        );
+        return;
+      }
       if (!res.ok || !data.ok) {
-        showStatus(data.error || 'Einsendung fehlgeschlagen.', 'err');
+        showResult(data.error || ('Einsendung fehlgeschlagen (HTTP ' + res.status + ').'), 'err');
         return;
       }
       if (data.redirect) {
-        showStatus('Issue angelegt – Weiterleitung …', 'ok');
+        showResult('Issue angelegt – Weiterleitung …', 'ok');
         window.location.href = data.redirect;
         return;
       }
-      showStatus('Gespeichert.', 'ok');
+      showResult('Gespeichert.', 'ok');
     } catch {
-      showStatus('Netzwerkfehler beim Absenden.', 'err');
+      showResult('Netzwerkfehler beim Absenden.', 'err');
     } finally {
       setBusy(false);
     }

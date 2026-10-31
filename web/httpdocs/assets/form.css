@@ -215,6 +215,38 @@ textarea:focus {
   color: var(--err-ink);
 }
 
+.result {
+  margin: 0.35rem 0 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: color-mix(in srgb, var(--bg1) 70%, transparent);
+}
+.result-label {
+  margin: 0 0 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.result-text {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: var(--ink);
+}
+.result.ok {
+  border-color: color-mix(in srgb, var(--ok) 45%, var(--line));
+  background: color-mix(in srgb, var(--ok) 14%, transparent);
+}
+.result.ok .result-text { color: var(--ok-ink); }
+.result.err {
+  border-color: color-mix(in srgb, var(--err) 45%, var(--line));
+  background: color-mix(in srgb, var(--err) 14%, transparent);
+}
+.result.err .result-text { color: var(--err-ink); }
+
 .hp {
   position: absolute;
   left: -10000px;

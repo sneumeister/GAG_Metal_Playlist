@@ -145,13 +145,17 @@ declare(strict_types=1);
             <input name="code" id="code" type="text" maxlength="8" minlength="8" autocomplete="one-time-code" spellcheck="false" placeholder="8 Zeichen" required>
           </label>
         </div>
+        <p id="code-status" class="status" role="status" aria-live="polite" hidden></p>
       </fieldset>
-
-      <p id="status" class="status" role="status" aria-live="polite" hidden></p>
 
       <div class="actions">
         <button type="submit" id="btn-submit" class="btn primary">Absenden</button>
         <a class="quiet" href="https://github.com/sneumeister/GAG_Metal_Playlist">Zum Repo</a>
+      </div>
+
+      <div id="result" class="result" role="status" aria-live="polite" hidden>
+        <p class="result-label">Ergebnis</p>
+        <p id="result-text" class="result-text"></p>
       </div>
     </form>
   </main>
