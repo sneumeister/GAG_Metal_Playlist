@@ -9,7 +9,7 @@ final class IssueBuilder
      */
     public static function build(string $type, array $fields): array
     {
-        $note = "\n\n---\nEingereicht über Webformular (E-Mail bestätigt).\n";
+        $note = "\n\n---\nEingereicht über Webformular.\n";
 
         return match ($type) {
             'vorschlag' => [

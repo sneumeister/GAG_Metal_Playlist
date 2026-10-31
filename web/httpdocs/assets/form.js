@@ -36,6 +36,26 @@
     btnSubmit.disabled = busy;
   }
 
+  /** Kurze Pause vor dem Issue-Link, damit die Triage-Action Labels/Kommentar setzen kann. */
+  function redirectAfterCountdown(url, seconds) {
+    let left = seconds;
+    const tick = () => {
+      showResult(
+        left > 0
+          ? 'Issue angelegt. Weiterleitung in ' + left + ' s …'
+          : 'Issue angelegt – Weiterleitung …',
+        'ok'
+      );
+      if (left <= 0) {
+        window.location.href = url;
+        return;
+      }
+      left -= 1;
+      window.setTimeout(tick, 1000);
+    };
+    tick();
+  }
+
   function syncPanels() {
     const t = typeSelect.value;
     form.querySelectorAll('.panel').forEach((panel) => {
@@ -106,6 +126,7 @@
     setBusy(true);
     clearCodeStatus();
     showResult('Wird geprüft und eingereicht …', '');
+    let holdBusy = false;
     try {
       const body = new FormData(form);
       const res = await fetch('submit_form.php', { method: 'POST', body, credentials: 'same-origin' });
@@ -126,15 +147,15 @@
         return;
       }
       if (data.redirect) {
-        showResult('Issue angelegt – Weiterleitung …', 'ok');
-        window.location.href = data.redirect;
+        holdBusy = true;
+        redirectAfterCountdown(data.redirect, 10);
         return;
       }
       showResult('Gespeichert.', 'ok');
     } catch {
       showResult('Netzwerkfehler beim Absenden.', 'err');
     } finally {
-      setBusy(false);
+      if (!holdBusy) setBusy(false);
     }
   });
 })();
