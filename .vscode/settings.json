@@ -1,0 +1,6 @@
+{
+  "markdownlint.ignore": [
+    "GAG_Metal_playlist.md",
+    "GAG_Metal_rejected.md"
+  ]
+}

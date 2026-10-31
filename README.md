@@ -29,7 +29,10 @@ In der Playlist erscheinen Stufe A, B und C; Stufe X ist der Reject-Sammler.
 
 ## Mitmachen
 
-Songvorschläge, Korrekturen und anderes Feedback: über [GitHub Issues](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose) (Formular wählen).
+Songvorschläge, Korrekturen und anderes Feedback:
+
+- mit GitHub-Account: [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose)
+- ohne GitHub-Account: [Webformular](https://gag-playlist.sneumeister.de/)
 
 ## Hinweis
 
