@@ -82,6 +82,7 @@ declare(strict_types=1);
         </label>
         <label class="field">
           <span class="label">Betroffener Eintrag <abbr title="Pflicht">*</abbr></span>
+          <span class="field-hint">Freitext: Band, Song und/oder Folge – bzw. was geändert werden soll (auch Rejects).</span>
           <input name="eintrag" type="text" maxlength="240" placeholder="z. B. Sabaton – The Last Stand / Folge 123" autocomplete="off">
         </label>
         <label class="field">
