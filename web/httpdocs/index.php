@@ -128,11 +128,16 @@ declare(strict_types=1);
 
       <fieldset class="confirm">
         <legend>Bestätigung</legend>
-        <p class="hint">Code anfordern, Felder dürfen danach noch geändert werden. Absenden sendet den <em>aktuellen</em> Stand.</p>
+        <div class="hint">
+          <p>Einmal-Code anfordern, um Missbrauch zu verhindern.</p>
+          <p>Das Formular kann nur durch Eingabe des an Ihre E-Mail-Adresse versendeten Einmal-Codes versendet werden.</p>
+          <p>Der Einmal-Code hat 20&nbsp;min Gültigkeit. Danach muss ein neuer Code angefordert werden.</p>
+        </div>
         <label class="field">
           <span class="label">E-Mail <abbr title="Pflicht">*</abbr></span>
           <input name="email" type="email" maxlength="200" autocomplete="email" required placeholder="für den Bestätigungscode">
         </label>
+        <p class="privacy">Datenschutzhinweis: Die E-Mail-Adresse wird ausschließlich zum Versenden des Einmal-Codes verwendet. Sie wird nirgends gespeichert und zu sonst nichts verwendet.</p>
         <div class="row">
           <button type="button" id="btn-code" class="btn secondary">Code anfordern</button>
           <label class="field grow">

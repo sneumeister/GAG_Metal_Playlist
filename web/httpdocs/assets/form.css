@@ -70,6 +70,14 @@ h1 {
   color: var(--muted);
   line-height: 1.4;
 }
+.hint p { margin: 0 0 0.45rem; }
+.hint p:last-child { margin-bottom: 0; }
+.privacy {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
 
 .field {
   display: grid;
