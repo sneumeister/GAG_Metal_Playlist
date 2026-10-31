@@ -4,6 +4,13 @@ __pycache__/
 *.py[cod]
 scripts/_tmp_*
 
+# Formular-Hosting: Secrets und Laufzeitdaten (neben httpdocs)
+web/private/config.php
+web/private/form-codes/*
+!web/private/form-codes/.gitkeep
+web/private/rate-limits/*
+!web/private/rate-limits/.gitkeep
+
 # Cursor: lokal lassen, aber Projekt-Rules versionieren
 .cursor/*
 !.cursor/rules/
