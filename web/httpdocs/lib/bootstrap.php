@@ -118,6 +118,17 @@ function app_normalize(string $s): string
     return $s;
 }
 
+/** Vergleichsschlüssel: Apostrophe/Bindestriche/Satzzeichen weg, nur Buchstaben/Ziffern/Leerzeichen. */
+function app_match_key(string $s): string
+{
+    $s = app_normalize($s);
+    $s = preg_replace('/[\'’‘`´]/u', '', $s) ?? $s;
+    $s = preg_replace('/[–—−‐‑-]+/u', ' ', $s) ?? $s;
+    $s = preg_replace('/[^\p{L}\p{N}\s]+/u', ' ', $s) ?? $s;
+    $s = preg_replace('/\s+/u', ' ', $s) ?? $s;
+    return trim($s);
+}
+
 function app_json_response(array $payload, int $status = 200): void
 {
     http_response_code($status);
