@@ -10,9 +10,6 @@ from .common import (
     CROSSLINK_TO_PLAYLIST_INTRO,
     CROSSLINK_TO_REJECTS_INTRO,
     HTML_NAME,
-    ISSUES_NEW_CHOOSE_URL,
-    MITMACHEN_INTRO,
-    MITMACHEN_LINK_LABEL,
     REJECT_HTML_NAME,
     REJECTED_JSON_NAME,
     REPO_INTRO,
@@ -23,6 +20,7 @@ from .common import (
     enrich_rejected_entries,
     json_status_date,
     link_or_empty,
+    mitmachen_html,
     load_entries,
     output_dir,
     sorted_by_episode,
@@ -281,7 +279,7 @@ th.filter-cell input::placeholder {{
       <div><strong>JSON-Status:</strong> {_esc(json_line)}</div>
     </div>
     <div>{_esc(REPO_INTRO)} <a href="{_esc(REPO_URL)}">{_esc(REPO_LINK_LABEL)}</a>.</div>
-    <div>{_esc(MITMACHEN_INTRO)} <a href="{_esc(ISSUES_NEW_CHOOSE_URL)}">{_esc(MITMACHEN_LINK_LABEL)}</a></div>
+    <div>{mitmachen_html()}</div>
     <div>{crosslink_html}</div>
   </div>
   <div class="legend">

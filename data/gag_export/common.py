@@ -20,11 +20,35 @@ REJECT_HTML_NAME = "GAG_Metal_rejected.html"
 REPO_URL = "https://github.com/sneumeister/GAG_Metal_Playlist"
 REPO_LINK_LABEL = "github.com/sneumeister/GAG_Metal_Playlist"
 REPO_INTRO = "Original-Projekt, Hinweise und Quellen auf"
+FORM_URL = "https://gag-playlist.sneumeister.de/"
 ISSUES_NEW_CHOOSE_URL = f"{REPO_URL}/issues/new/choose"
-MITMACHEN_INTRO = (
-    "Songvorschläge, Korrekturen und anderes Feedback: über GitHub Issues."
-)
-MITMACHEN_LINK_LABEL = "Neues Issue öffnen"
+MITMACHEN_INTRO = "Songvorschläge, Korrekturen und anderes Feedback:"
+MITMACHEN_GITHUB_LABEL = "Neues Issue öffnen"
+MITMACHEN_FORM_LABEL = "Webformular"
+# Abwärtskompatibel für Importe, die noch den alten Namen nutzen
+MITMACHEN_LINK_LABEL = MITMACHEN_GITHUB_LABEL
+
+
+def mitmachen_markdown() -> str:
+    """Mitmachen-Zeile für Markdown-Export (GitHub + Webformular)."""
+    return (
+        f"{MITMACHEN_INTRO} "
+        f"mit GitHub-Account [{MITMACHEN_GITHUB_LABEL}]({ISSUES_NEW_CHOOSE_URL}) · "
+        f"ohne GitHub-Account [{MITMACHEN_FORM_LABEL}]({FORM_URL})"
+    )
+
+
+def mitmachen_html() -> str:
+    """Mitmachen-Zeile für HTML-Export (bereits fertiges Markup, Escaping intern)."""
+    from html import escape
+
+    return (
+        f"{escape(MITMACHEN_INTRO)} "
+        f"mit GitHub-Account "
+        f'<a href="{escape(ISSUES_NEW_CHOOSE_URL)}">{escape(MITMACHEN_GITHUB_LABEL)}</a>'
+        f" · ohne GitHub-Account "
+        f'<a href="{escape(FORM_URL)}">{escape(MITMACHEN_FORM_LABEL)}</a>'
+    )
 
 # Gegenseitige Verweise Playlist ↔ Reject-Liste
 CROSSLINK_TO_REJECTS_INTRO = "Geprüfte Absagen (Stufe X):"
