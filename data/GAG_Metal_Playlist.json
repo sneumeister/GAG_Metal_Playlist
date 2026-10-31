@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30 11:57:21 +0100",
+  "updatedAt": "2026-10-31 22:27:09 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3967,6 +3967,21 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=1IIittOtGZA",
       "matchedAt": "2026-10-30",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
+      "songId": "warkings-battle-of-marathon",
+      "band": "Warkings",
+      "songTitle": "Battle of Marathon",
+      "matchTier": "C",
+      "justification": "Folge = Thermopylen 480 (Leonidas); Song = Marathon 490 + Botenlauf — thematische Nähe Perserkriege, anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Perserkriege"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk"
     }
   ]
 }

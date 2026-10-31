@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30 08:48:52 +0100",
+  "updatedAt": "2026-10-31 22:37:07 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1259,6 +1259,34 @@
       "songId": "schandmaul-tjark-evers",
       "reason": "Folge = Emily Ruete / Sayyida Salme (Sansibar-Flucht 1866, Bismarck-Kolonialpolitik); Song = Tod des Navigationsschülers Tjark Evers im Wattenmeer vor Baltrum 1866 — nur gemeinsames Jahr, andere Person und Ereignis (Tier X).",
       "rejectedAt": "2026-10-30",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 551,
+      "songId": "serenity-new-horizons",
+      "reason": "Folge = SMS Novara / Habsburg-Weltumsegelung 1857 und Nikobaren; Song = Francis Drake (Nova Albion, Weltumsegelung für Elizabeth I.) — andere Person, Jahrhundert und Expedition (Tier X).",
+      "rejectedAt": "2026-10-31",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 272,
+      "songId": "crystallion-sole-survivors-in-ligny",
+      "reason": "Folge = Napoleon auf St. Helena nach dem Ende der Herrschaft; Song = Schlacht bei Ligny / Quatre Bras in den Hundert Tagen 1815 — verwandte Napoleon-Phase, aber anderes Ereignis und Fokus (Tier X).",
+      "rejectedAt": "2026-10-31",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 488,
+      "songId": "mastodon-blood-and-thunder",
+      "reason": "Folge = Hokusai und die Große Welle (Holzschnitt ~1831); Song = Ahab/Moby Dick — Coverkunst des Albums Leviathan zitiert die Welle nur visuell, Song-Erzählgegenstand ist Melville/Ahab (Tier X).",
+      "rejectedAt": "2026-10-31",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 551,
+      "songId": "alestorm-magellans-expedition",
+      "reason": "Folge = SMS Novara / Habsburg-Weltumsegelung 1857 und Nikobaren; Song = Magellans Expedition 1519–22 — andere Expedition und Jahrhundert, nur loser Weltumseglungs-Rahmen (Tier X).",
+      "rejectedAt": "2026-10-31",
       "rejectedBy": "manual"
     }
   ]

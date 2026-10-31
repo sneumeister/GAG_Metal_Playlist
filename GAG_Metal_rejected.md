@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-10-30 11:57:21 +0100<br>**JSON-Status:** 2026-10-30 08:48:52 +0100</small>
+<small>**Compile-Datum:** 2026-10-31 22:37:07 +0100<br>**JSON-Status:** 2026-10-31 22:37:07 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -44,6 +44,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | New Horizons | X | [link](https://www.youtube.com/watch?v=7JsdtV7O3dI) | [link](https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9) |
 | [255](https://gadg.fm/255) | Die 47 Ronin | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
+| [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Crystallion | Sole Survivors in Ligny | X | — | [link](https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV) |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Freddy Quinn | St. Helena | X | [link](https://www.youtube.com/watch?v=9pB-QZ5ytuY) | — |
 | [272](https://gadg.fm/272) | Am Ende der Welt - Napoleons letzte Jahre im Exil | Serenity | The Art of War | X | [link](https://www.youtube.com/watch?v=U77UB9sRCxo) | [link](https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi) |
 | [280](https://gadg.fm/280) | Der versunkene Kontinent Lemuria | Cr7z | Gaia | X | [link](https://www.youtube.com/watch?v=GMKDWEcIfRE) | [link](https://open.spotify.com/track/30xlMqLEdEiWEhIMmoJagP) |
@@ -100,6 +101,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [483](https://gadg.fm/483) | Bounty, Brotfrucht und die Rum-Rebellion | Running Wild | Mutiny | X | — | — |
 | [484](https://gadg.fm/484) | Emil Berliner und die Erfindung der Musikindustrie | Led Zeppelin | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=JM3fodiK9rY) | [link](https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF) |
 | [484](https://gadg.fm/484) | Emil Berliner und die Erfindung der Musikindustrie | Memphis Minnie & Kansas Joe McCoy | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=WSlt8-fmvas) | [link](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) |
+| [488](https://gadg.fm/488) | Hokusai und die Große Welle | Mastodon | Blood and Thunder | X | [link](https://www.youtube.com/watch?v=TsdIO8RHMTc) | [link](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) |
 | [489](https://gadg.fm/489) | Ein Konzil, ein Papst und ein Bücherjäger | Saxorior | Hussiten | X | [link](https://www.youtube.com/watch?v=p37k-uPWqQc) | [link](https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud) |
 | [490](https://gadg.fm/490) | Eunus und der erste Sklavenkrieg | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [491](https://gadg.fm/491) | Die Dreyfus-Affäre | John Cage | 4′33″ | X | [link](https://www.youtube.com/watch?v=AWVUp12XPpU) | — |
@@ -136,6 +138,8 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Crucible Steel | Ulfberht | X | — | — |
 | [547](https://gadg.fm/547) | Orffyreus und das Perpetuum Mobile | Schweisser | Perpetuum Mobile | X | — | — |
 | [550](https://gadg.fm/550) | Akbar und die Entstehung des Mogulreichs | Mughal-E-Funk | Akbar | X | — | [link](https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm) |
+| [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Alestorm | Magellan's Expedition | X | [link](https://www.youtube.com/watch?v=gsHmOb36-Js) | [link](https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW) |
+| [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Serenity | New Horizons | X | [link](https://www.youtube.com/watch?v=7JsdtV7O3dI) | [link](https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | The Wolfe Tones | Óró sé do bheatha abhaile | X | [link](https://www.youtube.com/watch?v=ncZc7GwpVXU) | — |
