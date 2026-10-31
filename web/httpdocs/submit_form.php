@@ -14,7 +14,8 @@ $ip = app_client_ip();
 $dir = (string) $cfg['rateLimitDir'];
 $maxSubmit = (int) ($cfg['rateLimitSubmitPerIpPerDay'] ?? 10);
 
-if (!RateLimit::allow($dir, 'submit_ip_' . $ip, $maxSubmit, 86400)) {
+if (!app_ip_rate_limit_exempt($cfg, $ip)
+    && !RateLimit::allow($dir, 'submit_ip_' . $ip, $maxSubmit, 86400)) {
     app_json_response(['ok' => false, 'error' => 'Tageslimit für Einsendungen erreicht. Bitte morgen erneut versuchen.'], 429);
 }
 

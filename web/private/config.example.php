@@ -18,6 +18,10 @@ return [
     'rateLimitCodePerIpPerHour' => 5,
     'rateLimitCodePerEmailPerHour' => 3,
     'rateLimitSubmitPerIpPerDay' => 10,
+    // Vorübergehende Ausnahmen (kein Code-/Submit-Rate-Limit für diese IPs)
+    'rateLimitExemptIps' => [
+        // '84.119.241.173',
+    ],
 
     'github' => [
         'token' => 'YOUR_GITHUB_PAT',

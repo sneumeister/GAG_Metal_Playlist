@@ -19,11 +19,12 @@ $ip = app_client_ip();
 $dir = (string) $cfg['rateLimitDir'];
 $maxIp = (int) ($cfg['rateLimitCodePerIpPerHour'] ?? 5);
 $maxMail = (int) ($cfg['rateLimitCodePerEmailPerHour'] ?? 3);
+$exempt = app_ip_rate_limit_exempt($cfg, $ip);
 
-if (!RateLimit::allow($dir, 'code_ip_' . $ip, $maxIp, 3600)) {
-    app_json_response(['ok' => false, 'error' => 'Zu viele Code-Anforderungen von dieser Adresse. Bitte später erneut versuchen.'], 429);
+if (!$exempt && !RateLimit::allow($dir, 'code_ip_' . $ip, $maxIp, 3600)) {
+    app_json_response(['ok' => false, 'error' => 'Zu viele Code-Anforderungen von dieser IP-Adresse. Bitte später erneut versuchen.'], 429);
 }
-if (!RateLimit::allow($dir, 'code_mail_' . RateLimit::emailHash($email), $maxMail, 3600)) {
+if (!$exempt && !RateLimit::allow($dir, 'code_mail_' . RateLimit::emailHash($email), $maxMail, 3600)) {
     app_json_response(['ok' => false, 'error' => 'Zu viele Code-Anforderungen für diese E-Mail. Bitte später erneut versuchen.'], 429);
 }
 

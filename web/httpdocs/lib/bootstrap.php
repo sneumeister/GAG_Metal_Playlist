@@ -106,6 +106,21 @@ function app_client_ip(): string
     return is_string($ip) ? $ip : '0.0.0.0';
 }
 
+/** @param array<string,mixed> $cfg */
+function app_ip_rate_limit_exempt(array $cfg, string $ip): bool
+{
+    $list = $cfg['rateLimitExemptIps'] ?? [];
+    if (!is_array($list)) {
+        return false;
+    }
+    foreach ($list as $entry) {
+        if (is_string($entry) && $entry === $ip) {
+            return true;
+        }
+    }
+    return false;
+}
+
 function app_normalize(string $s): string
 {
     $s = trim($s);
