@@ -8,8 +8,38 @@
   --accent-ink: #fff7f0;
   --ok: #6f9f6a;
   --err: #d2665a;
+  --ok-ink: #cfe8cc;
+  --err-ink: #f0c4bf;
+  --input-bg: #0f0d0b;
+  --form-bg: color-mix(in srgb, var(--bg1) 88%, black);
+  --btn-secondary-bg: #2b241f;
+  --glow1: #3a2418;
+  --glow2: #2a1f28;
   --radius: 6px;
   --font: "Segoe UI", "Helvetica Neue", sans-serif;
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg0: #f6f1ea;
+    --bg1: #ebe3d8;
+    --ink: #1c1612;
+    --muted: #5c534a;
+    --line: #c9bdb0;
+    --accent: #b34d1c;
+    --accent-ink: #fff7f0;
+    --ok: #3d7a45;
+    --err: #b54038;
+    --ok-ink: #1e3d22;
+    --err-ink: #5c1c18;
+    --input-bg: #ffffff;
+    --form-bg: color-mix(in srgb, #ffffff 82%, var(--bg1));
+    --btn-secondary-bg: #e8dfd4;
+    --glow1: #e8c9b0;
+    --glow2: #d5c8e0;
+    color-scheme: light;
+  }
 }
 
 * { box-sizing: border-box; }
@@ -20,8 +50,8 @@ body {
   font-family: var(--font);
   color: var(--ink);
   background:
-    radial-gradient(1200px 600px at 10% -10%, #3a2418 0%, transparent 55%),
-    radial-gradient(900px 500px at 100% 0%, #2a1f28 0%, transparent 50%),
+    radial-gradient(1200px 600px at 10% -10%, var(--glow1) 0%, transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, var(--glow2) 0%, transparent 50%),
     linear-gradient(160deg, var(--bg0), var(--bg1));
 }
 
@@ -58,7 +88,7 @@ h1 {
   padding: 1.25rem 1.25rem 1.5rem;
   border: 1px solid var(--line);
   border-radius: calc(var(--radius) + 4px);
-  background: color-mix(in srgb, var(--bg1) 88%, black);
+  background: var(--form-bg);
 }
 
 .panel { display: grid; gap: 0.9rem; }
@@ -97,7 +127,7 @@ textarea {
   padding: 0.65rem 0.75rem;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: #0f0d0b;
+  background: var(--input-bg);
   color: var(--ink);
   font: inherit;
 }
@@ -154,7 +184,7 @@ textarea:focus {
   color: var(--accent-ink);
 }
 .btn.secondary {
-  background: #2b241f;
+  background: var(--btn-secondary-bg);
   color: var(--ink);
   border: 1px solid var(--line);
 }
@@ -173,11 +203,11 @@ textarea:focus {
 }
 .status.ok {
   background: color-mix(in srgb, var(--ok) 18%, transparent);
-  color: #cfe8cc;
+  color: var(--ok-ink);
 }
 .status.err {
   background: color-mix(in srgb, var(--err) 18%, transparent);
-  color: #f0c4bf;
+  color: var(--err-ink);
 }
 
 .hp {
