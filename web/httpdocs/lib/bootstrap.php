@@ -5,28 +5,83 @@ declare(strict_types=1);
  * Gemeinsames Bootstrap für Formular-Endpunkte.
  */
 
+function app_private_dir(): string
+{
+    return dirname(__DIR__, 2) . DIRECTORY_SEPARATOR . 'private';
+}
+
+function app_config_path(): string
+{
+    return app_private_dir() . DIRECTORY_SEPARATOR . 'config.php';
+}
+
+function app_register_fatal_json(): void
+{
+    static $done = false;
+    if ($done) {
+        return;
+    }
+    $done = true;
+    register_shutdown_function(static function (): void {
+        $err = error_get_last();
+        if ($err === null) {
+            return;
+        }
+        $fatalTypes = [E_ERROR, E_PARSE, E_CORE_ERROR, E_COMPILE_ERROR, E_USER_ERROR];
+        if (!in_array((int) $err['type'], $fatalTypes, true)) {
+            return;
+        }
+        if (headers_sent()) {
+            return;
+        }
+        http_response_code(500);
+        header('Content-Type: application/json; charset=utf-8');
+        $msg = (string) ($err['message'] ?? 'Unbekannter Fatal-Error');
+        $file = basename((string) ($err['file'] ?? ''));
+        $line = (int) ($err['line'] ?? 0);
+        echo json_encode([
+            'ok' => false,
+            'error' => 'PHP-Fehler: ' . $msg . ($file !== '' ? " ({$file}:{$line})" : ''),
+            'phase' => 'php',
+        ], JSON_UNESCAPED_UNICODE);
+    });
+}
+
+app_register_fatal_json();
+
 function app_config(): array
 {
     static $cfg = null;
     if ($cfg !== null) {
         return $cfg;
     }
-    $path = dirname(__DIR__, 2) . DIRECTORY_SEPARATOR . 'private' . DIRECTORY_SEPARATOR . 'config.php';
+    $path = app_config_path();
     if (!is_file($path)) {
         app_json_response([
             'ok' => false,
-            'error' => 'Server-Konfiguration fehlt (private/config.php). Bitte per SFTP anlegen.',
+            'error' => 'Server-Konfiguration fehlt (private/config.php unter '
+                . app_private_dir() . '). Bitte per SFTP anlegen.',
             'phase' => 'config',
         ], 500);
     }
     $cfg = require $path;
     if (!is_array($cfg)) {
-        throw new RuntimeException('config.php muss ein Array zurückgeben.');
+        app_json_response([
+            'ok' => false,
+            'error' => 'config.php muss ein Array zurückgeben.',
+            'phase' => 'config',
+        ], 500);
     }
     foreach (['codesDir', 'rateLimitDir'] as $dirKey) {
         $dir = $cfg[$dirKey] ?? null;
         if (is_string($dir) && $dir !== '' && !is_dir($dir)) {
-            mkdir($dir, 0750, true);
+            if (!@mkdir($dir, 0750, true) && !is_dir($dir)) {
+                app_json_response([
+                    'ok' => false,
+                    'error' => 'Verzeichnis nicht anlegbar: ' . $dir . ' (Rechte prüfen).',
+                    'phase' => 'config',
+                ], 500);
+            }
         }
     }
     return $cfg;
@@ -40,7 +95,12 @@ function app_client_ip(): string
 
 function app_normalize(string $s): string
 {
-    $s = mb_strtolower(trim($s), 'UTF-8');
+    $s = trim($s);
+    if (function_exists('mb_strtolower')) {
+        $s = mb_strtolower($s, 'UTF-8');
+    } else {
+        $s = strtolower($s);
+    }
     $s = preg_replace('/\s+/u', ' ', $s) ?? $s;
     return $s;
 }

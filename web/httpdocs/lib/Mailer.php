@@ -3,12 +3,13 @@ declare(strict_types=1);
 
 final class MailerException extends RuntimeException
 {
-    public function __construct(
-        string $message,
-        public readonly string $phase = 'smtp',
-        ?Throwable $previous = null
-    ) {
+    /** @var string */
+    public $phase;
+
+    public function __construct(string $message, string $phase = 'smtp', ?Throwable $previous = null)
+    {
         parent::__construct($message, 0, $previous);
+        $this->phase = $phase;
     }
 }
 

@@ -52,14 +52,17 @@
       } catch {
         showStatus(
           'Serverantwort ungültig (HTTP ' + res.status + '). '
-          + (raw ? raw.replace(/\s+/g, ' ').slice(0, 180) : 'Leerer Body – PHP-/Pfadfehler prüfen.'),
+          + (raw ? raw.replace(/\s+/g, ' ').slice(0, 180) : 'Leerer Body – PHP-Fatal/Extensions prüfen (…/health.php).'),
           'err'
         );
         return;
       }
       if (!res.ok || !data.ok) {
         const phase = data.phase ? ' [' + data.phase + ']' : '';
-        showStatus((data.error || ('Code konnte nicht angefordert werden (HTTP ' + res.status + ').')) + phase, 'err');
+        const fallback = !raw
+          ? 'Code-Anforderung fehlgeschlagen (HTTP ' + res.status + ', leerer Body). Bitte /health.php prüfen.'
+          : 'Code konnte nicht angefordert werden (HTTP ' + res.status + ').';
+        showStatus((data.error || fallback) + phase, 'err');
         return;
       }
       showStatus(data.message || 'Code versendet. Bitte Posteingang und Spam prüfen.', 'ok');
