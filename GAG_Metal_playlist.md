@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-10-31 22:44:37 +0100<br>**JSON-Status:** 2026-10-31 22:27:09 +0100</small>
+<small>**Compile-Datum:** 2026-11-01 21:45:08 +0100<br>**JSON-Status:** 2026-11-01 21:44:38 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -176,6 +176,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | The March of the Varangian Guard | A | [link](https://www.youtube.com/watch?v=8kIv7ZJOyB4) | [link](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Rebellion | The Uprising | B | [link](https://www.youtube.com/watch?v=KufuujY63Rc) | [link](https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Warkings | Varangoi | A | [link](https://www.youtube.com/watch?v=zQ_juxVX06Q) | [link](https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL) |
+| [519](https://gadg.fm/519) | Die Warägergarde | Amon Amarth | Varyags of Miklagaard | A | — | [link](https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB) |
 | [526](https://gadg.fm/526) | Nanga Parbat Schicksalsberg | Stormcrow | Nanga Parbat | A | [link](https://www.youtube.com/watch?v=6fuC4C2JQns) | [link](https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
 | [534](https://gadg.fm/534) | Wie der Walzer zum Walzer wurde | The Great Kat | Strauss' The Blue Danube | B | [link](https://www.youtube.com/watch?v=HeMyN6FyAHs) | [link](https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR) |
