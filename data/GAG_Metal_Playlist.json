@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31 22:27:09 +0100",
+  "updatedAt": "2026-11-01 21:44:38 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3982,6 +3982,23 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
       "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
+      "songId": "amon-amarth-varyags-of-miklagaard",
+      "band": "Amon Amarth",
+      "songTitle": "Varyags of Miklagaard",
+      "matchTier": "A",
+      "justification": "Folge = Warägergarde am byzantinischen Hof; Song = Warägerdienst in Miklagaard (Eid auf den Kaiser, Rückkehr nach Svitjod) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Miklagaard",
+        "Konstantinopel"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
+      "youtubeUrl": null
     }
   ]
 }

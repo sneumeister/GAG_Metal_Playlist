@@ -296,6 +296,34 @@
     ]
   },
   {
+    "id": "amon-amarth-varyags-of-miklagaard",
+    "band": "Amon Amarth",
+    "title": "Varyags of Miklagaard",
+    "entities": [
+      "Warägergarde",
+      "Varangian Guard",
+      "Miklagaard",
+      "Konstantinopel",
+      "Byzanz",
+      "Varyags"
+    ],
+    "era": "10.–11. Jh. / 2008",
+    "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/amon-amarth/varyags-of-miklagaard-lyrics/",
+        "note": "Twilight of the Thunder God (2008) — Varangian Guard in Miklagaard/Constantinople"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.norsemyth.org/2010/08/interview-with-johan-hegg-of-amon_26.html",
+        "note": "Johan Hegg: Varyags = Varangian Guard in Constantinople"
+      }
+    ]
+  },
+  {
     "id": "ancient-rites-13th-of-october-1307",
     "band": "Ancient Rites",
     "title": "13th of October 1307",
