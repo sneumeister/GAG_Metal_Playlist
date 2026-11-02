@@ -387,6 +387,39 @@
     ]
   },
   {
+    "id": "antrisch-conquista-prolog",
+    "band": "Antrisch",
+    "title": "Conquista – Prolog",
+    "entities": [
+      "Konquistadoren",
+      "Spanische Eroberung",
+      "Neue Welt",
+      "Eldorado",
+      "Lope de Aguirre",
+      "Pedro de Ursúa"
+    ],
+    "era": "16. Jh. / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://artofpropaganda.bandcamp.com/album/expedition-iii-renitenzpfad",
+        "note": "Expedition III: Renitenzpfad — Konzeptalbum Ursúa/Aguirre Amazonas-Expedition 1560 / Eldorado"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.youtube.com/watch?v=zwSotnUOfPY",
+        "note": "Official Lyric Video (AOP Records) — Conquista-Prolog Neue Welt"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/Antrisch/",
+        "note": "Atmospheric Black Metal (Encyclopaedia Metallum)"
+      }
+    ]
+  },
+  {
     "id": "antrisch-i-festgefroren",
     "band": "Antrisch",
     "title": "I Festgefroren",

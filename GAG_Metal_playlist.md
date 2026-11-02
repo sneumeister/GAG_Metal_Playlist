@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-01 21:54:16 +0100<br>**JSON-Status:** 2026-11-01 21:53:43 +0100</small>
+<small>**Compile-Datum:** 2026-11-02 19:20:20 +0100<br>**JSON-Status:** 2026-11-02 19:19:42 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -144,6 +144,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [433](https://gadg.fm/433) | Der Schinderhannes | Spessarträuber | Schinderhannes | A | [link](https://www.youtube.com/watch?v=XGvCtubo7cE) | [link](https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Midnight Force | Parthia | A | [link](https://www.youtube.com/watch?v=pR4AXDXKoLk) | [link](https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw) |
 | [435](https://gadg.fm/435) | Die Schlacht bei Carrhae | Khshathra | War Drums | A | [link](https://www.youtube.com/watch?v=hv-XcocN0mc) | [link](https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q) |
+| [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Antrisch | Conquista – Prolog | B | [link](https://www.youtube.com/watch?v=zwSotnUOfPY) | [link](https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg) |
 | [436](https://gadg.fm/436) | Die Jagd nach El­do­ra­do | Running Wild | Conquistadores | C | [link](https://www.youtube.com/watch?v=DtI6WxWoeuI) | [link](https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail) |
 | [439](https://gadg.fm/439) | Kyros II. und die Entstehung eines Mythos | Arsames | Cyrus the Great | A | [link](https://www.youtube.com/watch?v=au4lTYwErDc) | [link](https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt) |
 | [443](https://gadg.fm/443) | J.S. Bach oder Wie sich ein Komponist den Lebensunterhalt verdient | Allegaeon | Concerto in Dm | C | [link](https://www.youtube.com/watch?v=_EtcIrkG8FA) | [link](https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i) |

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01 21:53:43 +0100",
+  "updatedAt": "2026-11-02 19:19:42 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -2489,6 +2489,23 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 436,
+      "episodeTitle": "Die Jagd nach El­do­ra­do",
+      "episodeUrl": "https://gadg.fm/436",
+      "songId": "antrisch-conquista-prolog",
+      "band": "Antrisch",
+      "songTitle": "Conquista – Prolog",
+      "matchTier": "B",
+      "justification": "Folge = Eldorado-Legende, Pizarro/Atahualpa und Welser/Hutten; Song = Conquista-Prolog auf Aguirre–Eldorado-Konzeptalbum — gemeinsamer Rahmen Goldjagd/Conquista in der Neuen Welt, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Konquistadoren",
+        "Eldorado",
+        "Neue Welt"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY"
     },
     {
       "episodeId": 439,
