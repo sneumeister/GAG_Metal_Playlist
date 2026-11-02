@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-02 19:20:20 +0100<br>**JSON-Status:** 2026-11-02 19:19:42 +0100</small>
+<small>**Compile-Datum:** 2026-11-02 19:42:45 +0100<br>**JSON-Status:** 2026-11-02 19:42:06 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -191,6 +191,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [549](https://gadg.fm/549) | Coca und Cola | English Majors | Vin Mariani | A | [link](https://www.youtube.com/watch?v=wp28LJzMN4Y) | [link](https://open.spotify.com/track/1vQuvrJEJb89z3o91UKznT) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Frantic Amber | Gráinne Mhaol | A | [link](https://www.youtube.com/watch?v=jbCJXVemRgc) | [link](https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Miracle of Sound | Gráinne Mhaol, Queen of Pirates | A | [link](https://www.youtube.com/watch?v=iOafalF22kI) | [link](https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr) |
+| [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Cruachan | The Sea Queen of Connaught | A | [link](https://www.youtube.com/watch?v=s9LJz0Oz76k) | [link](https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Saxon | Atila the Hun | C | [link](https://www.youtube.com/watch?v=dwEXrFD8eKU) | [link](https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck) |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Iced Earth | Attila | C | [link](https://www.youtube.com/watch?v=1FU-FDxx31k) | [link](https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1) |
 | [555](https://gadg.fm/555) | Wetterschießen und Regenmachen | Widespread Panic | Hatfield | A | [link](https://www.youtube.com/watch?v=Hn9VT-BFryo) | [link](https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855) |

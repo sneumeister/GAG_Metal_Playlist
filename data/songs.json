@@ -1107,6 +1107,38 @@
     ]
   },
   {
+    "id": "cruachan-the-sea-queen-of-connaught",
+    "band": "Cruachan",
+    "title": "The Sea Queen of Connaught",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Piratenkönigin",
+      "Irland",
+      "Elizabeth I."
+    ],
+    "era": "16. Jh. / 2014",
+    "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/cruachan/bloodforthebloodgod.html",
+        "note": "Blood for the Blood God (2014) — Grace O'Malley Biografie inkl. Elizabeth-Treffen"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://cruachan1.bandcamp.com/track/the-sea-queen-of-connaught",
+        "note": "Trackseite Bandcamp"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/Cruachan/",
+        "note": "Celtic/Folk Metal (Encyclopaedia Metallum)"
+      }
+    ]
+  },
+  {
     "id": "crucible-steel-ulfberht",
     "band": "Crucible Steel",
     "title": "Ulfberht",

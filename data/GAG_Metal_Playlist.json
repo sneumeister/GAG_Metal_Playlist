@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02 19:19:42 +0100",
+  "updatedAt": "2026-11-02 19:42:06 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3322,6 +3322,24 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 552,
+      "episodeTitle": "Gráinne Ní Mháill und die Geburt eines Mythos",
+      "episodeUrl": "https://gadg.fm/552",
+      "songId": "cruachan-the-sea-queen-of-connaught",
+      "band": "Cruachan",
+      "songTitle": "The Sea Queen of Connaught",
+      "matchTier": "A",
+      "justification": "Folge = Gráinne Ní Mháill / Grace O’Malley und Mythos inkl. Elizabeth-Treffen; Song = Biografie derselben Piratenkönigin (Kindheit, Raubzüge, Treffen mit Englands Queen, Tod im Jahr der Queen) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Gráinne Ní Mháill",
+        "Grace O'Malley",
+        "Piratenkönigin",
+        "Elizabeth I."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k"
     },
     {
       "episodeId": 554,
