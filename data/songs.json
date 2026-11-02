@@ -387,6 +387,39 @@
     ]
   },
   {
+    "id": "antrisch-conquista-prolog",
+    "band": "Antrisch",
+    "title": "Conquista – Prolog",
+    "entities": [
+      "Konquistadoren",
+      "Spanische Eroberung",
+      "Neue Welt",
+      "Eldorado",
+      "Lope de Aguirre",
+      "Pedro de Ursúa"
+    ],
+    "era": "16. Jh. / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://artofpropaganda.bandcamp.com/album/expedition-iii-renitenzpfad",
+        "note": "Expedition III: Renitenzpfad — Konzeptalbum Ursúa/Aguirre Amazonas-Expedition 1560 / Eldorado"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.youtube.com/watch?v=zwSotnUOfPY",
+        "note": "Official Lyric Video (AOP Records) — Conquista-Prolog Neue Welt"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/Antrisch/",
+        "note": "Atmospheric Black Metal (Encyclopaedia Metallum)"
+      }
+    ]
+  },
+  {
     "id": "antrisch-i-festgefroren",
     "band": "Antrisch",
     "title": "I Festgefroren",
@@ -1070,6 +1103,38 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
         "note": "Kommentar-Link unter Lemuria-Folge"
+      }
+    ]
+  },
+  {
+    "id": "cruachan-the-sea-queen-of-connaught",
+    "band": "Cruachan",
+    "title": "The Sea Queen of Connaught",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Piratenkönigin",
+      "Irland",
+      "Elizabeth I."
+    ],
+    "era": "16. Jh. / 2014",
+    "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/cruachan/bloodforthebloodgod.html",
+        "note": "Blood for the Blood God (2014) — Grace O'Malley Biografie inkl. Elizabeth-Treffen"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://cruachan1.bandcamp.com/track/the-sea-queen-of-connaught",
+        "note": "Trackseite Bandcamp"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/Cruachan/",
+        "note": "Celtic/Folk Metal (Encyclopaedia Metallum)"
       }
     ]
   },

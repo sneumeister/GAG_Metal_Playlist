@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01 21:53:43 +0100",
+  "updatedAt": "2026-11-02 19:42:06 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -2491,6 +2491,23 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 436,
+      "episodeTitle": "Die Jagd nach El­do­ra­do",
+      "episodeUrl": "https://gadg.fm/436",
+      "songId": "antrisch-conquista-prolog",
+      "band": "Antrisch",
+      "songTitle": "Conquista – Prolog",
+      "matchTier": "B",
+      "justification": "Folge = Eldorado-Legende, Pizarro/Atahualpa und Welser/Hutten; Song = Conquista-Prolog auf Aguirre–Eldorado-Konzeptalbum — gemeinsamer Rahmen Goldjagd/Conquista in der Neuen Welt, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Konquistadoren",
+        "Eldorado",
+        "Neue Welt"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY"
+    },
+    {
       "episodeId": 439,
       "episodeTitle": "Kyros II. und die Entstehung eines Mythos",
       "episodeUrl": "https://gadg.fm/439",
@@ -3305,6 +3322,24 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 552,
+      "episodeTitle": "Gráinne Ní Mháill und die Geburt eines Mythos",
+      "episodeUrl": "https://gadg.fm/552",
+      "songId": "cruachan-the-sea-queen-of-connaught",
+      "band": "Cruachan",
+      "songTitle": "The Sea Queen of Connaught",
+      "matchTier": "A",
+      "justification": "Folge = Gráinne Ní Mháill / Grace O’Malley und Mythos inkl. Elizabeth-Treffen; Song = Biografie derselben Piratenkönigin (Kindheit, Raubzüge, Treffen mit Englands Queen, Tod im Jahr der Queen) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Gráinne Ní Mháill",
+        "Grace O'Malley",
+        "Piratenkönigin",
+        "Elizabeth I."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k"
     },
     {
       "episodeId": 554,
