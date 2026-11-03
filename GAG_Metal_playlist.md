@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-03 18:02:09 +0100<br>**JSON-Status:** 2026-11-02 19:42:06 +0100</small>
+<small>**Compile-Datum:** 2026-11-03 19:18:59 +0100<br>**JSON-Status:** 2026-11-03 19:18:59 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -15,6 +15,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
 | [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Professor Emeritus | Rosamund | A | [link](https://www.youtube.com/watch?v=wGfekg9xP2k) | [link](https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56) |
+| [3](https://gadg.fm/3) | Fitness-Parcours für den Pharao | Sabaton | The Cycle of Songs | C | [link](https://www.youtube.com/watch?v=XBEuiIFB0r4) | [link](https://open.spotify.com/track/2BCSABdmxlLx0hJwuvcRBj) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Judicator | Elan | B | [link](https://www.youtube.com/watch?v=ERqSQckYP7c) | [link](https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Hougoumont | B | [link](https://www.youtube.com/watch?v=AeRLXiYmt_c) | [link](https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM) |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Rebellion | Sweet Dreams | B | [link](https://www.youtube.com/watch?v=KxyNkl6LKyg) | [link](https://open.spotify.com/track/3O95gZM3iSiY0LYEv4eSAl) |
@@ -109,6 +110,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [313](https://gadg.fm/313) | Die Geschwister Herschel | Nanowar of Steel | Uranus | B | [link](https://www.youtube.com/watch?v=OSWszdSHkyE) | [link](https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol) |
 | [318](https://gadg.fm/318) | Der Nuklearunfall von Goiânia | Tom Morello & The Bloody Beetroots | Radium Girls | C | [link](https://www.youtube.com/watch?v=yD0P0bwZKk8) | [link](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) |
 | [322](https://gadg.fm/322) | Portugal und der Seeweg nach Indien | Serenity | Far From Home | B | [link](https://www.youtube.com/watch?v=sP88-w9DP4E) | [link](https://open.spotify.com/track/5OOpEmpsNgafCk26QVLlBC) |
+| [333](https://gadg.fm/333) | Alexandria | Serenity | Age of Glory | C | [link](https://www.youtube.com/watch?v=jOi8ujXxKTk) | [link](https://open.spotify.com/track/5T9cFpoaEjkBPZaMrocniw) |
 | [333](https://gadg.fm/333) | Alexandria | Iron Maiden | Alexander the Great | C | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [333](https://gadg.fm/333) | Alexandria | Warkings | Nightfall | C | [link](https://www.youtube.com/watch?v=qrCn-SkuIWo) | [link](https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt) |
 | [335](https://gadg.fm/335) | Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts | Ritual Dictates | Aqua Tofana | A | [link](https://www.youtube.com/watch?v=ZaaaFzrRbDs) | [link](https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt) |
@@ -153,6 +155,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Battle of Marathon | C | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Sparta | A | [link](https://www.youtube.com/watch?v=MeOSgsJJ12M) | [link](https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X) |
+| [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Siouxsie and the Banshees | Cities In Dust | B | [link](https://www.youtube.com/watch?v=wsOHvP1XnRg) | [link](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
 | [467](https://gadg.fm/467) | Das Leben der Lucrezia Borgia | Dorsal Atlântica | Lucrécia Bórgia | A | [link](https://www.youtube.com/watch?v=IzT-MlXlmVc) | — |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Carolus Rex | A | [link](https://www.youtube.com/watch?v=nxwv8-oAasI) | [link](https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M) |
