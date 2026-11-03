@@ -1,6 +1,6 @@
 # Webformulare (Mitmachen)
 
-Öffentliche Formulare unter `https://gag-playlist.sneumeister.de/` – ohne GitHub-Login, mit E-Mail-Code und Soft-Vorprüfung. Plan: `plans/anonyme-mitmachen-formulare.md`.
+Öffentliche Formulare unter `https://gag-playlist.sneumeister.de/` – ohne GitHub-Login, mit E-Mail-Code und Soft-Vorprüfung. Plan: `plans/anonyme-mitmachen-formulare.md`. Angelegte Issues bekommen zusätzlich das Label `webformular`.
 
 ## Lokal
 
