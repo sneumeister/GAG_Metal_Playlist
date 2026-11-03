@@ -15,17 +15,17 @@ final class IssueBuilder
             'vorschlag' => [
                 'title' => self::titleVorschlag($fields),
                 'body' => self::bodyVorschlag($fields) . $note,
-                'labels' => ['playlist', 'vorschlag'],
+                'labels' => ['playlist', 'vorschlag', 'webformular'],
             ],
             'korrektur' => [
                 'title' => self::titleKorrektur($fields),
                 'body' => self::bodyKorrektur($fields) . $note,
-                'labels' => ['playlist', 'korrektur'],
+                'labels' => ['playlist', 'korrektur', 'webformular'],
             ],
             'sonstiges' => [
                 'title' => self::titleSonstiges($fields),
                 'body' => self::bodySonstiges($fields) . $note,
-                'labels' => ['sonstiges'],
+                'labels' => ['sonstiges', 'webformular'],
             ],
             default => throw new InvalidArgumentException('Unbekannter Typ.'),
         };
