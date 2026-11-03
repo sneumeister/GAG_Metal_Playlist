@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03 18:01:28 +0100",
+  "updatedAt": "2026-11-03 19:17:53 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -121,6 +121,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 185,
+      "songId": "al-duvall-the-wreck-of-the-general-slocum",
+      "reason": "Folge = Kleindeutschland und General-Slocum-Katastrophe 1904; Song = Fährbrand, Opfer und Kleindeutschland nach dem Wrack — inhaltlich derselbe Kern (bei Metal wäre Tier A). Genre = Vaudeville / Folk / Banjo-Americana, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-03",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 189,
       "songId": "ex-deo-cato-major-carthago-delenda-est",
       "reason": "Folge = Schlacht bei Cannae (216); Song = Cato Maior / „Carthago delenda est“ — andere Person und Kriegsphase, nur loser Rom–Karthago-Anklang (Tier X).",
@@ -216,6 +223,13 @@
       "songId": "civil-war-i-will-rule-the-universe",
       "reason": "Song = Napoleon als Kaiser (1804, Weltherrschafts-Ambition bis Waterloo). Folge = letzte Jahre im Exil auf St. Helena — gleiche Person, falsche Phase (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 272,
+      "songId": "crystallion-sole-survivors-in-ligny",
+      "reason": "Folge = Napoleon auf St. Helena nach dem Ende der Herrschaft; Song = Schlacht bei Ligny / Quatre Bras in den Hundert Tagen 1815 — verwandte Napoleon-Phase, aber anderes Ereignis und Fokus (Tier X).",
+      "rejectedAt": "2026-10-31",
       "rejectedBy": "manual"
     },
     {
@@ -611,6 +625,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 488,
+      "songId": "mastodon-blood-and-thunder",
+      "reason": "Folge = Hokusai und die Große Welle (Holzschnitt ~1831); Song = Ahab/Moby Dick — Coverkunst des Albums Leviathan zitiert die Welle nur visuell, Song-Erzählgegenstand ist Melville/Ahab (Tier X).",
+      "rejectedAt": "2026-10-31",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 489,
+      "songId": "saxorior-hussiten",
+      "reason": "Folge = Konzil von Konstanz, Absetzung Johannes’ XXIII. und Poggio als Bücherjäger; Song = Jan Hus / Hussitenkriege (bereits passend zu #83) — gemeinsamer Schauplatz Konstanz, anderer Erzählkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 490,
       "songId": "warkings-spartacus",
       "reason": "Song = Spartacus / Dritter Sklavenkrieg (73–71 v. Chr.). Folge = Eunus und Erster Sklavenkrieg auf Sizilien (135–132 v. Chr.) — anderer Aufstand, andere Person (Tier X).",
@@ -667,10 +695,31 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 507,
+      "songId": "kowloon-walled-city-wrong-side-of-history",
+      "reason": "Folge = Kowloon Walled City als historischer Ort (Wachstum, Alltag, Abriss); Song = generische Isolation-/Zeitdruck-Lyrics ohne Hongkong-/Enklaven-Bezug — Bandname nach dem Ort (Forumsfund), Diskografie ohne Stadt-Erzählkern, nur Namensanker (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 509,
+      "songId": "stringybark-band-the-catalpa",
+      "reason": "Folge = Catalpa-Rettung der Fenians aus Fremantle 1876; Song = Ballade derselben Flucht — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Traditional, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-30",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 510,
       "songId": "electric-light-orchestra-roll-over-beethoven",
       "reason": "Folge = Beethoven / Entstehung der Eroica (3.); Song = Rock-Cover mit Beethoven-Namen und Zitat der 5. — nur Namensanklang und anderes Werk, kein gemeinsamer Erzählgegenstand (Tier X).",
       "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 511,
+      "songId": "schandmaul-tjark-evers",
+      "reason": "Folge = Emily Ruete / Sayyida Salme (Sansibar-Flucht 1866, Bismarck-Kolonialpolitik); Song = Tod des Navigationsschülers Tjark Evers im Wattenmeer vor Baltrum 1866 — nur gemeinsames Jahr, andere Person und Ereignis (Tier X).",
+      "rejectedAt": "2026-10-30",
       "rejectedBy": "manual"
     },
     {
@@ -706,6 +755,13 @@
       "songId": "eno-barony-yaa-asantewaa",
       "reason": "Song = Hommage an Yaa Asantewaa und den Krieg um den Goldenen Schemel. Folge = Yaa Asantewaa und der Krieg um den Goldenen Schemel — inhaltlich eng (bei Metal wäre Tier A). Genre = Rap / Hip-Hop, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 521,
+      "songId": "sons-of-kemet-my-queen-is-yaa-asantewaa",
+      "reason": "Folge = Yaa Asantewaa und Krieg um den Goldenen Schemel; Song = Hommage an dieselbe Königinmutter und denselben Krieg — inhaltlich eng (bei Metal wäre Tier A). Genre = Jazz / Afrobeat, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-30",
       "rejectedBy": "manual"
     },
     {
@@ -758,6 +814,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 540,
+      "songId": "blind-guardian-black-chamber",
+      "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Blind Guardian „Black Chamber“ (Twin-Peaks-Motiv, Somewhere Far Beyond) — nur Titelanklang „Kammer“, kein historischer Chiffre-/Überwachungsbezug (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 540,
+      "songId": "stormwind-the-man-behind-the-iron-mask",
+      "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Mann mit der eisernen Maske (Dumas-Legende) — anderer Erzählgegenstand, nur Hof/Epoche plus externe Bazeries-Assoziation ohne Beleg in Song oder Folgenkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 541,
       "songId": "rainald-grebe-dreissigjaehrige-paerchen",
       "reason": "Folge = Geschichte des Sushi (Ursprünge, Reis vs. Fisch, moderne Varianten); Song = Kabarett über dreißigjährige Pärchen, die Sushi essen — nur assoziativer Sushi-Lifestyle-Bezug, kein historischer Erzählgegenstand (bei Metal wäre Tier C). Genre = Kabarett / Liedermacher, kein Rock/Metal (Tier X).",
@@ -800,6 +870,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 547,
+      "songId": "schweisser-perpetuum-mobile",
+      "reason": "Folge = Orffyreus/Bessler und das Perpetuum-Mobile-Experiment auf Schloss Weißenstein; Song = Metapher einer sinnlosen, ewig mahlenden Chrom-Stahl-Maschine — nur Titel-/Motivanklang, kein historischer Bessler-Bezug (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 550,
       "songId": "mughal-e-funk-akbar",
       "reason": "Song = Instrumentalstück zu Kaiser Akbar. Folge = Akbar und Entstehung des Mogulreichs — inhaltlich eng (bei Metal wäre Tier A). Genre = Funk / Instrumental-Fusion, kein Rock/Metal (Tier X).",
@@ -808,9 +885,23 @@
     },
     {
       "episodeId": 551,
+      "songId": "alestorm-magellans-expedition",
+      "reason": "Folge = SMS Novara / Habsburg-Weltumsegelung 1857 und Nikobaren; Song = Magellans Expedition 1519–22 — andere Expedition und Jahrhundert, nur loser Weltumseglungs-Rahmen (Tier X).",
+      "rejectedAt": "2026-10-31",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 551,
       "songId": "savatage-the-wake-of-magellan",
       "reason": "Song/Album = Maersk Dubai + fiktiver Magellan-Rahmen 1990er. Folge = SMS Novara / Habsburg-Weltumseglung 1857 — nur loser Weltumseglungs-/Seefahrt-Rahmen (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 551,
+      "songId": "serenity-new-horizons",
+      "reason": "Folge = SMS Novara / Habsburg-Weltumsegelung 1857 und Nikobaren; Song = Francis Drake (Nova Albion, Weltumsegelung für Elizabeth I.) — andere Person, Jahrhundert und Expedition (Tier X).",
+      "rejectedAt": "2026-10-31",
       "rejectedBy": "manual"
     },
     {
@@ -871,16 +962,16 @@
     },
     {
       "episodeId": 560,
-      "songId": "ahab-yet-another-raft-of-the-medusa",
-      "reason": "Folge = Méduse 1816 und Entstehung von Géricaults „Floß der Medusa“; Song = Essex 1820 / Pollard (Marquesas, offene See), Titel und Cover nur als Méduse-Analogie — anderes Ereignis und andere Person (Tier X).",
-      "rejectedAt": "2026-10-24",
+      "songId": "ahab-the-divinity-of-oceans",
+      "reason": "Folge = Méduse 1816 und Géricaults „Floß der Medusa“; Song = Essex-Schiffbruch/Überleben 1820 auf Konzeptalbum mit Méduse-Cover — Cover-Analogie, anderes Ereignis (Tier X).",
+      "rejectedAt": "2026-11-03",
       "rejectedBy": "manual"
     },
     {
       "episodeId": 560,
-      "songId": "ahab-the-divinity-of-oceans",
-      "reason": "Folge = Méduse 1816 und Géricaults „Floß der Medusa“; Song = Essex-Schiffbruch/Überleben 1820 auf Konzeptalbum mit Méduse-Cover — Cover-Analogie, anderes Ereignis (Tier X).",
-      "rejectedAt": "2026-11-03",
+      "songId": "ahab-yet-another-raft-of-the-medusa",
+      "reason": "Folge = Méduse 1816 und Entstehung von Géricaults „Floß der Medusa“; Song = Essex 1820 / Pollard (Marquesas, offene See), Titel und Cover nur als Méduse-Analogie — anderes Ereignis und andere Person (Tier X).",
+      "rejectedAt": "2026-10-24",
       "rejectedBy": "manual"
     },
     {
@@ -895,6 +986,13 @@
       "songId": "animal-collective-prester-john",
       "reason": "Song = Titel „Prester John“, Lyrics eher persönliche/abstrakte Bilder ohne Legendenchronik. Folge = Brief-Fälschung und Wirkungsgeschichte des Priesterkönigs Johannes — nur Namensanklang (bei Metal wäre eher Tier C). Genre = Experimental / Indie, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-07",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 562,
+      "songId": "allegaeon-concerto-in-dm",
+      "reason": "Folge = Chevalier John Taylor / Augenoperation an Bach; Song = Metal-Arrangement BWV 1052 — Bach nur als Operierter in der Folge, Song ohne Taylor-/Blindheits-Erzählkern (Tier X).",
+      "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     },
     {
@@ -916,6 +1014,13 @@
       "songId": "sabaton-the-last-battle",
       "reason": "Folge = Zheng Yisao und Perusiedlung (Hörbuch); Song = Schloss Itter 1945 — nur Wort Tirol im Folgentitel-Nebenstrang, kein gemeinsamer Kern (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 570,
+      "songId": "sabaton-i-emperor",
+      "reason": "Folge = Appert und Erfindung der Konservendose (napoleonischer Militärpreis nur als Rahmen); Song = Napoleon als Kaiser und Eroberer — nur loser Zeitrahmen, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     },
     {
@@ -1158,23 +1263,16 @@
     },
     {
       "episodeId": 578,
+      "songId": "nightwish-sleeping-sun",
+      "reason": "Folge = Violet Jessop / Olympic-Klasse (Hörbuch #578); Song = Sonnenfinsternis-Ballade 1999 — Titanic/Britannic nur Fan-/YT-Assoziation, kein Erzählkern (Tier X).",
+      "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 578,
       "songId": "schandmaul-tjark-evers",
       "reason": "Folge = Violet-Jessop-Hörbuch inkl. Tjark-Evers-Rahmen (#578); Song = Tod und Zigarrenkisten-Abschied des Tjark Evers — inhaltlich eng (bei Metal wäre Tier A). Genre = Mittelalter-Folk / Folk Rock, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-23",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 579,
-      "songId": "hermans-hermits-no-milk-today",
-      "reason": "Folge = Elektromobilität um 1900 (Hamburg-Taxis, Batterien, früher Porsche); Song = Pop-Ballade über Trennung, symbolisiert durch den Milchflaschen-Zettel „No milk today“ — Richard nennt den Song im Abschlussgespräch der Folge; inhaltlich nur loses Stichwort/Assoziation (bei Metal höchstens Tier C). Genre = Baroque Pop / Pop, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-10-28",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 579,
-      "songId": "thule-la-jamais-contente",
-      "reason": "Folge = Elektromobilität um 1900 inkl. Elektro-Geschwindigkeitsrekord (Jenatzy / La Jamais Contente); Song/EP = Thule „La Jamais Contente“ (Titel-Hommage, Tracks ohne belegten Jenatzy-Erzählkern) — bei Metal wäre Tier C. Genre = Industrial Electronic / Experimental Electronica, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     },
     {
@@ -1186,114 +1284,23 @@
     },
     {
       "episodeId": 579,
+      "songId": "hermans-hermits-no-milk-today",
+      "reason": "Folge = Elektromobilität um 1900 (Hamburg-Taxis, Batterien, früher Porsche); Song = Pop-Ballade über Trennung, symbolisiert durch den Milchflaschen-Zettel „No milk today“ — Richard nennt den Song im Abschlussgespräch der Folge; inhaltlich nur loses Stichwort/Assoziation (bei Metal höchstens Tier C). Genre = Baroque Pop / Pop, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-10-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 579,
       "songId": "metallica-battery",
       "reason": "Folge = wiederaufladbare Batterien und E-Taxis um 1900; Song = Thrash-Szene / Battery Street / assault-and-battery-Wortspiel — Titelhomonym ohne historischen Bezug (Tier X).",
       "rejectedAt": "2026-10-29",
       "rejectedBy": "manual"
     },
     {
-      "episodeId": 547,
-      "songId": "schweisser-perpetuum-mobile",
-      "reason": "Folge = Orffyreus/Bessler und das Perpetuum-Mobile-Experiment auf Schloss Weißenstein; Song = Metapher einer sinnlosen, ewig mahlenden Chrom-Stahl-Maschine — nur Titel-/Motivanklang, kein historischer Bessler-Bezug (Tier X).",
+      "episodeId": 579,
+      "songId": "thule-la-jamais-contente",
+      "reason": "Folge = Elektromobilität um 1900 inkl. Elektro-Geschwindigkeitsrekord (Jenatzy / La Jamais Contente); Song/EP = Thule „La Jamais Contente“ (Titel-Hommage, Tracks ohne belegten Jenatzy-Erzählkern) — bei Metal wäre Tier C. Genre = Industrial Electronic / Experimental Electronica, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 489,
-      "songId": "saxorior-hussiten",
-      "reason": "Folge = Konzil von Konstanz, Absetzung Johannes’ XXIII. und Poggio als Bücherjäger; Song = Jan Hus / Hussitenkriege (bereits passend zu #83) — gemeinsamer Schauplatz Konstanz, anderer Erzählkern (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 540,
-      "songId": "stormwind-the-man-behind-the-iron-mask",
-      "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Mann mit der eisernen Maske (Dumas-Legende) — anderer Erzählgegenstand, nur Hof/Epoche plus externe Bazeries-Assoziation ohne Beleg in Song oder Folgenkern (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 570,
-      "songId": "sabaton-i-emperor",
-      "reason": "Folge = Appert und Erfindung der Konservendose (napoleonischer Militärpreis nur als Rahmen); Song = Napoleon als Kaiser und Eroberer — nur loser Zeitrahmen, kein gemeinsamer Erzählgegenstand (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 578,
-      "songId": "nightwish-sleeping-sun",
-      "reason": "Folge = Violet Jessop / Olympic-Klasse (Hörbuch #578); Song = Sonnenfinsternis-Ballade 1999 — Titanic/Britannic nur Fan-/YT-Assoziation, kein Erzählkern (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 562,
-      "songId": "allegaeon-concerto-in-dm",
-      "reason": "Folge = Chevalier John Taylor / Augenoperation an Bach; Song = Metal-Arrangement BWV 1052 — Bach nur als Operierter in der Folge, Song ohne Taylor-/Blindheits-Erzählkern (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 540,
-      "songId": "blind-guardian-black-chamber",
-      "reason": "Folge = Cabinet Noir / Große Chiffre; Song = Blind Guardian „Black Chamber“ (Twin-Peaks-Motiv, Somewhere Far Beyond) — nur Titelanklang „Kammer“, kein historischer Chiffre-/Überwachungsbezug (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 507,
-      "songId": "kowloon-walled-city-wrong-side-of-history",
-      "reason": "Folge = Kowloon Walled City als historischer Ort (Wachstum, Alltag, Abriss); Song = generische Isolation-/Zeitdruck-Lyrics ohne Hongkong-/Enklaven-Bezug — Bandname nach dem Ort (Forumsfund), Diskografie ohne Stadt-Erzählkern, nur Namensanker (Tier X).",
-      "rejectedAt": "2026-10-29",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 509,
-      "songId": "stringybark-band-the-catalpa",
-      "reason": "Folge = Catalpa-Rettung der Fenians aus Fremantle 1876; Song = Ballade derselben Flucht — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Traditional, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-10-30",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 521,
-      "songId": "sons-of-kemet-my-queen-is-yaa-asantewaa",
-      "reason": "Folge = Yaa Asantewaa und Krieg um den Goldenen Schemel; Song = Hommage an dieselbe Königinmutter und denselben Krieg — inhaltlich eng (bei Metal wäre Tier A). Genre = Jazz / Afrobeat, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-10-30",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 511,
-      "songId": "schandmaul-tjark-evers",
-      "reason": "Folge = Emily Ruete / Sayyida Salme (Sansibar-Flucht 1866, Bismarck-Kolonialpolitik); Song = Tod des Navigationsschülers Tjark Evers im Wattenmeer vor Baltrum 1866 — nur gemeinsames Jahr, andere Person und Ereignis (Tier X).",
-      "rejectedAt": "2026-10-30",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 551,
-      "songId": "serenity-new-horizons",
-      "reason": "Folge = SMS Novara / Habsburg-Weltumsegelung 1857 und Nikobaren; Song = Francis Drake (Nova Albion, Weltumsegelung für Elizabeth I.) — andere Person, Jahrhundert und Expedition (Tier X).",
-      "rejectedAt": "2026-10-31",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 272,
-      "songId": "crystallion-sole-survivors-in-ligny",
-      "reason": "Folge = Napoleon auf St. Helena nach dem Ende der Herrschaft; Song = Schlacht bei Ligny / Quatre Bras in den Hundert Tagen 1815 — verwandte Napoleon-Phase, aber anderes Ereignis und Fokus (Tier X).",
-      "rejectedAt": "2026-10-31",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 488,
-      "songId": "mastodon-blood-and-thunder",
-      "reason": "Folge = Hokusai und die Große Welle (Holzschnitt ~1831); Song = Ahab/Moby Dick — Coverkunst des Albums Leviathan zitiert die Welle nur visuell, Song-Erzählgegenstand ist Melville/Ahab (Tier X).",
-      "rejectedAt": "2026-10-31",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 551,
-      "songId": "alestorm-magellans-expedition",
-      "reason": "Folge = SMS Novara / Habsburg-Weltumsegelung 1857 und Nikobaren; Song = Magellans Expedition 1519–22 — andere Expedition und Jahrhundert, nur loser Weltumseglungs-Rahmen (Tier X).",
-      "rejectedAt": "2026-10-31",
       "rejectedBy": "manual"
     }
   ]

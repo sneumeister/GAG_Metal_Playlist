@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-03 18:02:09 +0100<br>**JSON-Status:** 2026-11-03 18:01:28 +0100</small>
+<small>**Compile-Datum:** 2026-11-03 19:18:59 +0100<br>**JSON-Status:** 2026-11-03 19:17:53 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -30,6 +30,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
 | [125](https://gadg.fm/125) | Republik Fredonia | The Marx Brothers | Hail, Hail Freedonia | X | [link](https://www.youtube.com/watch?v=x4OJGdtRx10) | — |
 | [147](https://gadg.fm/147) | Das Fräulein vom Amt | Bangkok Impact | Junge Dame Mit Freundlicher Tellephonstimme | X | [link](https://www.youtube.com/watch?v=ci7n4_3Gk2Q) | — |
+| [185](https://gadg.fm/185) | Kleindeutschland und die General Slocum Katastrophe | Al Duvall | The Wreck of the General Slocum | X | [link](https://www.youtube.com/watch?v=dSDX1FGEk84) | — |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Cato Major: Carthago Delenda Est! | X | — | [link](https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z) |
 | [197](https://gadg.fm/197) | Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron | Sabaton | Talvisota | X | [link](https://www.youtube.com/watch?v=jtfBcDV7etA) | [link](https://open.spotify.com/track/3GhlV5FpkyZvNPMA7v3G1t) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rosalía | De Madrugá | X | [link](https://www.youtube.com/watch?v=QEQZs8SLhQE) | [link](https://open.spotify.com/track/6F52Ls9K7a6vNNi0lip9Gm) |

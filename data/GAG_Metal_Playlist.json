@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02 19:42:06 +0100",
+  "updatedAt": "2026-11-03 19:18:59 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -20,6 +20,22 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 3,
+      "episodeTitle": "Fitness-Parcours für den Pharao",
+      "episodeUrl": "https://gadg.fm/3",
+      "songId": "sabaton-the-cycle-of-songs",
+      "band": "Sabaton",
+      "songTitle": "The Cycle of Songs",
+      "matchTier": "C",
+      "justification": "Folge = Pharaonen-Fitnessnachweis / Sed-Fest nach langer Herrschaft; Song = Senusret III. (Feldzüge, Ma’at, Herrschaftsideal) — thematische Nähe Pharao/Ägypten, anderer Fokus (Tier C).",
+      "sharedEntities": [
+        "Pharao",
+        "Ägypten"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2BCSABdmxlLx0hJwuvcRBj",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XBEuiIFB0r4"
     },
     {
       "episodeId": 4,
@@ -1837,6 +1853,23 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 333,
+      "episodeTitle": "Alexandria",
+      "episodeUrl": "https://gadg.fm/333",
+      "songId": "serenity-age-of-glory",
+      "band": "Serenity",
+      "songTitle": "Age of Glory",
+      "matchTier": "C",
+      "justification": "Folge = Alexandria als Kultur-/Nachlassprojekt der Nachfolger; Song = Alexanders Eroberungsdrang und sterbendes „Age of Glory“ (Perser/Babylon) — gemeinsame Person Alexander, kein gemeinsamer Erzählgegenstand (Stadt vs. Feldzug) (Tier C).",
+      "sharedEntities": [
+        "Alexander der Große"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5T9cFpoaEjkBPZaMrocniw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jOi8ujXxKTk",
+      "matchedAt": "2026-11-03",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 335,
       "episodeTitle": "Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts",
       "episodeUrl": "https://gadg.fm/335",
@@ -2639,6 +2672,25 @@
       "spotifyUrl": "https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3",
       "youtubeUrl": "https://www.youtube.com/watch?v=R8OYRZDHK4s",
       "matchedAt": "2026-09-28",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 466,
+      "episodeTitle": "Julia Felix und das Ende Pompejis",
+      "episodeUrl": "https://gadg.fm/466",
+      "songId": "siouxsie-and-the-banshees-cities-in-dust",
+      "band": "Siouxsie and the Banshees",
+      "songTitle": "Cities In Dust",
+      "matchTier": "B",
+      "justification": "Folge = Untergang Pompejis, Julia Felix und Ausgrabungen; Song = Vesuvausbruch mit Lares-Schrein, Aschetod und „molten bodies“ (Band-Aussage: Besuch in Pompeji) — gleicher Vesuv-/Pompeji-Kern, anderer Fokus (Julia Felix vs. Eruptionsopfer) (Tier B).",
+      "sharedEntities": [
+        "Pompeji",
+        "Vesuv",
+        "79 n. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wsOHvP1XnRg",
+      "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
     {
