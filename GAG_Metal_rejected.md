@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-02 19:42:45 +0100<br>**JSON-Status:** 2026-10-31 22:37:07 +0100</small>
+<small>**Compile-Datum:** 2026-11-03 18:02:09 +0100<br>**JSON-Status:** 2026-11-03 18:01:28 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -150,6 +150,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | My Dying Bride | Feel the Misery | X | — | — |
+| [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Ahab | The Divinity of Oceans | X | [link](https://www.youtube.com/watch?v=vkiu0cWboyc) | [link](https://open.spotify.com/track/1o1GYjSAnLHH9rrLMJHwWl) |
 | [560](https://gadg.fm/560) | HB07 – Mit dem Finger auf der Landkarte und Wie das Floß der Medusa entstand | Ahab | Yet Another Raft of the Medusa (Pollard's Weakness) | X | [link](https://www.youtube.com/watch?v=RGlTIMDGOEc) | [link](https://open.spotify.com/track/0VrirvyOumorZl8xpstTMs) |
 | [561](https://gadg.fm/561) | Priesterkönig Johannes | Animal Collective | Prester John | X | — | — |
 | [562](https://gadg.fm/562) | Chevalier John Taylor, Ophthalmiater | Allegaeon | Concerto in Dm | X | [link](https://www.youtube.com/watch?v=_EtcIrkG8FA) | [link](https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i) |
