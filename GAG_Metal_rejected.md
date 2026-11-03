@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-03 19:18:59 +0100<br>**JSON-Status:** 2026-11-03 19:17:53 +0100</small>
+<small>**Compile-Datum:** 2026-11-03 19:44:14 +0100<br>**JSON-Status:** 2026-11-03 19:17:53 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 

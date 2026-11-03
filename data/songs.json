@@ -3354,6 +3354,32 @@
     ]
   },
   {
+    "id": "ivan-graziani-monna-lisa",
+    "band": "Ivan Graziani",
+    "title": "Monna Lisa",
+    "entities": [
+      "Mona Lisa",
+      "Louvre",
+      "Leonardo da Vinci",
+      "Gioconda"
+    ],
+    "era": "1911 / 1978",
+    "spotifyUrl": "https://open.spotify.com/track/16CdbuX6bDSXo07rsic56K",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HRQxljCTL8U",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Gioconda",
+        "note": "IT-Wiki: Graziani inspiriert vom historischen Louvre-Diebstahl; ironische Fantasie"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.infinititesti.com/2012/07/16/ivan-graziani-monna-lisa-testo/",
+        "note": "Testo: rubarla / mi apparteneva / Louvre-Wärter / cassa di patate"
+      }
+    ]
+  },
+  {
     "id": "jeff-beck-johnny-depp-this-is-a-song-for-miss-hedy-lamarr",
     "band": "Jeff Beck & Johnny Depp",
     "title": "This Is A Song For Miss Hedy Lamarr",
@@ -9773,6 +9799,32 @@
         "type": "band",
         "url": "https://wrightvalley.com/",
         "note": "Band: Doom/Sludge, Wiesbaden; Antarctic aesthetic"
+      }
+    ]
+  },
+  {
+    "id": "therion-son-of-the-sun",
+    "band": "Therion",
+    "title": "Son of the Sun",
+    "entities": [
+      "Echnaton",
+      "Aton",
+      "Amarna",
+      "Ägypten"
+    ],
+    "era": "14. Jh. v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/4A4QQVNdJeSB4ypf0DS9Sa",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LfqecEyN1Ds",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sirius_B_(album)",
+        "note": "Sirius B: Son of the Sun = Pharaoh Akhenaten / Aton"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.last.fm/music/Therion/_/Son+of+the+Sun",
+        "note": "Last.fm wiki: Akhenaten reforms pantheon, Aten as only god"
       }
     ]
   },
