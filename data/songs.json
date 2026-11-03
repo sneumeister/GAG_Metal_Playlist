@@ -163,6 +163,37 @@
     ]
   },
   {
+    "id": "ahab-the-divinity-of-oceans",
+    "band": "Ahab",
+    "title": "The Divinity of Oceans",
+    "entities": [
+      "Essex",
+      "Walfang",
+      "Schiffbruch",
+      "Floß der Medusa"
+    ],
+    "era": "1820 / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/1o1GYjSAnLHH9rrLMJHwWl",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vkiu0cWboyc",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Divinity_of_Oceans",
+        "note": "Album = Essex 1820; Cover = Géricault Raft of the Medusa"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://www.darklyrics.com/lyrics/ahab/thedivinityofoceans.html",
+        "note": "Titeltrack: Schiffbruch/offene See, Essex-Konzeptalbum"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.teethofthedivine.com/interviews/interview-with-ahab/",
+        "note": "Band: Divinity of Oceans = Essex / Chase / Philbrick"
+      }
+    ]
+  },
+  {
     "id": "ahab-yet-another-raft-of-the-medusa",
     "band": "Ahab",
     "title": "Yet Another Raft of the Medusa (Pollard's Weakness)",

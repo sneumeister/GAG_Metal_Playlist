@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31 22:37:07 +0100",
+  "updatedAt": "2026-11-03 18:01:28 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -874,6 +874,13 @@
       "songId": "ahab-yet-another-raft-of-the-medusa",
       "reason": "Folge = Méduse 1816 und Entstehung von Géricaults „Floß der Medusa“; Song = Essex 1820 / Pollard (Marquesas, offene See), Titel und Cover nur als Méduse-Analogie — anderes Ereignis und andere Person (Tier X).",
       "rejectedAt": "2026-10-24",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 560,
+      "songId": "ahab-the-divinity-of-oceans",
+      "reason": "Folge = Méduse 1816 und Géricaults „Floß der Medusa“; Song = Essex-Schiffbruch/Überleben 1820 auf Konzeptalbum mit Méduse-Cover — Cover-Analogie, anderes Ereignis (Tier X).",
+      "rejectedAt": "2026-11-03",
       "rejectedBy": "manual"
     },
     {
