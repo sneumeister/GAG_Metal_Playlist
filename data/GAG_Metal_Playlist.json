@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03 19:44:14 +0100",
+  "updatedAt": "2026-11-04 19:22:30 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -2656,6 +2656,27 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
+      "songId": "culloden-thermopylae",
+      "band": "Culloden",
+      "songTitle": "Thermopylae",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht an den Thermopylen / Leonidas und die 300; Song = Thermopylae (300 Spartans, Xerxes, Verräterpass, Hold the path) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Thermopylen",
+        "Sparta",
+        "Leonidas",
+        "Xerxes",
+        "480 v. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SyK0JF5j6p4",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 466,
       "episodeTitle": "Julia Felix und das Ende Pompejis",
       "episodeUrl": "https://gadg.fm/466",
@@ -4124,6 +4145,197 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
       "youtubeUrl": "https://www.youtube.com/watch?v=9wo6lNn4KVE"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "grave-digger-culloden-muir",
+      "band": "Grave Digger",
+      "songTitle": "Culloden Muir",
+      "matchTier": "A",
+      "justification": "Folge = Jakobitenaufstand 1745/46, Schlacht bei Culloden und Folgen für Clans/Highlands sowie spätere Wahrnehmung; Song = Ich-Perspektive nach der Niederlage auf Culloden Muir 1746 (burning towns, Clans destroyed, Prince Bonnie, Gillis MacBean) — derselbe Kern Schlacht und unmittelbares Nachspiel (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Krjrb0fTG5A",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "grave-digger-rebellion-the-clans-are-marching",
+      "band": "Grave Digger",
+      "songTitle": "Rebellion (The Clans Are Marching)",
+      "matchTier": "B",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen; Song = Aufbruch des Rising (Bonnie Prince Charles, Glenfinnan, Edinburgh, Prestonpans) ohne Culloden — gemeinsamer Rising-Rahmen, anderer Fokus (früher Siegsweg vs. Culloden-Ende) (Tier B).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Glenfinnan",
+        "Prestonpans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ns1K33XnH9g",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "skiltron-prestonpans-1745",
+      "band": "Skiltron",
+      "songTitle": "Prestonpans 1745",
+      "matchTier": "B",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen; Song = Bonnie Prince Charlie und Sieg bei Prestonpans 1745 (Fontenoy-Kontext, John Cope, Edinburgh, Highland Charge) — gemeinsamer Rising-Rahmen, anderer Fokus (Prestonpans vs. Culloden) (Tier B).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Prestonpans",
+        "Edinburgh"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gdbGQmwRelQ",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "culloden-hills-of-culloden",
+      "band": "Culloden",
+      "songTitle": "Hills of Culloden",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht bei Culloden 1746 und Jakobiten-Ende; Song = Hills of Culloden (Band/Songtitel Culloden; Review: Schlachtlyrics mit Jahr 1746) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Schlacht bei Culloden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
+      "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "grave-digger-barbarian",
+      "band": "Grave Digger",
+      "songTitle": "Barbarian",
+      "matchTier": "A",
+      "justification": "Folge = Culloden 1746 und Folgen für Jakobiten/Highlands; Song = Herzog von Cumberland als „Butcher of Culloden“ / Killer of the Jacobites und Unterdrückung danach — derselbe Kern Schlacht-Nachspiel/Culloden (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Herzog von Cumberland",
+        "Jakobiten"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-skye-boat-song",
+      "band": "The Real McKenzies",
+      "songTitle": "Skye Boat Song",
+      "matchTier": "A",
+      "justification": "Folge = ’45er Rising, Culloden und kulturelle Nachwirkung; Song = Celtic-Punk-Version des Skye Boat Song (Tote auf Culloden’s field, Flucht Charlies over the sea to Skye) — derselbe Kern Culloden/Charlie-Flucht (Tier A).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Culloden",
+        "Isle of Skye"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-ye-jacobites-by-name",
+      "band": "The Real McKenzies",
+      "songTitle": "Ye Jacobites by Name",
+      "matchTier": "B",
+      "justification": "Folge = Verlauf des Jakobitenaufstands bis Culloden und was danach kam; Song = Burns spricht die Jakobiten an und tadelt ihre Sache („Your faults I will proclaim“) — gleiche Partei Jakobiten, anderer Fokus (Geschichtsverlauf vs. politische Standpauke) (Tier B).",
+      "sharedEntities": [
+        "Jakobiten"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-the-night-the-lights-went-out-in-scotland",
+      "band": "The Real McKenzies",
+      "songTitle": "The Night the Lights Went Out in Scotland",
+      "matchTier": "A",
+      "justification": "Folge = Culloden 1746 und Folgen für Clans/Highlands; Song = Nachspiel nach dem Fall of Culloden (Charlie flieht, Clear the Highlands) — derselbe Kern Schlacht-Nachspiel (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Bonnie Prince Charlie",
+        "Highland Clearances"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=btsX8GgBkK0",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-will-ye-no-come-back-again",
+      "band": "The Real McKenzies",
+      "songTitle": "Will Ye No Come Back Again?",
+      "matchTier": "A",
+      "justification": "Folge = ’45er Rising, Culloden und kulturelle Nachwirkung inkl. Charlie-Flucht; Song = Jakobiten-Abschied an Bonnie Charlie (Exil, Highland-Loyalität, „will ye no come back again“) — derselbe Kern Charlie nach Culloden (Tier A).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Culloden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
+      "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 509,
+      "episodeTitle": "Filmreife Flucht",
+      "episodeUrl": "https://gadg.fm/509",
+      "songId": "the-real-mckenzies-the-catalpa",
+      "band": "The Real McKenzies",
+      "songTitle": "The Catalpa",
+      "matchTier": "A",
+      "justification": "Folge = Catalpa-Rettung der Fenians aus Fremantle 1876; Song = Celtic-Punk-Ballade derselben Flucht (Catalpa, sechs Fenians, Georgette) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Catalpa",
+        "Fenians",
+        "Fremantle",
+        "1876"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
     }
   ]
 }
