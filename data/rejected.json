@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03 19:17:53 +0100",
+  "updatedAt": "2026-11-04 18:45:25 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1301,6 +1301,13 @@
       "songId": "thule-la-jamais-contente",
       "reason": "Folge = Elektromobilität um 1900 inkl. Elektro-Geschwindigkeitsrekord (Jenatzy / La Jamais Contente); Song/EP = Thule „La Jamais Contente“ (Titel-Hommage, Tracks ohne belegten Jenatzy-Erzählkern) — bei Metal wäre Tier C. Genre = Industrial Electronic / Experimental Electronica, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "songId": "steeleye-span-prince-charlie-stuart",
+      "reason": "Folge = Bonnie Prince Charlie, Culloden und Folgen; Song = Ballade auf Charlie Stuart mit Culloden Moor und vernichteter Highland-Armee — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Electric Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-04",
       "rejectedBy": "manual"
     }
   ]

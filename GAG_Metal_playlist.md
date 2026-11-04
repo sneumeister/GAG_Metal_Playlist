@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-03 19:44:14 +0100<br>**JSON-Status:** 2026-11-03 19:44:14 +0100</small>
+<small>**Compile-Datum:** 2026-11-04 19:22:21 +0100<br>**JSON-Status:** 2026-11-04 19:22:30 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -155,6 +155,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Battle of Marathon | C | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Sabaton | Sparta | A | [link](https://www.youtube.com/watch?v=p1SlBlB5pzU) | [link](https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T) |
 | [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Warkings | Sparta | A | [link](https://www.youtube.com/watch?v=MeOSgsJJ12M) | [link](https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X) |
+| [462](https://gadg.fm/462) | Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte | Culloden | Thermopylae | A | [link](https://www.youtube.com/watch?v=SyK0JF5j6p4) | [link](https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Siouxsie and the Banshees | Cities In Dust | B | [link](https://www.youtube.com/watch?v=wsOHvP1XnRg) | [link](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
 | [467](https://gadg.fm/467) | Das Leben der Lucrezia Borgia | Dorsal Atlântica | Lucrécia Bórgia | A | [link](https://www.youtube.com/watch?v=IzT-MlXlmVc) | — |
@@ -175,6 +176,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [504](https://gadg.fm/504) | Ein Nashorn auf großer Tour | Serenity | Reflections (of AD) | C | [link](https://www.youtube.com/watch?v=G38B-vTBiPs) | [link](https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4) |
 | [505](https://gadg.fm/505) | William H. Mumler, Geisterfotograf | The Burned Over | The Last Great Awakening | B | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [508](https://gadg.fm/508) | HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft | Sabaton | Father | A | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) |
+| [509](https://gadg.fm/509) | Filmreife Flucht | The Real McKenzies | The Catalpa | A | [link](https://www.youtube.com/watch?v=QiPyayfmWuY) | [link](https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK) |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Serenity | Symphony for the Quiet | B | [link](https://www.youtube.com/watch?v=vaMBn0GsgLY) | [link](https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c) |
 | [514](https://gadg.fm/514) | Anna Komnene – Prinzessin, Intellektuelle und Historikerin | Turisas | Miklagard Overture | C | [link](https://www.youtube.com/watch?v=u5OvUSgUfRE) | [link](https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Rebellion | Miklagard | A | [link](https://www.youtube.com/watch?v=dRk0grBXtGw) | [link](https://open.spotify.com/track/7IQOMAQi7h64LLLLLQ7xFo) |
@@ -232,3 +234,12 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Enzo and the Glory Ensemble | Last Weep | B | [link](https://www.youtube.com/watch?v=elzcvzBDHpU) | [link](https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | [link](https://www.youtube.com/watch?v=w6vP8LvhUFU) | [link](https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Barbarian | A | [link](https://www.youtube.com/watch?v=FBnIC1hRWO8) | [link](https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Culloden Muir | A | [link](https://www.youtube.com/watch?v=Krjrb0fTG5A) | [link](https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Culloden | Hills of Culloden | A | [link](https://www.youtube.com/watch?v=S9hNxGo9Iy0) | [link](https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Skiltron | Prestonpans 1745 | B | [link](https://www.youtube.com/watch?v=gdbGQmwRelQ) | [link](https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Rebellion (The Clans Are Marching) | B | [link](https://www.youtube.com/watch?v=Ns1K33XnH9g) | [link](https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Skye Boat Song | A | [link](https://www.youtube.com/watch?v=yuQMLw4Wd1U) | — |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | The Night the Lights Went Out in Scotland | A | [link](https://www.youtube.com/watch?v=btsX8GgBkK0) | [link](https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Will Ye No Come Back Again? | A | [link](https://www.youtube.com/watch?v=t4ykwaOMeYo) | [link](https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Ye Jacobites by Name | B | [link](https://www.youtube.com/watch?v=WdNkFtwTLro) | [link](https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J) |

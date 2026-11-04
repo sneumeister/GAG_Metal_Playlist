@@ -1353,6 +1353,60 @@
     ]
   },
   {
+    "id": "culloden-hills-of-culloden",
+    "band": "Culloden",
+    "title": "Hills of Culloden",
+    "entities": [
+      "Culloden",
+      "Schlacht bei Culloden",
+      "1746"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
+    "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
+    "sources": [
+      {
+        "type": "review",
+        "url": "https://metal-temple.com/review/culloden-witchpricker/",
+        "note": "Hills of Culloden: Schlachtlyrics, Jahr 1746"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://cullodenuk.bandcamp.com/album/witchpricker",
+        "note": "Witchpricker EP (2018), Track 2"
+      }
+    ]
+  },
+  {
+    "id": "culloden-thermopylae",
+    "band": "Culloden",
+    "title": "Thermopylae",
+    "entities": [
+      "Thermopylen",
+      "Thermopylae",
+      "Sparta",
+      "Leonidas",
+      "Xerxes",
+      "Perserkriege",
+      "480 v. Chr."
+    ],
+    "era": "480 v. Chr.",
+    "spotifyUrl": "https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SyK0JF5j6p4",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://cullodenuk.bandcamp.com/album/the-2023-demos",
+        "note": "The 2023 Demos; Lyrics: 300 Spartans, Xerxes, Verräterpass"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/album/7zkOOfhtvsD5sz05kJ5IKp",
+        "note": "Demo 2023 – Single"
+      }
+    ]
+  },
+  {
     "id": "dark-moor-el-ultimo-rey",
     "band": "Dark Moor",
     "title": "El Último Rey",
@@ -2676,6 +2730,59 @@
     ]
   },
   {
+    "id": "grave-digger-barbarian",
+    "band": "Grave Digger",
+    "title": "Barbarian",
+    "entities": [
+      "Culloden",
+      "Herzog von Cumberland",
+      "Jakobiten",
+      "Highland Clearances"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/grave-digger-barbarian-223745",
+        "note": "Butcher of Culloden / Killer of the Jacobites / Cumberland"
+      },
+      {
+        "type": "official",
+        "url": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+        "note": "Napalm Lyric Video + Band-Statement Highland Cleanings"
+      }
+    ]
+  },
+  {
+    "id": "grave-digger-culloden-muir",
+    "band": "Grave Digger",
+    "title": "Culloden Muir",
+    "entities": [
+      "Culloden",
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745",
+      "Gillis MacBean",
+      "Highland Clans"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Krjrb0fTG5A",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/grave-digger-culloden-muir-31954",
+        "note": "Culloden 1746, Prince Bonnie, Gillis MacBean, Clans destroyed"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tunes_of_War",
+        "note": "Tunes of War (1996): Schottland-Konzeptalbum, Track Culloden Muir"
+      }
+    ]
+  },
+  {
     "id": "grave-digger-fanatic-assassins",
     "band": "Grave Digger",
     "title": "Fanatic Assassins",
@@ -2779,6 +2886,33 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
         "note": "Knights of the Cross (1998)"
+      }
+    ]
+  },
+  {
+    "id": "grave-digger-rebellion-the-clans-are-marching",
+    "band": "Grave Digger",
+    "title": "Rebellion (The Clans Are Marching)",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745",
+      "Glenfinnan",
+      "Edinburgh",
+      "Prestonpans"
+    ],
+    "era": "1745",
+    "spotifyUrl": "https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ns1K33XnH9g",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/grave-digger-rebellion-%28the-clans-are-marching%29-31953",
+        "note": "Glenfinnan, Edinburgh, Prestonpans; kein Culloden"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tunes_of_War",
+        "note": "Tunes of War (1996)"
       }
     ]
   },
@@ -8875,6 +9009,33 @@
     ]
   },
   {
+    "id": "skiltron-prestonpans-1745",
+    "band": "Skiltron",
+    "title": "Prestonpans 1745",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745",
+      "Prestonpans",
+      "Edinburgh",
+      "Lord George Murray"
+    ],
+    "era": "1745",
+    "spotifyUrl": "https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gdbGQmwRelQ",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.tekstowo.pl/skiltron/prestonpans-1745",
+        "note": "Fontenoy, Bonnie Prince, Prestonpans, Edinburgh; kein Culloden"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://skiltron.bandcamp.com/album/into-the-battleground",
+        "note": "Into the Battleground (2013), Track 10"
+      }
+    ]
+  },
+  {
     "id": "skinny-puppy-hexonxonx",
     "band": "Skinny Puppy",
     "title": "Hexonxonx",
@@ -9040,6 +9201,31 @@
         "type": "band",
         "url": "https://statiskoljemusikk.net/",
         "note": "Band-Bio: Rohstoffabbau, Kapital aus Öl"
+      }
+    ]
+  },
+  {
+    "id": "steeleye-span-prince-charlie-stuart",
+    "band": "Steeleye Span",
+    "title": "Prince Charlie Stuart",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Culloden",
+      "Highland-Armee"
+    ],
+    "era": "1746 / 1971",
+    "spotifyUrl": "https://open.spotify.com/track/0hSEM5WDjY1DeG7j26oYx5",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1U1C-CGaaqs",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.mainlynorfolk.info/steeleye.span/songs/princecharliestuart.html",
+        "note": "Culloden Moor, highland army killed, Charlie banished"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1640397-Steeleye-Span-Please-To-See-The-King",
+        "note": "Please to See the King (1971)"
       }
     ]
   },
@@ -9719,6 +9905,134 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
         "note": "Video Mutiny on the HMS Bounty"
+      }
+    ]
+  },
+  {
+    "id": "the-real-mckenzies-skye-boat-song",
+    "band": "The Real McKenzies",
+    "title": "Skye Boat Song",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Culloden",
+      "Isle of Skye",
+      "Jakobiten"
+    ],
+    "era": "1746 / 1995",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.lyricsdepot.com/real-mckenzies/skye-boat-song.html",
+        "note": "Culloden's field, over the sea to Skye, Charlie will come again"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Skye_Boat_Song",
+        "note": "Trad. Jacobite song; Real McKenzies Celtic-Punk-Cover"
+      }
+    ]
+  },
+  {
+    "id": "the-real-mckenzies-the-catalpa",
+    "band": "The Real McKenzies",
+    "title": "The Catalpa",
+    "entities": [
+      "Catalpa",
+      "Fenians",
+      "Fremantle",
+      "Georgette",
+      "1876"
+    ],
+    "era": "1876",
+    "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://www.plyrics.com/lyrics/realmckenzies/thecatalpa.html",
+        "note": "Trad. Catalpa-Ballade: sechs Fenians, Fremantle, Georgette"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://therealmckenzies.bandcamp.com/track/the-catalpa",
+        "note": "10,000 Shots (2005), Fat Wreck Chords"
+      }
+    ]
+  },
+  {
+    "id": "the-real-mckenzies-the-night-the-lights-went-out-in-scotland",
+    "band": "The Real McKenzies",
+    "title": "The Night the Lights Went Out in Scotland",
+    "entities": [
+      "Culloden",
+      "Bonnie Prince Charlie",
+      "Highland Clearances",
+      "Jakobitenaufstand 1745"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=btsX8GgBkK0",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/r/real-mckenzies-lyrics/the-night-the-lights-went-out-in-scotland-lyrics.html",
+        "note": "After the fall of Culloden; Charlie flees; clear the Highlands"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://therealmckenzies.bandcamp.com/track/the-night-the-lights-went-out-in-scotland",
+        "note": "Oot & Aboot (2003)"
+      }
+    ]
+  },
+  {
+    "id": "the-real-mckenzies-will-ye-no-come-back-again",
+    "band": "The Real McKenzies",
+    "title": "Will Ye No Come Back Again?",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745",
+      "Culloden"
+    ],
+    "era": "1746 / 2005",
+    "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
+    "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-real-mckenzies/will-ye-no-come-back-again-lyrics/",
+        "note": "Bonnie Charlie awa'; Highland loyalty; exile"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Will_Ye_No_Come_Back_Again%3F",
+        "note": "Lady Nairne; Nachspiel ’45 / Culloden, Charlie-Flucht"
+      }
+    ]
+  },
+  {
+    "id": "the-real-mckenzies-ye-jacobites-by-name",
+    "band": "The Real McKenzies",
+    "title": "Ye Jacobites by Name",
+    "entities": [
+      "Jakobiten",
+      "Robert Burns"
+    ],
+    "era": "1791 / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.lyricdown.com/lyrics/the-real-mckenzies-ye-jacobites-by-name-9074928",
+        "note": "Burns: Ye Jacobites by name / faults I will proclaim"
+      },
+      {
+        "type": "bbc",
+        "url": "https://www.bbc.co.uk/arts/robertburns/works/ye_jacobites_by_name/",
+        "note": "Robert Burns Ye Jacobites By Name (ca. 1791)"
       }
     ]
   },
