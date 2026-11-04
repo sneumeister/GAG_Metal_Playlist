@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-03 19:18:59 +0100<br>**JSON-Status:** 2026-11-03 19:18:59 +0100</small>
+<small>**Compile-Datum:** 2026-11-03 19:44:14 +0100<br>**JSON-Status:** 2026-11-03 19:44:14 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -158,6 +158,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Siouxsie and the Banshees | Cities In Dust | B | [link](https://www.youtube.com/watch?v=wsOHvP1XnRg) | [link](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) |
 | [466](https://gadg.fm/466) | Julia Felix und das Ende Pompejis | Stratovarius | Frozen in Time | B | [link](https://www.youtube.com/watch?v=R8OYRZDHK4s) | [link](https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3) |
 | [467](https://gadg.fm/467) | Das Leben der Lucrezia Borgia | Dorsal Atlântica | Lucrécia Bórgia | A | [link](https://www.youtube.com/watch?v=IzT-MlXlmVc) | — |
+| [469](https://gadg.fm/469) | Diebstahl der Mona Lisa | Ivan Graziani | Monna Lisa | B | [link](https://www.youtube.com/watch?v=HRQxljCTL8U) | [link](https://open.spotify.com/track/16CdbuX6bDSXo07rsic56K) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Carolus Rex | A | [link](https://www.youtube.com/watch?v=nxwv8-oAasI) | [link](https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Long Live the King | A | [link](https://www.youtube.com/watch?v=rMnGYDi7Li0) | [link](https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Poltava | A | [link](https://www.youtube.com/watch?v=xfGe07IzsK4) | [link](https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf) |
@@ -209,6 +210,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [564](https://gadg.fm/564) | Sarah Winchester und ihr Mystery House | Silver Bullet | The Thirteen Nails | A | [link](https://www.youtube.com/watch?v=XLvDxovqb1U) | [link](https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) |
+| [565](https://gadg.fm/565) | Nofretete und Echnaton | Therion | Son of the Sun | A | [link](https://www.youtube.com/watch?v=LfqecEyN1Ds) | [link](https://open.spotify.com/track/4A4QQVNdJeSB4ypf0DS9Sa) |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | Molotow Soda | Laborratte | C | [link](https://www.youtube.com/watch?v=WSU0EpjwR9E) | [link](https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q) |
 | [567](https://gadg.fm/567) | Die Fibonacci-Folge | Tool | Lateralus | B | [link](https://www.youtube.com/watch?v=Y7JG63IuaWs) | [link](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) |
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) |
