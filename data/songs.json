@@ -406,6 +406,37 @@
     ]
   },
   {
+    "id": "anduril-culloden",
+    "band": "Anduril",
+    "title": "Culloden",
+    "entities": [
+      "Culloden",
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745",
+      "Highland Clans"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4GX2lMmsZq8",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.anduril.band/atlanterra-songtexte-2/",
+        "note": "Offizielles Songtext: Fourtyfive, Jacobites, Culloden-Moor, Highlands"
+      },
+      {
+        "type": "band",
+        "url": "https://www.anduril.band/cdrelease2018/",
+        "note": "Atlanterra (2018): Culloden als wuchtiger Rocksong gelistet"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
+        "note": "Atlanterra Track 2"
+      }
+    ]
+  },
+  {
     "id": "animal-collective-prester-john",
     "band": "Animal Collective",
     "title": "Prester John",
@@ -1101,6 +1132,36 @@
         "type": "secondary",
         "url": "https://open.spotify.com/album/4qR64lFYU770My5RL6uPm7",
         "note": "Gods and Generals (2015)"
+      }
+    ]
+  },
+  {
+    "id": "concha-piquer-eugenia-de-montijo",
+    "band": "Concha Piquer",
+    "title": "Eugenia de Montijo",
+    "entities": [
+      "Eugénie de Montijo",
+      "Napoleon III.",
+      "Granada"
+    ],
+    "era": "1853–1870",
+    "spotifyUrl": "https://open.spotify.com/track/5fln0fmz7vPMgNMhacHV7Y",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xM3b3ybzV4c",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://lapoesiadelacopla.blogspot.com/2010/06/eugenia-de-montijo.html",
+        "note": "Copla-Text: Granada → Kaiserin, Versailles presa"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bdh.bne.es/bnesearch/detalle/bdh0000009625",
+        "note": "Aufnahme 1941 Odeón; León / Quiroga / Ochaíta; Canción española"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/5fln0fmz7vPMgNMhacHV7Y",
+        "note": "Eugenia de Montijo"
       }
     ]
   },
@@ -9175,6 +9236,37 @@
     ]
   },
   {
+    "id": "spirit-of-play-arthur",
+    "band": "Spirit of Play",
+    "title": "Arthur",
+    "entities": [
+      "Arthur Conan Doyle",
+      "Spiritismus",
+      "Séance",
+      "Sherlock Holmes"
+    ],
+    "era": "1920s",
+    "spotifyUrl": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9TJZATUpcts",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://spiritofplay.bandcamp.com/track/arthur",
+        "note": "Bandcamp: Conan Doyle + Séancen; Lyrics Fairies, knock on tables"
+      },
+      {
+        "type": "band",
+        "url": "http://www.spirit-of-play.co.uk/",
+        "note": "Indie/Geekpop-Band; EP take shelter (2013)"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
+        "note": "Arthur"
+      }
+    ]
+  },
+  {
     "id": "statoil-hyper-capitalistic-wet-dream-finding-the-black-gold",
     "band": "Statoil",
     "title": "Hyper-capitalistic wet dream (finding the black gold)",
@@ -9672,6 +9764,42 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag573/",
         "note": "Folge zu Scrip, Truck und Company Store"
+      }
+    ]
+  },
+  {
+    "id": "terry-allen-houdini-didnt-like-the-spiritualists",
+    "band": "Terry Allen",
+    "title": "Houdini Didn't Like The Spiritualists",
+    "entities": [
+      "Harry Houdini",
+      "Spiritismus",
+      "Séance",
+      "Bess Houdini"
+    ],
+    "era": "1920s",
+    "spotifyUrl": "https://open.spotify.com/track/0gRuWSElMKzQAqA9YPCaja",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.radio-graphics.com/bop-shop/2026/2/14/the-bop-shop-21526-terry-allen-",
+        "note": "Lyrics: Mutter jenseits, Fake-Medien, Grab-Pakt mit Bess"
+      },
+      {
+        "type": "review",
+        "url": "https://pitchfork.com/reviews/albums/terry-allen-and-the-panhandle-mystery-ba-just-like-moby-dick/",
+        "note": "Just Like Moby Dick (2020); Pitchfork Genre Folk/Country"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/0gRuWSElMKzQAqA9YPCaja",
+        "note": "feat. Shannon McNally"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/album/0VGucZOXpehfYJNG4XKyDv",
+        "note": "Just Like Moby Dick (2020)"
       }
     ]
   },
@@ -10260,6 +10388,35 @@
     ]
   },
   {
+    "id": "transmission-lost-josephine",
+    "band": "Transmission Lost",
+    "title": "Josephine",
+    "entities": [
+      "Napoleon I.",
+      "Joséphine de Beauharnais"
+    ],
+    "era": "1796–1814",
+    "spotifyUrl": "https://open.spotify.com/track/2TPX6hfGNDc86vFSjvrtkq",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "review",
+        "url": "https://dancing-about-architecture.com/josephine-transmission-lost-reviewed-by-dave-franklin/",
+        "note": "Napoleon Bonaparte und Joséphine de Beauharnais; Alt-Rock"
+      },
+      {
+        "type": "secondary",
+        "url": "https://amazingradio.com/profile/transmissionlost/tunes/1180d6b0-5e88-481b-9d22-d8f3a858fe1a",
+        "note": "Artist: Song nach Paris-Reise; Josephine = Beauharnais"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/2TPX6hfGNDc86vFSjvrtkq",
+        "note": "Josephine (2025)"
+      }
+    ]
+  },
+  {
     "id": "tuff-sixteen-tons",
     "band": "Tuff",
     "title": "Sixteen Tons",
@@ -10449,6 +10606,41 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Nika_riots",
         "note": "Factions central to Nika context"
+      }
+    ]
+  },
+  {
+    "id": "ultan-jp-the-tempest",
+    "band": "Ultan JP",
+    "title": "The Tempest",
+    "entities": [
+      "Culloden",
+      "Jakobitenaufstand 1745",
+      "Highland Clans"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://ultan1.bandcamp.com/track/the-tempest",
+        "note": "Bandcamp: Culloden 1746, Highlander-POV; Lyrics Culloden Moor"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
+        "note": "Ultan JP – The Tempest"
+      },
+      {
+        "type": "review",
+        "url": "https://rockeramagazine.com/ultan-the-tempest/",
+        "note": "Classic/Hard Rock Single 2025"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
+        "note": "ULTAN JP – Tempest"
       }
     ]
   },

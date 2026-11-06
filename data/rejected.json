@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04 18:45:25 +0100",
+  "updatedAt": "2026-11-06 21:00:21 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -863,6 +863,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 542,
+      "songId": "concha-piquer-eugenia-de-montijo",
+      "reason": "Folge = Eugénie de Montijo / Zweites Kaiserreich; Song = Copla über Eugenia de Montijo (Granada → Kaiserin in Frankreich, Versaille als Gefängnis) — inhaltlich eng (bei Metal wäre Tier A). Genre = spanische Copla / Canción española, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-06",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 542,
+      "songId": "transmission-lost-josephine",
+      "reason": "Folge = Kaiserin Eugénie de Montijo / Napoleon III. (Zweites Kaiserreich); Song = Obsession Napoleons I. und Joséphine de Beauharnais — andere Kaiserin und Epoche (Tier X).",
+      "rejectedAt": "2026-11-06",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 543,
       "songId": "crucible-steel-ulfberht",
       "reason": "Folge = Witham-Schwert / Ulfberht-Stahlgeschichte; Song = Instrumentalstück mit Titel Ulfberht, keine Lyrics und kein prüfbarer Erzählfokus — reiner Titelanklang (Tier X).",
@@ -1049,6 +1063,13 @@
       "songId": "kate-bush-houdini",
       "reason": "Folge = Houdini und Spiritismus (Atlantic-City-Séance 1922 mit Conan Doyle, Bruch der Freundschaft); Song = Bess Houdini nach 1926 bei Séancen (Code „Rosabel, believe“) plus Escape-Kuss mit Schlüssel — inhaltlich eng passend (bei Metal wäre Tier B). Genre = Art Pop / Progressive Pop, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 572,
+      "songId": "terry-allen-houdini-didnt-like-the-spiritualists",
+      "reason": "Folge = Houdini, Doyle und Spiritismus (Atlantic-City-Séance, Mutter-Kontakt, Bruch); Song = Houdini entlarvt Fake-Medien, sucht die verstorbene Mutter, Abmachung mit der Witwe am Grab — inhaltlich eng (bei Metal wäre Tier A). Genre = Americana / Country, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-06",
       "rejectedBy": "manual"
     },
     {

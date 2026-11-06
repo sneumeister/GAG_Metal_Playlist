@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-04 19:22:21 +0100<br>**JSON-Status:** 2026-11-04 19:22:30 +0100</small>
+<small>**Compile-Datum:** 2026-11-06 21:00:21 +0100<br>**JSON-Status:** 2026-11-06 20:47:02 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -219,6 +219,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Bastille | Zheng Yi Sao & Questions For Her | A | [link](https://www.youtube.com/watch?v=GG14Geys7uY) | [link](https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Deos | Mylae | B | [link](https://www.youtube.com/watch?v=XJabWzbLoIg) | [link](https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF) |
+| [572](https://gadg.fm/572) | Houdini und der Spiritismus | Spirit of Play | Arthur | B | [link](https://www.youtube.com/watch?v=9TJZATUpcts) | [link](https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=OYfdXL7sKVI) | [link](https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Nina Hagen | 16 tons | A | [link](https://www.youtube.com/watch?v=_vKDiyo178E) | [link](https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq) |
@@ -235,11 +236,13 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | [link](https://www.youtube.com/watch?v=w6vP8LvhUFU) | [link](https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Barbarian | A | [link](https://www.youtube.com/watch?v=FBnIC1hRWO8) | [link](https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Anduril | Culloden | A | [link](https://www.youtube.com/watch?v=4GX2lMmsZq8) | [link](https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Culloden Muir | A | [link](https://www.youtube.com/watch?v=Krjrb0fTG5A) | [link](https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Culloden | Hills of Culloden | A | [link](https://www.youtube.com/watch?v=S9hNxGo9Iy0) | [link](https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Skiltron | Prestonpans 1745 | B | [link](https://www.youtube.com/watch?v=gdbGQmwRelQ) | [link](https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Rebellion (The Clans Are Marching) | B | [link](https://www.youtube.com/watch?v=Ns1K33XnH9g) | [link](https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Skye Boat Song | A | [link](https://www.youtube.com/watch?v=yuQMLw4Wd1U) | — |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | The Night the Lights Went Out in Scotland | A | [link](https://www.youtube.com/watch?v=btsX8GgBkK0) | [link](https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Ultan JP | The Tempest | A | [link](https://www.youtube.com/watch?v=MrV6Q5F6A9E) | [link](https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Will Ye No Come Back Again? | A | [link](https://www.youtube.com/watch?v=t4ykwaOMeYo) | [link](https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Ye Jacobites by Name | B | [link](https://www.youtube.com/watch?v=WdNkFtwTLro) | [link](https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J) |
