@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-04 19:22:21 +0100<br>**JSON-Status:** 2026-11-04 18:45:25 +0100</small>
+<small>**Compile-Datum:** 2026-11-06 21:00:21 +0100<br>**JSON-Status:** 2026-11-06 21:00:21 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -132,9 +132,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [540](https://gadg.fm/540) | Schwarze Kammern und die Große Chiffre | Blind Guardian | Black Chamber | X | — | — |
 | [540](https://gadg.fm/540) | Schwarze Kammern und die Große Chiffre | Stormwind | The Man Behind the Iron Mask | X | — | — |
 | [541](https://gadg.fm/541) | Eine kleine Geschichte des Sushi | Rainald Grebe & Die Kapelle der Versöhnung | Dreißigjährige Pärchen | X | [link](https://www.youtube.com/watch?v=6ZcIUAe-DdI) | [link](https://open.spotify.com/track/2ym5jsfte1PFyuDsXSW9pw) |
+| [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Concha Piquer | Eugenia de Montijo | X | [link](https://www.youtube.com/watch?v=xM3b3ybzV4c) | [link](https://open.spotify.com/track/5fln0fmz7vPMgNMhacHV7Y) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Crystallion | Hundred Days | X | [link](https://www.youtube.com/watch?v=ywesScaX3lc) | [link](https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
+| [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Transmission Lost | Josephine | X | — | [link](https://open.spotify.com/track/2TPX6hfGNDc86vFSjvrtkq) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Serenity | The Art of War | X | [link](https://www.youtube.com/watch?v=U77UB9sRCxo) | [link](https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Crucible Steel | Ulfberht | X | — | — |
 | [547](https://gadg.fm/547) | Orffyreus und das Perpetuum Mobile | Schweisser | Perpetuum Mobile | X | — | — |
@@ -163,6 +165,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Mare Nostrum | X | — | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Kate Bush | Houdini | X | [link](https://www.youtube.com/watch?v=r9e_BzHSWpE) | [link](https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y) |
+| [572](https://gadg.fm/572) | Houdini und der Spiritismus | Terry Allen | Houdini Didn't Like The Spiritualists | X | — | [link](https://open.spotify.com/track/0gRuWSElMKzQAqA9YPCaja) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Tennessee Ernie Ford | Sixteen Tons | X | [link](https://www.youtube.com/watch?v=B9j91-18Kb4) | [link](https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | The Burned Over | The Last Great Awakening | X | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Noriko Kishi | Hasekura: Bonds Beyond the Seas and Time | X | [link](https://www.youtube.com/watch?v=yTEw9zh1-i8) | [link](https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1) |

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04 19:22:30 +0100",
+  "updatedAt": "2026-11-06 20:47:02 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3868,6 +3868,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 572,
+      "episodeTitle": "Houdini und der Spiritismus",
+      "episodeUrl": "https://gadg.fm/572",
+      "songId": "spirit-of-play-arthur",
+      "band": "Spirit of Play",
+      "songTitle": "Arthur",
+      "matchTier": "B",
+      "justification": "Folge = Houdini, Doyle und die Atlantic-City-Séance 1922; Song = Conan Doyle bei Séancen und Fairies („knock on tables“, „they’re not coming back“) ohne Houdini — gemeinsamer Doyle-/Spiritismus-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Arthur Conan Doyle",
+        "Spiritismus",
+        "Séance"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9TJZATUpcts",
+      "matchedAt": "2026-11-06",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 573,
       "episodeTitle": "Scrip, Truck und der Company Store",
       "episodeUrl": "https://gadg.fm/573",
@@ -4315,6 +4334,45 @@
       "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
       "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
       "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "anduril-culloden",
+      "band": "Anduril",
+      "songTitle": "Culloden",
+      "matchTier": "A",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen für Highlands; Song = Clansmen-POV am Tag der Schlacht (Moorlands, Fourtyfive last stand, Jacobites, ~5000 Mann, fehlender King, Highlands) — derselbe Kern Culloden (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4GX2lMmsZq8",
+      "matchedAt": "2026-11-06",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "ultan-jp-the-tempest",
+      "band": "Ultan JP",
+      "songTitle": "The Tempest",
+      "matchTier": "A",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden; Song = Highlander-POV am Vorabend/auf Culloden Moor („Upon Culloden moor we stand or we fall“, highland glen, Opferbereitschaft) — derselbe Kern Culloden (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
+      "matchedAt": "2026-11-06",
       "curatedBy": "manual"
     },
     {
