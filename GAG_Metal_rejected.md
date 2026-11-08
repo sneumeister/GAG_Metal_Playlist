@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-06 21:00:21 +0100<br>**JSON-Status:** 2026-11-06 21:00:21 +0100</small>
+<small>**Compile-Datum:** 2026-11-08 21:35:22 +0100<br>**JSON-Status:** 2026-11-08 21:35:22 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -15,6 +15,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | ---: | --- | --- | --- | :---: | :---: | :---: |
 | [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Xynfonica | From Your Father's Skull | X | — | — |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Sole Survivors in Ligny | X | — | [link](https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV) |
+| [16](https://gadg.fm/16) | Ton, Steine, Scherben oder wie Rom sich einen achten Hügel baute | Sabaton | Crossing the Rubicon | X | [link](https://www.youtube.com/watch?v=uchGiXcNDIs) | [link](https://open.spotify.com/track/6WyfybAgLz1EceoumvVSun) |
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | — |
 | [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) |
 | [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — |
@@ -28,10 +29,15 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | — | — |
 | [86](https://gadg.fm/86) | Sabbatai Zwi – Der falsche Messias | Witchfield | Sabbatai Zevi | X | — | [link](https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs) |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) |
+| [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Sabaton | Champion of Christ | X | — | — |
+| [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Sabaton | Impaler | X | [link](https://www.youtube.com/watch?v=YrEAN63NFgQ) | [link](https://open.spotify.com/track/170Q9dEUIPy8imNb9p5DYu) |
 | [125](https://gadg.fm/125) | Republik Fredonia | The Marx Brothers | Hail, Hail Freedonia | X | [link](https://www.youtube.com/watch?v=x4OJGdtRx10) | — |
 | [147](https://gadg.fm/147) | Das Fräulein vom Amt | Bangkok Impact | Junge Dame Mit Freundlicher Tellephonstimme | X | [link](https://www.youtube.com/watch?v=ci7n4_3Gk2Q) | — |
 | [185](https://gadg.fm/185) | Kleindeutschland und die General Slocum Katastrophe | Al Duvall | The Wreck of the General Slocum | X | [link](https://www.youtube.com/watch?v=dSDX1FGEk84) | — |
 | [189](https://gadg.fm/189) | Die Schlacht bei Cannae | Ex Deo | Cato Major: Carthago Delenda Est! | X | — | [link](https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z) |
+| [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Saxon | 1066 | X | [link](https://www.youtube.com/watch?v=-QOREbJ4D70) | [link](https://open.spotify.com/track/0HBWWM8w2WSCgMBL1EgV7e) |
+| [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Sabaton | Berserker | X | [link](https://www.youtube.com/watch?v=Ne7_TDFzsW4) | — |
+| [191](https://gadg.fm/191) | Aethelfled - Warrior Queen of Mercia | Amon Amarth | The Berserker at Stamford Bridge | X | [link](https://www.youtube.com/watch?v=sMPGEpvU_5o) | [link](https://open.spotify.com/track/37CcwaEZkAZdwA1GxDYKxf) |
 | [197](https://gadg.fm/197) | Das kurzlebige Königreich Finnland – und ein deutscher Adliger auf dem Thron | Sabaton | Talvisota | X | [link](https://www.youtube.com/watch?v=jtfBcDV7etA) | [link](https://open.spotify.com/track/3GhlV5FpkyZvNPMA7v3G1t) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Rosalía | De Madrugá | X | [link](https://www.youtube.com/watch?v=QEQZs8SLhQE) | [link](https://open.spotify.com/track/6F52Ls9K7a6vNNi0lip9Gm) |
 | [198](https://gadg.fm/198) | Olga von Kiew oder Mit den Spatzen kam der Tod | Turisas | In the Court of Jarisleif | X | [link](https://www.youtube.com/watch?v=zcvW7dBKB0U) | [link](https://open.spotify.com/track/1HMcYg6gxITWNk9equYdE8) |
@@ -41,6 +47,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [242](https://gadg.fm/242) | Eine kurze Geschichte der Olympischen Spiele (der Neuzeit) | Warkings | Battle of Marathon | X | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
+| [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Led Zeppelin | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=JM3fodiK9rY) | [link](https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF) |
 | [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | Changing Fate | X | [link](https://www.youtube.com/watch?v=hl6fbXMoPug) | [link](https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT) |
 | [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | New Horizons | X | [link](https://www.youtube.com/watch?v=7JsdtV7O3dI) | [link](https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9) |
 | [255](https://gadg.fm/255) | Die 47 Ronin | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
@@ -61,6 +68,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [323](https://gadg.fm/323) | Die Republik Ezo und das Ende des Shogunats | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
 | [323](https://gadg.fm/323) | Die Republik Ezo und das Ende des Shogunats | Sabaton | The Duelist | X | [link](https://www.youtube.com/watch?v=6KUOX_VFVn0) | [link](https://open.spotify.com/track/2mz3lcK6rYGTlNUtkgZm4f) |
 | [324](https://gadg.fm/324) | Mit dem Ballon zum Nordpol – Andrées Polarexpedition von 1897 | Arch Enemy | The Eagle Flies Alone | X | [link](https://www.youtube.com/watch?v=mjF1rmSV1dM) | [link](https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s) |
+| [328](https://gadg.fm/328) | P. T. Barnum und die größte Show der Welt | Lolita KompleX | Circus (Welcome to The) | X | [link](https://www.youtube.com/watch?v=9HiiDjQ1bJ8) | — |
 | [331](https://gadg.fm/331) | Wie Tetris die Welt eroberte | Pig With The Face Of A Boy | A Complete History Of The Soviet Union Through The Eyes Of A Humble Worker, Arranged To The Melody Of Tetris | X | [link](https://www.youtube.com/watch?v=hWTFG3J1CP8) | — |
 | [333](https://gadg.fm/333) | Alexandria | Florentin feat. Lars | 333 | X | [link](https://www.youtube.com/watch?v=4ANGTD-Bl9s) | — |
 | [336](https://gadg.fm/336) | George Smith und die Entdeckung des Gilgamesch-Epos | Peter Pringle | Gilgamesh Lament for Enkidu | X | [link](https://www.youtube.com/watch?v=kd7qeP3R5vw) | — |
@@ -79,6 +87,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [365](https://gadg.fm/365) | The Ghost Army | Sabaton | Ghost Division | X | [link](https://www.youtube.com/watch?v=ICfzQVh3lvs) | [link](https://open.spotify.com/track/3ZiJwNnZWMSKmUUTvYhIKx) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | Gott mit uns | X | [link](https://www.youtube.com/watch?v=rLXBjLN1fOY) | — |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | The Lion from the North | X | [link](https://www.youtube.com/watch?v=KkszNmr6Qh0) | [link](https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T) |
+| [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | Till Seger | X | [link](https://www.youtube.com/watch?v=XmgmLAR5lkI) | [link](https://open.spotify.com/track/7xrNu3NxSQ0zAnB8ZSqUgq) |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Shockheaded Peter | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q) | — |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Snip Snip | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280) | — |
 | [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
@@ -117,12 +126,16 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Electric Light Orchestra | Roll Over Beethoven | X | [link](https://www.youtube.com/watch?v=c84FY_y8PYs) | [link](https://open.spotify.com/track/0UnR8nWskCt0BgfvypzaDl) |
 | [511](https://gadg.fm/511) | Eine Prinzessin auf der Flucht | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
 | [515](https://gadg.fm/515) | Bhagwan und Bioterror | Sufjan Stevens | My Rajneesh | X | [link](https://www.youtube.com/watch?v=jn7_JpmhZP0) | [link](https://open.spotify.com/track/3SpWpHiCt8tbPuZG9AX0Wi) |
+| [518](https://gadg.fm/518) | Der erste Detektiv | Spirit of Play | Arthur | X | [link](https://www.youtube.com/watch?v=9TJZATUpcts) | [link](https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL) |
+| [518](https://gadg.fm/518) | Der erste Detektiv | Vidocq | Vidocq | X | [link](https://www.youtube.com/watch?v=XtRjkSjofZ0&list=OLAK5uy_mXa53SWrBgLKGCVRBGiM393X2ntCN9kJo) | [link](https://open.spotify.com/track/4XcSpZvLtpm8kOtGdapQgt) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sellsword | Hardrada | X | [link](https://www.youtube.com/watch?v=YAwkaPWTfrY) | — |
 | [519](https://gadg.fm/519) | Die Warägergarde | Turisas | Stand Up and Fight | X | [link](https://www.youtube.com/watch?v=7woW7DmnR0E) | [link](https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Sons of Kemet | My Queen Is Yaa Asantewaa | X | [link](https://www.youtube.com/watch?v=vCBpBOZ3dXA) | [link](https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
+| [523](https://gadg.fm/523) | Der Rote Elvis – Dean Reed | Attila the Stockbroker | Dean Reed | X | — | — |
 | [527](https://gadg.fm/527) | Botanik, Baret und Bougainville | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
+| [533](https://gadg.fm/533) | Der Bericht des Wenamun | Witchbound | Battle of Kadesh | X | [link](https://www.youtube.com/watch?v=5FKciHZdlN8) | [link](https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Martin Howley | Doctor Crippen | X | — | — |
 | [537](https://gadg.fm/537) | Tinte, Blut und Eisen – Fontane an der Front | Temple of Oblivion | Das Wunder von Königgrätz | X | [link](https://www.youtube.com/watch?v=9m4GvNCnVmI) | [link](https://open.spotify.com/track/0shtet0BcnzRZ87nhjznUC) |
 | [537](https://gadg.fm/537) | Tinte, Blut und Eisen – Fontane an der Front | Rammstein | Roter Sand | X | — | [link](https://open.spotify.com/track/2eQAr4IgxjMEMgBc7Wa4iz) |
@@ -138,7 +151,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Transmission Lost | Josephine | X | — | [link](https://open.spotify.com/track/2TPX6hfGNDc86vFSjvrtkq) |
 | [542](https://gadg.fm/542) | Eine Kaiserin der Franzosen | Serenity | The Art of War | X | [link](https://www.youtube.com/watch?v=U77UB9sRCxo) | [link](https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi) |
+| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Saxon | 1066 | X | [link](https://www.youtube.com/watch?v=-QOREbJ4D70) | [link](https://open.spotify.com/track/0HBWWM8w2WSCgMBL1EgV7e) |
+| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Sabaton | Berserker | X | [link](https://www.youtube.com/watch?v=Ne7_TDFzsW4) | — |
+| [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Amon Amarth | The Berserker at Stamford Bridge | X | [link](https://www.youtube.com/watch?v=sMPGEpvU_5o) | [link](https://open.spotify.com/track/37CcwaEZkAZdwA1GxDYKxf) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Crucible Steel | Ulfberht | X | — | — |
+| [544](https://gadg.fm/544) | HB05 – Eine Weltreise auf vier Rädern, mit drei Gängen, fünfzig PS und 128 Eiern & Zar und Zimmermann | Sabaton | Poltava | X | [link](https://www.youtube.com/watch?v=xfGe07IzsK4) | [link](https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf) |
 | [547](https://gadg.fm/547) | Orffyreus und das Perpetuum Mobile | Schweisser | Perpetuum Mobile | X | — | — |
 | [550](https://gadg.fm/550) | Akbar und die Entstehung des Mogulreichs | Mughal-E-Funk | Akbar | X | — | [link](https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Alestorm | Magellan's Expedition | X | [link](https://www.youtube.com/watch?v=gsHmOb36-Js) | [link](https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW) |
@@ -146,6 +163,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | The Wolfe Tones | Óró sé do bheatha abhaile | X | [link](https://www.youtube.com/watch?v=ncZc7GwpVXU) | — |
+| [553](https://gadg.fm/553) | Das erste private Raumfahrtunternehmen der Welt | Lorimer Burst | The Flight of Ham (Part I - Hero) | X | [link](https://www.youtube.com/watch?v=cw0fl3AFsLU) | [link](https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U) |
 | [555](https://gadg.fm/555) | Wetterschießen und Regenmachen | Nocturnus | Climate Controller | X | — | [link](https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9) |
 | [556](https://gadg.fm/556) | Galeas per Montes | Calicanto | Galeas par montes | X | — | — |
 | [556](https://gadg.fm/556) | Galeas per Montes | Saxon | Kubla Khan And The Merchant Of Venice | X | [link](https://www.youtube.com/watch?v=M0507xZKbAA) | [link](https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8) |
