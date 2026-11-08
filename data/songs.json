@@ -353,6 +353,26 @@
     ]
   },
   {
+    "id": "amon-amarth-the-berserker-at-stamford-bridge",
+    "band": "Amon Amarth",
+    "title": "The Berserker at Stamford Bridge",
+    "entities": [
+      "Stamford Bridge",
+      "1066",
+      "Berserker"
+    ],
+    "era": "1066 / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/37CcwaEZkAZdwA1GxDYKxf",
+    "youtubeUrl": "https://www.youtube.com/watch?v=sMPGEpvU_5o",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/amon-amarth/the-berserker-at-stamford-bridge",
+        "note": "Berserker (2019); Stamford Bridge axeman"
+      }
+    ]
+  },
+  {
     "id": "amon-amarth-varyags-of-miklagaard",
     "band": "Amon Amarth",
     "title": "Varyags of Miklagaard",
@@ -690,6 +710,31 @@
         "type": "lyrics",
         "url": "https://antiwarsongs.org/canzone.php?id=46261&lang=en",
         "note": "Gulf War protest — Blood for oil"
+      }
+    ]
+  },
+  {
+    "id": "attila-the-stockbroker-dean-reed",
+    "band": "Attila the Stockbroker",
+    "title": "Dean Reed",
+    "entities": [
+      "Dean Reed",
+      "Roter Elvis",
+      "DDR"
+    ],
+    "era": "1938–1986 / 2012",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://deanreed.de/schule/attila.html",
+        "note": "Dean Reed (The Red Elvis); Bankers & Looters / Barnstormer 2012"
+      },
+      {
+        "type": "secondary",
+        "url": "https://attilathestockbroker.bandcamp.com/album/bankers-looters-2012-with-barnstormer",
+        "note": "Track Dean Reed on Bankers & Looters"
       }
     ]
   },
@@ -4186,6 +4231,30 @@
     ]
   },
   {
+    "id": "lolita-komplex-circus-welcome-to-the",
+    "band": "Lolita KompleX",
+    "title": "Circus (Welcome to The)",
+    "entities": [
+      "Zirkus",
+      "Circus"
+    ],
+    "era": "2015",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9HiiDjQ1bJ8",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/lolita-komplex/circus-welcome-to-the-lyrics/",
+        "note": "The Greatest Show on Earth (2015); generic circus fantasy"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Lolita_Komplex/The_Greatest_Show_on_Earth/539683",
+        "note": "Gothic Metal/Rock; Metal Archives album page"
+      }
+    ]
+  },
+  {
     "id": "lorimer-burst-the-flight-of-ham-part-i-hero",
     "band": "Lorimer Burst",
     "title": "The Flight of Ham (Part I - Hero)",
@@ -6329,6 +6398,27 @@
     ]
   },
   {
+    "id": "sabaton-berserker",
+    "band": "Sabaton",
+    "title": "Berserker",
+    "entities": [
+      "Stamford Bridge",
+      "1066",
+      "Harald Hardrada",
+      "Berserker"
+    ],
+    "era": "1066 / 2026",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ne7_TDFzsW4",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends-deluxe/berserker-lyrics/",
+        "note": "Legends Deluxe — Stamford Bridge berserker 1066"
+      }
+    ]
+  },
+  {
     "id": "sabaton-bismarck",
     "band": "Sabaton",
     "title": "Bismarck",
@@ -6383,6 +6473,28 @@
         "type": "sabaton-index",
         "url": "https://elicarter.net/wiki/SabatonIndex",
         "note": "Carolus Rex"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-champion-of-christ",
+    "band": "Sabaton",
+    "title": "Champion of Christ",
+    "entities": [
+      "Ștefan cel Mare",
+      "Stephen the Great",
+      "Schlacht bei Vaslui",
+      "Moldawien",
+      "Athleta Christi"
+    ],
+    "era": "1457–1504 / 1475",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends-deluxe/champion-of-christ-lyrics/",
+        "note": "Legends Deluxe — Stephen the Great / Vaslui / Athleta Christi"
       }
     ]
   },
@@ -7852,6 +7964,28 @@
         "type": "sabaton-index",
         "url": "https://elicarter.net/wiki/SabatonIndex",
         "note": "The Unkillable Soldier"
+      }
+    ]
+  },
+  {
+    "id": "sabaton-till-seger",
+    "band": "Sabaton",
+    "title": "Till Seger",
+    "entities": [
+      "Gustav II. Adolf",
+      "Gustavus Adolphus",
+      "Breitenfeld",
+      "Lützen",
+      "Dreißigjähriger Krieg"
+    ],
+    "era": "1611–1632 / 1631–1632",
+    "spotifyUrl": "https://open.spotify.com/track/7xrNu3NxSQ0zAnB8ZSqUgq",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XmgmLAR5lkI",
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends/till-seger-lyrics/",
+        "note": "Legends (2025) — Gustav II. Adolf / Breitenfeld / Lützen"
       }
     ]
   },
@@ -10775,6 +10909,32 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Countess_Bathory_(song)",
         "note": "Elizabeth Báthory / Black Metal (1982)"
+      }
+    ]
+  },
+  {
+    "id": "vidocq-vidocq",
+    "band": "Vidocq",
+    "title": "Vidocq",
+    "entities": [
+      "Eugène François Vidocq",
+      "Vidocq",
+      "Sûreté",
+      "Paris"
+    ],
+    "era": "1775–1857 / 2012",
+    "spotifyUrl": "https://open.spotify.com/track/4XcSpZvLtpm8kOtGdapQgt",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XtRjkSjofZ0&list=OLAK5uy_mXa53SWrBgLKGCVRBGiM393X2ntCN9kJo",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "http://italianprogmap.blogspot.com/2013/03/pirates-and-brigandes.html",
+        "note": "Title track: Accordion/Laura Conti; Band nach Eugène François Vidocq"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.italiadimetallo.it/2012/10/18/vidocq-vidocq/",
+        "note": "Review: Titelstück erzählt Kriminellen/Investigator Vidocq"
       }
     ]
   },
