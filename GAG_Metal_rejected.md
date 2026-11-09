@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-08 21:35:22 +0100<br>**JSON-Status:** 2026-11-08 21:35:22 +0100</small>
+<small>**Compile-Datum:** 2026-11-09 22:12:20 +0100<br>**JSON-Status:** 2026-11-09 22:12:19 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -47,7 +47,9 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) |
 | [242](https://gadg.fm/242) | Eine kurze Geschichte der Olympischen Spiele (der Neuzeit) | Warkings | Battle of Marathon | X | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) |
+| [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Enthroned | Graced By Evil Blood | X | — | — |
 | [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Led Zeppelin | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=JM3fodiK9rY) | [link](https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF) |
+| [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Memphis Minnie & Kansas Joe McCoy | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=WSlt8-fmvas) | [link](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) |
 | [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | Changing Fate | X | [link](https://www.youtube.com/watch?v=hl6fbXMoPug) | [link](https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT) |
 | [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | New Horizons | X | [link](https://www.youtube.com/watch?v=7JsdtV7O3dI) | [link](https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9) |
 | [255](https://gadg.fm/255) | Die 47 Ronin | Sabaton | Shiroyama | X | [link](https://www.youtube.com/watch?v=oKW6gLLmxDQ) | [link](https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr) |
@@ -88,6 +90,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | Gott mit uns | X | [link](https://www.youtube.com/watch?v=rLXBjLN1fOY) | — |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | The Lion from the North | X | [link](https://www.youtube.com/watch?v=KkszNmr6Qh0) | [link](https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T) |
 | [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | Till Seger | X | [link](https://www.youtube.com/watch?v=XmgmLAR5lkI) | [link](https://open.spotify.com/track/7xrNu3NxSQ0zAnB8ZSqUgq) |
+| [367](https://gadg.fm/367) | Untergang und Comeback der VASA | Sabaton | To Glory | X | — | — |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Shockheaded Peter | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q) | — |
 | [369](https://gadg.fm/369) | Der Struwwelpeter | The Tiger Lillies | Snip Snip | X | [link](https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280) | — |
 | [384](https://gadg.fm/384) | Flaschenpost und die Erforschung der Ozeane | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
@@ -133,7 +136,9 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Sons of Kemet | My Queen Is Yaa Asantewaa | X | [link](https://www.youtube.com/watch?v=vCBpBOZ3dXA) | [link](https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
+| [522](https://gadg.fm/522) | HB03 – Kleine Geschichte eines kaiserlichen Aussteigers & Auf Bratkur und Pinguindiät mit Amundsen | The Wright Valley Trio | Shackleton | X | [link](https://www.youtube.com/watch?v=sJ7mYvFrc_Y) | [link](https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J) |
 | [523](https://gadg.fm/523) | Der Rote Elvis – Dean Reed | Attila the Stockbroker | Dean Reed | X | — | — |
+| [525](https://gadg.fm/525) | HB04 - Tödliche Abkürzung & Die Seekuh, die kam und verschwand | UKNOWHAT | Steller's Sea Cow | X | — | [link](https://open.spotify.com/album/4Yghnc7IdDcmx1oILgTJSa) |
 | [527](https://gadg.fm/527) | Botanik, Baret und Bougainville | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [533](https://gadg.fm/533) | Der Bericht des Wenamun | Witchbound | Battle of Kadesh | X | [link](https://www.youtube.com/watch?v=5FKciHZdlN8) | [link](https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Martin Howley | Doctor Crippen | X | — | — |

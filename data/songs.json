@@ -7990,6 +7990,28 @@
     ]
   },
   {
+    "id": "sabaton-to-glory",
+    "band": "Sabaton",
+    "title": "To Glory",
+    "entities": [
+      "Gustav II. Adolf",
+      "Gustavus Adolphus",
+      "Breitenfeld",
+      "Lützen",
+      "Dreißigjähriger Krieg"
+    ],
+    "era": "1611–1632 / 1631–1632",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends-deluxe/to-glory-lyrics/",
+        "note": "Legends Deluxe — Gustav II. Adolf / Breitenfeld / Lützen"
+      }
+    ]
+  },
+  {
     "id": "sabaton-to-hell-and-back",
     "band": "Sabaton",
     "title": "To Hell and Back",
@@ -9456,6 +9478,38 @@
     ]
   },
   {
+    "id": "stern-combo-meissen-der-kampf-um-den-suedpol",
+    "band": "Stern-Combo Meißen",
+    "title": "Der Kampf um den Südpol",
+    "entities": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Südpol",
+      "Antarktis",
+      "Wettlauf zum Südpol"
+    ],
+    "era": "1911–1912 / 1976–1977",
+    "spotifyUrl": "https://open.spotify.com/track/1QkVzFHynPhHSgrOcWejfk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ixLq2DVUumQ",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Der_Kampf_um_den_S%C3%BCdpol",
+        "note": "Artrock/Prog; Amundsen vs. Scott; Text Kurt Demmler / Stefan Zweig"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.lyrix.at/t/stern-combo-meien-der-kampf-um-den-sudpol-93c",
+        "note": "Songtext Südpol-Wettlauf"
+      },
+      {
+        "type": "band",
+        "url": "http://www.stern-combo-meissen.de/diskographie/",
+        "note": "Debütalbum 1977"
+      }
+    ]
+  },
+  {
     "id": "stern-combo-meissen-die-erkenntnis",
     "band": "Stern-Combo Meißen",
     "title": "Die Erkenntnis",
@@ -10740,6 +10794,32 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Nika_riots",
         "note": "Factions central to Nika context"
+      }
+    ]
+  },
+  {
+    "id": "uknowhat-stellers-sea-cow",
+    "band": "UKNOWHAT",
+    "title": "Steller's Sea Cow",
+    "entities": [
+      "Stellersche Seekuh",
+      "Georg Wilhelm Steller",
+      "Beringinsel",
+      "Aussterben"
+    ],
+    "era": "1741–1768 / 2024",
+    "spotifyUrl": "https://open.spotify.com/album/4Yghnc7IdDcmx1oILgTJSa",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://uknowhat.bandcamp.com/track/stellers-sea-cow",
+        "note": "The Budget Museum — Soundtrack YouTube-Kanal; Ambient"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://uknowhat.bandcamp.com/album/the-budget-museum",
+        "note": "Album about: Music originally composed for The Budget Museum"
       }
     ]
   },

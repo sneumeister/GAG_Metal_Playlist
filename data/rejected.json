@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08 21:35:22 +0100",
+  "updatedAt": "2026-11-09 22:12:19 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1455,6 +1455,41 @@
       "songId": "vidocq-vidocq",
       "reason": "Folge = Eugène François Vidocq (Gefängnisausbrüche, Spitzel, Chef der Brigade de Sûreté / erster Privatdetektiv); Song = kurzes Titelstück, Porträt/Beschwörung desselben Abenteurers und Kriminalisten in Paris — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Accordion-Ballade / Chanson-Walzer, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-11-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 522,
+      "songId": "the-wright-valley-trio-shackleton",
+      "reason": "Folge = Belgica-Expedition 1897–99 mit jungem Roald Amundsen; Song = Ernest Shackleton / Endurance-Überlebenskampf (Eis, Marsch, Hoffnung) — anderer Polarforscher und anderes Ereignis; Passung zu #152 bereits als Tier A in der Playlist (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 246,
+      "songId": "enthroned-graced-by-evil-blood",
+      "reason": "Folge = John Law und die Mississippi-Aktienblase ab 1715/1720; Song = Affäre der Gifte (La Voisin, Madame de Montespan, schwarze Messen am Hof Ludwigs XIV.) — Sonnenkönig in der Folge nur Vorgeschichte der Staatsschulden, Song anderes Ereignis und anderer Fokus (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 246,
+      "songId": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
+      "reason": "Folge = John Law und die Mississippi-Aktienblase um 1720; Song = Mississippi-Flut 1927 / Deichbruch — nur gemeinsames Stichwort Mississippi, anderes Ereignis. Genre = Blues, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 367,
+      "songId": "sabaton-to-glory",
+      "reason": "Folge = Untergang und Comeback der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = To Glory: Gustav II. Adolf als Feldherr (Breitenfeld/Lützen) — König nur Auftraggeber des Schiffs, Song thematisiert weder Schiff noch Marineunglück (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 525,
+      "songId": "uknowhat-stellers-sea-cow",
+      "reason": "Folge = Stellersche Seekuh / Bering-Expedition und rasches Aussterben; Song = Titelstück „Steller's Sea Cow“ (Album The Budget Museum, Soundtrack zum gleichnamigen YouTube-Kanal über ausgestorbene Tiere) — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Ambient / Educational Soundtrack, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
       "rejectedBy": "manual"
     }
   ]

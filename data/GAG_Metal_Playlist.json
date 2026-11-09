@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06 20:47:02 +0100",
+  "updatedAt": "2026-11-09 22:12:19 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -4393,6 +4393,24 @@
       "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
       "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
       "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 522,
+      "episodeTitle": "HB03 – Kleine Geschichte eines kaiserlichen Aussteigers & Auf Bratkur und Pinguindiät mit Amundsen",
+      "episodeUrl": "https://gadg.fm/522",
+      "songId": "stern-combo-meissen-der-kampf-um-den-suedpol",
+      "band": "Stern-Combo Meißen",
+      "songTitle": "Der Kampf um den Südpol",
+      "matchTier": "B",
+      "justification": "Folge = Belgica-Expedition 1897–99 (Packeis, Pinguindiät) mit jungem Amundsen als zweitem Offizier und Karriere-Sprungbrett; Song = Wettlauf Amundsen vs. Scott zum Südpol 1911/12 (Ruhm/Erste, Scotts Tod; nach Stefan Zweig) — gemeinsame Person Amundsen und Antarktis-Rahmen, klar anderes Ereignis und Fokus (Tier B).",
+      "sharedEntities": [
+        "Roald Amundsen",
+        "Antarktis"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1QkVzFHynPhHSgrOcWejfk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ixLq2DVUumQ",
+      "matchedAt": "2026-11-09",
       "curatedBy": "manual"
     }
   ]
