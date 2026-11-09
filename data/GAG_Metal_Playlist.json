@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06 20:47:02 +0100",
+  "updatedAt": "2026-11-09 22:49:31 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -4393,6 +4393,25 @@
       "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
       "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
       "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 423,
+      "episodeTitle": "Der Sohn Gottes Hong Xiuquan und sein Aufstand gegen das imperiale China",
+      "episodeUrl": "https://gadg.fm/423",
+      "songId": "ripped-to-shreds-god-worshipping-society",
+      "band": "Ripped to Shreds",
+      "songTitle": "God Worshipping Society",
+      "matchTier": "A",
+      "justification": "Folge = Hong Xiuquan (Visionen, jüngerer Bruder Jesu), Gottverehrer-Gesellschaft und Taiping-Aufstand gegen die Qing; Song = God Worshipping Society („I am the brother of Christ“, Taiping Heavenly Kingdom / religiöse Gewalt) — derselbe Kern Person und Bewegung (Tier A).",
+      "sharedEntities": [
+        "Hong Xiuquan",
+        "Gottverehrer-Gesellschaft",
+        "Taiping"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
+      "matchedAt": "2026-11-09",
       "curatedBy": "manual"
     }
   ]

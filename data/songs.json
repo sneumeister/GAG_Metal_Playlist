@@ -2647,6 +2647,33 @@
     ]
   },
   {
+    "id": "giant-squid-throwing-a-donner-party-at-sea-physeter-catodon",
+    "band": "Giant Squid",
+    "title": "Throwing a Donner Party At Sea (Physeter Catodon)",
+    "entities": [
+      "Essex",
+      "Pottwal",
+      "Physeter catodon",
+      "Kannibalismus auf See",
+      "Donner Party (Metapher)"
+    ],
+    "era": "1820 / 2009",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://giantsquid.bandcamp.com/track/throwing-a-donner-party-at-sea-physeter-catadon",
+        "note": "Lyrics Walschlag/Kannibalismus; Progressive Doom/Post-Metal"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ichthyologist",
+        "note": "Album The Ichthyologist (2009)"
+      }
+    ]
+  },
+  {
     "id": "goat-of-mendes-curse-of-constantine",
     "band": "Goat of Mendes",
     "title": "Curse of Constantine",
@@ -4512,6 +4539,38 @@
     ]
   },
   {
+    "id": "matt-hammer-serum-run",
+    "band": "Matt Hammer",
+    "title": "Serum Run",
+    "entities": [
+      "Serumlauf nach Nome",
+      "Nome",
+      "Balto",
+      "Togo",
+      "Diphtherie 1925"
+    ],
+    "era": "1925 / 1998",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.reverbnation.com/matthammer/song/2449715-the-serum-run",
+        "note": "Serum Run; Folk / Alt.Country"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/alaskasongs/128800783",
+        "note": "Alaskasongs (1998), Singer/Songwriter"
+      },
+      {
+        "type": "secondary",
+        "url": "https://mudcat.org/thread.cfm?threadid=66407",
+        "note": "Inhalt: Diphtherie Nome, Mushers/Hunde Nenana–Nome"
+      }
+    ]
+  },
+  {
     "id": "memento-mori-sixteen-tons",
     "band": "Memento Mori",
     "title": "Sixteen Tons",
@@ -5963,6 +6022,33 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag447/",
         "note": "Kommentar-Tipp unter #447"
+      }
+    ]
+  },
+  {
+    "id": "ripped-to-shreds-god-worshipping-society",
+    "band": "Ripped to Shreds",
+    "title": "God Worshipping Society",
+    "entities": [
+      "Hong Xiuquan",
+      "Gottverehrer-Gesellschaft",
+      "God Worshipping Society",
+      "Taiping",
+      "Taiping-Aufstand"
+    ],
+    "era": "1850–1864 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://rippedtoshredsdeathmetal.bandcamp.com/track/god-worshipping-society",
+        "note": "Lyrics: brother of Christ / Taiping Heavenly Kingdom; Death Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://pulverised.bandcamp.com/album/mai-zang",
+        "note": "Album 埋葬 / Mai-zang — Taiping u. a. China-Historie"
       }
     ]
   },
@@ -7990,6 +8076,28 @@
     ]
   },
   {
+    "id": "sabaton-to-glory",
+    "band": "Sabaton",
+    "title": "To Glory",
+    "entities": [
+      "Gustav II. Adolf",
+      "Gustavus Adolphus",
+      "Breitenfeld",
+      "Lützen",
+      "Dreißigjähriger Krieg"
+    ],
+    "era": "1611–1632 / 1631–1632",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "sabaton-official",
+        "url": "https://www.sabaton.net/discography/legends-deluxe/to-glory-lyrics/",
+        "note": "Legends Deluxe — Gustav II. Adolf / Breitenfeld / Lützen"
+      }
+    ]
+  },
+  {
     "id": "sabaton-to-hell-and-back",
     "band": "Sabaton",
     "title": "To Hell and Back",
@@ -9456,6 +9564,38 @@
     ]
   },
   {
+    "id": "stern-combo-meissen-der-kampf-um-den-suedpol",
+    "band": "Stern-Combo Meißen",
+    "title": "Der Kampf um den Südpol",
+    "entities": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Südpol",
+      "Antarktis",
+      "Wettlauf zum Südpol"
+    ],
+    "era": "1911–1912 / 1976–1977",
+    "spotifyUrl": "https://open.spotify.com/track/1QkVzFHynPhHSgrOcWejfk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ixLq2DVUumQ",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Der_Kampf_um_den_S%C3%BCdpol",
+        "note": "Artrock/Prog; Amundsen vs. Scott; Text Kurt Demmler / Stefan Zweig"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.lyrix.at/t/stern-combo-meien-der-kampf-um-den-sudpol-93c",
+        "note": "Songtext Südpol-Wettlauf"
+      },
+      {
+        "type": "band",
+        "url": "http://www.stern-combo-meissen.de/diskographie/",
+        "note": "Debütalbum 1977"
+      }
+    ]
+  },
+  {
     "id": "stern-combo-meissen-die-erkenntnis",
     "band": "Stern-Combo Meißen",
     "title": "Die Erkenntnis",
@@ -10740,6 +10880,32 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Nika_riots",
         "note": "Factions central to Nika context"
+      }
+    ]
+  },
+  {
+    "id": "uknowhat-stellers-sea-cow",
+    "band": "UKNOWHAT",
+    "title": "Steller's Sea Cow",
+    "entities": [
+      "Stellersche Seekuh",
+      "Georg Wilhelm Steller",
+      "Beringinsel",
+      "Aussterben"
+    ],
+    "era": "1741–1768 / 2024",
+    "spotifyUrl": "https://open.spotify.com/album/4Yghnc7IdDcmx1oILgTJSa",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://uknowhat.bandcamp.com/track/stellers-sea-cow",
+        "note": "The Budget Museum — Soundtrack YouTube-Kanal; Ambient"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://uknowhat.bandcamp.com/album/the-budget-museum",
+        "note": "Album about: Music originally composed for The Budget Museum"
       }
     ]
   },
