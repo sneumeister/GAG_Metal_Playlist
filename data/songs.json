@@ -2647,6 +2647,33 @@
     ]
   },
   {
+    "id": "giant-squid-throwing-a-donner-party-at-sea-physeter-catodon",
+    "band": "Giant Squid",
+    "title": "Throwing a Donner Party At Sea (Physeter Catodon)",
+    "entities": [
+      "Essex",
+      "Pottwal",
+      "Physeter catodon",
+      "Kannibalismus auf See",
+      "Donner Party (Metapher)"
+    ],
+    "era": "1820 / 2009",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://giantsquid.bandcamp.com/track/throwing-a-donner-party-at-sea-physeter-catadon",
+        "note": "Lyrics Walschlag/Kannibalismus; Progressive Doom/Post-Metal"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ichthyologist",
+        "note": "Album The Ichthyologist (2009)"
+      }
+    ]
+  },
+  {
     "id": "goat-of-mendes-curse-of-constantine",
     "band": "Goat of Mendes",
     "title": "Curse of Constantine",
@@ -4512,6 +4539,38 @@
     ]
   },
   {
+    "id": "matt-hammer-serum-run",
+    "band": "Matt Hammer",
+    "title": "Serum Run",
+    "entities": [
+      "Serumlauf nach Nome",
+      "Nome",
+      "Balto",
+      "Togo",
+      "Diphtherie 1925"
+    ],
+    "era": "1925 / 1998",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.reverbnation.com/matthammer/song/2449715-the-serum-run",
+        "note": "Serum Run; Folk / Alt.Country"
+      },
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/us/album/alaskasongs/128800783",
+        "note": "Alaskasongs (1998), Singer/Songwriter"
+      },
+      {
+        "type": "secondary",
+        "url": "https://mudcat.org/thread.cfm?threadid=66407",
+        "note": "Inhalt: Diphtherie Nome, Mushers/Hunde Nenana–Nome"
+      }
+    ]
+  },
+  {
     "id": "memento-mori-sixteen-tons",
     "band": "Memento Mori",
     "title": "Sixteen Tons",
@@ -5963,6 +6022,33 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag447/",
         "note": "Kommentar-Tipp unter #447"
+      }
+    ]
+  },
+  {
+    "id": "ripped-to-shreds-god-worshipping-society",
+    "band": "Ripped to Shreds",
+    "title": "God Worshipping Society",
+    "entities": [
+      "Hong Xiuquan",
+      "Gottverehrer-Gesellschaft",
+      "God Worshipping Society",
+      "Taiping",
+      "Taiping-Aufstand"
+    ],
+    "era": "1850–1864 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://rippedtoshredsdeathmetal.bandcamp.com/track/god-worshipping-society",
+        "note": "Lyrics: brother of Christ / Taiping Heavenly Kingdom; Death Metal"
+      },
+      {
+        "type": "secondary",
+        "url": "https://pulverised.bandcamp.com/album/mai-zang",
+        "note": "Album 埋葬 / Mai-zang — Taiping u. a. China-Historie"
       }
     ]
   },

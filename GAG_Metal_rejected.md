@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-09 22:12:20 +0100<br>**JSON-Status:** 2026-11-09 22:12:19 +0100</small>
+<small>**Compile-Datum:** 2026-11-09 23:05:13 +0100<br>**JSON-Status:** 2026-11-09 23:05:13 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -119,6 +119,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [490](https://gadg.fm/490) | Eunus und der erste Sklavenkrieg | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) |
 | [491](https://gadg.fm/491) | Die Dreyfus-Affäre | John Cage | 4′33″ | X | [link](https://www.youtube.com/watch?v=AWVUp12XPpU) | — |
 | [491](https://gadg.fm/491) | Die Dreyfus-Affäre | Yves Duteil | Dreyfus | X | — | — |
+| [494](https://gadg.fm/494) | Der Serumlauf nach Nome | Matt Hammer | Serum Run | X | — | — |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Metallica | The Call of Ktulu | X | [link](https://www.youtube.com/watch?v=3vSH9pMzHm0) | [link](https://open.spotify.com/track/4qPgSwPUGigsmx6gUV2dnU) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Hexekration Rites | The Grimoire of Insanity | X | [link](https://youtu.be/g9kcU7kcY7Q?feature=shared) | [link](https://open.spotify.com/track/4pHpgkyk3siT8W0Wjf8Gr5) |
 | [501](https://gadg.fm/501) | Wie die Jeans entstand | Saxon | Denim and Leather | X | [link](https://www.youtube.com/watch?v=0x313jU1XMc) | [link](https://open.spotify.com/track/0rSUGG0uqjgKSEc7jgezpf) |
@@ -136,9 +137,11 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [519](https://gadg.fm/519) | Die Warägergarde | Sabaton | Swedish Pagans | X | [link](https://www.youtube.com/watch?v=_2ZcRGarC5U) | [link](https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Sons of Kemet | My Queen Is Yaa Asantewaa | X | [link](https://www.youtube.com/watch?v=vCBpBOZ3dXA) | [link](https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi) |
 | [521](https://gadg.fm/521) | Yaa Asantewaa und der Krieg um den Goldenen Schemel | Eno Barony | Yaa Asantewaa | X | — | — |
+| [522](https://gadg.fm/522) | HB03 – Kleine Geschichte eines kaiserlichen Aussteigers & Auf Bratkur und Pinguindiät mit Amundsen | Stern-Combo Meißen | Der Kampf um den Südpol | X | [link](https://www.youtube.com/watch?v=ixLq2DVUumQ) | [link](https://open.spotify.com/track/1QkVzFHynPhHSgrOcWejfk) |
 | [522](https://gadg.fm/522) | HB03 – Kleine Geschichte eines kaiserlichen Aussteigers & Auf Bratkur und Pinguindiät mit Amundsen | The Wright Valley Trio | Shackleton | X | [link](https://www.youtube.com/watch?v=sJ7mYvFrc_Y) | [link](https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J) |
 | [523](https://gadg.fm/523) | Der Rote Elvis – Dean Reed | Attila the Stockbroker | Dean Reed | X | — | — |
 | [525](https://gadg.fm/525) | HB04 - Tödliche Abkürzung & Die Seekuh, die kam und verschwand | UKNOWHAT | Steller's Sea Cow | X | — | [link](https://open.spotify.com/album/4Yghnc7IdDcmx1oILgTJSa) |
+| [525](https://gadg.fm/525) | HB04 - Tödliche Abkürzung & Die Seekuh, die kam und verschwand | Giant Squid | Throwing a Donner Party At Sea (Physeter Catodon) | X | — | — |
 | [527](https://gadg.fm/527) | Botanik, Baret und Bougainville | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [533](https://gadg.fm/533) | Der Bericht des Wenamun | Witchbound | Battle of Kadesh | X | [link](https://www.youtube.com/watch?v=5FKciHZdlN8) | [link](https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Martin Howley | Doctor Crippen | X | — | — |

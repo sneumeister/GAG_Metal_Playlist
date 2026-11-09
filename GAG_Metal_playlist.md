@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-09 22:12:19 +0100<br>**JSON-Status:** 2026-11-09 22:12:19 +0100</small>
+<small>**Compile-Datum:** 2026-11-09 23:05:13 +0100<br>**JSON-Status:** 2026-11-09 22:49:31 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -139,6 +139,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [399](https://gadg.fm/399) | John Brown und sein gescheiterter Sklavenaufstand | Rancid | Meteor of War | A | [link](https://www.youtube.com/watch?v=pRVm4urQaGc) | [link](https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2) |
 | [403](https://gadg.fm/403) | Maxentius – Der letzte Kaiser in Rom | Goat of Mendes | Curse of Constantine | A | — | [link](https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine) |
 | [420](https://gadg.fm/420) | Harry Anslinger und der erste "War on Drugs" | Six Feet Under | 4:20 | C | [link](https://www.youtube.com/watch?v=rC31wCvTOao) | [link](https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf) |
+| [423](https://gadg.fm/423) | Der Sohn Gottes Hong Xiuquan und sein Aufstand gegen das imperiale China | Ripped to Shreds | God Worshipping Society | A | [link](https://www.youtube.com/watch?v=JRCyajC0khQ) | [link](https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1 de Novembro | A | [link](https://www.youtube.com/watch?v=vh3Mvd9NGwQ) | [link](https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | 1755 | A | [link](https://www.youtube.com/watch?v=4O-SUiKyVtA) | [link](https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD) |
 | [427](https://gadg.fm/427) | Das Große Erdbeben von Lissabon | Moonspell | Evento | A | [link](https://www.youtube.com/watch?v=ZEqKPJgM-HE) | [link](https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt) |
@@ -184,7 +185,6 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [519](https://gadg.fm/519) | Die Warägergarde | Rebellion | The Uprising | B | [link](https://www.youtube.com/watch?v=KufuujY63Rc) | [link](https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Warkings | Varangoi | A | [link](https://www.youtube.com/watch?v=zQ_juxVX06Q) | [link](https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL) |
 | [519](https://gadg.fm/519) | Die Warägergarde | Amon Amarth | Varyags of Miklagaard | A | [link](https://www.youtube.com/watch?v=9wo6lNn4KVE) | [link](https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB) |
-| [522](https://gadg.fm/522) | HB03 – Kleine Geschichte eines kaiserlichen Aussteigers & Auf Bratkur und Pinguindiät mit Amundsen | Stern-Combo Meißen | Der Kampf um den Südpol | B | [link](https://www.youtube.com/watch?v=ixLq2DVUumQ) | [link](https://open.spotify.com/track/1QkVzFHynPhHSgrOcWejfk) |
 | [526](https://gadg.fm/526) | Nanga Parbat Schicksalsberg | Stormcrow | Nanga Parbat | A | [link](https://www.youtube.com/watch?v=6fuC4C2JQns) | [link](https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ) |
 | [528](https://gadg.fm/528) | Die Katalanische Kompanie | Lurte | Venganza Almugavar | B | [link](https://www.youtube.com/watch?v=Kt5MvYNvyWk) | [link](https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm) |
 | [534](https://gadg.fm/534) | Wie der Walzer zum Walzer wurde | The Great Kat | Strauss' The Blue Danube | B | [link](https://www.youtube.com/watch?v=HeMyN6FyAHs) | [link](https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR) |

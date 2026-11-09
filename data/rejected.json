@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09 22:12:19 +0100",
+  "updatedAt": "2026-11-09 23:05:13 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1489,6 +1489,27 @@
       "episodeId": 525,
       "songId": "uknowhat-stellers-sea-cow",
       "reason": "Folge = Stellersche Seekuh / Bering-Expedition und rasches Aussterben; Song = Titelstück „Steller's Sea Cow“ (Album The Budget Museum, Soundtrack zum gleichnamigen YouTube-Kanal über ausgestorbene Tiere) — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Ambient / Educational Soundtrack, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 522,
+      "songId": "stern-combo-meissen-der-kampf-um-den-suedpol",
+      "reason": "Folge = Belgica-Expedition 1897–99 (Packeis, Pinguindiät) mit jungem Amundsen als zweitem Offizier und Karriere-Sprungbrett; Song = Wettlauf Amundsen vs. Scott zum Südpol 1911/12 (Ruhm/Erste, Scotts Tod; nach Stefan Zweig) — gemeinsame Person Amundsen und Antarktis-Rahmen, klar anderes Ereignis und Fokus (bei Metal wäre Tier B). Genre = Artrock / DDR-Prog, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 494,
+      "songId": "matt-hammer-serum-run",
+      "reason": "Folge = Serumlauf nach Nome 1925 (Diphtherie-Epidemie, Hundeschlitten-Staffel Nenana–Nome, Balto/Togo/Seppala); Song = Serum Run (Alaskasongs, 1998) über denselben Staffellauf — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Folk / Alt.Country / Singer-Songwriter, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 525,
+      "songId": "giant-squid-throwing-a-donner-party-at-sea-physeter-catodon",
+      "reason": "Folge = Donner Party (Planwagenkatastrophe Sierra Nevada 1846/47; zweiter Teil: Stellersche Seekuh); Song = Throwing a Donner Party At Sea (Physeter catodon): Schiff zweimal vom Pottwal gerammt, Kannibalismus unter Schiffbrüchigen (Essex 1820) — „Donner Party“ nur Metapher für Kannibalismus, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-11-09",
       "rejectedBy": "manual"
     }
