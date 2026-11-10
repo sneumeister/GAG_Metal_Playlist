@@ -1107,6 +1107,34 @@
     ]
   },
   {
+    "id": "chroming-rose-louis-xiv",
+    "band": "Chroming Rose",
+    "title": "Louis XIV",
+    "entities": [
+      "Ludwig XIV.",
+      "Louis XIV",
+      "Sonnenkönig",
+      "Frankreich",
+      "Versailles",
+      "Französische Revolution"
+    ],
+    "era": "17. Jh. / 1990",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=mEeItvbRFIo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.youtube.com/watch?v=mEeItvbRFIo",
+        "note": "YT mit Lyrics in der Beschreibung; Herrschaftsporträt, Revolution 1789, Gegenwartswarnung"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Chroming_Rose/Louis_XIV/4310",
+        "note": "Album Louis XIV (1990, EMI) — Power/Speed Metal"
+      }
+    ]
+  },
+  {
     "id": "chumbawamba-ah-men",
     "band": "Chumbawamba",
     "title": "Ah-Men",
