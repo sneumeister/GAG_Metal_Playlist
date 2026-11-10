@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-09 23:05:13 +0100<br>**JSON-Status:** 2026-11-09 22:49:31 +0100</small>
+<small>**Compile-Datum:** 2026-11-10 18:26:57 +0100<br>**JSON-Status:** 2026-11-10 18:26:56 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -31,6 +31,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Neil Murray | Menindee | A | [link](https://www.youtube.com/watch?v=NVmbDASq1ws) | [link](https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr) |
 | [59](https://gadg.fm/59) | The Lost Colony | Zao | Croatoan | C | [link](https://www.youtube.com/watch?v=R2oA5aM11xU) | [link](https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W) |
 | [59](https://gadg.fm/59) | The Lost Colony | Ov Moros | Disappearance | A | [link](https://www.youtube.com/watch?v=dj98LwbwlDg) | [link](https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM) |
+| [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Chroming Rose | Louis XIV | B | [link](https://www.youtube.com/watch?v=mEeItvbRFIo) | — |
 | [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Game Zero | Believe | A | [link](https://www.youtube.com/watch?v=ePwIct8A2Kw) | [link](https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD) |
 | [76](https://gadg.fm/76) | Holdouts – Japans vergessene Soldaten | Flashback of Anger | Holdout | A | [link](https://www.youtube.com/watch?v=uxvn-gIFVZo) | [link](https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30) |
 | [79](https://gadg.fm/79) | Das Rolandslied – über Heldentaten, Karl den Großen und Kreuzzugspropaganda | Wotan | La Chanson de Roland | A | [link](https://www.youtube.com/watch?v=i1-M8BmWB5o) | [link](https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On) |

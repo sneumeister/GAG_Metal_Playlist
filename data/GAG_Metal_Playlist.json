@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09 22:49:31 +0100",
+  "updatedAt": "2026-11-10 18:26:56 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -327,6 +327,25 @@
       "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
       "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
       "matchedAt": "2026-10-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 73,
+      "episodeTitle": "Ludwig XIV. und seine pikante Operation",
+      "episodeUrl": "https://gadg.fm/73",
+      "songId": "chroming-rose-louis-xiv",
+      "band": "Chroming Rose",
+      "songTitle": "Louis XIV",
+      "matchTier": "B",
+      "justification": "Folge = Ludwig XIV. Fistel-Operation 1686 (Krankengeschichte des Sonnenkönigs); Song = Herrschaftsporträt Ludwigs XIV. (Kindkönig, Zentralisierung am Hof, „King of the Sun“) plus Sprung zur Revolution 1789 — gemeinsame Person, klar anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Ludwig XIV.",
+        "Sonnenkönig",
+        "Frankreich"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=mEeItvbRFIo",
+      "matchedAt": "2026-11-10",
       "curatedBy": "manual"
     },
     {
