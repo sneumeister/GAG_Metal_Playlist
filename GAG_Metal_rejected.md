@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-10 18:26:57 +0100<br>**JSON-Status:** 2026-11-09 23:05:13 +0100</small>
+<small>**Compile-Datum:** 2026-11-11 19:44:32 +0100<br>**JSON-Status:** 2026-11-11 19:44:32 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -170,6 +170,8 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Serenity | New Horizons | X | [link](https://www.youtube.com/watch?v=7JsdtV7O3dI) | [link](https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9) |
 | [551](https://gadg.fm/551) | Abenteurer, gescheiterte Kolonien und eine Weltumseglung | Savatage | The Wake of Magellan | X | [link](https://www.youtube.com/watch?v=E2lqMQfsGuM) | [link](https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | Savatage | Complaint in the System (Veronica Guerin) | X | [link](https://www.youtube.com/watch?v=xQD3bjGCCb0) | [link](https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e) |
+| [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | The Dreadnoughts | Grace O'Malley | X | [link](https://www.youtube.com/watch?v=3uF76hF4rCU) | [link](https://open.spotify.com/track/3oPRyueX4DRrElO2Dthz5u) |
+| [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | The Gothard Sisters | Grace O'Malley | X | [link](https://www.youtube.com/watch?v=HM-CVL2zAYw) | [link](https://open.spotify.com/track/2mbxjbXRmcBO1x6WBHF7B9) |
 | [552](https://gadg.fm/552) | Gráinne Ní Mháill und die Geburt eines Mythos | The Wolfe Tones | Óró sé do bheatha abhaile | X | [link](https://www.youtube.com/watch?v=ncZc7GwpVXU) | — |
 | [553](https://gadg.fm/553) | Das erste private Raumfahrtunternehmen der Welt | Lorimer Burst | The Flight of Ham (Part I - Hero) | X | [link](https://www.youtube.com/watch?v=cw0fl3AFsLU) | [link](https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U) |
 | [555](https://gadg.fm/555) | Wetterschießen und Regenmachen | Nocturnus | Climate Controller | X | — | [link](https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9) |
