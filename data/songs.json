@@ -10187,6 +10187,60 @@
     ]
   },
   {
+    "id": "the-dreadnoughts-grace-omalley",
+    "band": "The Dreadnoughts",
+    "title": "Grace O'Malley",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Granuaile",
+      "Elizabeth I",
+      "Piratenkönigin",
+      "Irland"
+    ],
+    "era": "16. Jh. / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/3oPRyueX4DRrElO2Dthz5u",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3uF76hF4rCU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-dreadnoughts/grace-o-malley-lyrics/",
+        "note": "Victory Square (2009) — Granuaile, British crest, Elizabeth-Treffen"
+      },
+      {
+        "type": "band",
+        "url": "https://thedreadnoughts.com/bio/",
+        "note": "Band: Folk-Punk / Celtic Punk (Vancouver)"
+      }
+    ]
+  },
+  {
+    "id": "the-gothard-sisters-grace-omalley",
+    "band": "The Gothard Sisters",
+    "title": "Grace O'Malley",
+    "entities": [
+      "Gráinne Ní Mháill",
+      "Grace O'Malley",
+      "Piratenkönigin",
+      "Irland"
+    ],
+    "era": "16. Jh. / 2015",
+    "spotifyUrl": "https://open.spotify.com/track/2mbxjbXRmcBO1x6WBHF7B9",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HM-CVL2zAYw",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://gothardsisters.com/lyrics-1/grace-omalley",
+        "note": "Mountain Rose (2015) — Kindheitslegende Haarabschneiden / erste Seefahrt"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://gothardsisters.bandcamp.com/album/mountain-rose",
+        "note": "Album Mountain Rose, Track Grace O’Malley"
+      }
+    ]
+  },
+  {
     "id": "the-great-kat-strauss-the-blue-danube",
     "band": "The Great Kat",
     "title": "Strauss' The Blue Danube",

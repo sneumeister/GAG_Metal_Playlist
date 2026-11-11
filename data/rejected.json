@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09 23:05:13 +0100",
+  "updatedAt": "2026-11-11 19:44:32 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -13,6 +13,13 @@
       "songId": "crystallion-sole-survivors-in-ligny",
       "reason": "Folge = Uxbridge-Bein / Wellington in Waterloo; Song = Schlacht bei Ligny (Napoleon vs. Preußen, 16.6.) — anderer Schlachttag und Fokus, nur loser Hundert-Tage-Anklang (Tier X).",
       "rejectedAt": "2026-10-25",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 16,
+      "songId": "sabaton-crossing-the-rubicon",
+      "reason": "Folge = Monte Testaccio, achter Hügel Roms aus Amphoren-Scherben (Hannibal nur Teaser-Namenanklang); Song = Caesar überschreitet 49 v. Chr. den Rubikon — anderes Thema, kein gemeinsamer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-11-08",
       "rejectedBy": "manual"
     },
     {
@@ -104,6 +111,20 @@
       "songId": "iron-maiden-alexander-the-great",
       "reason": "Song = Biografie Alexanders des Großen. Folge = Skanderbeg (Gjergj Kastrioti), nur als „neuer Alexander“ tituliert — bloßer Namensanklang, andere Person (Tier X).",
       "rejectedAt": "2026-09-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 105,
+      "songId": "sabaton-champion-of-christ",
+      "reason": "Folge = Skanderbeg / Gjergj Kastrioti und albanischer Osmanenwiderstand; Song = Ștefan cel Mare (Stephen the Great) von Moldawien und Vaslui („Athleta Christi“) — parallele anti-osmanische Heldenfigur, aber andere Person und anderes Fürstentum (Tier X).",
+      "rejectedAt": "2026-11-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 105,
+      "songId": "sabaton-impaler",
+      "reason": "Folge = Skanderbeg / Gjergj Kastrioti und albanischer Osmanenwiderstand; Song = Vlad Țepeș (Impaler) und die Wallachei — parallele anti-osmanische Balkanfürsten, aber andere Person und anderes Fürstentum (Tier X).",
+      "rejectedAt": "2026-11-08",
       "rejectedBy": "manual"
     },
     {
@@ -216,6 +237,27 @@
       "songId": "warkings-battle-of-marathon",
       "reason": "Song = Schlacht bei Marathon 490 v. Chr. / Botenlauf. Folge = Olympische Spiele der Neuzeit — nur Namensanklang „Marathon“, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 246,
+      "songId": "enthroned-graced-by-evil-blood",
+      "reason": "Folge = John Law und die Mississippi-Aktienblase ab 1715/1720; Song = Affäre der Gifte (La Voisin, Madame de Montespan, schwarze Messen am Hof Ludwigs XIV.) — Sonnenkönig in der Folge nur Vorgeschichte der Staatsschulden, Song anderes Ereignis und anderer Fokus (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 246,
+      "songId": "led-zeppelin-when-the-levee-breaks",
+      "reason": "Folge = John Law und die Mississippi-Aktienblase um 1720; Song = Mississippi-Flut 1927 / Deichbruch — nur gemeinsames Stichwort Mississippi, anderes Ereignis und Jahrhundert (Tier X).",
+      "rejectedAt": "2026-11-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 246,
+      "songId": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
+      "reason": "Folge = John Law und die Mississippi-Aktienblase um 1720; Song = Mississippi-Flut 1927 / Deichbruch — nur gemeinsames Stichwort Mississippi, anderes Ereignis. Genre = Blues, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
       "rejectedBy": "manual"
     },
     {
@@ -492,6 +534,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 367,
+      "songId": "sabaton-till-seger",
+      "reason": "Folge = Untergang und Comeback der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = Gustav II. Adolf als Feldherr (Breitenfeld/Lützen, „Lejon från Norden“) — König nur Auftraggeber des Schiffs, Song thematisiert weder Schiff noch Marineunglück (Tier X).",
+      "rejectedAt": "2026-11-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 367,
+      "songId": "sabaton-to-glory",
+      "reason": "Folge = Untergang und Comeback der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = To Glory: Gustav II. Adolf als Feldherr (Breitenfeld/Lützen) — König nur Auftraggeber des Schiffs, Song thematisiert weder Schiff noch Marineunglück (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 369,
       "songId": "tiger-lillies-shockheaded-peter",
       "reason": "Folge = Struwwelpeter / Heinrich Hoffmann; Song = englische Adaption der Struwwelpeter-Titelfigur — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Dark Cabaret / Circus, kein Rock/Metal (Tier X).",
@@ -688,6 +744,13 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 494,
+      "songId": "matt-hammer-serum-run",
+      "reason": "Folge = Serumlauf nach Nome 1925 (Diphtherie-Epidemie, Hundeschlitten-Staffel Nenana–Nome, Balto/Togo/Seppala); Song = Serum Run (Alaskasongs, 1998) über denselben Staffellauf — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Folk / Alt.Country / Singer-Songwriter, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 498,
       "songId": "hexekration-rites-the-grimoire-of-insanity",
       "reason": "Song = fiktives Okkult-Ritual („book of dementia“, Chaosmacht); Bandtexte laut H.R. Arkyon spontane Hate-Ritual-Lyrics, Album als eigenes Ritual-Manifest. Folge = Kulturgeschichte realer Grimoires (Honorius, Faustus, Batak u. a.) — nur Wort/Motiv „Grimoire“, kein gemeinsamer historischer Kern (Tier X).",
@@ -758,6 +821,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 518,
+      "songId": "spirit-of-play-arthur",
+      "reason": "Folge = Eugène François Vidocq als erster Detektiv / Sûreté; Song = Arthur Conan Doyle und Spiritismus (Séancen) — Sherlock Holmes nur Folgentext-Nachklang zur Detektivliteratur, anderer Fokus und andere Person (Tier X).",
+      "rejectedAt": "2026-11-08",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 518,
+      "songId": "vidocq-vidocq",
+      "reason": "Folge = Eugène François Vidocq (Gefängnisausbrüche, Spitzel, Chef der Brigade de Sûreté / erster Privatdetektiv); Song = kurzes Titelstück, Porträt/Beschwörung desselben Abenteurers und Kriminalisten in Paris — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Accordion-Ballade / Chanson-Walzer, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-08",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 519,
       "songId": "sabaton-swedish-pagans",
       "reason": "Song = generische Wikinger-/Berserker-Hymne (Valhalla, Thor, Fenrir); Lyrics ohne Warägergarde, Byzanz oder Miklagard. Folge = Warägergarde am byzantinischen Hof — nur loser Skandinavien-Bezug (Tier X).",
@@ -793,6 +870,20 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 522,
+      "songId": "stern-combo-meissen-der-kampf-um-den-suedpol",
+      "reason": "Folge = Belgica-Expedition 1897–99 (Packeis, Pinguindiät) mit jungem Amundsen als zweitem Offizier und Karriere-Sprungbrett; Song = Wettlauf Amundsen vs. Scott zum Südpol 1911/12 (Ruhm/Erste, Scotts Tod; nach Stefan Zweig) — gemeinsame Person Amundsen und Antarktis-Rahmen, klar anderes Ereignis und Fokus (bei Metal wäre Tier B). Genre = Artrock / DDR-Prog, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 522,
+      "songId": "the-wright-valley-trio-shackleton",
+      "reason": "Folge = Belgica-Expedition 1897–99 mit jungem Roald Amundsen; Song = Ernest Shackleton / Endurance-Überlebenskampf (Eis, Marsch, Hoffnung) — anderer Polarforscher und anderes Ereignis; Passung zu #152 bereits als Tier A in der Playlist (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 523,
       "songId": "attila-the-stockbroker-dean-reed",
       "reason": "Folge = Dean Reed / Roter Elvis (Südamerika, Ostblock, DDR, Tod); Song = biografisches Porträt derselben Person (Chile, SU, GDR, See-Tod) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk Punk / Punk-Rockabilly, kein Rock/Metal (Tier X).",
@@ -800,10 +891,31 @@
       "rejectedBy": "manual"
     },
     {
+      "episodeId": 525,
+      "songId": "giant-squid-throwing-a-donner-party-at-sea-physeter-catodon",
+      "reason": "Folge = Donner Party (Planwagenkatastrophe Sierra Nevada 1846/47; zweiter Teil: Stellersche Seekuh); Song = Throwing a Donner Party At Sea (Physeter catodon): Schiff zweimal vom Pottwal gerammt, Kannibalismus unter Schiffbrüchigen (Essex 1820) — „Donner Party“ nur Metapher für Kannibalismus, anderes Ereignis (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 525,
+      "songId": "uknowhat-stellers-sea-cow",
+      "reason": "Folge = Stellersche Seekuh / Bering-Expedition und rasches Aussterben; Song = Titelstück „Steller's Sea Cow“ (Album The Budget Museum, Soundtrack zum gleichnamigen YouTube-Kanal über ausgestorbene Tiere) — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Ambient / Educational Soundtrack, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-09",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 527,
       "songId": "savatage-the-wake-of-magellan",
       "reason": "Song/Album = Maersk-Dubai-Drama + fiktiver Magellan-Seemann (1990er). Folge = Bougainville/Baret-Weltumseglung 18. Jh. — nur loser Seefahrt-/Weltreise-Rahmen, anderes Ereignis (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 533,
+      "songId": "witchbound-battle-of-kadesh",
+      "reason": "Folge = Bericht des Wenamun (Byblos-Mission um Zedernholz für Amuns Barke); Song = Schlacht bei Kadesch unter Ramses II. — nur Amun-/Ägypten-Stichwort, anderes Ereignis und andere Phase (Tier X).",
+      "rejectedAt": "2026-11-08",
       "rejectedBy": "manual"
     },
     {
@@ -990,9 +1102,30 @@
     },
     {
       "episodeId": 552,
+      "songId": "the-dreadnoughts-grace-omalley",
+      "reason": "Folge = Gráinne Ní Mháill / Grace O'Malley, Leben und Mythos inkl. Elizabeth-Treffen; Song = Porträt derselben Piratenkönigin (Granuaile, Raubzüge gegen die Briten, Treffen mit Elizabeth) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk Punk / Celtic Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 552,
+      "songId": "the-gothard-sisters-grace-omalley",
+      "reason": "Folge = Gráinne Ní Mháill / Grace O'Malley, Leben und Mythos; Song = Kindheitslegende derselben Figur (Haarabschneiden, erste Seefahrt, Piratenabwehr) — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Celtic Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 552,
       "songId": "the-wolfe-tones-oro-se-do-bheatha-abhaile",
       "reason": "Folge = Gráinne Ní Mháill / Grace O’Malley und die Geburt ihres Mythos; Song = nationalistische Willkommens-/Kampfhymne mit Gráinne Mhaol — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Irish Folk / Rebel Song, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-12",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 553,
+      "songId": "lorimer-burst-the-flight-of-ham-part-i-hero",
+      "reason": "Folge = OTRAG / Lutz Kayser, erstes privates Raumfahrtunternehmen und Raketenstarts in Zaire; Song = Schimpanse Ham und Mercury-Redstone 2 (NASA 1961) — nur Weltraum-Stichwort, andere Mission und kein Privatunternehmen (Tier X).",
+      "rejectedAt": "2026-11-08",
       "rejectedBy": "manual"
     },
     {
@@ -1392,125 +1525,6 @@
       "songId": "steeleye-span-prince-charlie-stuart",
       "reason": "Folge = Bonnie Prince Charlie, Culloden und Folgen; Song = Ballade auf Charlie Stuart mit Culloden Moor und vernichteter Highland-Armee — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Electric Folk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-11-04",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 105,
-      "songId": "sabaton-impaler",
-      "reason": "Folge = Skanderbeg / Gjergj Kastrioti und albanischer Osmanenwiderstand; Song = Vlad Țepeș (Impaler) und die Wallachei — parallele anti-osmanische Balkanfürsten, aber andere Person und anderes Fürstentum (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 105,
-      "songId": "sabaton-champion-of-christ",
-      "reason": "Folge = Skanderbeg / Gjergj Kastrioti und albanischer Osmanenwiderstand; Song = Ștefan cel Mare (Stephen the Great) von Moldawien und Vaslui („Athleta Christi“) — parallele anti-osmanische Heldenfigur, aber andere Person und anderes Fürstentum (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 16,
-      "songId": "sabaton-crossing-the-rubicon",
-      "reason": "Folge = Monte Testaccio, achter Hügel Roms aus Amphoren-Scherben (Hannibal nur Teaser-Namenanklang); Song = Caesar überschreitet 49 v. Chr. den Rubikon — anderes Thema, kein gemeinsamer Erzählgegenstand (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 246,
-      "songId": "led-zeppelin-when-the-levee-breaks",
-      "reason": "Folge = John Law und die Mississippi-Aktienblase um 1720; Song = Mississippi-Flut 1927 / Deichbruch — nur gemeinsames Stichwort Mississippi, anderes Ereignis und Jahrhundert (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 553,
-      "songId": "lorimer-burst-the-flight-of-ham-part-i-hero",
-      "reason": "Folge = OTRAG / Lutz Kayser, erstes privates Raumfahrtunternehmen und Raketenstarts in Zaire; Song = Schimpanse Ham und Mercury-Redstone 2 (NASA 1961) — nur Weltraum-Stichwort, andere Mission und kein Privatunternehmen (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 518,
-      "songId": "spirit-of-play-arthur",
-      "reason": "Folge = Eugène François Vidocq als erster Detektiv / Sûreté; Song = Arthur Conan Doyle und Spiritismus (Séancen) — Sherlock Holmes nur Folgentext-Nachklang zur Detektivliteratur, anderer Fokus und andere Person (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 533,
-      "songId": "witchbound-battle-of-kadesh",
-      "reason": "Folge = Bericht des Wenamun (Byblos-Mission um Zedernholz für Amuns Barke); Song = Schlacht bei Kadesch unter Ramses II. — nur Amun-/Ägypten-Stichwort, anderes Ereignis und andere Phase (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 367,
-      "songId": "sabaton-till-seger",
-      "reason": "Folge = Untergang und Comeback der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = Gustav II. Adolf als Feldherr (Breitenfeld/Lützen, „Lejon från Norden“) — König nur Auftraggeber des Schiffs, Song thematisiert weder Schiff noch Marineunglück (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 518,
-      "songId": "vidocq-vidocq",
-      "reason": "Folge = Eugène François Vidocq (Gefängnisausbrüche, Spitzel, Chef der Brigade de Sûreté / erster Privatdetektiv); Song = kurzes Titelstück, Porträt/Beschwörung desselben Abenteurers und Kriminalisten in Paris — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Accordion-Ballade / Chanson-Walzer, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-11-08",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 522,
-      "songId": "the-wright-valley-trio-shackleton",
-      "reason": "Folge = Belgica-Expedition 1897–99 mit jungem Roald Amundsen; Song = Ernest Shackleton / Endurance-Überlebenskampf (Eis, Marsch, Hoffnung) — anderer Polarforscher und anderes Ereignis; Passung zu #152 bereits als Tier A in der Playlist (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 246,
-      "songId": "enthroned-graced-by-evil-blood",
-      "reason": "Folge = John Law und die Mississippi-Aktienblase ab 1715/1720; Song = Affäre der Gifte (La Voisin, Madame de Montespan, schwarze Messen am Hof Ludwigs XIV.) — Sonnenkönig in der Folge nur Vorgeschichte der Staatsschulden, Song anderes Ereignis und anderer Fokus (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 246,
-      "songId": "memphis-minnie-kansas-joe-mccoy-when-the-levee-breaks",
-      "reason": "Folge = John Law und die Mississippi-Aktienblase um 1720; Song = Mississippi-Flut 1927 / Deichbruch — nur gemeinsames Stichwort Mississippi, anderes Ereignis. Genre = Blues, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 367,
-      "songId": "sabaton-to-glory",
-      "reason": "Folge = Untergang und Comeback der Vasa 1628 (Marine-Prunkschiff unter Gustav II. Adolf); Song = To Glory: Gustav II. Adolf als Feldherr (Breitenfeld/Lützen) — König nur Auftraggeber des Schiffs, Song thematisiert weder Schiff noch Marineunglück (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 525,
-      "songId": "uknowhat-stellers-sea-cow",
-      "reason": "Folge = Stellersche Seekuh / Bering-Expedition und rasches Aussterben; Song = Titelstück „Steller's Sea Cow“ (Album The Budget Museum, Soundtrack zum gleichnamigen YouTube-Kanal über ausgestorbene Tiere) — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Ambient / Educational Soundtrack, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 522,
-      "songId": "stern-combo-meissen-der-kampf-um-den-suedpol",
-      "reason": "Folge = Belgica-Expedition 1897–99 (Packeis, Pinguindiät) mit jungem Amundsen als zweitem Offizier und Karriere-Sprungbrett; Song = Wettlauf Amundsen vs. Scott zum Südpol 1911/12 (Ruhm/Erste, Scotts Tod; nach Stefan Zweig) — gemeinsame Person Amundsen und Antarktis-Rahmen, klar anderes Ereignis und Fokus (bei Metal wäre Tier B). Genre = Artrock / DDR-Prog, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 494,
-      "songId": "matt-hammer-serum-run",
-      "reason": "Folge = Serumlauf nach Nome 1925 (Diphtherie-Epidemie, Hundeschlitten-Staffel Nenana–Nome, Balto/Togo/Seppala); Song = Serum Run (Alaskasongs, 1998) über denselben Staffellauf — inhaltlich eng passend (bei Rock/Metal wäre Tier A). Genre = Folk / Alt.Country / Singer-Songwriter, kein Rock/Metal (Tier X).",
-      "rejectedAt": "2026-11-09",
-      "rejectedBy": "manual"
-    },
-    {
-      "episodeId": 525,
-      "songId": "giant-squid-throwing-a-donner-party-at-sea-physeter-catodon",
-      "reason": "Folge = Donner Party (Planwagenkatastrophe Sierra Nevada 1846/47; zweiter Teil: Stellersche Seekuh); Song = Throwing a Donner Party At Sea (Physeter catodon): Schiff zweimal vom Pottwal gerammt, Kannibalismus unter Schiffbrüchigen (Essex 1820) — „Donner Party“ nur Metapher für Kannibalismus, anderes Ereignis (Tier X).",
-      "rejectedAt": "2026-11-09",
       "rejectedBy": "manual"
     }
   ]
