@@ -1637,6 +1637,34 @@
     ]
   },
   {
+    "id": "dawn-patrol-chemical-lobotomy-mk-ultra",
+    "band": "Dawn Patrol",
+    "title": "Chemical Lobotomy (MK ULTRA)",
+    "entities": [
+      "MKUltra",
+      "Sidney Gottlieb",
+      "LSD",
+      "CIA",
+      "Allen Dulles",
+      "Donald Cameron"
+    ],
+    "era": "1953–1973 / 2017",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=6cv7ErQQ0b4",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://wearedawnpatrol.bandcamp.com/album/chemical-lobotomy-mk-ultra",
+        "note": "7\" EP (2017) — Lyrics MKUltra / Gottlieb / Dulles / Cameron / LSD"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Dawn_Patrol/Chemical_Lobotomy_%28MK_ULTRA%29/655880",
+        "note": "Encyclopaedia Metallum: Thrash Metal EP"
+      }
+    ]
+  },
+  {
     "id": "deep-blue-something-dr-crippen",
     "band": "Deep Blue Something",
     "title": "Dr. Crippen",
@@ -1845,6 +1873,32 @@
         "type": "secondary",
         "url": "https://www.backstagepro.de/eisenschwein",
         "note": "Erfurt; Metal/Punk („Schweinerock“)"
+      }
+    ]
+  },
+  {
+    "id": "el-tri-maria-sabina",
+    "band": "El Tri",
+    "title": "María Sabina",
+    "entities": [
+      "María Sabina",
+      "Psilocybin",
+      "Huautla",
+      "Mazateken"
+    ],
+    "era": "1955–1985 / 1989",
+    "spotifyUrl": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ker4RZ9g8pA",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/el-tri/maria-sabina-lyrics/",
+        "note": "21 años después (1989) — sacerdotisa de los hongos / Symbol Sabiduría y amor"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=Ker4RZ9g8pA",
+        "note": "Live/Video-Version María Sabina"
       }
     ]
   },
@@ -4536,6 +4590,36 @@
     ]
   },
   {
+    "id": "masters-hammer-bicycle-day",
+    "band": "Master's Hammer",
+    "title": "Bicycle Day",
+    "entities": [
+      "Bicycle Day",
+      "LSD",
+      "Albert Hofmann"
+    ],
+    "era": "1943 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Hdbu8hqhGvY",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://mastershammer.bandcamp.com/album/maldor-r-disco",
+        "note": "Maldorör Disco (2025) — Track Bicycle Day"
+      },
+      {
+        "type": "secondary",
+        "url": "https://frantisekstorm.com/art_sets/208",
+        "note": "Kunstzyklus Cyklouši/Bicycle Day zum 80. Jahrestag LSD/Bicycle Day"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.crazydiamond.cz/masters_hammer_vsichni_jsme_potomky_bochnatek_rozhovor/3752",
+        "note": "Štorm: Song über Haluzinogene; Radeln als Paradies-Erlebnis"
+      }
+    ]
+  },
+  {
     "id": "mastodon-blood-and-thunder",
     "band": "Mastodon",
     "title": "Blood and Thunder",
@@ -4935,6 +5019,32 @@
     ]
   },
   {
+    "id": "motorpsycho-dr-hoffmanns-bicycle",
+    "band": "Motorpsycho",
+    "title": "Dr. Hoffmann's Bicycle",
+    "entities": [
+      "Albert Hofmann",
+      "LSD",
+      "Bicycle Day",
+      "Fahrradfahrt"
+    ],
+    "era": "1943 / 2001",
+    "spotifyUrl": "https://open.spotify.com/track/3pH8iQyRHzGz8XUpWt7D6L",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vVV5NSQwWwo",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://mpdb.no/song/dr-hoffmanns-bicycle/",
+        "note": "Barracuda (2001) — ride Dr. Hoffmann’s bicycle / LSD-Trip"
+      },
+      {
+        "type": "secondary",
+        "url": "http://rockandbike.blogspot.com/2008/10/motorpsycho-dr-hoffmans-bicycle.html",
+        "note": "Bezug auf Hofmanns erste LSD-Fahrradfahrt"
+      }
+    ]
+  },
+  {
     "id": "mughal-e-funk-akbar",
     "band": "Mughal-E-Funk",
     "title": "Akbar",
@@ -4950,6 +5060,30 @@
         "type": "secondary",
         "url": "https://www.dawn.com/news/1542798",
         "note": "Instrumental / Funk — Sultanat EP"
+      }
+    ]
+  },
+  {
+    "id": "muse-mk-ultra",
+    "band": "Muse",
+    "title": "MK Ultra",
+    "entities": [
+      "MKUltra",
+      "Brainwashing"
+    ],
+    "era": "1953–1973 / 2009",
+    "spotifyUrl": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://musewiki.org/MK_Ultra_(song)",
+        "note": "The Resistance (2009); Titel = CIA MK-ULTRA; Bellamy: Brainwashing/Medienmanipulation 20. Jh."
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
+        "note": "Official / MTV Exit video"
       }
     ]
   },
@@ -5245,6 +5379,29 @@
         "type": "secondary",
         "url": "https://www.deezer.com/track/108605020",
         "note": "Deezer: N"
+      }
+    ]
+  },
+  {
+    "id": "nuummite-bicycle-day",
+    "band": "Nuummite",
+    "title": "Bicycle Day",
+    "entities": [
+      "Bicycle Day"
+    ],
+    "era": "2023",
+    "spotifyUrl": "https://open.spotify.com/track/0GZ8R0eTY4hveRXPcg0lJ4",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xwtZcS1l7F8",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://nuummite.bandcamp.com/track/bicycle-day",
+        "note": "Single 22.4.2023; instrumental Post-/Black/Shoegaze"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Nuummite/Bicycle_Day/1148011",
+        "note": "Encyclopaedia Metallum"
       }
     ]
   },
@@ -9952,6 +10109,31 @@
     ]
   },
   {
+    "id": "svininiai-sarvai-mk-ultra",
+    "band": "Švininiai Šarvai",
+    "title": "MK Ultra",
+    "entities": [
+      "MKUltra",
+      "CIA",
+      "Mind control"
+    ],
+    "era": "1950er / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+        "note": "The Great Paradise of Tomorrow / Single 2023; LyricFind: Orestas Motuzis; CIA-Mind-Control + imaginative twists"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Shvininiai_Sharvai/MK_Ultra/1149097",
+        "note": "Encyclopaedia Metallum: MK Ultra single"
+      }
+    ]
+  },
+  {
     "id": "tankard-black-plague-bp",
     "band": "Tankard",
     "title": "Black Plague (BP)",
@@ -10521,6 +10703,31 @@
     ]
   },
   {
+    "id": "the-sun-through-a-telescope-bicycle-day",
+    "band": "The Sun Through a Telescope",
+    "title": "Bicycle Day",
+    "entities": [
+      "Albert Hofmann",
+      "LSD",
+      "Bicycle Day"
+    ],
+    "era": "1943 / 2020",
+    "spotifyUrl": "https://open.spotify.com/track/3VJlAP0z2VPKd4gDeveZo0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Isy8l9PFoY4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://tstat.bandcamp.com/album/fading-sun",
+        "note": "Fading Sun (2020) — Hofmann-Selbstversuch / Bicycle Day; Genre Black/Doom/Drone (grenzwertig Metal)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/The_Sun_Through_a_Telescope/Fading_Sun/1009372",
+        "note": "Encyclopaedia Metallum: Fading Sun"
+      }
+    ]
+  },
+  {
     "id": "the-twindows-dig-tree",
     "band": "The Twindows",
     "title": "Dig Tree",
@@ -10740,6 +10947,31 @@
         "type": "secondary",
         "url": "https://github.com/sneumeister/GAG_Metal_Playlist/pull/2",
         "note": "Vorschlag PR #2 (stormgrass / Hörer-Mails): Fibonacci-Folge als Grundlage der Silbenstruktur; die Episode behandelt ihre Geschichte."
+      }
+    ]
+  },
+  {
+    "id": "tool-lost-keys-blame-hofmann",
+    "band": "Tool",
+    "title": "Lost Keys (Blame Hofmann)",
+    "entities": [
+      "Albert Hofmann",
+      "LSD",
+      "R. Gordon Wasson"
+    ],
+    "era": "2006",
+    "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/tool/lost-keys-blame-hofmann",
+        "note": "10,000 Days (2006); Titel Blame Hofmann = LSD-Entdecker; Prolog zu Rosetta Stoned"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+        "note": "Official audio (TOOLVEVO)"
       }
     ]
   },

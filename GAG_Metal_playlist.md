@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-11 19:44:32 +0100<br>**JSON-Status:** 2026-11-10 18:26:56 +0100</small>
+<small>**Compile-Datum:** 2026-11-12 22:51:37 +0100<br>**JSON-Status:** 2026-11-12 22:50:36 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -225,9 +225,9 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | Dark Moor | Houdini's Great Escapade | B | [link](https://www.youtube.com/watch?v=OYfdXL7sKVI) | [link](https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK) |
 | [572](https://gadg.fm/572) | Houdini und der Spiritismus | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Nina Hagen | 16 tons | A | [link](https://www.youtube.com/watch?v=_vKDiyo178E) | [link](https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq) |
+| [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Eric Burdon | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=1IIittOtGZA) | [link](https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Memento Mori | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=wkhSwt5dUIs) | [link](https://open.spotify.com/track/41ohp3jJvzNwztKho8VI8F) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Tuff | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=sufrH2MNhHU) | [link](https://open.spotify.com/track/3hEqEzQg6KGMuzROEcELrL) |
-| [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | Eric Burdon | Sixteen Tons | A | [link](https://www.youtube.com/watch?v=1IIittOtGZA) | [link](https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry) |
 | [573](https://gadg.fm/573) | Scrip, Truck und der Company Store | ZZ Top feat. Jeff Beck | Sixteen Tons (Live from London) | A | [link](https://www.youtube.com/watch?v=QPqchDH22Vw) | [link](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) |
 | [574](https://gadg.fm/574) | Dirndl und Lederhosen | Kontrust | lederhosen overkill | C | [link](https://www.youtube.com/watch?v=ZT4DTPJH4nY) | [link](https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B) |
 | [575](https://gadg.fm/575) | Hasekura Tsunenaga und die Keichō-Gesandtschaft | Imari Tones | Sengoku Christians | C | [link](https://www.youtube.com/watch?v=FKV4gwBRKVc) | [link](https://open.spotify.com/track/5hAibC2WxazzY7odFjgb88) |
@@ -248,3 +248,11 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Ultan JP | The Tempest | A | [link](https://www.youtube.com/watch?v=MrV6Q5F6A9E) | [link](https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Will Ye No Come Back Again? | A | [link](https://www.youtube.com/watch?v=t4ykwaOMeYo) | [link](https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Ye Jacobites by Name | B | [link](https://www.youtube.com/watch?v=WdNkFtwTLro) | [link](https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Master's Hammer | Bicycle Day | C | [link](https://www.youtube.com/watch?v=Hdbu8hqhGvY) | [link](https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | The Sun Through a Telescope | Bicycle Day | A | [link](https://www.youtube.com/watch?v=Isy8l9PFoY4) | [link](https://open.spotify.com/track/3VJlAP0z2VPKd4gDeveZo0) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Dawn Patrol | Chemical Lobotomy (MK ULTRA) | A | [link](https://www.youtube.com/watch?v=6cv7ErQQ0b4) | — |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Motorpsycho | Dr. Hoffmann's Bicycle | A | [link](https://www.youtube.com/watch?v=vVV5NSQwWwo) | [link](https://open.spotify.com/track/3pH8iQyRHzGz8XUpWt7D6L) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Tool | Lost Keys (Blame Hofmann) | C | [link](https://www.youtube.com/watch?v=vvCM7Qig9qI) | [link](https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Muse | MK Ultra | C | [link](https://www.youtube.com/watch?v=lT0-gSAKDmM) | [link](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Švininiai Šarvai | MK Ultra | B | [link](https://www.youtube.com/watch?v=2s3q6jKmA0I) | [link](https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | El Tri | María Sabina | A | [link](https://www.youtube.com/watch?v=Ker4RZ9g8pA) | [link](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) |
