@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10 18:26:56 +0100",
+  "updatedAt": "2026-11-12 22:50:36 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1856,6 +1856,23 @@
       "episodeId": 333,
       "episodeTitle": "Alexandria",
       "episodeUrl": "https://gadg.fm/333",
+      "songId": "serenity-age-of-glory",
+      "band": "Serenity",
+      "songTitle": "Age of Glory",
+      "matchTier": "C",
+      "justification": "Folge = Alexandria als Kultur-/Nachlassprojekt der Nachfolger; Song = Alexanders Eroberungsdrang und sterbendes „Age of Glory“ (Perser/Babylon) — gemeinsame Person Alexander, kein gemeinsamer Erzählgegenstand (Stadt vs. Feldzug) (Tier C).",
+      "sharedEntities": [
+        "Alexander der Große"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5T9cFpoaEjkBPZaMrocniw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jOi8ujXxKTk",
+      "matchedAt": "2026-11-03",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 333,
+      "episodeTitle": "Alexandria",
+      "episodeUrl": "https://gadg.fm/333",
       "songId": "warkings-nightfall",
       "band": "Warkings",
       "songTitle": "Nightfall",
@@ -1869,23 +1886,6 @@
       "spotifyUrl": "https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt",
       "youtubeUrl": "https://www.youtube.com/watch?v=qrCn-SkuIWo",
       "matchedAt": "2026-10-23",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 333,
-      "episodeTitle": "Alexandria",
-      "episodeUrl": "https://gadg.fm/333",
-      "songId": "serenity-age-of-glory",
-      "band": "Serenity",
-      "songTitle": "Age of Glory",
-      "matchTier": "C",
-      "justification": "Folge = Alexandria als Kultur-/Nachlassprojekt der Nachfolger; Song = Alexanders Eroberungsdrang und sterbendes „Age of Glory“ (Perser/Babylon) — gemeinsame Person Alexander, kein gemeinsamer Erzählgegenstand (Stadt vs. Feldzug) (Tier C).",
-      "sharedEntities": [
-        "Alexander der Große"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/5T9cFpoaEjkBPZaMrocniw",
-      "youtubeUrl": "https://www.youtube.com/watch?v=jOi8ujXxKTk",
-      "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
     {
@@ -2385,6 +2385,25 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 423,
+      "episodeTitle": "Der Sohn Gottes Hong Xiuquan und sein Aufstand gegen das imperiale China",
+      "episodeUrl": "https://gadg.fm/423",
+      "songId": "ripped-to-shreds-god-worshipping-society",
+      "band": "Ripped to Shreds",
+      "songTitle": "God Worshipping Society",
+      "matchTier": "A",
+      "justification": "Folge = Hong Xiuquan (Visionen, jüngerer Bruder Jesu), Gottverehrer-Gesellschaft und Taiping-Aufstand gegen die Qing; Song = God Worshipping Society („I am the brother of Christ“, Taiping Heavenly Kingdom / religiöse Gewalt) — derselbe Kern Person und Bewegung (Tier A).",
+      "sharedEntities": [
+        "Hong Xiuquan",
+        "Gottverehrer-Gesellschaft",
+        "Taiping"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
+      "matchedAt": "2026-11-09",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 427,
       "episodeTitle": "Das Große Erdbeben von Lissabon",
       "episodeUrl": "https://gadg.fm/427",
@@ -2527,6 +2546,23 @@
       "episodeId": 436,
       "episodeTitle": "Die Jagd nach El­do­ra­do",
       "episodeUrl": "https://gadg.fm/436",
+      "songId": "antrisch-conquista-prolog",
+      "band": "Antrisch",
+      "songTitle": "Conquista – Prolog",
+      "matchTier": "B",
+      "justification": "Folge = Eldorado-Legende, Pizarro/Atahualpa und Welser/Hutten; Song = Conquista-Prolog auf Aguirre–Eldorado-Konzeptalbum — gemeinsamer Rahmen Goldjagd/Conquista in der Neuen Welt, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Konquistadoren",
+        "Eldorado",
+        "Neue Welt"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY"
+    },
+    {
+      "episodeId": 436,
+      "episodeTitle": "Die Jagd nach El­do­ra­do",
+      "episodeUrl": "https://gadg.fm/436",
       "songId": "running-wild-conquistadores",
       "band": "Running Wild",
       "songTitle": "Conquistadores",
@@ -2541,23 +2577,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
-    },
-    {
-      "episodeId": 436,
-      "episodeTitle": "Die Jagd nach El­do­ra­do",
-      "episodeUrl": "https://gadg.fm/436",
-      "songId": "antrisch-conquista-prolog",
-      "band": "Antrisch",
-      "songTitle": "Conquista – Prolog",
-      "matchTier": "B",
-      "justification": "Folge = Eldorado-Legende, Pizarro/Atahualpa und Welser/Hutten; Song = Conquista-Prolog auf Aguirre–Eldorado-Konzeptalbum — gemeinsamer Rahmen Goldjagd/Conquista in der Neuen Welt, anderer Fokus (Tier B).",
-      "sharedEntities": [
-        "Konquistadoren",
-        "Eldorado",
-        "Neue Welt"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY"
     },
     {
       "episodeId": 439,
@@ -2639,6 +2658,27 @@
       "episodeId": 462,
       "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
       "episodeUrl": "https://gadg.fm/462",
+      "songId": "culloden-thermopylae",
+      "band": "Culloden",
+      "songTitle": "Thermopylae",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht an den Thermopylen / Leonidas und die 300; Song = Thermopylae (300 Spartans, Xerxes, Verräterpass, Hold the path) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Thermopylen",
+        "Sparta",
+        "Leonidas",
+        "Xerxes",
+        "480 v. Chr."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SyK0JF5j6p4",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
       "songId": "sabaton-sparta",
       "band": "Sabaton",
       "songTitle": "Sparta",
@@ -2653,6 +2693,21 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
+      "songId": "warkings-battle-of-marathon",
+      "band": "Warkings",
+      "songTitle": "Battle of Marathon",
+      "matchTier": "C",
+      "justification": "Folge = Thermopylen 480 (Leonidas); Song = Marathon 490 + Botenlauf — thematische Nähe Perserkriege, anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Perserkriege"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk"
     },
     {
       "episodeId": 462,
@@ -2675,24 +2730,22 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 462,
-      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
-      "episodeUrl": "https://gadg.fm/462",
-      "songId": "culloden-thermopylae",
-      "band": "Culloden",
-      "songTitle": "Thermopylae",
-      "matchTier": "A",
-      "justification": "Folge = Schlacht an den Thermopylen / Leonidas und die 300; Song = Thermopylae (300 Spartans, Xerxes, Verräterpass, Hold the path) — derselbe Kern (Tier A).",
+      "episodeId": 466,
+      "episodeTitle": "Julia Felix und das Ende Pompejis",
+      "episodeUrl": "https://gadg.fm/466",
+      "songId": "siouxsie-and-the-banshees-cities-in-dust",
+      "band": "Siouxsie and the Banshees",
+      "songTitle": "Cities In Dust",
+      "matchTier": "B",
+      "justification": "Folge = Untergang Pompejis, Julia Felix und Ausgrabungen; Song = Vesuvausbruch mit Lares-Schrein, Aschetod und „molten bodies“ (Band-Aussage: Besuch in Pompeji) — gleicher Vesuv-/Pompeji-Kern, anderer Fokus (Julia Felix vs. Eruptionsopfer) (Tier B).",
       "sharedEntities": [
-        "Thermopylen",
-        "Sparta",
-        "Leonidas",
-        "Xerxes",
-        "480 v. Chr."
+        "Pompeji",
+        "Vesuv",
+        "79 n. Chr."
       ],
-      "spotifyUrl": "https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SyK0JF5j6p4",
-      "matchedAt": "2026-11-04",
+      "spotifyUrl": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wsOHvP1XnRg",
+      "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
     {
@@ -2712,25 +2765,6 @@
       "spotifyUrl": "https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3",
       "youtubeUrl": "https://www.youtube.com/watch?v=R8OYRZDHK4s",
       "matchedAt": "2026-09-28",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 466,
-      "episodeTitle": "Julia Felix und das Ende Pompejis",
-      "episodeUrl": "https://gadg.fm/466",
-      "songId": "siouxsie-and-the-banshees-cities-in-dust",
-      "band": "Siouxsie and the Banshees",
-      "songTitle": "Cities In Dust",
-      "matchTier": "B",
-      "justification": "Folge = Untergang Pompejis, Julia Felix und Ausgrabungen; Song = Vesuvausbruch mit Lares-Schrein, Aschetod und „molten bodies“ (Band-Aussage: Besuch in Pompeji) — gleicher Vesuv-/Pompeji-Kern, anderer Fokus (Julia Felix vs. Eruptionsopfer) (Tier B).",
-      "sharedEntities": [
-        "Pompeji",
-        "Vesuv",
-        "79 n. Chr."
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wsOHvP1XnRg",
-      "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
     {
@@ -3071,6 +3105,26 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 509,
+      "episodeTitle": "Filmreife Flucht",
+      "episodeUrl": "https://gadg.fm/509",
+      "songId": "the-real-mckenzies-the-catalpa",
+      "band": "The Real McKenzies",
+      "songTitle": "The Catalpa",
+      "matchTier": "A",
+      "justification": "Folge = Catalpa-Rettung der Fenians aus Fremantle 1876; Song = Celtic-Punk-Ballade derselben Flucht (Catalpa, sechs Fenians, Georgette) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Catalpa",
+        "Fenians",
+        "Fremantle",
+        "1876"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 510,
       "episodeTitle": "Ludwig van Beethoven oder Wie eine Symphonie entsteht",
       "episodeUrl": "https://gadg.fm/510",
@@ -3106,6 +3160,23 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=u5OvUSgUfRE",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
+      "songId": "amon-amarth-varyags-of-miklagaard",
+      "band": "Amon Amarth",
+      "songTitle": "Varyags of Miklagaard",
+      "matchTier": "A",
+      "justification": "Folge = Warägergarde am byzantinischen Hof; Song = Warägerdienst in Miklagaard (Eid auf den Kaiser, Rückkehr nach Svitjod) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Miklagaard",
+        "Konstantinopel"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9wo6lNn4KVE"
     },
     {
       "episodeId": 519,
@@ -3399,6 +3470,24 @@
       "episodeId": 552,
       "episodeTitle": "Gráinne Ní Mháill und die Geburt eines Mythos",
       "episodeUrl": "https://gadg.fm/552",
+      "songId": "cruachan-the-sea-queen-of-connaught",
+      "band": "Cruachan",
+      "songTitle": "The Sea Queen of Connaught",
+      "matchTier": "A",
+      "justification": "Folge = Gráinne Ní Mháill / Grace O’Malley und Mythos inkl. Elizabeth-Treffen; Song = Biografie derselben Piratenkönigin (Kindheit, Raubzüge, Treffen mit Englands Queen, Tod im Jahr der Queen) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Gráinne Ní Mháill",
+        "Grace O'Malley",
+        "Piratenkönigin",
+        "Elizabeth I."
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
+      "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k"
+    },
+    {
+      "episodeId": 552,
+      "episodeTitle": "Gráinne Ní Mháill und die Geburt eines Mythos",
+      "episodeUrl": "https://gadg.fm/552",
       "songId": "frantic-amber-grainne-mhaol",
       "band": "Frantic Amber",
       "songTitle": "Gráinne Mhaol",
@@ -3433,24 +3522,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
-    },
-    {
-      "episodeId": 552,
-      "episodeTitle": "Gráinne Ní Mháill und die Geburt eines Mythos",
-      "episodeUrl": "https://gadg.fm/552",
-      "songId": "cruachan-the-sea-queen-of-connaught",
-      "band": "Cruachan",
-      "songTitle": "The Sea Queen of Connaught",
-      "matchTier": "A",
-      "justification": "Folge = Gráinne Ní Mháill / Grace O’Malley und Mythos inkl. Elizabeth-Treffen; Song = Biografie derselben Piratenkönigin (Kindheit, Raubzüge, Treffen mit Englands Queen, Tod im Jahr der Queen) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Gráinne Ní Mháill",
-        "Grace O'Malley",
-        "Piratenkönigin",
-        "Elizabeth I."
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
-      "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k"
     },
     {
       "episodeId": 554,
@@ -3872,6 +3943,25 @@
       "episodeId": 572,
       "episodeTitle": "Houdini und der Spiritismus",
       "episodeUrl": "https://gadg.fm/572",
+      "songId": "spirit-of-play-arthur",
+      "band": "Spirit of Play",
+      "songTitle": "Arthur",
+      "matchTier": "B",
+      "justification": "Folge = Houdini, Doyle und die Atlantic-City-Séance 1922; Song = Conan Doyle bei Séancen und Fairies („knock on tables“, „they’re not coming back“) ohne Houdini — gemeinsamer Doyle-/Spiritismus-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Arthur Conan Doyle",
+        "Spiritismus",
+        "Séance"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9TJZATUpcts",
+      "matchedAt": "2026-11-06",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 572,
+      "episodeTitle": "Houdini und der Spiritismus",
+      "episodeUrl": "https://gadg.fm/572",
       "songId": "the-burned-over-the-last-great-awakening",
       "band": "The Burned Over",
       "songTitle": "The Last Great Awakening",
@@ -3887,22 +3977,43 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 572,
-      "episodeTitle": "Houdini und der Spiritismus",
-      "episodeUrl": "https://gadg.fm/572",
-      "songId": "spirit-of-play-arthur",
-      "band": "Spirit of Play",
-      "songTitle": "Arthur",
-      "matchTier": "B",
-      "justification": "Folge = Houdini, Doyle und die Atlantic-City-Séance 1922; Song = Conan Doyle bei Séancen und Fairies („knock on tables“, „they’re not coming back“) ohne Houdini — gemeinsamer Doyle-/Spiritismus-Rahmen, anderer Fokus (Tier B).",
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "eric-burdon-sixteen-tons",
+      "band": "Eric Burdon",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Rock-Cover von Sixteen Tons (Company Store) — derselbe Kern (Tier A).",
       "sharedEntities": [
-        "Arthur Conan Doyle",
-        "Spiritismus",
-        "Séance"
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9TJZATUpcts",
-      "matchedAt": "2026-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1IIittOtGZA",
+      "matchedAt": "2026-10-30",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "memento-mori-sixteen-tons",
+      "band": "Memento Mori",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Doom-Metal-Cover von Sixteen Tons (Company Store / Schuldknechtschaft) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/41ohp3jJvzNwztKho8VI8F",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wkhSwt5dUIs",
+      "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     },
     {
@@ -3923,6 +4034,26 @@
       "spotifyUrl": "https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq",
       "youtubeUrl": "https://www.youtube.com/watch?v=_vKDiyo178E",
       "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 573,
+      "episodeTitle": "Scrip, Truck und der Company Store",
+      "episodeUrl": "https://gadg.fm/573",
+      "songId": "tuff-sixteen-tons",
+      "band": "Tuff",
+      "songTitle": "Sixteen Tons",
+      "matchTier": "A",
+      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Hard-Rock-Cover von Sixteen Tons (Company Store) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Company Store",
+        "Scrip",
+        "Truck system",
+        "Kohlebergbau"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3hEqEzQg6KGMuzROEcELrL",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sufrH2MNhHU",
+      "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     },
     {
@@ -4093,96 +4224,61 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 573,
-      "episodeTitle": "Scrip, Truck und der Company Store",
-      "episodeUrl": "https://gadg.fm/573",
-      "songId": "memento-mori-sixteen-tons",
-      "band": "Memento Mori",
-      "songTitle": "Sixteen Tons",
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "anduril-culloden",
+      "band": "Anduril",
+      "songTitle": "Culloden",
       "matchTier": "A",
-      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Doom-Metal-Cover von Sixteen Tons (Company Store / Schuldknechtschaft) — derselbe Kern (Tier A).",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen für Highlands; Song = Clansmen-POV am Tag der Schlacht (Moorlands, Fourtyfive last stand, Jacobites, ~5000 Mann, fehlender King, Highlands) — derselbe Kern Culloden (Tier A).",
       "sharedEntities": [
-        "Company Store",
-        "Scrip",
-        "Truck system",
-        "Kohlebergbau"
+        "Culloden",
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/41ohp3jJvzNwztKho8VI8F",
-      "youtubeUrl": "https://www.youtube.com/watch?v=wkhSwt5dUIs",
-      "matchedAt": "2026-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4GX2lMmsZq8",
+      "matchedAt": "2026-11-06",
       "curatedBy": "manual"
     },
     {
-      "episodeId": 573,
-      "episodeTitle": "Scrip, Truck und der Company Store",
-      "episodeUrl": "https://gadg.fm/573",
-      "songId": "tuff-sixteen-tons",
-      "band": "Tuff",
-      "songTitle": "Sixteen Tons",
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "culloden-hills-of-culloden",
+      "band": "Culloden",
+      "songTitle": "Hills of Culloden",
       "matchTier": "A",
-      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Hard-Rock-Cover von Sixteen Tons (Company Store) — derselbe Kern (Tier A).",
+      "justification": "Folge = Schlacht bei Culloden 1746 und Jakobiten-Ende; Song = Hills of Culloden (Band/Songtitel Culloden; Review: Schlachtlyrics mit Jahr 1746) — derselbe Kern (Tier A).",
       "sharedEntities": [
-        "Company Store",
-        "Scrip",
-        "Truck system",
-        "Kohlebergbau"
+        "Culloden",
+        "Schlacht bei Culloden"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/3hEqEzQg6KGMuzROEcELrL",
-      "youtubeUrl": "https://www.youtube.com/watch?v=sufrH2MNhHU",
-      "matchedAt": "2026-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
+      "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
+      "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
     {
-      "episodeId": 573,
-      "episodeTitle": "Scrip, Truck und der Company Store",
-      "episodeUrl": "https://gadg.fm/573",
-      "songId": "eric-burdon-sixteen-tons",
-      "band": "Eric Burdon",
-      "songTitle": "Sixteen Tons",
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "grave-digger-barbarian",
+      "band": "Grave Digger",
+      "songTitle": "Barbarian",
       "matchTier": "A",
-      "justification": "Folge = Scrip, Truck und Company Store (Appalachen); Song = Rock-Cover von Sixteen Tons (Company Store) — derselbe Kern (Tier A).",
+      "justification": "Folge = Culloden 1746 und Folgen für Jakobiten/Highlands; Song = Herzog von Cumberland als „Butcher of Culloden“ / Killer of the Jacobites und Unterdrückung danach — derselbe Kern Schlacht-Nachspiel/Culloden (Tier A).",
       "sharedEntities": [
-        "Company Store",
-        "Scrip",
-        "Truck system",
-        "Kohlebergbau"
+        "Culloden",
+        "Herzog von Cumberland",
+        "Jakobiten"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry",
-      "youtubeUrl": "https://www.youtube.com/watch?v=1IIittOtGZA",
-      "matchedAt": "2026-10-30",
+      "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+      "matchedAt": "2026-11-04",
       "curatedBy": "manual"
-    },
-    {
-      "episodeId": 462,
-      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
-      "episodeUrl": "https://gadg.fm/462",
-      "songId": "warkings-battle-of-marathon",
-      "band": "Warkings",
-      "songTitle": "Battle of Marathon",
-      "matchTier": "C",
-      "justification": "Folge = Thermopylen 480 (Leonidas); Song = Marathon 490 + Botenlauf — thematische Nähe Perserkriege, anderer Erzählgegenstand (Tier C).",
-      "sharedEntities": [
-        "Perserkriege"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk"
-    },
-    {
-      "episodeId": 519,
-      "episodeTitle": "Die Warägergarde",
-      "episodeUrl": "https://gadg.fm/519",
-      "songId": "amon-amarth-varyags-of-miklagaard",
-      "band": "Amon Amarth",
-      "songTitle": "Varyags of Miklagaard",
-      "matchTier": "A",
-      "justification": "Folge = Warägergarde am byzantinischen Hof; Song = Warägerdienst in Miklagaard (Eid auf den Kaiser, Rückkehr nach Svitjod) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Warägergarde",
-        "Miklagaard",
-        "Konstantinopel"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9wo6lNn4KVE"
     },
     {
       "episodeId": 580,
@@ -4248,43 +4344,6 @@
       "episodeId": 580,
       "episodeTitle": "Die Schlacht bei Culloden",
       "episodeUrl": "https://gadg.fm/580",
-      "songId": "culloden-hills-of-culloden",
-      "band": "Culloden",
-      "songTitle": "Hills of Culloden",
-      "matchTier": "A",
-      "justification": "Folge = Schlacht bei Culloden 1746 und Jakobiten-Ende; Song = Hills of Culloden (Band/Songtitel Culloden; Review: Schlachtlyrics mit Jahr 1746) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Schlacht bei Culloden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
-      "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "grave-digger-barbarian",
-      "band": "Grave Digger",
-      "songTitle": "Barbarian",
-      "matchTier": "A",
-      "justification": "Folge = Culloden 1746 und Folgen für Jakobiten/Highlands; Song = Herzog von Cumberland als „Butcher of Culloden“ / Killer of the Jacobites und Unterdrückung danach — derselbe Kern Schlacht-Nachspiel/Culloden (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Herzog von Cumberland",
-        "Jakobiten"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
-      "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
       "songId": "the-real-mckenzies-skye-boat-song",
       "band": "The Real McKenzies",
       "songTitle": "Skye Boat Song",
@@ -4297,23 +4356,6 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "the-real-mckenzies-ye-jacobites-by-name",
-      "band": "The Real McKenzies",
-      "songTitle": "Ye Jacobites by Name",
-      "matchTier": "B",
-      "justification": "Folge = Verlauf des Jakobitenaufstands bis Culloden und was danach kam; Song = Burns spricht die Jakobiten an und tadelt ihre Sache („Your faults I will proclaim“) — gleiche Partei Jakobiten, anderer Fokus (Geschichtsverlauf vs. politische Standpauke) (Tier B).",
-      "sharedEntities": [
-        "Jakobiten"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J",
-      "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4359,20 +4401,17 @@
       "episodeId": 580,
       "episodeTitle": "Die Schlacht bei Culloden",
       "episodeUrl": "https://gadg.fm/580",
-      "songId": "anduril-culloden",
-      "band": "Anduril",
-      "songTitle": "Culloden",
-      "matchTier": "A",
-      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen für Highlands; Song = Clansmen-POV am Tag der Schlacht (Moorlands, Fourtyfive last stand, Jacobites, ~5000 Mann, fehlender King, Highlands) — derselbe Kern Culloden (Tier A).",
+      "songId": "the-real-mckenzies-ye-jacobites-by-name",
+      "band": "The Real McKenzies",
+      "songTitle": "Ye Jacobites by Name",
+      "matchTier": "B",
+      "justification": "Folge = Verlauf des Jakobitenaufstands bis Culloden und was danach kam; Song = Burns spricht die Jakobiten an und tadelt ihre Sache („Your faults I will proclaim“) — gleiche Partei Jakobiten, anderer Fokus (Geschichtsverlauf vs. politische Standpauke) (Tier B).",
       "sharedEntities": [
-        "Culloden",
-        "Bonnie Prince Charlie",
-        "Jakobitenaufstand 1745",
-        "Highland Clans"
+        "Jakobiten"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
-      "youtubeUrl": "https://www.youtube.com/watch?v=4GX2lMmsZq8",
-      "matchedAt": "2026-11-06",
+      "spotifyUrl": "https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
+      "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
     {
@@ -4395,42 +4434,152 @@
       "curatedBy": "manual"
     },
     {
-      "episodeId": 509,
-      "episodeTitle": "Filmreife Flucht",
-      "episodeUrl": "https://gadg.fm/509",
-      "songId": "the-real-mckenzies-the-catalpa",
-      "band": "The Real McKenzies",
-      "songTitle": "The Catalpa",
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "dawn-patrol-chemical-lobotomy-mk-ultra",
+      "band": "Dawn Patrol",
+      "songTitle": "Chemical Lobotomy (MK ULTRA)",
       "matchTier": "A",
-      "justification": "Folge = Catalpa-Rettung der Fenians aus Fremantle 1876; Song = Celtic-Punk-Ballade derselben Flucht (Catalpa, sechs Fenians, Georgette) — derselbe Kern (Tier A).",
+      "justification": "Folge = u. a. CIA-Interesse an LSD / MKUltra (Sidney Gottlieb); Song = explizites Porträt desselben Programms (LSD, CIA mind control, Gottlieb, Dulles, Cameron) — derselbe Kern (Tier A).",
       "sharedEntities": [
-        "Catalpa",
-        "Fenians",
-        "Fremantle",
-        "1876"
+        "MKUltra",
+        "Sidney Gottlieb",
+        "LSD",
+        "CIA"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
-      "matchedAt": "2026-11-04",
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=6cv7ErQQ0b4",
+      "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
     {
-      "episodeId": 423,
-      "episodeTitle": "Der Sohn Gottes Hong Xiuquan und sein Aufstand gegen das imperiale China",
-      "episodeUrl": "https://gadg.fm/423",
-      "songId": "ripped-to-shreds-god-worshipping-society",
-      "band": "Ripped to Shreds",
-      "songTitle": "God Worshipping Society",
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "el-tri-maria-sabina",
+      "band": "El Tri",
+      "songTitle": "María Sabina",
       "matchTier": "A",
-      "justification": "Folge = Hong Xiuquan (Visionen, jüngerer Bruder Jesu), Gottverehrer-Gesellschaft und Taiping-Aufstand gegen die Qing; Song = God Worshipping Society („I am the brother of Christ“, Taiping Heavenly Kingdom / religiöse Gewalt) — derselbe Kern Person und Bewegung (Tier A).",
+      "justification": "Folge = u. a. María Sabina / Wasson und die „heiligen Pilze“; Song = Porträt derselben Curandera („sacerdotisa de los hongos“, Medienrummel, Symbol) — derselbe Kern Person (Tier A).",
       "sharedEntities": [
-        "Hong Xiuquan",
-        "Gottverehrer-Gesellschaft",
-        "Taiping"
+        "María Sabina",
+        "Psilocybin",
+        "Huautla"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
-      "matchedAt": "2026-11-09",
+      "spotifyUrl": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ker4RZ9g8pA",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "masters-hammer-bicycle-day",
+      "band": "Master's Hammer",
+      "songTitle": "Bicycle Day",
+      "matchTier": "C",
+      "justification": "Folge = Hofmann / LSD und die historische Bicycle-Day-Fahrt; Song = Haluzinogene und Radfahren unter dem Titel Bicycle Day, laut Band eigene Natur-/Rad-Ekstase — assoziative Nähe über Stichwort und Jahrestags-Bezug, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Bicycle Day",
+        "LSD"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hdbu8hqhGvY",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "motorpsycho-dr-hoffmanns-bicycle",
+      "band": "Motorpsycho",
+      "songTitle": "Dr. Hoffmann's Bicycle",
+      "matchTier": "A",
+      "justification": "Folge = Albert Hofmann / LSD-Entdeckung und Selbstversuch inkl. Fahrradfahrt; Song = Porträt derselben Fahrradfahrt („ride Dr. Hoffmann’s bicycle“, lysergischer Trip) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Albert Hofmann",
+        "LSD",
+        "Bicycle Day"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3pH8iQyRHzGz8XUpWt7D6L",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vVV5NSQwWwo",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "muse-mk-ultra",
+      "band": "Muse",
+      "songTitle": "MK Ultra",
+      "matchTier": "C",
+      "justification": "Folge = CIA / MKUltra und LSD-Experimente; Song = Titel nach dem CIA-Projekt, Text über Brainwashing und Medienmanipulation im 20. Jh. — assoziative Nähe über das Stichwort, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "MKUltra"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "svininiai-sarvai-mk-ultra",
+      "band": "Švininiai Šarvai",
+      "songTitle": "MK Ultra",
+      "matchTier": "B",
+      "justification": "Folge = CIA / Gottlieb und Interesse an LSD sowie psychoaktiven Pilzen (MKUltra); Song = Mind-Control-Horror unter dem Titel MK Ultra (Halluzination, Gedankenlöschen, vernichtete Beweise) — gemeinsamer Rahmen Programm, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "MKUltra",
+        "CIA"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "the-sun-through-a-telescope-bicycle-day",
+      "band": "The Sun Through a Telescope",
+      "songTitle": "Bicycle Day",
+      "matchTier": "A",
+      "justification": "Folge = Albert Hofmann / LSD-Selbstversuch inkl. Fahrradfahrt (April 1943); Song = Ich-Perspektive derselben Fahrt (threshold dose, evil witch next door, bicycle / April afternoon, wartime) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Albert Hofmann",
+        "LSD",
+        "Bicycle Day"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3VJlAP0z2VPKd4gDeveZo0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Isy8l9PFoY4",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "tool-lost-keys-blame-hofmann",
+      "band": "Tool",
+      "songTitle": "Lost Keys (Blame Hofmann)",
+      "matchTier": "C",
+      "justification": "Folge = Albert Hofmann / LSD-Entdeckung (Fahrradfahrt) plus Psilocybin/Wasson-Strang; Song = Krankenhaus-Skit vor Rosetta Stoned, Hofmann nur als Titel-Schuld („Blame Hofmann“), Dialog mit „Dr. Wasson“ — thematische Nähe zu LSD/Pilz-Pionieren, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Albert Hofmann",
+        "LSD",
+        "R. Gordon Wasson"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+      "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     }
   ]

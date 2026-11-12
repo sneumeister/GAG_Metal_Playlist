@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11 19:44:32 +0100",
+  "updatedAt": "2026-11-12 22:51:37 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1525,6 +1525,13 @@
       "songId": "steeleye-span-prince-charlie-stuart",
       "reason": "Folge = Bonnie Prince Charlie, Culloden und Folgen; Song = Ballade auf Charlie Stuart mit Culloden Moor und vernichteter Highland-Armee — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Folk / Electric Folk, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-11-04",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "songId": "nuummite-bicycle-day",
+      "reason": "Folge = Albert Hofmann / LSD und die historische Bicycle-Day-Fahrt; Song = instrumentales Stück nur mit Titel „Bicycle Day“, ohne Lyrics oder belegten Erzählfokus — zu dünner Stichwort-Bezug (Tier X).",
+      "rejectedAt": "2026-11-12",
       "rejectedBy": "manual"
     }
   ]

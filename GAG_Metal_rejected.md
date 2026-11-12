@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-11 19:44:32 +0100<br>**JSON-Status:** 2026-11-11 19:44:32 +0100</small>
+<small>**Compile-Datum:** 2026-11-12 22:51:37 +0100<br>**JSON-Status:** 2026-11-12 22:51:37 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -231,3 +231,4 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Herman's Hermits | No Milk Today | X | — | [link](https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Eisenschwein | Verbleite Zeit | X | — | — |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Steeleye Span | Prince Charlie Stuart | X | [link](https://www.youtube.com/watch?v=1U1C-CGaaqs) | [link](https://open.spotify.com/track/0hSEM5WDjY1DeG7j26oYx5) |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Nuummite | Bicycle Day | X | [link](https://www.youtube.com/watch?v=xwtZcS1l7F8) | [link](https://open.spotify.com/track/0GZ8R0eTY4hveRXPcg0lJ4) |
