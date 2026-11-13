@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-12 22:51:37 +0100<br>**JSON-Status:** 2026-11-12 22:51:37 +0100</small>
+<small>**Compile-Datum:** 2026-11-13 19:49:21 +0100<br>**JSON-Status:** 2026-11-13 19:49:21 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -223,6 +223,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Vatican Shadow | Persian Pillars of the Gasoline Era | X | [link](https://www.youtube.com/watch?v=6KvTK-Ee6b8) | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Ministry | Rio Grande Blood | X | — | — |
 | [576](https://gadg.fm/576) | Die D'Arcy-Konzession und die Anfänge des Erdölzeitalters | Skyclad | Salt On The Earth (Another Man's Poison) | X | — | — |
+| [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Alice Cooper | Refrigerator Heaven | X | [link](https://www.youtube.com/watch?v=eCunM-apXRE) | [link](https://open.spotify.com/track/03Uz7MChe5y0ZXXx6AII7k) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Embryo | Ibn Battuta | X | [link](https://www.youtube.com/watch?v=Pm6Kg1bGq9c) | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Nightwish | Sleeping Sun | X | [link](https://www.youtube.com/watch?v=UGfKMV5AbMI) | [link](https://open.spotify.com/track/2xPQjEJca0tRpvNxj0RP0f) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Schandmaul | Tjark Evers | X | [link](https://www.youtube.com/watch?v=lV2ml_5qROo) | [link](https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ) |
@@ -230,5 +231,8 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Thule | La Jamais Contente | X | — | — |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Herman's Hermits | No Milk Today | X | — | [link](https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Eisenschwein | Verbleite Zeit | X | — | — |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Blàr na h-Eaglaise Brice | X | [link](https://www.youtube.com/watch?v=JZaw4gjxt2c) | [link](https://open.spotify.com/track/0CvVbVeYQk5aPPjtC0enin) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Flora MacDonald | X | [link](https://www.youtube.com/watch?v=65kfWuyE-ds) | [link](https://open.spotify.com/track/18unvdmGsjZSzRKJwIJ3Ec) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Steeleye Span | Prince Charlie Stuart | X | [link](https://www.youtube.com/watch?v=1U1C-CGaaqs) | [link](https://open.spotify.com/track/0hSEM5WDjY1DeG7j26oYx5) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Will Ye No Come Back Again | X | [link](https://www.youtube.com/watch?v=YZ8nf94MlDg) | [link](https://open.spotify.com/track/6dNyeEFspeF6aV7oG0a33A) |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Nuummite | Bicycle Day | X | [link](https://www.youtube.com/watch?v=xwtZcS1l7F8) | [link](https://open.spotify.com/track/0GZ8R0eTY4hveRXPcg0lJ4) |

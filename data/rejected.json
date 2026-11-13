@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12 22:51:37 +0100",
+  "updatedAt": "2026-11-13 19:49:21 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1472,6 +1472,13 @@
       "rejectedAt": "2026-10-07"
     },
     {
+      "episodeId": 577,
+      "songId": "alice-cooper-refrigerator-heaven",
+      "reason": "Folge = Geschichte des Haushaltskühlschranks / Lebensmittelkühlung; Song = Kryonik („cure for cancer“, Körper im Eisgrab / „Refrigerator Heaven“) — nur Kühl-/Kälte-Stichwort, anderer Gegenstand (Tier X).",
+      "rejectedAt": "2026-11-13",
+      "rejectedBy": "manual"
+    },
+    {
       "episodeId": 578,
       "songId": "embryo-ibn-battuta",
       "reason": "Folge = Ibn Battuta (Hörbuch-Hälfte #578); Song = gleichnamiges Instrumental ohne belegten Erzählkern — bei Metal wäre Tier C (Titel-Widmung). Genre = Jazz Fusion / World / Ethno-Krautrock, kein Rock/Metal (Tier X).",
@@ -1518,6 +1525,27 @@
       "songId": "thule-la-jamais-contente",
       "reason": "Folge = Elektromobilität um 1900 inkl. Elektro-Geschwindigkeitsrekord (Jenatzy / La Jamais Contente); Song/EP = Thule „La Jamais Contente“ (Titel-Hommage, Tracks ohne belegten Jenatzy-Erzählkern) — bei Metal wäre Tier C. Genre = Industrial Electronic / Experimental Electronica, kein Rock/Metal (Tier X).",
       "rejectedAt": "2026-10-29",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "songId": "cnoc-an-tursa-blar-na-h-eaglaise-brice",
+      "reason": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden; Song = instrumentales Stück zur Schlacht von Falkirk (Jan. 1746, gleicher Rising; Gaelic-Titel) — gemeinsamer Rising-Rahmen (bei Metal wäre Tier B). Genre = Folk / Bagpipe-Instrumental (Album-Outro), kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-13",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "songId": "cnoc-an-tursa-flora-macdonald",
+      "reason": "Folge = Charlie-Flucht und kulturelle Nachwirkung nach Culloden; Song = instrumentales Interlude „Flora MacDonald“ (Helferin der Skye-Flucht) — assoziative Nähe (bei Metal wäre Tier C). Genre = Ambient / Folk-Instrumental (Album-Interlude), kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-13",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "songId": "cnoc-an-tursa-will-ye-no-come-back-again",
+      "reason": "Folge = Charlie nach Culloden / kulturelle Nachwirkung; Song = instrumentales Intro zum Jakobiten-Abschiedslied (Titelbezug, Dudelsack/Orchester) — assoziative Nähe (bei Metal wäre Tier C). Genre = Orchestral / Bagpipe-Intro (Album-Intro), kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-13",
       "rejectedBy": "manual"
     },
     {

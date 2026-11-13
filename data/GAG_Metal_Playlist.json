@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12 22:50:36 +0100",
+  "updatedAt": "2026-11-13 19:44:15 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -4247,6 +4247,145 @@
       "episodeId": 580,
       "episodeTitle": "Die Schlacht bei Culloden",
       "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-culloden-moor",
+      "band": "Cnoc An Tursa",
+      "songTitle": "Culloden Moor",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht bei Culloden 1746 und Folgen für Clans/Highlands sowie spätere Wahrnehmung; Song = Metal-Vertonung des Gedichts „Culloden Moor (Seen in Autumn Rain)“ (Alice Macdonell): Trauer auf dem Schlachtfeld, „broken, weary band“ vs. „ruthless foe“, Heldengrab und Gedenken — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Schlacht bei Culloden",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4bWlZiwmXBzaOL9udTB2t9",
+      "youtubeUrl": "https://www.youtube.com/watch?v=L9m_m0y_FZI",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-fuigheall",
+      "band": "Cnoc An Tursa",
+      "songTitle": "Fuigheall",
+      "matchTier": "B",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen; Song = gälisches „Fuigheall“ (Remnant): Erinnerung an Prestonpans/John Cope und Aufruf des Restheers zum „last attempt“ für Prince Charles gegen King George — gemeinsamer Rising-Rahmen, Fokus früher Sieg/letzte Mobilisierung statt Culloden-Schlacht (Tier B).",
+      "sharedEntities": [
+        "Prestonpans",
+        "Prince Charles Stuart",
+        "King George",
+        "Jakobitenaufstand 1745"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-sound-the-pibroch",
+      "band": "Cnoc An Tursa",
+      "songTitle": "Sound the Pibroch",
+      "matchTier": "A",
+      "justification": "Folge = Aufstand 1745/46, Culloden und Folgen für Highlands; Song = Jakobiten-Aufruf bei Loch Shiel/Charlie und Schlussklage um die Toten („lonely cairns“, verlassene Highland glens, „fought and died for Charlie“) — derselbe Rising-Bogen inkl. Nachspiel (Tier A).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Loch Shiel",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/74gMBtThAbJ0fHzBxVfFc3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dzFcpCDM7rk",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-the-last-of-the-stuarts",
+      "band": "Cnoc An Tursa",
+      "songTitle": "The Last of the Stuarts",
+      "matchTier": "A",
+      "justification": "Folge = ’45er Rising, Culloden und Ende der Stuart-Hoffnung sowie spätere Wahrnehmung; Song = Vertonung der Jakobiten-Ballade (Daniel Weir): Stuart-Linie erloschen, Hoffnungen „wreck’d when Culloden was won“, Grab des Thronerben in der Fremde — derselbe Kern Culloden als Siegel des Stuart-Endes (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Stuart",
+        "Jakobitenaufstand 1745",
+        "Bonnie Prince Charlie"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZaiCPDU_S0w",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-the-standard-on-the-braes-omar",
+      "band": "Cnoc An Tursa",
+      "songTitle": "The Standard on the Braes o'Mar",
+      "matchTier": "B",
+      "justification": "Folge = ’45er Rising / Culloden; Song = Banner auf den Braes o’ Mar (traditionell 1715 / „Jammie“) mit Charlie-/Clans-Aufruf — gemeinsamer Jakobiten-Rahmen, anderer Aufstand/Ort (Tier B).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Braes o'Mar",
+        "Jakobitenaufstand",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6CPO5QMaiW489gzow0cugw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BoqgJPzIoW4",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-the-yellow-locks-of-charlie",
+      "band": "Cnoc An Tursa",
+      "songTitle": "The Yellow Locks of Charlie",
+      "matchTier": "B",
+      "justification": "Folge = Bonnie Prince Charlie / Jakobitenaufstand 1745/46 mit Endpunkt Culloden; Song = Clans-Aufruf für royal Charlie und die Krone („yellow locks o’ Charlie“) — gemeinsamer Rising/Charlie-Rahmen, kein Culloden-Schlachtfokus (Tier B).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2qBYeuCyHLSieI7Ex2ntaM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_V022xlHgBI",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-wha-wadna-fecht-for-charlie",
+      "band": "Cnoc An Tursa",
+      "songTitle": "Wha Wadna Fecht for Charlie",
+      "matchTier": "B",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden; Song = Rally-Song für Prince Charlie (Glengarry, Lochiel, Banner, „wha wadna fecht“) — gemeinsamer Rising-Rahmen, anderer Fokus (Aufruf statt Culloden) (Tier B).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Lochiel",
+        "Glengarry",
+        "Jakobitenaufstand 1745"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5oZBsU3Zu5Y6ldagrTbBoh",
+      "youtubeUrl": "https://www.youtube.com/watch?v=napEXYkFEaU",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
       "songId": "culloden-hills-of-culloden",
       "band": "Culloden",
       "songTitle": "Hills of Culloden",
@@ -4530,24 +4669,6 @@
       "episodeId": 581,
       "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
       "episodeUrl": "https://gadg.fm/581",
-      "songId": "svininiai-sarvai-mk-ultra",
-      "band": "Švininiai Šarvai",
-      "songTitle": "MK Ultra",
-      "matchTier": "B",
-      "justification": "Folge = CIA / Gottlieb und Interesse an LSD sowie psychoaktiven Pilzen (MKUltra); Song = Mind-Control-Horror unter dem Titel MK Ultra (Halluzination, Gedankenlöschen, vernichtete Beweise) — gemeinsamer Rahmen Programm, anderer Fokus (Tier B).",
-      "sharedEntities": [
-        "MKUltra",
-        "CIA"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
-      "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
-      "matchedAt": "2026-11-12",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 581,
-      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
-      "episodeUrl": "https://gadg.fm/581",
       "songId": "the-sun-through-a-telescope-bicycle-day",
       "band": "The Sun Through a Telescope",
       "songTitle": "Bicycle Day",
@@ -4579,6 +4700,24 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
       "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "svininiai-sarvai-mk-ultra",
+      "band": "Švininiai Šarvai",
+      "songTitle": "MK Ultra",
+      "matchTier": "B",
+      "justification": "Folge = CIA / Gottlieb und Interesse an LSD sowie psychoaktiven Pilzen (MKUltra); Song = Mind-Control-Horror unter dem Titel MK Ultra (Halluzination, Gedankenlöschen, vernichtete Beweise) — gemeinsamer Rahmen Programm, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "MKUltra",
+        "CIA"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     }
