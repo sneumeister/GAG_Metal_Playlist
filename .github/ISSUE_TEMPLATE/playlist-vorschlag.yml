@@ -40,7 +40,7 @@ body:
     id: links
     attributes:
       label: Links
-      description: "Optional: Spotify, YouTube, Wiki, offizielle Song-Infos."
+      description: "Optional: Spotify, YouTube, Bandcamp, Wiki, offizielle Song-Infos."
     validations:
       required: false
   - type: dropdown

@@ -48,7 +48,7 @@ declare(strict_types=1);
         </label>
         <label class="field">
           <span class="label">Links</span>
-          <textarea name="links" rows="2" maxlength="2000" placeholder="Optional: Spotify, YouTube, Wiki …"></textarea>
+          <textarea name="links" rows="2" maxlength="2000" placeholder="Optional: Spotify, YouTube, Bandcamp, Wiki …"></textarea>
         </label>
         <label class="field">
           <span class="label">Vermutete Stufe</span>
@@ -75,7 +75,7 @@ declare(strict_types=1);
             <option>Falsche Folge zugeordnet</option>
             <option>Matching zu schwach oder falsch</option>
             <option>Stufe A/B/C anpassen oder auf Reject setzen</option>
-            <option>Link kaputt oder falsch (Spotify/YouTube)</option>
+            <option>Link kaputt oder falsch (Spotify/YouTube/Bandcamp)</option>
             <option>Eintrag sollte entfernt werden</option>
             <option>Sonstiges</option>
           </select>

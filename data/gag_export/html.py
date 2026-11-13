@@ -47,6 +47,7 @@ def _payload_rows(entries: list) -> list[dict]:
                 "justification": e.get("justification") or "",
                 "youtubeUrl": link_or_empty(e.get("youtubeUrl")),
                 "spotifyUrl": link_or_empty(e.get("spotifyUrl")),
+                "bandcampUrl": link_or_empty(e.get("bandcampUrl")),
             }
         )
     return payload
@@ -64,7 +65,7 @@ def _render_page(
     table_id: str,
 ) -> str:
     data_json = json.dumps(_payload_rows(entries), ensure_ascii=False).replace("</", "<\\/")
-    col_count = 7
+    col_count = 8
 
     return f"""<!DOCTYPE html>
 <html lang="de">
@@ -124,14 +125,14 @@ table {{
   width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
-  min-width: 720px;
+  min-width: 860px;
 }}
-col.col-folge {{ width: 4.5rem; }}
-col.col-episode {{ width: 28%; }}
-col.col-band {{ width: 16%; }}
-col.col-song {{ width: 22%; }}
-col.col-stufe {{ width: 4.75rem; }}
-col.col-link {{ width: 5rem; }}
+col.col-folge {{ width: 6%; }}
+col.col-episode {{ width: 26%; }}
+col.col-band {{ width: 15%; }}
+col.col-song {{ width: 20%; }}
+col.col-stufe {{ width: 7%; }}
+col.col-link {{ width: 8.667%; }}
 th, td {{
   padding: 0.55rem 0.7rem;
   border-bottom: 1px solid var(--line);
@@ -158,7 +159,7 @@ th .arrow {{
   font-size: 0.85em;
 }}
 td.folge {{
-  text-align: right;
+  text-align: center;
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }}
@@ -173,11 +174,15 @@ a {{
 }}
 a:hover {{ text-decoration: underline; }}
 .links {{
-  text-align: center;
   white-space: nowrap;
 }}
-td.stufe {{
+th.col-center,
+td.folge,
+td.stufe,
+td.links {{
   text-align: center;
+}}
+td.stufe {{
   white-space: nowrap;
 }}
 button.stufe-btn {{
@@ -296,25 +301,28 @@ th.filter-cell input::placeholder {{
         <col class="col-stufe">
         <col class="col-link">
         <col class="col-link">
+        <col class="col-link">
       </colgroup>
       <thead>
         <tr class="filter-row">
-          <th class="filter-cell"><input type="search" data-key="episodeId" placeholder="Filter…" aria-label="Folge filtern"></th>
+          <th class="filter-cell col-center"><input type="search" data-key="episodeId" placeholder="Filter…" aria-label="Folge filtern"></th>
           <th class="filter-cell"><input type="search" data-key="episodeTitle" placeholder="Filter…" aria-label="Folgentitel filtern"></th>
           <th class="filter-cell"><input type="search" data-key="band" placeholder="Filter…" aria-label="Band filtern"></th>
           <th class="filter-cell"><input type="search" data-key="songTitle" placeholder="Filter…" aria-label="Song Titel filtern"></th>
-          <th class="filter-cell"><input type="search" data-key="matchTier" placeholder="Filter…" aria-label="Stufe filtern"></th>
-          <th class="filter-cell"></th>
-          <th class="filter-cell"></th>
+          <th class="filter-cell col-center"><input type="search" data-key="matchTier" placeholder="Filter…" aria-label="Stufe filtern"></th>
+          <th class="filter-cell col-center"></th>
+          <th class="filter-cell col-center"></th>
+          <th class="filter-cell col-center"></th>
         </tr>
         <tr>
-          <th class="sortable" data-key="episodeId" data-type="number">Folge<span class="arrow"></span></th>
+          <th class="sortable col-center" data-key="episodeId" data-type="number">Folge<span class="arrow"></span></th>
           <th class="sortable" data-key="episodeTitle" data-type="string">Folgentitel<span class="arrow"></span></th>
           <th class="sortable" data-key="band" data-type="string">Band<span class="arrow"></span></th>
           <th class="sortable" data-key="songTitle" data-type="string">Song Titel<span class="arrow"></span></th>
-          <th class="sortable" data-key="matchTier" data-type="string">Stufe<span class="arrow"></span></th>
-          <th>YouTube</th>
-          <th>Spotify</th>
+          <th class="sortable col-center" data-key="matchTier" data-type="string">Stufe<span class="arrow"></span></th>
+          <th class="col-center">YouTube</th>
+          <th class="col-center">Spotify</th>
+          <th class="col-center">Bandcamp</th>
         </tr>
       </thead>
       <tbody></tbody>
@@ -429,6 +437,12 @@ th.filter-cell input::placeholder {{
       const sp = linkCell(r.spotifyUrl, "link");
       if (typeof sp === "string") tdSp.textContent = sp; else tdSp.appendChild(sp);
       tr.appendChild(tdSp);
+
+      const tdBc = document.createElement("td");
+      tdBc.className = "links";
+      const bc = linkCell(r.bandcampUrl, "link");
+      if (typeof bc === "string") tdBc.textContent = bc; else tdBc.appendChild(bc);
+      tr.appendChild(tdBc);
 
       tbody.appendChild(tr);
       tbody.appendChild(detail);

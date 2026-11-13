@@ -14,6 +14,7 @@
     "era": "1916 / 2025",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=n-QDGBnCqoQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -39,6 +40,7 @@
     "era": "Gegenwart",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://247divaheaven.bandcamp.com/track/rat-race",
     "sources": [
       {
         "type": "bandcamp",
@@ -66,6 +68,7 @@
     "era": "312 / 2013",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://abikyokan.bandcamp.com/track/maxentius",
     "sources": [
       {
         "type": "bandcamp",
@@ -91,6 +94,7 @@
     "era": "spätes 20. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -112,6 +116,7 @@
     "era": "1816",
     "spotifyUrl": "https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq",
     "youtubeUrl": "https://www.youtube.com/watch?v=iEwdGd7Ywwg",
+    "bandcampUrl": "https://aephanemer.bandcamp.com/album/a-dream-of-wilderness",
     "sources": [
       {
         "type": "lyrics",
@@ -149,6 +154,7 @@
     "era": "-14. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
     "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+    "bandcampUrl": "https://aeternam.bandcamp.com/track/goddess-of-masr",
     "sources": [
       {
         "type": "lyrics",
@@ -175,6 +181,7 @@
     "era": "1820 / 2009",
     "spotifyUrl": "https://open.spotify.com/track/1o1GYjSAnLHH9rrLMJHwWl",
     "youtubeUrl": "https://www.youtube.com/watch?v=vkiu0cWboyc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -206,6 +213,7 @@
     "era": "1820",
     "spotifyUrl": "https://open.spotify.com/track/0VrirvyOumorZl8xpstTMs",
     "youtubeUrl": "https://www.youtube.com/watch?v=RGlTIMDGOEc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -237,6 +245,7 @@
     "era": "1904",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=dSDX1FGEk84",
+    "bandcampUrl": "https://alduvall.bandcamp.com/track/the-wreck-of-the-general-slocum",
     "sources": [
       {
         "type": "band",
@@ -262,6 +271,7 @@
     "era": "1519–1522",
     "spotifyUrl": "https://open.spotify.com/track/3zvrVQ5QOuXf1JEVPAEYOW",
     "youtubeUrl": "https://www.youtube.com/watch?v=gsHmOb36-Js",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -281,6 +291,7 @@
     "era": "1970",
     "spotifyUrl": "https://open.spotify.com/track/03Uz7MChe5y0ZXXx6AII7k",
     "youtubeUrl": "https://www.youtube.com/watch?v=eCunM-apXRE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -311,6 +322,7 @@
     "era": "um 1730er (BWV 1052) / 2020",
     "spotifyUrl": "https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i",
     "youtubeUrl": "https://www.youtube.com/watch?v=_EtcIrkG8FA",
+    "bandcampUrl": "https://allegaeon.bandcamp.com/track/concerto-in-dm",
     "sources": [
       {
         "type": "bandcamp",
@@ -341,6 +353,7 @@
     "era": "16. Jh. / Kleist 1810",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://mindonfireproduktionen.bandcamp.com/track/schwefelfaden-michael-kohlhaas",
     "sources": [
       {
         "type": "bandcamp",
@@ -368,6 +381,7 @@
     "era": "um 1801–1810 / 1775–1844",
     "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
     "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -393,6 +407,7 @@
     "era": "1066 / 2019",
     "spotifyUrl": "https://open.spotify.com/track/37CcwaEZkAZdwA1GxDYKxf",
     "youtubeUrl": "https://www.youtube.com/watch?v=sMPGEpvU_5o",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -416,6 +431,7 @@
     "era": "10.–11. Jh. / 2008",
     "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
     "youtubeUrl": "https://www.youtube.com/watch?v=9wo6lNn4KVE",
+    "bandcampUrl": "https://amonamarth.bandcamp.com/track/varyags-of-miklagaard",
     "sources": [
       {
         "type": "lyrics",
@@ -441,6 +457,7 @@
     "era": "1307–1314",
     "spotifyUrl": "https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu",
     "youtubeUrl": "https://www.youtube.com/watch?v=3hL5cjgjZqY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -467,6 +484,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
     "youtubeUrl": "https://www.youtube.com/watch?v=4GX2lMmsZq8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -495,6 +513,7 @@
     "era": "Mittelalter / Legende",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://anmlcollectve.bandcamp.com/track/prester-john",
     "sources": [
       {
         "type": "bandcamp",
@@ -515,6 +534,7 @@
     "era": null,
     "spotifyUrl": "https://open.spotify.com/track/4078UGOgKIRJCz7GUqW8BR",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -538,6 +558,7 @@
     "era": "16. Jh. / 2026",
     "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
     "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY",
+    "bandcampUrl": "https://artofpropaganda.bandcamp.com/album/expedition-iii-renitenzpfad",
     "sources": [
       {
         "type": "bandcamp",
@@ -566,6 +587,7 @@
     "era": "1845–1848",
     "spotifyUrl": "https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk",
     "youtubeUrl": "https://www.youtube.com/watch?v=NUOy8idWfxw",
+    "bandcampUrl": "https://antrisch.bandcamp.com/track/i-festgefroren-packeisfalle",
     "sources": [
       {
         "type": "secondary",
@@ -593,6 +615,7 @@
     "era": "1845–1848",
     "spotifyUrl": "https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9",
     "youtubeUrl": "https://www.youtube.com/watch?v=1ZD-_KLSSKg",
+    "bandcampUrl": "https://antrisch.bandcamp.com/album/expedition-ii-die-passage",
     "sources": [
       {
         "type": "bandcamp",
@@ -621,6 +644,7 @@
     "era": "2017 (Metal-Kultur)",
     "spotifyUrl": "https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s",
     "youtubeUrl": "https://www.youtube.com/watch?v=mjF1rmSV1dM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "interview",
@@ -647,6 +671,7 @@
     "era": "21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -673,6 +698,7 @@
     "era": "6. Jh. v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt",
     "youtubeUrl": "https://www.youtube.com/watch?v=au4lTYwErDc",
+    "bandcampUrl": "https://arsames.bandcamp.com/album/immortal-identity",
     "sources": [
       {
         "type": "bandcamp",
@@ -705,6 +731,7 @@
     "era": "18. Jh. / 2018",
     "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
     "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -734,6 +761,7 @@
     "era": "1991",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -754,6 +782,7 @@
     "era": "1938–1986 / 2012",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://attilathestockbroker.bandcamp.com/album/bankers-looters-2012-with-barnstormer",
     "sources": [
       {
         "type": "lyrics",
@@ -779,6 +808,7 @@
     "era": "1860–1861 / 1983",
     "spotifyUrl": "https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC",
     "youtubeUrl": "https://www.youtube.com/watch?v=w_U-jjGhLmU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -802,6 +832,7 @@
     "era": "2002",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=ci7n4_3Gk2Q",
+    "bandcampUrl": "https://cremeorganization.bandcamp.com/track/junge-dame-mit-freundliche-tel",
     "sources": [
       {
         "type": "bandcamp",
@@ -828,6 +859,7 @@
     "era": "1801–1810 / 2024",
     "spotifyUrl": "https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI",
     "youtubeUrl": "https://www.youtube.com/watch?v=GG14Geys7uY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -853,6 +885,7 @@
     "era": "1204",
     "spotifyUrl": "https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM",
     "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
+    "bandcampUrl": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
     "sources": [
       {
         "type": "lyrics",
@@ -872,6 +905,7 @@
     "era": "2025",
     "spotifyUrl": "https://besna.bandcamp.com/track/paracelsus",
     "youtubeUrl": "https://www.youtube.com/watch?v=2IdHtXV36B0",
+    "bandcampUrl": "https://besna.bandcamp.com/track/paracelsus",
     "sources": [
       {
         "type": "bandcamp",
@@ -897,6 +931,7 @@
     "era": "Byzanz / frühes Mittelalter",
     "spotifyUrl": "https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt",
     "youtubeUrl": "https://www.youtube.com/watch?v=bYMfPY6ZVmU",
+    "bandcampUrl": "https://cruzdelsurmusic.bandcamp.com/album/freedom-metal",
     "sources": [
       {
         "type": "lyrics",
@@ -928,6 +963,7 @@
     "era": "1984",
     "spotifyUrl": "https://open.spotify.com/track/0v6Ho2YM7QQ7QaaZSnLwyJ",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -951,6 +987,7 @@
     "era": "1987 (Saxophon-Einsatz)",
     "spotifyUrl": "https://open.spotify.com/track/77JrHaXsxcufEjh5mfMmR3",
     "youtubeUrl": "https://youtu.be/I6mLrmcIbck",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -977,6 +1014,7 @@
     "era": "1628",
     "spotifyUrl": "https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv",
     "youtubeUrl": "https://www.youtube.com/watch?v=gp2mokffolk",
+    "bandcampUrl": "https://blazonstone.bandcamp.com/album/return-to-port-royal-definitive-edition",
     "sources": [
       {
         "type": "lyrics",
@@ -1001,6 +1039,7 @@
     "era": "1992",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -1022,6 +1061,7 @@
     "era": "1202–1204",
     "spotifyUrl": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
     "youtubeUrl": "https://www.youtube.com/watch?v=4GPFduVKuEg",
+    "bandcampUrl": "https://bolt-thrower.bandcamp.com/track/the-ivth-crusade",
     "sources": [
       {
         "type": "lyrics",
@@ -1045,6 +1085,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/7Kjvta0k7JUZTzIWuM8gxg",
     "youtubeUrl": "https://www.youtube.com/watch?v=51sdrAx5cTY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -1063,6 +1104,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/3f9qR5TR8UveWhhfI24FT1",
     "youtubeUrl": "https://www.youtube.com/watch?v=QvR99n2CeW8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -1083,6 +1125,7 @@
     "era": "1782",
     "spotifyUrl": "https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1",
     "youtubeUrl": "https://www.youtube.com/watch?v=840vcVzth-0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "news",
@@ -1103,6 +1146,7 @@
     "era": "1439",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -1122,6 +1166,7 @@
     "era": "1611",
     "spotifyUrl": "https://open.spotify.com/track/41OMSBMxZN2DWUFTpjw8pf",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -1150,6 +1195,7 @@
     "era": "17. Jh. / 1990",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=mEeItvbRFIo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1177,6 +1223,7 @@
     "era": "1910–1914",
     "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
     "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1203,6 +1250,7 @@
     "era": "1804",
     "spotifyUrl": "https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZgKll_1JgPQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "news",
@@ -1224,6 +1272,7 @@
     "era": "9. Jh. / 2015",
     "spotifyUrl": "https://open.spotify.com/track/7LaSBbnuCojlS87Yvo3fOz",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1249,6 +1298,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/0CvVbVeYQk5aPPjtC0enin",
     "youtubeUrl": "https://www.youtube.com/watch?v=JZaw4gjxt2c",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "encyclopedia",
@@ -1285,6 +1335,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/4bWlZiwmXBzaOL9udTB2t9",
     "youtubeUrl": "https://www.youtube.com/watch?v=L9m_m0y_FZI",
+    "bandcampUrl": "https://candlelightrecordsuk.bandcamp.com/album/the-giants-of-auld",
     "sources": [
       {
         "type": "lyrics",
@@ -1320,6 +1371,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/18unvdmGsjZSzRKJwIJ3Ec",
     "youtubeUrl": "https://www.youtube.com/watch?v=65kfWuyE-ds",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
     "sources": [
       {
         "type": "review",
@@ -1356,6 +1408,7 @@
     "era": "1745",
     "spotifyUrl": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
     "youtubeUrl": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
     "sources": [
       {
         "type": "lyrics",
@@ -1392,6 +1445,7 @@
     "era": "1745",
     "spotifyUrl": "https://open.spotify.com/track/74gMBtThAbJ0fHzBxVfFc3",
     "youtubeUrl": "https://www.youtube.com/watch?v=dzFcpCDM7rk",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
     "sources": [
       {
         "type": "lyrics",
@@ -1428,6 +1482,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZaiCPDU_S0w",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/track/the-last-of-the-stuarts",
     "sources": [
       {
         "type": "lyrics",
@@ -1464,6 +1519,7 @@
     "era": "1715 / 1745",
     "spotifyUrl": "https://open.spotify.com/track/6CPO5QMaiW489gzow0cugw",
     "youtubeUrl": "https://www.youtube.com/watch?v=BoqgJPzIoW4",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
     "sources": [
       {
         "type": "lyrics",
@@ -1499,6 +1555,7 @@
     "era": "1745",
     "spotifyUrl": "https://open.spotify.com/track/2qBYeuCyHLSieI7Ex2ntaM",
     "youtubeUrl": "https://www.youtube.com/watch?v=_V022xlHgBI",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
     "sources": [
       {
         "type": "lyrics",
@@ -1540,6 +1597,7 @@
     "era": "1745",
     "spotifyUrl": "https://open.spotify.com/track/5oZBsU3Zu5Y6ldagrTbBoh",
     "youtubeUrl": "https://www.youtube.com/watch?v=napEXYkFEaU",
+    "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
     "sources": [
       {
         "type": "lyrics",
@@ -1574,6 +1632,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/6dNyeEFspeF6aV7oG0a33A",
     "youtubeUrl": "https://www.youtube.com/watch?v=YZ8nf94MlDg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "review",
@@ -1609,6 +1668,7 @@
     "era": "1853–1870",
     "spotifyUrl": "https://open.spotify.com/track/5fln0fmz7vPMgNMhacHV7Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=xM3b3ybzV4c",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1644,6 +1704,7 @@
     "era": "401 v. Chr. / 2005",
     "spotifyUrl": "https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR",
     "youtubeUrl": "https://www.youtube.com/watch?v=-OXnxnbJk_g",
+    "bandcampUrl": "https://countessmetal.bandcamp.com/album/spawn-of-steel",
     "sources": [
       {
         "type": "band",
@@ -1673,6 +1734,7 @@
     "era": "2019",
     "spotifyUrl": "https://open.spotify.com/track/30xlMqLEdEiWEhIMmoJagP",
     "youtubeUrl": "https://www.youtube.com/watch?v=GMKDWEcIfRE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1700,6 +1762,7 @@
     "era": "16. Jh. / 2014",
     "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
     "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k",
+    "bandcampUrl": "https://cruachan1.bandcamp.com/track/the-sea-queen-of-connaught",
     "sources": [
       {
         "type": "lyrics",
@@ -1729,6 +1792,7 @@
     "era": "2017",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://theapollyongroup.bandcamp.com/track/ulfberht",
     "sources": [
       {
         "type": "bandcamp",
@@ -1756,6 +1820,7 @@
     "era": "1815",
     "spotifyUrl": "https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM",
     "youtubeUrl": "https://www.youtube.com/watch?v=AeRLXiYmt_c",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1783,6 +1848,7 @@
     "era": "1815",
     "spotifyUrl": "https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD",
     "youtubeUrl": "https://www.youtube.com/watch?v=ywesScaX3lc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1810,6 +1876,7 @@
     "era": "1187",
     "spotifyUrl": "https://open.spotify.com/track/7IyFwmtXCiAsdwMcuX09Vq",
     "youtubeUrl": "https://www.youtube.com/watch?v=lDe4nu79Fgo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1837,6 +1904,7 @@
     "era": "1815 / 2009",
     "spotifyUrl": "https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1862,6 +1930,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
     "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
+    "bandcampUrl": "https://cullodenuk.bandcamp.com/album/witchpricker",
     "sources": [
       {
         "type": "review",
@@ -1891,6 +1960,7 @@
     "era": "480 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB",
     "youtubeUrl": "https://www.youtube.com/watch?v=SyK0JF5j6p4",
+    "bandcampUrl": "https://cullodenuk.bandcamp.com/album/the-2023-demos",
     "sources": [
       {
         "type": "bandcamp",
@@ -1920,6 +1990,7 @@
     "era": "1492",
     "spotifyUrl": "https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=IeqHGDjmD0g",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1947,6 +2018,7 @@
     "era": "1920er / Houdini 1874–1926",
     "spotifyUrl": "https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK",
     "youtubeUrl": "https://www.youtube.com/watch?v=OYfdXL7sKVI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -1977,6 +2049,7 @@
     "era": "um 1803",
     "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
     "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2015,6 +2088,7 @@
     "era": "1953–1973 / 2017",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=6cv7ErQQ0b4",
+    "bandcampUrl": "https://wearedawnpatrol.bandcamp.com/album/chemical-lobotomy-mk-ultra",
     "sources": [
       {
         "type": "bandcamp",
@@ -2042,6 +2116,7 @@
     "era": "1910 / 1998",
     "spotifyUrl": "https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d",
     "youtubeUrl": "https://www.youtube.com/watch?v=-2w6yQPDFPM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -2070,6 +2145,7 @@
     "era": "260 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF",
     "youtubeUrl": "https://www.youtube.com/watch?v=XJabWzbLoIg",
+    "bandcampUrl": "https://deos-official.bandcamp.com/track/09-mylae",
     "sources": [
       {
         "type": "secondary",
@@ -2104,6 +2180,7 @@
     "era": "532 / 2020",
     "spotifyUrl": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
     "youtubeUrl": null,
+    "bandcampUrl": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
     "sources": [
       {
         "type": "bandcamp",
@@ -2128,6 +2205,7 @@
     "era": "1524–1526 / 1977",
     "spotifyUrl": "https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi",
     "youtubeUrl": "https://www.youtube.com/watch?v=EQHL0ZL8peM",
+    "bandcampUrl": "https://prolos.bandcamp.com/album/lieder-aus-der-proletenpassion",
     "sources": [
       {
         "type": "wikipedia",
@@ -2154,6 +2232,7 @@
     "era": "1525",
     "spotifyUrl": "https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR",
     "youtubeUrl": "https://www.youtube.com/watch?v=J7uHye4hU1M",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2179,6 +2258,7 @@
     "era": "1520 (Erzählrahmen)",
     "spotifyUrl": "https://open.spotify.com/track/1SzS4YpXr70ob5A4f1BtUv",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -2201,6 +2281,7 @@
     "era": "15.–16. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=IzT-MlXlmVc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2227,6 +2308,7 @@
     "era": "18. Jh. (Casanova) / 2016",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://eisenschwein.bandcamp.com/album/eisenschwein-demo-cd-2016",
     "sources": [
       {
         "type": "lyrics",
@@ -2253,6 +2335,7 @@
     "era": "1955–1985 / 1989",
     "spotifyUrl": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ker4RZ9g8pA",
+    "bandcampUrl": "https://eltri.bandcamp.com/track/maria-sabina",
     "sources": [
       {
         "type": "lyrics",
@@ -2278,6 +2361,7 @@
     "era": "1956 / 1973",
     "spotifyUrl": "https://open.spotify.com/track/0UnR8nWskCt0BgfvypzaDl",
     "youtubeUrl": "https://www.youtube.com/watch?v=c84FY_y8PYs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -2302,6 +2386,7 @@
     "era": "2017",
     "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
     "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -2325,6 +2410,7 @@
     "era": "15. Jh. (Titelbezug)",
     "spotifyUrl": "https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq",
     "youtubeUrl": "https://www.youtube.com/watch?v=y8DB-MpxMTs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -2353,6 +2439,7 @@
     "era": "14. Jh. / 1994",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Pm6Kg1bGq9c",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -2384,6 +2471,7 @@
     "era": "1863 / 2023",
     "spotifyUrl": "https://open.spotify.com/track/1vQuvrJEJb89z3o91UKznT",
     "youtubeUrl": "https://www.youtube.com/watch?v=wp28LJzMN4Y",
+    "bandcampUrl": "https://englishmajors.bandcamp.com/track/vin-mariani",
     "sources": [
       {
         "type": "lyrics",
@@ -2409,6 +2497,7 @@
     "era": "1900",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -2430,6 +2519,7 @@
     "era": "1670er/1680er",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2455,6 +2545,7 @@
     "era": "14. Jh. / 2020",
     "spotifyUrl": "https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt",
     "youtubeUrl": "https://www.youtube.com/watch?v=elzcvzBDHpU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -2485,6 +2576,7 @@
     "era": "20./21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=lvLpXdF1yAE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2517,6 +2609,7 @@
     "era": "1947 / 1990",
     "spotifyUrl": "https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry",
     "youtubeUrl": "https://www.youtube.com/watch?v=1IIittOtGZA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -2544,6 +2637,7 @@
     "era": "202 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
     "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/ad-victoriam-the-battle-of-zama",
     "sources": [
       {
         "type": "lyrics",
@@ -2570,6 +2664,7 @@
     "era": "2.–1. Jh. v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/2CQ3c7uYXCAvaTaPV6Ul1z",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2597,6 +2692,7 @@
     "era": "218 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
     "youtubeUrl": "https://www.youtube.com/watch?v=96hIqTCmqbY",
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/crossing-of-the-alps",
     "sources": [
       {
         "type": "lyrics",
@@ -2624,6 +2720,7 @@
     "era": "219 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
     "youtubeUrl": "https://www.youtube.com/watch?v=hA9BbIKxx1w",
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/hispania-siege-of-saguntum",
     "sources": [
       {
         "type": "lyrics",
@@ -2649,6 +2746,7 @@
     "era": "54 n. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b",
     "youtubeUrl": "https://www.youtube.com/watch?v=GLjmLlsBl9M",
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/the-fall-of-claudius",
     "sources": [
       {
         "type": "lyrics",
@@ -2676,6 +2774,7 @@
     "era": "31 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb",
     "youtubeUrl": "https://www.youtube.com/watch?v=qcfaltp8CL0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2701,6 +2800,7 @@
     "era": "59 n. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/5CFIglXbK4LzP7dzoKQ8PE",
     "youtubeUrl": "https://www.youtube.com/watch?v=VIHssqJ8Aho",
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/the-head-of-the-snake",
     "sources": [
       {
         "type": "lyrics",
@@ -2722,6 +2822,7 @@
     "era": "237 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
     "youtubeUrl": null,
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/the-rise-of-hannibal",
     "sources": [
       {
         "type": "lyrics",
@@ -2748,6 +2849,7 @@
     "era": "202 v. Chr. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
     "youtubeUrl": "https://www.youtube.com/watch?v=Q3En2lpy1aI",
+    "bandcampUrl": "https://exdeo.bandcamp.com/track/the-spoils-of-war",
     "sources": [
       {
         "type": "lyrics",
@@ -2779,6 +2881,7 @@
     "era": "20. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -2801,6 +2904,7 @@
     "era": "1486",
     "spotifyUrl": "https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq",
     "youtubeUrl": "https://www.youtube.com/watch?v=OigEnWlVN14",
+    "bandcampUrl": "https://feuerschwanz.bandcamp.com/track/malleus-maleficarum",
     "sources": [
       {
         "type": "lyrics",
@@ -2828,6 +2932,7 @@
     "era": "1346",
     "spotifyUrl": "https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX",
     "youtubeUrl": "https://www.youtube.com/watch?v=rnBBQPzwDxo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2855,6 +2960,7 @@
     "era": "1945–1974 / 2018",
     "spotifyUrl": "https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30",
     "youtubeUrl": "https://www.youtube.com/watch?v=uxvn-gIFVZo",
+    "bandcampUrl": "https://flashbackofanger.bandcamp.com/album/shades",
     "sources": [
       {
         "type": "lyrics",
@@ -2880,6 +2986,7 @@
     "era": "333 v. Chr.",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=4ANGTD-Bl9s",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "youtube",
@@ -2902,6 +3009,7 @@
     "era": "um 910–918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
+    "bandcampUrl": "https://forefather.bandcamp.com/track/cween-of-the-mark",
     "sources": [
       {
         "type": "lyrics",
@@ -2928,6 +3036,7 @@
     "era": "16. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8",
     "youtubeUrl": "https://www.youtube.com/watch?v=jbCJXVemRgc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -2959,6 +3068,7 @@
     "era": "1815–1821",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=9pB-QZ5ytuY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "discography",
@@ -2985,6 +3095,7 @@
     "era": "1940–1941 / 2026",
     "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
     "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+    "bandcampUrl": "https://dyingvictimsproductions.bandcamp.com/track/bishop-of-the-iron-guard",
     "sources": [
       {
         "type": "bandcamp",
@@ -3016,6 +3127,7 @@
     "era": "897 / 2026",
     "spotifyUrl": "https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74",
     "youtubeUrl": "https://www.youtube.com/watch?v=vYSDBBdCANk",
+    "bandcampUrl": "https://dyingvictimsproductions.bandcamp.com/album/indecent-idols",
     "sources": [
       {
         "type": "bandcamp",
@@ -3054,6 +3166,7 @@
     "era": "1944–1974 / 2020",
     "spotifyUrl": "https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD",
     "youtubeUrl": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+    "bandcampUrl": "https://gamezero.bandcamp.com/track/believe",
     "sources": [
       {
         "type": "secondary",
@@ -3079,6 +3192,7 @@
     "era": "1920–1927 / 1971",
     "spotifyUrl": "https://open.spotify.com/track/7gB8kl4WWv6I3kQwKDx9Vk",
     "youtubeUrl": "https://www.youtube.com/watch?v=s-1Gi8ocgmc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3106,6 +3220,7 @@
     "era": "1820 / 2009",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://giantsquid.bandcamp.com/track/throwing-a-donner-party-at-sea-physeter-catadon",
     "sources": [
       {
         "type": "bandcamp",
@@ -3134,6 +3249,7 @@
     "era": "312",
     "spotifyUrl": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
     "youtubeUrl": null,
+    "bandcampUrl": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
     "sources": [
       {
         "type": "bandcamp",
@@ -3167,6 +3283,7 @@
     "era": "1568–1648 / 2004",
     "spotifyUrl": "https://open.spotify.com/track/2f2jkP9Z8XtocOU4BRIS3f",
     "youtubeUrl": "https://www.youtube.com/watch?v=tARQH0vOulA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3198,6 +3315,7 @@
     "era": "frühes 20. Jh. / 2006",
     "spotifyUrl": "https://open.spotify.com/track/5iwvJrUZuneo0E3m2UQzk9",
     "youtubeUrl": "https://www.youtube.com/watch?v=EtTHEJLa44M",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3235,6 +3353,7 @@
     "era": "945–946",
     "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
     "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
+    "bandcampUrl": "https://uniqueleaderrecords.bandcamp.com/track/birds-of-sulphur",
     "sources": [
       {
         "type": "secondary",
@@ -3264,6 +3383,7 @@
     "era": "378 / 2014",
     "spotifyUrl": "https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou",
     "youtubeUrl": "https://www.youtube.com/watch?v=YPpQ2qzKBUg",
+    "bandcampUrl": "https://gotlandmetal.bandcamp.com/album/gloria-et-morte",
     "sources": [
       {
         "type": "lyrics",
@@ -3295,6 +3415,7 @@
     "era": "1860–1861 / 2000s",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3321,6 +3442,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
     "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+    "bandcampUrl": "https://gravedigger.bandcamp.com/track/barbarian",
     "sources": [
       {
         "type": "lyrics",
@@ -3348,6 +3470,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK",
     "youtubeUrl": "https://www.youtube.com/watch?v=Krjrb0fTG5A",
+    "bandcampUrl": "https://gravedigger.bandcamp.com/track/culloden-muir",
     "sources": [
       {
         "type": "lyrics",
@@ -3374,6 +3497,7 @@
     "era": "11.–13. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld",
     "youtubeUrl": "https://www.youtube.com/watch?v=9AQZxSDE8Aw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3400,6 +3524,7 @@
     "era": "1307",
     "spotifyUrl": "https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=IKGbWrpn474",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3425,6 +3550,7 @@
     "era": "72–73 n. Chr. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/3lYUkRzcZn4EFrpMdjwKal",
     "youtubeUrl": "https://www.youtube.com/watch?v=YJQGwiAqe38",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3455,6 +3581,7 @@
     "era": "1119",
     "spotifyUrl": "https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR",
     "youtubeUrl": "https://www.youtube.com/watch?v=Omzyyj401ys",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3482,6 +3609,7 @@
     "era": "1745",
     "spotifyUrl": "https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ns1K33XnH9g",
+    "bandcampUrl": "https://gravedigger.bandcamp.com/track/rebellion",
     "sources": [
       {
         "type": "lyrics",
@@ -3508,6 +3636,7 @@
     "era": "1314",
     "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
     "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -3528,6 +3657,7 @@
     "era": "1797 / 2022",
     "spotifyUrl": "https://orcd.co/warriorwomen",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3555,6 +3685,7 @@
     "era": "1095–1099",
     "spotifyUrl": "https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN",
     "youtubeUrl": "https://www.youtube.com/watch?v=bhAUntDJvSI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3582,6 +3713,7 @@
     "era": "Aeneis / Buch IV (Dido)",
     "spotifyUrl": "https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0",
     "youtubeUrl": "https://www.youtube.com/watch?v=-ze1LkruSec",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3617,6 +3749,7 @@
     "era": "1966",
     "spotifyUrl": "https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3638,6 +3771,7 @@
     "era": "1342",
     "spotifyUrl": "https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD",
     "youtubeUrl": "https://www.youtube.com/watch?v=ciDI4za9eCU",
+    "bandcampUrl": "https://herzel-music.bandcamp.com/track/la-flamme",
     "sources": [
       {
         "type": "lyrics",
@@ -3666,6 +3800,7 @@
     "era": "Grimoire-Motiv (modern)",
     "spotifyUrl": "https://open.spotify.com/track/4pHpgkyk3siT8W0Wjf8Gr5",
     "youtubeUrl": "https://youtu.be/g9kcU7kcY7Q?feature=shared",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3691,6 +3826,7 @@
     "era": "2010",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=wmI2m06YFfc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -3716,6 +3852,7 @@
     "era": "2010",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3740,6 +3877,7 @@
     "era": "5. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1",
     "youtubeUrl": "https://www.youtube.com/watch?v=1FU-FDxx31k",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -3759,6 +3897,7 @@
     "era": "21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -3781,6 +3920,7 @@
     "era": "Sengoku / späte 16. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/5hAibC2WxazzY7odFjgb88",
     "youtubeUrl": "https://www.youtube.com/watch?v=FKV4gwBRKVc",
+    "bandcampUrl": "https://imaritones.bandcamp.com/album/nabeshima",
     "sources": [
       {
         "type": "band",
@@ -3810,6 +3950,7 @@
     "era": "Frühmittelalter (Merseburger Zaubersprüche)",
     "spotifyUrl": "https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q",
     "youtubeUrl": "https://www.youtube.com/watch?v=rGa2woc4uig",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3829,6 +3970,7 @@
     "era": "Frühmittelalter (Merseburger Zaubersprüche)",
     "spotifyUrl": "https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz",
     "youtubeUrl": "https://www.youtube.com/watch?v=CEmCyG4tvds",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3850,6 +3992,7 @@
     "era": "1911–1916 / 2016",
     "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
     "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
+    "bandcampUrl": "https://infinitedesignmi.bandcamp.com/album/phases-2016",
     "sources": [
       {
         "type": "bandcamp",
@@ -3880,6 +4023,7 @@
     "era": "1940",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Xg9aQvjMS60",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3900,6 +4044,7 @@
     "era": "356–323 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E",
     "youtubeUrl": "https://www.youtube.com/watch?v=6BH9HvZx3nI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -3919,6 +4064,7 @@
     "era": "1930",
     "spotifyUrl": "https://open.spotify.com/track/7C6K5CQkYOqCS1qcmGUQfV",
     "youtubeUrl": "https://www.youtube.com/watch?v=9CWTig2kBKE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "seed",
@@ -3938,6 +4084,7 @@
     "era": "13. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/3EstYjUGr9m3C7A4BAyJta",
     "youtubeUrl": "https://www.youtube.com/watch?v=bcRLbh5CYek",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "seed",
@@ -3958,6 +4105,7 @@
     "era": "1244",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=4g_TOT-G7_o",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "seed",
@@ -3978,6 +4126,7 @@
     "era": "1917",
     "spotifyUrl": "https://open.spotify.com/track/5csZmb5ZdDO3EQIPpriNGX",
     "youtubeUrl": "https://www.youtube.com/watch?v=Pc_jXFYXmNc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -3997,6 +4146,7 @@
     "era": "17.–19. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl",
     "youtubeUrl": "https://www.youtube.com/watch?v=86URGgqONvA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4018,6 +4168,7 @@
     "era": "1845 / 1984 Fund",
     "spotifyUrl": "https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2",
     "youtubeUrl": "https://www.youtube.com/watch?v=UJsl-bB7lmk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4038,6 +4189,7 @@
     "era": "1944",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=52TKsBrF8DU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "seed",
@@ -4058,6 +4210,7 @@
     "era": "1854",
     "spotifyUrl": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
     "youtubeUrl": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4079,6 +4232,7 @@
     "era": "1911 / 1978",
     "spotifyUrl": "https://open.spotify.com/track/16CdbuX6bDSXo07rsic56K",
     "youtubeUrl": "https://www.youtube.com/watch?v=HRQxljCTL8U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -4103,6 +4257,7 @@
     "era": "1930er–1940er",
     "spotifyUrl": "https://open.spotify.com/track/6zueINKfHroKC92vN1oSEm",
     "youtubeUrl": "https://www.youtube.com/watch?v=maa1xTKu7aQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -4129,6 +4284,7 @@
     "era": "1861–1865 / 1963",
     "spotifyUrl": "https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa",
     "youtubeUrl": "https://www.youtube.com/watch?v=YHforl6vnco",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -4154,6 +4310,7 @@
     "era": "1952",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=AWVUp12XPpU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -4181,6 +4338,7 @@
     "era": "1815 / 2012",
     "spotifyUrl": "https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh",
     "youtubeUrl": "https://www.youtube.com/watch?v=ERqSQckYP7c",
+    "bandcampUrl": "https://judicatormetal.bandcamp.com/track/elan",
     "sources": [
       {
         "type": "band",
@@ -4217,6 +4375,7 @@
     "era": "1811–1832 / 1815",
     "spotifyUrl": "https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk",
     "youtubeUrl": "https://www.youtube.com/watch?v=t4maP9qGQPc",
+    "bandcampUrl": "https://judicatormetal.bandcamp.com/album/king-of-rome",
     "sources": [
       {
         "type": "lyrics",
@@ -4242,6 +4401,7 @@
     "era": "1096–1097",
     "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
     "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
+    "bandcampUrl": "https://judicatormetal.bandcamp.com/album/the-last-emperor",
     "sources": [
       {
         "type": "bandcamp",
@@ -4268,6 +4428,7 @@
     "era": "1815 / 2012",
     "spotifyUrl": "https://open.spotify.com/track/5VSt0BS9bX7EEVOItzvaEl",
     "youtubeUrl": "https://www.youtube.com/watch?v=H5A72PIG9eM",
+    "bandcampUrl": "https://judicatormetal.bandcamp.com/track/tu-nes-pas-mort-coquin",
     "sources": [
       {
         "type": "band",
@@ -4298,6 +4459,7 @@
     "era": "ca. 1610",
     "spotifyUrl": "https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD",
     "youtubeUrl": "https://www.youtube.com/watch?v=ecvHBLadaxM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -4326,6 +4488,7 @@
     "era": "778 / 12. Jh. / 1997",
     "spotifyUrl": "https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ",
     "youtubeUrl": "https://www.youtube.com/watch?v=jYAAUwtmKcA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -4354,6 +4517,7 @@
     "era": "1961",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=ZIzvhZXhnlM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -4381,6 +4545,7 @@
     "era": "1920er / 1982",
     "spotifyUrl": "https://open.spotify.com/track/577q4grT3tMEPg1ElFlW5y",
     "youtubeUrl": "https://www.youtube.com/watch?v=r9e_BzHSWpE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4414,6 +4579,7 @@
     "era": "53 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=hv-XcocN0mc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4444,6 +4610,7 @@
     "era": "21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://kinggizzard.bandcamp.com/track/motor-spirit",
     "sources": [
       {
         "type": "lyrics",
@@ -4470,6 +4637,7 @@
     "era": "1845",
     "spotifyUrl": "https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS",
     "youtubeUrl": "https://www.youtube.com/watch?v=Js4pGy_q35k",
+    "bandcampUrl": "https://knorkator.bandcamp.com/track/konrad",
     "sources": [
       {
         "type": "lyrics",
@@ -4495,6 +4663,7 @@
     "era": "2023",
     "spotifyUrl": "https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZT4DTPJH4nY",
+    "bandcampUrl": "https://kontrust.bandcamp.com/track/lederhosen-overkill",
     "sources": [
       {
         "type": "band",
@@ -4518,6 +4687,7 @@
     "era": "2012",
     "spotifyUrl": "https://open.spotify.com/track/3xuct5UR3WzQHSClaQowi7",
     "youtubeUrl": "https://www.youtube.com/watch?v=PnFcNGnhoiI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -4542,6 +4712,7 @@
     "era": "2005",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://metalmessage.bandcamp.com/track/kromlek",
     "sources": [
       {
         "type": "lyrics",
@@ -4574,6 +4745,7 @@
     "era": "1869 / 2023",
     "spotifyUrl": "https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4607,6 +4779,7 @@
     "era": "6. Jh. / 2013",
     "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
     "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
+    "bandcampUrl": "https://leaveseyes.bandcamp.com/track/galswintha",
     "sources": [
       {
         "type": "lyrics",
@@ -4634,6 +4807,7 @@
     "era": "1431 / 2013",
     "spotifyUrl": "https://open.spotify.com/track/2MxHkoQcqy6FOhy9uaGDjI",
     "youtubeUrl": "https://www.youtube.com/watch?v=x5lAUJ-OyII",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -4659,6 +4833,7 @@
     "era": "1927 / 1971",
     "spotifyUrl": "https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF",
     "youtubeUrl": "https://www.youtube.com/watch?v=JM3fodiK9rY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -4685,6 +4860,7 @@
     "era": "1816",
     "spotifyUrl": "https://open.spotify.com/track/56Ibqjhl46vRDuO61Xp9DT",
     "youtubeUrl": "https://www.youtube.com/watch?v=nxb3THhAZK4",
+    "bandcampUrl": "https://levellers.bandcamp.com/track/raft-of-the-medusa",
     "sources": [
       {
         "type": "lyrics",
@@ -4714,6 +4890,7 @@
     "era": "2015",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=9HiiDjQ1bJ8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -4741,6 +4918,7 @@
     "era": "1961",
     "spotifyUrl": "https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U",
     "youtubeUrl": "https://www.youtube.com/watch?v=cw0fl3AFsLU",
+    "bandcampUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-i-hero",
     "sources": [
       {
         "type": "band",
@@ -4773,6 +4951,7 @@
     "era": "1961",
     "spotifyUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
     "youtubeUrl": "https://www.youtube.com/watch?v=BUE_FrVf8m0",
+    "bandcampUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
     "sources": [
       {
         "type": "band",
@@ -4804,6 +4983,7 @@
     "era": "1928",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=R8TvgVTGkBQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4829,6 +5009,7 @@
     "era": "50 n. Chr. / 2018",
     "spotifyUrl": "https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn",
     "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -4855,6 +5036,7 @@
     "era": "14. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
     "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -4879,6 +5061,7 @@
     "era": "1988 (Metal-Kultur)",
     "spotifyUrl": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR",
     "youtubeUrl": "https://www.youtube.com/watch?v=RSSmwXy98IY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -4899,6 +5082,7 @@
     "era": "1930",
     "spotifyUrl": "https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn",
     "youtubeUrl": "https://www.youtube.com/watch?v=yMbglXvNQGE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4921,6 +5105,7 @@
     "era": "1910 / Trad. (Aufn. 1975)",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -4941,6 +5126,7 @@
     "era": "1943 / 2025",
     "spotifyUrl": "https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV",
     "youtubeUrl": "https://www.youtube.com/watch?v=Hdbu8hqhGvY",
+    "bandcampUrl": "https://mastershammer.bandcamp.com/album/maldor-r-disco",
     "sources": [
       {
         "type": "bandcamp",
@@ -4972,6 +5158,7 @@
     "era": "1851 / 2004",
     "spotifyUrl": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux",
     "youtubeUrl": "https://www.youtube.com/watch?v=TsdIO8RHMTc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5004,6 +5191,7 @@
     "era": "1925 / 1998",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5036,6 +5224,7 @@
     "era": "1947 / 1993",
     "spotifyUrl": "https://open.spotify.com/track/41ohp3jJvzNwztKho8VI8F",
     "youtubeUrl": "https://www.youtube.com/watch?v=wkhSwt5dUIs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5061,6 +5250,7 @@
     "era": "1927 / 1929",
     "spotifyUrl": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb",
     "youtubeUrl": "https://www.youtube.com/watch?v=WSlt8-fmvas",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -5087,6 +5277,7 @@
     "era": "1986",
     "spotifyUrl": "https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5110,6 +5301,7 @@
     "era": "Lovecraft-Motiv (1984)",
     "spotifyUrl": "https://open.spotify.com/track/4qPgSwPUGigsmx6gUV2dnU",
     "youtubeUrl": "https://www.youtube.com/watch?v=3vSH9pMzHm0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5132,6 +5324,7 @@
     "era": "1592–1598 / 2024",
     "spotifyUrl": "https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835",
     "youtubeUrl": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+    "bandcampUrl": "https://dyingvictimsproductions.bandcamp.com/track/choseon",
     "sources": [
       {
         "type": "bandcamp",
@@ -5164,6 +5357,7 @@
     "era": "53 v. Chr. / 2019",
     "spotifyUrl": "https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw",
     "youtubeUrl": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+    "bandcampUrl": "https://midnightforce.bandcamp.com/album/gododdin",
     "sources": [
       {
         "type": "bandcamp",
@@ -5194,6 +5388,7 @@
     "era": "2000er",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5216,6 +5411,7 @@
     "era": "16. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr",
     "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
+    "bandcampUrl": "https://miracleofsound.bandcamp.com/track/gr-inne-mhaol-queen-of-pirates",
     "sources": [
       {
         "type": "bandcamp",
@@ -5241,6 +5437,7 @@
     "era": "1793",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5261,6 +5458,7 @@
     "era": "2000",
     "spotifyUrl": "https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=WSU0EpjwR9E",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -5292,6 +5490,7 @@
     "era": "1755",
     "spotifyUrl": "https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV",
     "youtubeUrl": "https://www.youtube.com/watch?v=vh3Mvd9NGwQ",
+    "bandcampUrl": "https://moonspell.bandcamp.com/track/1-de-novembro",
     "sources": [
       {
         "type": "official",
@@ -5319,6 +5518,7 @@
     "era": "1755",
     "spotifyUrl": "https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD",
     "youtubeUrl": "https://www.youtube.com/watch?v=4O-SUiKyVtA",
+    "bandcampUrl": "https://moonspell.bandcamp.com/track/1755",
     "sources": [
       {
         "type": "official",
@@ -5345,6 +5545,7 @@
     "era": "1755",
     "spotifyUrl": "https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZEqKPJgM-HE",
+    "bandcampUrl": "https://moonspell.bandcamp.com/track/evento",
     "sources": [
       {
         "type": "official",
@@ -5371,6 +5572,7 @@
     "era": "1943 / 2001",
     "spotifyUrl": "https://open.spotify.com/track/3pH8iQyRHzGz8XUpWt7D6L",
     "youtubeUrl": "https://www.youtube.com/watch?v=vVV5NSQwWwo",
+    "bandcampUrl": "https://motorpsycho.bandcamp.com/track/dr-hoffmanns-bicycle",
     "sources": [
       {
         "type": "lyrics",
@@ -5395,6 +5597,7 @@
     "era": "16. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/1FHPSDpf19CxMY9EAmxSWm",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5414,6 +5617,7 @@
     "era": "1953–1973 / 2009",
     "spotifyUrl": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh",
     "youtubeUrl": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5438,6 +5642,7 @@
     "era": null,
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5462,6 +5667,7 @@
     "era": "spätes 20. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5481,6 +5687,7 @@
     "era": "18./19. Jh. (Herschel)",
     "spotifyUrl": "https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol",
     "youtubeUrl": "https://www.youtube.com/watch?v=OSWszdSHkyE",
+    "bandcampUrl": "https://nanowarofsteel.bandcamp.com/track/uranus",
     "sources": [
       {
         "type": "secondary",
@@ -5503,6 +5710,7 @@
     "era": "1860–1861 / 1992",
     "spotifyUrl": "https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr",
     "youtubeUrl": "https://www.youtube.com/watch?v=NVmbDASq1ws",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5530,6 +5738,7 @@
     "era": "-14. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
     "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5552,6 +5761,7 @@
     "era": "1701–1703",
     "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
     "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
+    "bandcampUrl": "https://nightstryke.bandcamp.com/track/the-story-of-the-forty-seven-ronin",
     "sources": [
       {
         "type": "lyrics",
@@ -5576,6 +5786,7 @@
     "era": "1999",
     "spotifyUrl": "https://open.spotify.com/track/2xPQjEJca0tRpvNxj0RP0f",
     "youtubeUrl": "https://www.youtube.com/watch?v=UGfKMV5AbMI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5604,6 +5815,7 @@
     "era": "1520–1523 / 2025",
     "spotifyUrl": "https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn",
     "youtubeUrl": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5636,6 +5848,7 @@
     "era": "1947 / 2022",
     "spotifyUrl": "https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq",
     "youtubeUrl": "https://www.youtube.com/watch?v=_vKDiyo178E",
+    "bandcampUrl": "https://ninahagen.bandcamp.com/track/16-tons",
     "sources": [
       {
         "type": "secondary",
@@ -5661,6 +5874,7 @@
     "era": "1992",
     "spotifyUrl": "https://open.spotify.com/track/0QOxeiPiVep0vNZisCbDX9",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5686,6 +5900,7 @@
     "era": "1613–1620",
     "spotifyUrl": "https://open.spotify.com/track/6YXpv4L4bANU2NyU9vXcq1",
     "youtubeUrl": "https://www.youtube.com/watch?v=yTEw9zh1-i8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5709,6 +5924,7 @@
     "era": "21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -5732,6 +5948,7 @@
     "era": "2023",
     "spotifyUrl": "https://open.spotify.com/track/0GZ8R0eTY4hveRXPcg0lJ4",
     "youtubeUrl": "https://www.youtube.com/watch?v=xwtZcS1l7F8",
+    "bandcampUrl": "https://nuummite.bandcamp.com/track/bicycle-day",
     "sources": [
       {
         "type": "bandcamp",
@@ -5758,6 +5975,7 @@
     "era": "um 1567–1636 / Sengoku–Edo",
     "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
     "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5795,6 +6013,7 @@
     "era": "-1274",
     "spotifyUrl": "https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V",
     "youtubeUrl": "https://www.youtube.com/watch?v=8Q00PZR2_og",
+    "bandcampUrl": "https://ottonepesante.bandcamp.com/track/battle-of-qadesh",
     "sources": [
       {
         "type": "band",
@@ -5822,6 +6041,7 @@
     "era": "1587–1590 / 2017",
     "spotifyUrl": "https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM",
     "youtubeUrl": "https://www.youtube.com/watch?v=dj98LwbwlDg",
+    "bandcampUrl": "https://ovmoros.bandcamp.com/track/disappearance",
     "sources": [
       {
         "type": "bandcamp",
@@ -5846,6 +6066,7 @@
     "era": "frühes 20. Jh. / Kentucky",
     "spotifyUrl": "https://open.spotify.com/track/28OQVEP47BO0iG8e6heo4P",
     "youtubeUrl": "https://youtu.be/9WrlRYJjBwU",
+    "bandcampUrl": "https://thetruepanopticon.bandcamp.com/track/black-soot-and-red-blood",
     "sources": [
       {
         "type": "secondary",
@@ -5876,6 +6097,7 @@
     "era": "1927 / 2008",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=OfMzC2AHrr8",
+    "bandcampUrl": "https://thetruepanopticon.bandcamp.com/album/la-passione-de-sacco-vanzetti",
     "sources": [
       {
         "type": "bandcamp",
@@ -5904,6 +6126,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/2aGqhiRrIH5GJe6oFcpayP",
     "youtubeUrl": "https://www.youtube.com/watch?v=emraZn3dYNM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5926,6 +6149,7 @@
     "era": "2. Jt. v. Chr. (Epos) / Aufführung 2021",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=kd7qeP3R5vw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "youtube",
@@ -5951,6 +6175,7 @@
     "era": "1917–2010 / 2010",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=hWTFG3J1CP8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -5974,6 +6199,7 @@
     "era": null,
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -5999,6 +6225,7 @@
     "era": "1589",
     "spotifyUrl": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G",
     "youtubeUrl": "https://www.youtube.com/watch?v=5S0-oP9JsL0",
+    "bandcampUrl": "https://powerwolf.bandcamp.com/track/1589",
     "sources": [
       {
         "type": "wikipedia",
@@ -6019,6 +6246,7 @@
     "era": "1764–1767",
     "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ",
     "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk",
+    "bandcampUrl": "https://powerwolf.bandcamp.com/track/beast-of-g-vaudan",
     "sources": [
       {
         "type": "band-official",
@@ -6041,6 +6269,7 @@
     "era": "1096–1099",
     "spotifyUrl": "https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r",
     "youtubeUrl": "https://www.youtube.com/watch?v=CIXchfB_sVc",
+    "bandcampUrl": "https://powerwolf.bandcamp.com/track/christ-combat",
     "sources": [
       {
         "type": "lyrics",
@@ -6066,6 +6295,7 @@
     "era": "1412–1431",
     "spotifyUrl": "https://open.spotify.com/track/7D2UpWgfgxzGNzmcIoWd9l",
     "youtubeUrl": "https://www.youtube.com/watch?v=1ZD-_KLSSKg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6088,6 +6318,7 @@
     "era": "1991–2003",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=oN3fLTFqO9U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6117,6 +6348,7 @@
     "era": "6. Jh. / 2017",
     "spotifyUrl": "https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56",
     "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
+    "bandcampUrl": "https://professoremeritus.bandcamp.com/album/take-me-to-the-gallows",
     "sources": [
       {
         "type": "lyrics",
@@ -6149,6 +6381,7 @@
     "era": "1848/49 / 1862",
     "spotifyUrl": "https://open.spotify.com/track/025oz90TMxaKyJhP9VXDZG",
     "youtubeUrl": "https://www.youtube.com/watch?v=4y-JI5KEWhU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6184,6 +6417,7 @@
     "era": "2000er",
     "spotifyUrl": "https://open.spotify.com/track/2ym5jsfte1PFyuDsXSW9pw",
     "youtubeUrl": "https://www.youtube.com/watch?v=6ZcIUAe-DdI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6209,6 +6443,7 @@
     "era": "19. Jh. / 2009",
     "spotifyUrl": "https://open.spotify.com/track/2eQAr4IgxjMEMgBc7Wa4iz",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6230,6 +6465,7 @@
     "era": "1859",
     "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
     "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6255,6 +6491,7 @@
     "era": "2010",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=MxA0QVGVEJw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6282,6 +6519,7 @@
     "era": "9. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
     "youtubeUrl": "https://www.youtube.com/watch?v=L5SCRvI2MWg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6313,6 +6551,7 @@
     "era": "10.–11. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/7IQOMAQi7h64LLLLLQ7xFo",
     "youtubeUrl": "https://www.youtube.com/watch?v=dRk0grBXtGw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6339,6 +6578,7 @@
     "era": "Napoleonische Kriege / 2021",
     "spotifyUrl": "https://open.spotify.com/track/3O95gZM3iSiY0LYEv4eSAl",
     "youtubeUrl": "https://www.youtube.com/watch?v=KxyNkl6LKyg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6370,6 +6610,7 @@
     "era": "862–10. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
     "youtubeUrl": "https://www.youtube.com/watch?v=AqFPUu1-uDE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6402,6 +6643,7 @@
     "era": "1042 / 2007",
     "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
     "youtubeUrl": "https://www.youtube.com/watch?v=KufuujY63Rc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6433,6 +6675,7 @@
     "era": "9.–11. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ",
     "youtubeUrl": "https://www.youtube.com/watch?v=NfFj9aEJDOc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6458,6 +6701,7 @@
     "era": "21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6482,6 +6726,7 @@
     "era": "1509–1547 / 1973",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=ApohmdSVTT8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -6509,6 +6754,7 @@
     "era": "1850–1864 / 2018",
     "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
     "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
+    "bandcampUrl": "https://rippedtoshredsdeathmetal.bandcamp.com/track/god-worshipping-society",
     "sources": [
       {
         "type": "bandcamp",
@@ -6536,6 +6782,7 @@
     "era": "17. Jh. / 2022",
     "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+    "bandcampUrl": "https://ritualdictates.bandcamp.com/track/aqua-tofana",
     "sources": [
       {
         "type": "secondary",
@@ -6564,6 +6811,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/4iDQzPpa7FJ1RYfIGdH49e",
     "youtubeUrl": "https://www.youtube.com/watch?v=N6_WKGTeWH8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6582,6 +6830,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/6NgRSCfGt18L0ZbpHVBZWW",
     "youtubeUrl": "https://youtu.be/LBAXZto7uVc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6607,6 +6856,7 @@
     "era": "1613–1620",
     "spotifyUrl": "https://open.spotify.com/album/2NYAwx9x0Hbj968fvosIsL",
     "youtubeUrl": "https://www.youtube.com/watch?v=zDmNPlyGMwM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6630,6 +6880,7 @@
     "era": "218–222 / 2010",
     "spotifyUrl": "https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl",
     "youtubeUrl": "https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g",
+    "bandcampUrl": "https://rorcal.bandcamp.com/album/heliogabalus",
     "sources": [
       {
         "type": "bandcamp",
@@ -6660,6 +6911,7 @@
     "era": "10. Jh. / 2025",
     "spotifyUrl": "https://open.spotify.com/track/6F52Ls9K7a6vNNi0lip9Gm",
     "youtubeUrl": "https://www.youtube.com/watch?v=QEQZs8SLhQE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -6685,6 +6937,7 @@
     "era": "21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6710,6 +6963,7 @@
     "era": "16. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail",
     "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -6729,6 +6983,7 @@
     "era": "18. Jh. (generisch)",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6752,6 +7007,7 @@
     "era": "1815",
     "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
     "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -6776,6 +7032,7 @@
     "era": "1648",
     "spotifyUrl": "https://open.spotify.com/track/02QVJ3jRCQ1S4UmO2HPi19",
     "youtubeUrl": "https://www.youtube.com/watch?v=NpVvM-PtEac",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6795,6 +7052,7 @@
     "era": "1916",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=HgGhhnQB1gw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6814,6 +7072,7 @@
     "era": "1939",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=epeQwq-aYV0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6833,6 +7092,7 @@
     "era": "1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=ZgfCUxFE7XA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6851,6 +7111,7 @@
     "era": "1914–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=wbkEFIVXLNw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6869,6 +7130,7 @@
     "era": "1618–1648",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=plEiIPmTRUo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6889,6 +7151,7 @@
     "era": "1940",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=zZkuGxSiYok",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6908,6 +7171,7 @@
     "era": "1914–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=JyZ8wKTaHRk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6927,6 +7191,7 @@
     "era": "1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=_mxR3tP4QJ8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6945,6 +7210,7 @@
     "era": "1982",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=rPFllaiz_Xo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -6966,6 +7232,7 @@
     "era": "1066 / 2026",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Ne7_TDFzsW4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -6984,6 +7251,7 @@
     "era": "1941",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=oVWEb-At8yc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7003,6 +7271,7 @@
     "era": "1314",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Xp-RkMoUYg4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7024,6 +7293,7 @@
     "era": "1697–1718",
     "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
     "youtubeUrl": "https://www.youtube.com/watch?v=nxwv8-oAasI",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/carolus-rex",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7046,6 +7316,7 @@
     "era": "1457–1504 / 1475",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -7064,6 +7335,7 @@
     "era": "1914",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=HPdHkHslFIU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7084,6 +7356,7 @@
     "era": "1915–1916",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=kHYnyddGfXs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7102,6 +7375,7 @@
     "era": "1940–1941",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=wtax3Fl-UZo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7120,6 +7394,7 @@
     "era": "1967",
     "spotifyUrl": "https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7",
     "youtubeUrl": "https://www.youtube.com/watch?v=xKOxIcfuzx0",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/counterstrike",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7139,6 +7414,7 @@
     "era": "49 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/6WyfybAgLz1EceoumvVSun",
     "youtubeUrl": "https://www.youtube.com/watch?v=uchGiXcNDIs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7158,6 +7434,7 @@
     "era": "1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=EVCtCWXB2W4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7178,6 +7455,7 @@
     "era": "1916",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=RJK0jhymE5A",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7197,6 +7475,7 @@
     "era": "1940",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=JHsciHB-oek",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7219,6 +7498,7 @@
     "era": "1909/1915",
     "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
     "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/father",
     "sources": [
       {
         "type": "sabaton-official",
@@ -7242,6 +7522,7 @@
     "era": "1916",
     "spotifyUrl": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T",
     "youtubeUrl": "https://www.youtube.com/watch?v=yJDBmP9Mexk",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/fields-of-verdun-2",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7260,6 +7541,7 @@
     "era": "1939–1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Q149AALuHw0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7280,6 +7562,7 @@
     "era": "1940",
     "spotifyUrl": "https://open.spotify.com/track/3ZiJwNnZWMSKmUUTvYhIKx",
     "youtubeUrl": "https://www.youtube.com/watch?v=ICfzQVh3lvs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7299,6 +7582,7 @@
     "era": "1631",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=rLXBjLN1fOY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7318,6 +7602,7 @@
     "era": "1914–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=5mt4B5Z8uLA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7339,6 +7624,7 @@
     "era": "1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=hvP-qhjfvsc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -7363,6 +7649,7 @@
     "era": "1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=QoFy6mNtdpo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7382,6 +7669,7 @@
     "era": "1988",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=K1XkpvX-PJk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7401,6 +7689,7 @@
     "era": "13. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/275EXSVi2oyj4S5SPMo9qx",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ug0isWpubjk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7423,6 +7712,7 @@
     "era": "1796–1821",
     "spotifyUrl": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM",
     "youtubeUrl": "https://www.youtube.com/watch?v=FhitH0BnDX4",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/i-emperor",
     "sources": [
       {
         "type": "sabaton-official",
@@ -7443,6 +7733,7 @@
     "era": "15. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/170Q9dEUIPy8imNb9p5DYu",
     "youtubeUrl": "https://www.youtube.com/watch?v=YrEAN63NFgQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -7462,6 +7753,7 @@
     "era": "1940–1943",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=5pc1oSYXlUQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7480,6 +7772,7 @@
     "era": "1955–1975",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=i9wEIK-TFcg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7498,6 +7791,7 @@
     "era": "1706",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=f56Yrs445XU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7516,6 +7810,7 @@
     "era": "1912–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=rM9PuJxppdI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7535,6 +7830,7 @@
     "era": "1915",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=USz2OR3wdB4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7554,6 +7850,7 @@
     "era": "1945–",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=1DtQvn6kI_4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7577,6 +7874,7 @@
     "era": "218 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
     "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/lightning-at-the-gates",
     "sources": [
       {
         "type": "sabaton-official",
@@ -7604,6 +7902,7 @@
     "era": "1521–",
     "spotifyUrl": "https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e",
     "youtubeUrl": "https://www.youtube.com/watch?v=Um5R_PH7Jek",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/livgardet",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7628,6 +7927,7 @@
     "era": "1718",
     "spotifyUrl": "https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS",
     "youtubeUrl": "https://www.youtube.com/watch?v=rMnGYDi7Li0",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/long-live-the-king",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7650,6 +7950,7 @@
     "era": "1412–1431 / 2025",
     "spotifyUrl": "https://open.spotify.com/track/1t1g8mx2GQLX2UUk5azWAu",
     "youtubeUrl": "https://www.youtube.com/watch?v=fTqB-kWVnBA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -7673,6 +7974,7 @@
     "era": "1942",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=oCOc7Z95eF0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7692,6 +7994,7 @@
     "era": "1942–1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=jcemHIqmkYI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7711,6 +8014,7 @@
     "era": "1943",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=CsSTYhJtofs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7731,6 +8035,7 @@
     "era": "1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=RH5z4B3-l2Y",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7750,6 +8055,7 @@
     "era": "2003",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=7Lf-DKeusQw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7768,6 +8074,7 @@
     "era": "1943",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=3vEW_r4Swn8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7789,6 +8096,7 @@
     "era": "1709",
     "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
     "youtubeUrl": "https://www.youtube.com/watch?v=xfGe07IzsK4",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/poltava",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7809,6 +8117,7 @@
     "era": "1944",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=qVHyl0P_P-M",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7828,6 +8137,7 @@
     "era": "1914",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=UueFKWt6a1s",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7847,6 +8157,7 @@
     "era": "1991",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=P9lcxoaepxw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7865,6 +8176,7 @@
     "era": "1940",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=loTjRIL7qWo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7884,6 +8196,7 @@
     "era": "1933–1939",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=ePtgw8du7RI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7903,6 +8216,7 @@
     "era": "1879",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=emKPydpF7Aw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7922,6 +8236,7 @@
     "era": "1718–1721",
     "spotifyUrl": "https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X",
     "youtubeUrl": "https://www.youtube.com/watch?v=c898WyjHDx4",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/ruina-imperii",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7944,6 +8259,7 @@
     "era": "1942–1943",
     "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
     "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/saboteurs",
     "sources": [
       {
         "type": "sabaton-index",
@@ -7963,6 +8279,7 @@
     "era": "1914",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Xszx_9UPwV8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -7982,6 +8299,7 @@
     "era": "1944",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=OePPvDoAJe4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8001,6 +8319,7 @@
     "era": "1916–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=P_Igr355iVQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8021,6 +8340,7 @@
     "era": "1877",
     "spotifyUrl": "https://open.spotify.com/track/2aL4Dr516WsEswstjfnyYr",
     "youtubeUrl": "https://www.youtube.com/watch?v=oKW6gLLmxDQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8040,6 +8360,7 @@
     "era": "1944–1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=m3QMnxy2Grk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8059,6 +8380,7 @@
     "era": "1939–1965",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=QD-sLewK22o",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8078,6 +8400,7 @@
     "era": "1915–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=LYI3eegIJlI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8100,6 +8423,7 @@
     "era": "480 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
     "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/sparta-2",
     "sources": [
       {
         "type": "sabaton-index",
@@ -8121,6 +8445,7 @@
     "era": "1942–1943",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=v7ezm54dhEk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8140,6 +8465,7 @@
     "era": "1915–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Oo8H5vUKMlk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8160,6 +8486,7 @@
     "era": "Wikingerzeit",
     "spotifyUrl": "https://open.spotify.com/track/4ZbGXds397GVZFRdv9nDxf",
     "youtubeUrl": "https://www.youtube.com/watch?v=_2ZcRGarC5U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8180,6 +8507,7 @@
     "era": "1939–1940",
     "spotifyUrl": "https://open.spotify.com/track/3GhlV5FpkyZvNPMA7v3G1t",
     "youtubeUrl": "https://www.youtube.com/watch?v=jtfBcDV7etA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8202,6 +8530,7 @@
     "era": "1119–1307",
     "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
     "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/templars",
     "sources": [
       {
         "type": "sabaton-official",
@@ -8222,6 +8551,7 @@
     "era": "1915",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=LRNuWYvRtac",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8240,6 +8570,7 @@
     "era": "1943",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=a_Il6nk_CaQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8259,6 +8590,7 @@
     "era": "1682–",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=XpfiMHj7-8w",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8281,6 +8613,7 @@
     "era": "19. Jh. v. Chr. / 2025",
     "spotifyUrl": "https://open.spotify.com/track/2BCSABdmxlLx0hJwuvcRBj",
     "youtubeUrl": "https://www.youtube.com/watch?v=XBEuiIFB0r4",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/the-cycle-of-songs",
     "sources": [
       {
         "type": "band",
@@ -8306,6 +8639,7 @@
     "era": "17. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/2mz3lcK6rYGTlNUtkgZm4f",
     "youtubeUrl": "https://www.youtube.com/watch?v=6KUOX_VFVn0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -8324,6 +8658,7 @@
     "era": "1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=oXnnbjC7Fok",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8343,6 +8678,7 @@
     "era": "1941–1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=_O3awC4mv4Q",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8361,6 +8697,7 @@
     "era": "1914–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=IZjzEz7b3DA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8380,6 +8717,7 @@
     "era": "1916",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=t8qJi7HURFA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8401,6 +8739,7 @@
     "era": "1945",
     "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
     "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
+    "bandcampUrl": "https://sabaton.bandcamp.com/track/the-last-battle-2",
     "sources": [
       {
         "type": "sabaton-index",
@@ -8421,6 +8760,7 @@
     "era": "1527",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=i9BupglHdtM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8440,6 +8780,7 @@
     "era": "1611–1632",
     "spotifyUrl": "https://open.spotify.com/track/1z4bZXhE8LAnkjj92sZF8T",
     "youtubeUrl": "https://www.youtube.com/watch?v=KkszNmr6Qh0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8459,6 +8800,7 @@
     "era": "1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=7jTgkTEDDog",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8478,6 +8820,7 @@
     "era": "1917",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=LOrlRvBV59E",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8497,6 +8840,7 @@
     "era": "1916–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=1snEYPg8TXs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8515,6 +8859,7 @@
     "era": "1914–1918",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=usrFCZpRwGo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8537,6 +8882,7 @@
     "era": "1611–1632 / 1631–1632",
     "spotifyUrl": "https://open.spotify.com/track/7xrNu3NxSQ0zAnB8ZSqUgq",
     "youtubeUrl": "https://www.youtube.com/watch?v=XmgmLAR5lkI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -8559,6 +8905,7 @@
     "era": "1611–1632 / 1631–1632",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-official",
@@ -8577,6 +8924,7 @@
     "era": "1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=FBz7MX2bLcM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8595,6 +8943,7 @@
     "era": "1944",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=oMb2Lwe1GEs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8613,6 +8962,7 @@
     "era": "1944",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=hxCoyz8RbTY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8631,6 +8981,7 @@
     "era": "1917",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=eAy2eVlvaZQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8649,6 +9000,7 @@
     "era": "1919",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=JzuLHyY4Ir8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8668,6 +9020,7 @@
     "era": "1995",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=1q_ujZIgwvM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8686,6 +9039,7 @@
     "era": "1935–1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=1VdALffUMI0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8706,6 +9060,7 @@
     "era": "1939–1940",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=JRIfWazqIQ8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8727,6 +9082,7 @@
     "era": "1683",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=rcYhYO02f98",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8747,6 +9103,7 @@
     "era": "1942",
     "spotifyUrl": "https://open.spotify.com/track/0mK6UUHnQi0Jhu0IB319LO",
     "youtubeUrl": "https://www.youtube.com/watch?v=GaUCBheWCMA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8765,6 +9122,7 @@
     "era": "1945",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=Dfh1aSdxr9U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "sabaton-index",
@@ -8786,6 +9144,7 @@
     "era": "1918–1919 / 2023",
     "spotifyUrl": "https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy",
     "youtubeUrl": "https://www.youtube.com/watch?v=d7XCKmdF2_g",
+    "bandcampUrl": "https://sarcoptes.bandcamp.com/album/prayers-to-oblivion",
     "sources": [
       {
         "type": "lyrics",
@@ -8813,6 +9172,7 @@
     "era": "536–539 n. Chr. / Fimbulwinter-Mythos",
     "spotifyUrl": "https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU",
     "youtubeUrl": "https://www.youtube.com/watch?v=01Pu07vBK1Q",
+    "bandcampUrl": "https://soulsellerrecords.bandcamp.com/track/the-great-winter",
     "sources": [
       {
         "type": "band",
@@ -8845,6 +9205,7 @@
     "era": "1996",
     "spotifyUrl": "https://open.spotify.com/track/2xctlWwBwkswT3smL1Gr3e",
     "youtubeUrl": "https://www.youtube.com/watch?v=xQD3bjGCCb0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -8872,6 +9233,7 @@
     "era": "1996–1997 (Konzept; Magellan-Rahmen)",
     "spotifyUrl": "https://open.spotify.com/track/0M11GUBWC9ev9DMYOFg7Oq",
     "youtubeUrl": "https://www.youtube.com/watch?v=E2lqMQfsGuM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -8899,6 +9261,7 @@
     "era": "1066",
     "spotifyUrl": "https://open.spotify.com/track/0HBWWM8w2WSCgMBL1EgV7e",
     "youtubeUrl": "https://www.youtube.com/watch?v=-QOREbJ4D70",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -8918,6 +9281,7 @@
     "era": "5. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck",
     "youtubeUrl": "https://www.youtube.com/watch?v=dwEXrFD8eKU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -8939,6 +9303,7 @@
     "era": "1981 (Metal-Kultur)",
     "spotifyUrl": "https://open.spotify.com/track/0rSUGG0uqjgKSEc7jgezpf",
     "youtubeUrl": "https://www.youtube.com/watch?v=0x313jU1XMc",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -8961,6 +9326,7 @@
     "era": "13. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
     "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -8982,6 +9348,7 @@
     "era": "1789–1799",
     "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
     "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9008,6 +9375,7 @@
     "era": "1692",
     "spotifyUrl": "https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr",
     "youtubeUrl": "https://www.youtube.com/watch?v=mN5mfBDUNMQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9032,6 +9400,7 @@
     "era": "1415–1436 / 2019",
     "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
     "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
+    "bandcampUrl": "https://saxorior.bandcamp.com/album/hem",
     "sources": [
       {
         "type": "lyrics",
@@ -9063,6 +9432,7 @@
     "era": "1966 / Cover 1998",
     "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
     "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9092,6 +9462,7 @@
     "era": "1884",
     "spotifyUrl": "https://open.spotify.com/track/5epQW1revzqLK58ffFcwac",
     "youtubeUrl": "https://www.youtube.com/watch?v=P_KOPhWUXcw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9119,6 +9490,7 @@
     "era": "1866",
     "spotifyUrl": "https://open.spotify.com/track/4gsYTXoEpib5mg8qGLdmyJ",
     "youtubeUrl": "https://www.youtube.com/watch?v=lV2ml_5qROo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9142,6 +9514,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/6Fes7eGlr1Xg7kuUq7jROg",
     "youtubeUrl": "https://www.youtube.com/watch?v=xpFUpcb6E98",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9160,6 +9533,7 @@
     "era": "",
     "spotifyUrl": "https://open.spotify.com/track/43CMOV9TVTRVLtughonQEo",
     "youtubeUrl": "https://www.youtube.com/watch?v=G7dQZ4TyMfw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9178,6 +9552,7 @@
     "era": "1994",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9203,6 +9578,7 @@
     "era": "17. Jh. / 2018",
     "spotifyUrl": "https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb",
     "youtubeUrl": "https://www.youtube.com/watch?v=zz9I9BaiCpk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -9234,6 +9610,7 @@
     "era": "1415",
     "spotifyUrl": "https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao",
     "youtubeUrl": "https://www.youtube.com/watch?v=Q-Weoj3Zc7A",
+    "bandcampUrl": "https://scimitar.bandcamp.com/track/knights-collapse",
     "sources": [
       {
         "type": "bandcamp",
@@ -9255,6 +9632,7 @@
     "era": "1989/90",
     "spotifyUrl": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw",
     "youtubeUrl": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -9281,6 +9659,7 @@
     ],
     "era": "60/61 n. Chr. / 2026",
     "youtubeUrl": null,
+    "bandcampUrl": "https://sellsword.bandcamp.com/album/with-might-and-vengeance",
     "sources": [
       {
         "type": "band",
@@ -9301,6 +9680,7 @@
     ],
     "era": "1066 / 2016",
     "youtubeUrl": "https://www.youtube.com/watch?v=YAwkaPWTfrY",
+    "bandcampUrl": "https://sellsword.bandcamp.com/track/hardrada",
     "sources": [
       {
         "type": "band",
@@ -9330,6 +9710,7 @@
     ],
     "era": "Frühmittelalter / 2024",
     "youtubeUrl": "https://www.youtube.com/watch?v=GD-eZVQorPI",
+    "bandcampUrl": "https://sellsword.bandcamp.com/track/saxon-steel",
     "sources": [
       {
         "type": "band",
@@ -9364,6 +9745,7 @@
     ],
     "era": "1304 / 2026",
     "youtubeUrl": null,
+    "bandcampUrl": "https://sellsword.bandcamp.com/album/with-might-and-vengeance",
     "sources": [
       {
         "type": "band",
@@ -9384,6 +9766,7 @@
     "era": "336–323 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/5T9cFpoaEjkBPZaMrocniw",
     "youtubeUrl": "https://www.youtube.com/watch?v=jOi8ujXxKTk",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/track/age-of-glory",
     "sources": [
       {
         "type": "band",
@@ -9409,6 +9792,7 @@
     "era": "1588 / Elizabethanisch",
     "spotifyUrl": "https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT",
     "youtubeUrl": "https://www.youtube.com/watch?v=hl6fbXMoPug",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -9434,6 +9818,7 @@
     "era": "1488",
     "spotifyUrl": "https://open.spotify.com/track/5OOpEmpsNgafCk26QVLlBC",
     "youtubeUrl": "https://www.youtube.com/watch?v=sP88-w9DP4E",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/track/far-from-home",
     "sources": [
       {
         "type": "wikipedia",
@@ -9464,6 +9849,7 @@
     "era": "1307–1314",
     "spotifyUrl": "https://open.spotify.com/track/2JAfWoa0vwT0VCye4Zyu4W",
     "youtubeUrl": "https://www.youtube.com/watch?v=18PM8wwJ05E",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/track/heavenly-mission",
     "sources": [
       {
         "type": "wikipedia",
@@ -9489,6 +9875,7 @@
     "era": "1577–1580",
     "spotifyUrl": "https://open.spotify.com/track/2mG9eZdCEkM9WQKNnw8Cp9",
     "youtubeUrl": "https://www.youtube.com/watch?v=7JsdtV7O3dI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -9514,6 +9901,7 @@
     "era": "um 1500 / Renaissance",
     "spotifyUrl": "https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4",
     "youtubeUrl": "https://www.youtube.com/watch?v=G38B-vTBiPs",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/album/nemesis-ad",
     "sources": [
       {
         "type": "bandcamp",
@@ -9544,6 +9932,7 @@
     "era": "1486/87",
     "spotifyUrl": "https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA",
     "youtubeUrl": "https://www.youtube.com/watch?v=lQv-IzoH8rI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -9568,6 +9957,7 @@
     "era": "frühes 19. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c",
     "youtubeUrl": "https://www.youtube.com/watch?v=vaMBn0GsgLY",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/track/symphony-for-the-quiet",
     "sources": [
       {
         "type": "lyrics",
@@ -9592,6 +9982,7 @@
     "era": "frühes 19. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/0KbtM8TcL6UcRStQsP26wi",
     "youtubeUrl": "https://www.youtube.com/watch?v=U77UB9sRCxo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -9612,6 +10003,7 @@
     "era": "59 n. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl",
     "youtubeUrl": "https://www.youtube.com/watch?v=7sxm_w1q3BE",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/track/the-matricide",
     "sources": [
       {
         "type": "wikipedia",
@@ -9631,6 +10023,7 @@
     "era": "ca. 1610",
     "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
     "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+    "bandcampUrl": "https://serenityaustria.bandcamp.com/album/war-of-ages",
     "sources": [
       {
         "type": "wikipedia",
@@ -9657,6 +10050,7 @@
     "era": "1951–1953",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=jufKlgJgBLM",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9683,6 +10077,7 @@
     "era": "spätes 19. / frühes 20. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj",
     "youtubeUrl": "https://www.youtube.com/watch?v=XLvDxovqb1U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -9714,6 +10109,7 @@
     "era": "79",
     "spotifyUrl": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz",
     "youtubeUrl": "https://www.youtube.com/watch?v=wsOHvP1XnRg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "interview",
@@ -9738,6 +10134,7 @@
     "era": "1997 (Cannabis-Kultur)",
     "spotifyUrl": "https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf",
     "youtubeUrl": "https://www.youtube.com/watch?v=rC31wCvTOao",
+    "bandcampUrl": "https://sixfeetunder.bandcamp.com/track/4-20-2",
     "sources": [
       {
         "type": "lyrics",
@@ -9763,6 +10160,7 @@
     "era": "1415",
     "spotifyUrl": "https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7",
     "youtubeUrl": "https://www.youtube.com/watch?v=OW0U92r63Jc",
+    "bandcampUrl": "https://trueskelator.bandcamp.com/track/victory-henry-v",
     "sources": [
       {
         "type": "lyrics",
@@ -9795,6 +10193,7 @@
     "era": "1745",
     "spotifyUrl": "https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k",
     "youtubeUrl": "https://www.youtube.com/watch?v=gdbGQmwRelQ",
+    "bandcampUrl": "https://skiltron.bandcamp.com/album/into-the-battleground",
     "sources": [
       {
         "type": "lyrics",
@@ -9819,6 +10218,7 @@
     "era": "1989",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9838,6 +10238,7 @@
     "era": "1992",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9861,6 +10262,7 @@
     "era": "16.–20. Jh. / 2009",
     "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
     "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9886,6 +10288,7 @@
     "era": "1990",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9907,6 +10310,7 @@
     "era": "1900",
     "spotifyUrl": "https://open.spotify.com/track/13nrwSgw5DYKS220rfxfvi",
     "youtubeUrl": "https://www.youtube.com/watch?v=vCBpBOZ3dXA",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -9934,6 +10338,7 @@
     "era": "1779–1803",
     "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
     "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -9960,6 +10365,7 @@
     "era": "1920s",
     "spotifyUrl": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
     "youtubeUrl": "https://www.youtube.com/watch?v=9TJZATUpcts",
+    "bandcampUrl": "https://spiritofplay.bandcamp.com/track/arthur",
     "sources": [
       {
         "type": "lyrics",
@@ -9990,6 +10396,7 @@
     "era": "20./21. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://statiskoljemusikk.bandcamp.com/track/hyper-capitalistic-wet-dream-finding-the-black-gold",
     "sources": [
       {
         "type": "bandcamp",
@@ -10020,6 +10427,7 @@
     "era": "1746 / 1971",
     "spotifyUrl": "https://open.spotify.com/track/0hSEM5WDjY1DeG7j26oYx5",
     "youtubeUrl": "https://www.youtube.com/watch?v=1U1C-CGaaqs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10047,6 +10455,7 @@
     "era": "1911–1912 / 1976–1977",
     "spotifyUrl": "https://open.spotify.com/track/1QkVzFHynPhHSgrOcWejfk",
     "youtubeUrl": "https://www.youtube.com/watch?v=ixLq2DVUumQ",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -10078,6 +10487,7 @@
     "era": "1701–1719 / 1978",
     "spotifyUrl": "https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z",
     "youtubeUrl": "https://www.youtube.com/watch?v=dpTogEzcbvo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -10104,6 +10514,7 @@
     "era": "1701–1719 / 1978",
     "spotifyUrl": "https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke",
     "youtubeUrl": "https://www.youtube.com/watch?v=plMh2A33ino",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -10128,6 +10539,7 @@
     "era": "1993",
     "spotifyUrl": "https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8",
     "youtubeUrl": "https://www.youtube.com/watch?v=_RY5yOlvEgo",
+    "bandcampUrl": "https://stoppok.bandcamp.com/track/der-k-hlschrank",
     "sources": [
       {
         "type": "lyrics",
@@ -10156,6 +10568,7 @@
     "era": "1953 / 2019",
     "spotifyUrl": "https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=6fuC4C2JQns",
+    "bandcampUrl": "https://stormcrowblackmetal.bandcamp.com/album/face-the-giant-2",
     "sources": [
       {
         "type": "band",
@@ -10194,6 +10607,7 @@
     "era": "29–19 v. Chr. (Aeneis)",
     "spotifyUrl": "https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ym_Hjte7W7Q",
+    "bandcampUrl": "https://stormlord.bandcamp.com/album/hesperia",
     "sources": [
       {
         "type": "lyrics",
@@ -10231,6 +10645,7 @@
     "era": "149–146 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG",
     "youtubeUrl": null,
+    "bandcampUrl": "https://stormlord.bandcamp.com/album/mare-nostrum",
     "sources": [
       {
         "type": "lyrics",
@@ -10262,6 +10677,7 @@
     "era": "1669–1703 / 2001",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://blacklodgerecords.bandcamp.com/album/reflections",
     "sources": [
       {
         "type": "lyrics",
@@ -10293,6 +10709,7 @@
     "era": "79",
     "spotifyUrl": "https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3",
     "youtubeUrl": "https://www.youtube.com/watch?v=R8OYRZDHK4s",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "band",
@@ -10330,6 +10747,7 @@
     "era": "1876",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=GDJekqfKLdY",
+    "bandcampUrl": "https://stringybarkband.bandcamp.com/track/the-catalpa",
     "sources": [
       {
         "type": "secondary",
@@ -10355,6 +10773,7 @@
     "era": "1981–1985 / 2020",
     "spotifyUrl": "https://open.spotify.com/track/3SpWpHiCt8tbPuZG9AX0Wi",
     "youtubeUrl": "https://www.youtube.com/watch?v=jn7_JpmhZP0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -10380,6 +10799,7 @@
     "era": "ca. 1610",
     "spotifyUrl": "https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2",
     "youtubeUrl": "https://www.youtube.com/watch?v=WKlK7x9x3uk",
+    "bandcampUrl": "https://sunn.bandcamp.com/track/b-thory-erz-bet",
     "sources": [
       {
         "type": "band",
@@ -10405,6 +10825,7 @@
     "era": "2010",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10430,6 +10851,7 @@
     "era": "2060 (fiktiv)",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10450,6 +10872,7 @@
     "era": "1831 / 2025",
     "spotifyUrl": "https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD",
     "youtubeUrl": "https://www.youtube.com/watch?v=2JnmtQVgcL0",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -10476,6 +10899,7 @@
     "era": "1866",
     "spotifyUrl": "https://open.spotify.com/track/0shtet0BcnzRZ87nhjznUC",
     "youtubeUrl": "https://www.youtube.com/watch?v=9m4GvNCnVmI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10498,6 +10922,7 @@
     "era": "1947 / 1955",
     "spotifyUrl": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS",
     "youtubeUrl": "https://www.youtube.com/watch?v=B9j91-18Kb4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -10524,6 +10949,7 @@
     "era": "1920s",
     "spotifyUrl": "https://open.spotify.com/track/0gRuWSElMKzQAqA9YPCaja",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10560,6 +10986,7 @@
     "era": "1910–1930 / 2011",
     "spotifyUrl": "https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir",
     "youtubeUrl": "https://www.youtube.com/watch?v=T1-cES1Ekto",
+    "bandcampUrl": "https://theamoebapeople.bandcamp.com/track/continental-drift-alfred-wegeners-brilliant-theory",
     "sources": [
       {
         "type": "band",
@@ -10588,6 +11015,7 @@
     "era": "1950er / 2019",
     "spotifyUrl": "https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa",
     "youtubeUrl": "https://www.youtube.com/watch?v=NuugQSaHM7Y",
+    "bandcampUrl": "https://theamoebapeople.bandcamp.com/album/the-fossil-record",
     "sources": [
       {
         "type": "band",
@@ -10620,6 +11048,7 @@
     "era": "19. Jh. / USA",
     "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
     "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+    "bandcampUrl": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
     "sources": [
       {
         "type": "bandcamp",
@@ -10640,6 +11069,7 @@
     "era": "1865 / 1966",
     "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10668,6 +11098,7 @@
     "era": "16. Jh. / 2009",
     "spotifyUrl": "https://open.spotify.com/track/3oPRyueX4DRrElO2Dthz5u",
     "youtubeUrl": "https://www.youtube.com/watch?v=3uF76hF4rCU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10694,6 +11125,7 @@
     "era": "16. Jh. / 2015",
     "spotifyUrl": "https://open.spotify.com/track/2mbxjbXRmcBO1x6WBHF7B9",
     "youtubeUrl": "https://www.youtube.com/watch?v=HM-CVL2zAYw",
+    "bandcampUrl": "https://gothardsisters.bandcamp.com/album/mountain-rose",
     "sources": [
       {
         "type": "lyrics",
@@ -10720,6 +11152,7 @@
     "era": "1867 / 2022",
     "spotifyUrl": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
     "youtubeUrl": "https://www.youtube.com/watch?v=HeMyN6FyAHs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -10746,6 +11179,7 @@
     "era": "1944–1945 / 2025",
     "spotifyUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
     "youtubeUrl": "https://www.youtube.com/watch?v=9WPUlaLayxU",
+    "bandcampUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
     "sources": [
       {
         "type": "bandcamp",
@@ -10775,6 +11209,7 @@
     "era": "1933",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "youtube",
@@ -10803,6 +11238,7 @@
     "era": "1860–1861 / 1970",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "discogs",
@@ -10832,6 +11268,7 @@
     "era": "1942–1945 / 2017",
     "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
     "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
+    "bandcampUrl": "https://metalalliance.bandcamp.com/track/beast-of-war",
     "sources": [
       {
         "type": "lyrics",
@@ -10865,6 +11302,7 @@
     "era": "1789 / 2009",
     "spotifyUrl": "https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl",
     "youtubeUrl": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -10895,6 +11333,7 @@
     "era": "1816 / Gemälde 1818–19",
     "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
     "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10926,6 +11365,7 @@
     "era": "1746 / 1995",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -10953,6 +11393,7 @@
     "era": "1876",
     "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
     "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
+    "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/the-catalpa",
     "sources": [
       {
         "type": "lyrics",
@@ -10979,6 +11420,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE",
     "youtubeUrl": "https://www.youtube.com/watch?v=btsX8GgBkK0",
+    "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/the-night-the-lights-went-out-in-scotland",
     "sources": [
       {
         "type": "lyrics",
@@ -11004,6 +11446,7 @@
     "era": "1746 / 2005",
     "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
     "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
+    "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/will-ye-no-come-back-again",
     "sources": [
       {
         "type": "lyrics",
@@ -11028,6 +11471,7 @@
     "era": "1791 / 2022",
     "spotifyUrl": "https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J",
     "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
+    "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/ye-jacobites-by-name",
     "sources": [
       {
         "type": "lyrics",
@@ -11053,6 +11497,7 @@
     "era": "1943 / 2020",
     "spotifyUrl": "https://open.spotify.com/track/3VJlAP0z2VPKd4gDeveZo0",
     "youtubeUrl": "https://www.youtube.com/watch?v=Isy8l9PFoY4",
+    "bandcampUrl": "https://tstat.bandcamp.com/album/fading-sun",
     "sources": [
       {
         "type": "lyrics",
@@ -11077,6 +11522,7 @@
     "era": "1845 / 1999",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
+    "bandcampUrl": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
     "sources": [
       {
         "type": "band",
@@ -11103,6 +11549,7 @@
     "era": "1845 / 1999",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
+    "bandcampUrl": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
     "sources": [
       {
         "type": "lyrics",
@@ -11126,6 +11573,7 @@
     "era": "2018",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": "https://thetwindows.bandcamp.com/track/dig-tree",
     "sources": [
       {
         "type": "bandcamp",
@@ -11151,6 +11599,7 @@
     "era": "16. Jh. / Pearse ca. 1916 / Trad.",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=ncZc7GwpVXU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -11178,6 +11627,7 @@
     "era": "1914–1917 / 2017",
     "spotifyUrl": "https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J",
     "youtubeUrl": "https://www.youtube.com/watch?v=sJ7mYvFrc_Y",
+    "bandcampUrl": "https://wrightvalley.bandcamp.com/album/shackleton",
     "sources": [
       {
         "type": "lyrics",
@@ -11209,6 +11659,7 @@
     "era": "14. Jh. v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/4A4QQVNdJeSB4ypf0DS9Sa",
     "youtubeUrl": "https://www.youtube.com/watch?v=LfqecEyN1Ds",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -11233,6 +11684,7 @@
     "era": "1899 / 1989",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11258,6 +11710,7 @@
     "era": "1917–1930er / 2021",
     "spotifyUrl": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v",
     "youtubeUrl": "https://www.youtube.com/watch?v=yD0P0bwZKk8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "interview",
@@ -11281,6 +11734,7 @@
     "era": " Mathematik / Fibonacci (Song 2001)",
     "spotifyUrl": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y7JG63IuaWs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11301,6 +11755,7 @@
     "era": "2006",
     "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
     "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11325,6 +11780,7 @@
     "era": "1796–1814",
     "spotifyUrl": "https://open.spotify.com/track/2TPX6hfGNDc86vFSjvrtkq",
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "review",
@@ -11357,6 +11813,7 @@
     "era": "1947 / 1995",
     "spotifyUrl": "https://open.spotify.com/track/3hEqEzQg6KGMuzROEcELrL",
     "youtubeUrl": "https://www.youtube.com/watch?v=sufrH2MNhHU",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11382,6 +11839,7 @@
     "era": "Byzanz / frühes Mittelalter",
     "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
     "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
+    "bandcampUrl": "https://centurymedia.bandcamp.com/track/greek-fire",
     "sources": [
       {
         "type": "lyrics",
@@ -11407,6 +11865,7 @@
     "era": "11. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/1HMcYg6gxITWNk9equYdE8",
     "youtubeUrl": "https://www.youtube.com/watch?v=zcvW7dBKB0U",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11428,6 +11887,7 @@
     "era": "9.–11. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1",
     "youtubeUrl": "https://www.youtube.com/watch?v=u5OvUSgUfRE",
+    "bandcampUrl": "https://centurymedia.bandcamp.com/track/miklagard-overture",
     "sources": [
       {
         "type": "secondary",
@@ -11444,6 +11904,7 @@
     "era": null,
     "spotifyUrl": "https://open.spotify.com/track/2ZZo65CEkA83Q662zNebIP",
     "youtubeUrl": "https://www.youtube.com/watch?v=7woW7DmnR0E",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -11470,6 +11931,7 @@
     "era": "11. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
     "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
+    "bandcampUrl": "https://centurymedia.bandcamp.com/track/the-march-of-the-varangian-guard",
     "sources": [
       {
         "type": "secondary",
@@ -11491,6 +11953,7 @@
     "era": "9.–11. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS",
     "youtubeUrl": "https://www.youtube.com/watch?v=CB1_60VTCVg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11523,6 +11986,7 @@
     "era": "Byzanz / 6. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I",
     "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
+    "bandcampUrl": "https://centurymedia.bandcamp.com/track/venitoi-prasinoi",
     "sources": [
       {
         "type": "lyrics",
@@ -11549,6 +12013,7 @@
     "era": "1741–1768 / 2024",
     "spotifyUrl": "https://open.spotify.com/album/4Yghnc7IdDcmx1oILgTJSa",
     "youtubeUrl": null,
+    "bandcampUrl": "https://uknowhat.bandcamp.com/track/stellers-sea-cow",
     "sources": [
       {
         "type": "bandcamp",
@@ -11574,6 +12039,7 @@
     "era": "1746",
     "spotifyUrl": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
     "youtubeUrl": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
+    "bandcampUrl": "https://ultan1.bandcamp.com/track/the-tempest",
     "sources": [
       {
         "type": "lyrics",
@@ -11611,6 +12077,7 @@
     "era": "1869 / 2022",
     "spotifyUrl": "https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK",
     "youtubeUrl": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+    "bandcampUrl": "https://unconquerable.bandcamp.com/album/imperial-genocide",
     "sources": [
       {
         "type": "secondary",
@@ -11647,6 +12114,7 @@
     "era": "19. Jh. / Stan Rogers 1981",
     "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
     "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
+    "bandcampUrl": "https://unleashthearchers.bandcamp.com/track/northwest-passage",
     "sources": [
       {
         "type": "band",
@@ -11671,6 +12139,7 @@
     "era": "2014",
     "spotifyUrl": "https://usneadoom.bandcamp.com/track/healing-through-death",
     "youtubeUrl": "https://www.youtube.com/watch?v=miEhmEEhGCg",
+    "bandcampUrl": "https://usneadoom.bandcamp.com/track/healing-through-death",
     "sources": [
       {
         "type": "bandcamp",
@@ -11698,6 +12167,7 @@
     "era": "20. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": "https://www.youtube.com/watch?v=6KvTK-Ee6b8",
+    "bandcampUrl": "https://20buckspin.bandcamp.com/album/persian-pillars-of-the-gasoline-era",
     "sources": [
       {
         "type": "bandcamp",
@@ -11723,6 +12193,7 @@
     "era": "ca. 1610",
     "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
     "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "wikipedia",
@@ -11744,6 +12215,7 @@
     "era": "1775–1857 / 2012",
     "spotifyUrl": "https://open.spotify.com/track/4XcSpZvLtpm8kOtGdapQgt",
     "youtubeUrl": "https://www.youtube.com/watch?v=XtRjkSjofZ0&list=OLAK5uy_mXa53SWrBgLKGCVRBGiM393X2ntCN9kJo",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11767,6 +12239,7 @@
     "era": "Mythos / 19.–20. Jh. Lemuria-Idee",
     "spotifyUrl": "https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr",
     "youtubeUrl": "https://www.youtube.com/watch?v=4tJAdUahyTA",
+    "bandcampUrl": "https://visionsofatlantis.bandcamp.com/track/return-to-lemuria",
     "sources": [
       {
         "type": "secondary",
@@ -11790,6 +12263,7 @@
     "era": "19. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL",
     "youtubeUrl": "https://www.youtube.com/watch?v=GWOIDN-akrY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11810,6 +12284,7 @@
     "era": "Kreuzzugszeit",
     "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
     "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
+    "bandcampUrl": "https://warkings.bandcamp.com/track/azrael",
     "sources": [
       {
         "type": "lyrics",
@@ -11836,6 +12311,7 @@
     "era": "490 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
     "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk",
+    "bandcampUrl": "https://warkings.bandcamp.com/track/battle-of-marathon",
     "sources": [
       {
         "type": "lyrics",
@@ -11857,6 +12333,7 @@
     "era": "9 n. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/4vLX79K7l6bK1OqvsqkaaM",
     "youtubeUrl": "https://www.youtube.com/watch?v=5PWVOywu5Dg",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -11876,6 +12353,7 @@
     "era": "13. Jh.",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11897,6 +12375,7 @@
     "era": "331 v. Chr. / 2025",
     "spotifyUrl": "https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt",
     "youtubeUrl": "https://www.youtube.com/watch?v=qrCn-SkuIWo",
+    "bandcampUrl": "https://warkings.bandcamp.com/track/nightfall",
     "sources": [
       {
         "type": "secondary",
@@ -11928,6 +12407,7 @@
     "era": "480 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
     "youtubeUrl": "https://www.youtube.com/watch?v=MeOSgsJJ12M",
+    "bandcampUrl": "https://warkings.bandcamp.com/track/sparta",
     "sources": [
       {
         "type": "secondary",
@@ -11948,6 +12428,7 @@
     "era": "73–71 v. Chr.",
     "spotifyUrl": "https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg",
     "youtubeUrl": "https://www.youtube.com/watch?v=RAqzE1TWzvk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -11974,6 +12455,7 @@
     "era": "10.–13. Jh.",
     "spotifyUrl": "https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL",
     "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
+    "bandcampUrl": "https://warkings.bandcamp.com/album/armageddon",
     "sources": [
       {
         "type": "lyrics",
@@ -12005,6 +12487,7 @@
     "era": "Karten/Mythos / 2026",
     "spotifyUrl": "https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w",
     "youtubeUrl": "https://www.youtube.com/watch?v=vVd8E4gb5Dk",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -12030,6 +12513,7 @@
     "era": "1993",
     "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
     "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -12055,6 +12539,7 @@
     "era": "1860 / 2000s",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -12081,6 +12566,7 @@
     "era": "1861 / 2000s",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -12106,6 +12592,7 @@
     "era": "1860–1861 / 2000s",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -12133,6 +12620,7 @@
     "era": "1916 / 1993",
     "spotifyUrl": "https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855",
     "youtubeUrl": "https://www.youtube.com/watch?v=Hn9VT-BFryo",
+    "bandcampUrl": "https://widespreadpanic.bandcamp.com/track/hatfield",
     "sources": [
       {
         "type": "lyrics",
@@ -12163,6 +12651,7 @@
     "era": "Frühe Neuzeit (Shanty) / 2012",
     "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
     "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+    "bandcampUrl": "https://wilderun.bandcamp.com/album/olden-tales-deathly-trails",
     "sources": [
       {
         "type": "bandcamp",
@@ -12195,6 +12684,7 @@
     "era": "-1274",
     "spotifyUrl": "https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85",
     "youtubeUrl": "https://www.youtube.com/watch?v=5FKciHZdlN8",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "interview",
@@ -12219,6 +12709,7 @@
     ],
     "era": "17. Jh. / 2015",
     "spotifyUrl": "https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -12246,6 +12737,7 @@
     "era": "778 / 12. Jh. / 2007",
     "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
     "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
+    "bandcampUrl": "https://wotanofficial.bandcamp.com/track/la-chanson-de-roland",
     "sources": [
       {
         "type": "lyrics",
@@ -12272,6 +12764,7 @@
     "era": "1590 / 2015",
     "spotifyUrl": "https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7",
     "youtubeUrl": "https://www.youtube.com/watch?v=-YslNNsZx7A",
+    "bandcampUrl": "https://wrekmeisterharmonies.bandcamp.com/album/night-of-your-ascension",
     "sources": [
       {
         "type": "bandcamp",
@@ -12306,6 +12799,7 @@
     "era": "6. Jh. / 2007",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -12331,6 +12825,7 @@
     "era": "1894–1906",
     "spotifyUrl": null,
     "youtubeUrl": null,
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",
@@ -12356,6 +12851,7 @@
     "era": "1587–1590 / 2021",
     "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
     "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
+    "bandcampUrl": "https://officialzao.bandcamp.com/track/croatoan",
     "sources": [
       {
         "type": "lyrics",
@@ -12383,6 +12879,7 @@
     "era": "1947 / 2016",
     "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
     "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "secondary",
@@ -12408,6 +12905,7 @@
     "era": "1520 / 2018",
     "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
     "youtubeUrl": null,
+    "bandcampUrl": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
     "sources": [
       {
         "type": "bandcamp",
@@ -12433,6 +12931,7 @@
     "era": "1950er / 2023",
     "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
     "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+    "bandcampUrl": null,
     "sources": [
       {
         "type": "lyrics",

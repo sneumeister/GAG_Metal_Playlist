@@ -54,6 +54,7 @@ def _table_rows(entries: list) -> list[str]:
                     _cell(stufe),
                     _md_link("link", link_or_empty(e.get("youtubeUrl"))),
                     _md_link("link", link_or_empty(e.get("spotifyUrl"))),
+                    _md_link("link", link_or_empty(e.get("bandcampUrl"))),
                 ]
             )
             + " |"
@@ -85,8 +86,8 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
         "**Stufe B** – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.  ",
         "**Stufe C** – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.",
         "",
-        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |",
-        "| ---: | --- | --- | --- | :---: | :---: | :---: |",
+        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |",
+        "| :---: | --- | --- | --- | :---: | :---: | :---: | :---: |",
     ]
     lines.extend(_table_rows(entries))
     lines.append("")
@@ -118,8 +119,8 @@ def render_rejected_markdown(
         "**Stufe X** – kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Genre-Fail, …).  ",
         "Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.",
         "",
-        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify |",
-        "| ---: | --- | --- | --- | :---: | :---: | :---: |",
+        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |",
+        "| :---: | --- | --- | --- | :---: | :---: | :---: | :---: |",
     ]
     lines.extend(_table_rows(entries))
     lines.append("")
