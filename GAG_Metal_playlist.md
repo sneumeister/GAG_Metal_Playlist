@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-12 22:51:37 +0100<br>**JSON-Status:** 2026-11-12 22:50:36 +0100</small>
+<small>**Compile-Datum:** 2026-11-13 19:49:21 +0100<br>**JSON-Status:** 2026-11-13 19:44:15 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -239,13 +239,20 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | [link](https://www.youtube.com/watch?v=w6vP8LvhUFU) | [link](https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Barbarian | A | [link](https://www.youtube.com/watch?v=FBnIC1hRWO8) | [link](https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Anduril | Culloden | A | [link](https://www.youtube.com/watch?v=4GX2lMmsZq8) | [link](https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Culloden Moor | A | [link](https://www.youtube.com/watch?v=L9m_m0y_FZI) | [link](https://open.spotify.com/track/4bWlZiwmXBzaOL9udTB2t9) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Culloden Muir | A | [link](https://www.youtube.com/watch?v=Krjrb0fTG5A) | [link](https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Fuigheall | B | [link](https://www.youtube.com/watch?v=-mA5r1KGpIk) | [link](https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Culloden | Hills of Culloden | A | [link](https://www.youtube.com/watch?v=S9hNxGo9Iy0) | [link](https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Skiltron | Prestonpans 1745 | B | [link](https://www.youtube.com/watch?v=gdbGQmwRelQ) | [link](https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Rebellion (The Clans Are Marching) | B | [link](https://www.youtube.com/watch?v=Ns1K33XnH9g) | [link](https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Skye Boat Song | A | [link](https://www.youtube.com/watch?v=yuQMLw4Wd1U) | — |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Sound the Pibroch | A | [link](https://www.youtube.com/watch?v=dzFcpCDM7rk) | [link](https://open.spotify.com/track/74gMBtThAbJ0fHzBxVfFc3) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | The Last of the Stuarts | A | [link](https://www.youtube.com/watch?v=ZaiCPDU_S0w) | [link](https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | The Night the Lights Went Out in Scotland | A | [link](https://www.youtube.com/watch?v=btsX8GgBkK0) | [link](https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | The Standard on the Braes o'Mar | B | [link](https://www.youtube.com/watch?v=BoqgJPzIoW4) | [link](https://open.spotify.com/track/6CPO5QMaiW489gzow0cugw) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Ultan JP | The Tempest | A | [link](https://www.youtube.com/watch?v=MrV6Q5F6A9E) | [link](https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | The Yellow Locks of Charlie | B | [link](https://www.youtube.com/watch?v=_V022xlHgBI) | [link](https://open.spotify.com/track/2qBYeuCyHLSieI7Ex2ntaM) |
+| [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Wha Wadna Fecht for Charlie | B | [link](https://www.youtube.com/watch?v=napEXYkFEaU) | [link](https://open.spotify.com/track/5oZBsU3Zu5Y6ldagrTbBoh) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Will Ye No Come Back Again? | A | [link](https://www.youtube.com/watch?v=t4ykwaOMeYo) | [link](https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X) |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | The Real McKenzies | Ye Jacobites by Name | B | [link](https://www.youtube.com/watch?v=WdNkFtwTLro) | [link](https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J) |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Master's Hammer | Bicycle Day | C | [link](https://www.youtube.com/watch?v=Hdbu8hqhGvY) | [link](https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV) |

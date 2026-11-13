@@ -271,6 +271,35 @@
     ]
   },
   {
+    "id": "alice-cooper-refrigerator-heaven",
+    "band": "Alice Cooper",
+    "title": "Refrigerator Heaven",
+    "entities": [
+      "Kryonik",
+      "Kälte"
+    ],
+    "era": "1970",
+    "spotifyUrl": "https://open.spotify.com/track/03Uz7MChe5y0ZXXx6AII7k",
+    "youtubeUrl": "https://www.youtube.com/watch?v=eCunM-apXRE",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.alicecooperechive.com/albums/lyrics/easy-action/7",
+        "note": "Easy Action: Kryokonservierung bis Krebsheilung, tomb/ice packed"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=eCunM-apXRE",
+        "note": "Alice Cooper – Refrigerator Heaven"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/03Uz7MChe5y0ZXXx6AII7k",
+        "note": "Refrigerator Heaven"
+      }
+    ]
+  },
+  {
     "id": "allegaeon-concerto-in-dm",
     "band": "Allegaeon",
     "title": "Concerto in Dm",
@@ -1209,6 +1238,366 @@
     ]
   },
   {
+    "id": "cnoc-an-tursa-blar-na-h-eaglaise-brice",
+    "band": "Cnoc An Tursa",
+    "title": "Blàr na h-Eaglaise Brice",
+    "entities": [
+      "Falkirk",
+      "Schlacht von Falkirk",
+      "Jakobitenaufstand 1745"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/0CvVbVeYQk5aPPjtC0enin",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JZaw4gjxt2c",
+    "sources": [
+      {
+        "type": "encyclopedia",
+        "url": "https://www.metal-archives.com/albums/Cnoc_an_Tursa/The_Giants_of_Auld/378639",
+        "note": "The Giants of Auld Track 10 (~3:17), marked instrumental"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://chrsouchon.free.fr/blarnahe.htm",
+        "note": "Titel = Battle of Falkirk 17 Jan 1746 (Gaelic)"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=JZaw4gjxt2c",
+        "note": "Blàr Na H-Eaglaise Brice – Cnoc An Tursa"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/0CvVbVeYQk5aPPjtC0enin",
+        "note": "Blàr na h-Eaglaise Brice"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-culloden-moor",
+    "band": "Cnoc An Tursa",
+    "title": "Culloden Moor",
+    "entities": [
+      "Culloden",
+      "Schlacht bei Culloden",
+      "Jakobitenaufstand 1745",
+      "Highland Clans"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/4bWlZiwmXBzaOL9udTB2t9",
+    "youtubeUrl": "https://www.youtube.com/watch?v=L9m_m0y_FZI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://metalstorm.net/bands/lyrics.php?album_id=75659&band_id=8148",
+        "note": "Vertonung Gedicht Alice Macdonell: Culloden Moor, fatal day, Heldengrab"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://candlelightrecordsuk.bandcamp.com/album/the-giants-of-auld",
+        "note": "The Giants of Auld (2013), Track 9"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=L9m_m0y_FZI",
+        "note": "Cnoc An Tursa – Culloden Moor"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/4bWlZiwmXBzaOL9udTB2t9",
+        "note": "Culloden Moor"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-flora-macdonald",
+    "band": "Cnoc An Tursa",
+    "title": "Flora MacDonald",
+    "entities": [
+      "Flora MacDonald",
+      "Bonnie Prince Charlie",
+      "Isle of Skye"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/18unvdmGsjZSzRKJwIJ3Ec",
+    "youtubeUrl": "https://www.youtube.com/watch?v=65kfWuyE-ds",
+    "sources": [
+      {
+        "type": "review",
+        "url": "https://www.themetalgodsmeltdown.com/cnoc-an-tursa-the-forty-five",
+        "note": "Melancholisches Instrumental-Interlude; Flora half Charlie zur Skye-Flucht"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
+        "note": "The Forty Five (2017), Track 5 (~2:09), instrumental"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=65kfWuyE-ds",
+        "note": "Flora Macdonald – Cnoc An Tursa"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/18unvdmGsjZSzRKJwIJ3Ec",
+        "note": "Flora MacDonald"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-fuigheall",
+    "band": "Cnoc An Tursa",
+    "title": "Fuigheall",
+    "entities": [
+      "Prestonpans",
+      "Prince Charles Stuart",
+      "King George",
+      "Jakobitenaufstand 1745"
+    ],
+    "era": "1745",
+    "spotifyUrl": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://chrsouchon.free.fr/fragment.htm",
+        "note": "Fuigheall/A Fragment: Prestonpans, Remnant, last attempt für Charles vs George"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
+        "note": "The Forty Five (2017), Track 7"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
+        "note": "Band-Upload: Cnoc An Tursa – Fuigheall"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
+        "note": "Fuigheall"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-sound-the-pibroch",
+    "band": "Cnoc An Tursa",
+    "title": "Sound the Pibroch",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Loch Shiel",
+      "Jakobitenaufstand 1745",
+      "Highland Clans"
+    ],
+    "era": "1745",
+    "spotifyUrl": "https://open.spotify.com/track/74gMBtThAbJ0fHzBxVfFc3",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dzFcpCDM7rk",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://highresolutionmusic.com/song/sound-the-pibroch-7910994",
+        "note": "Loch Shiel/Charlie-Aufruf; Schluss: lonely cairns, deserted glens, died for Charlie"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
+        "note": "The Forty Five (2017), Track 6"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=dzFcpCDM7rk",
+        "note": "Band-Upload: Cnoc An Tursa – Sound the Pibroch"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/74gMBtThAbJ0fHzBxVfFc3",
+        "note": "Sound the Pibroch"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-the-last-of-the-stuarts",
+    "band": "Cnoc An Tursa",
+    "title": "The Last of the Stuarts",
+    "entities": [
+      "Culloden",
+      "Stuart",
+      "Jakobitenaufstand 1745",
+      "Bonnie Prince Charlie"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZaiCPDU_S0w",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://chrsouchon.free.fr/laststua.htm",
+        "note": "Ballade Daniel Weir: Culloden seals Stuart destiny; Grab in der Fremde"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/track/the-last-of-the-stuarts",
+        "note": "The Forty Five (2017), Track 8 / Closer"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ZaiCPDU_S0w",
+        "note": "Cnoc An Tursa – The Last of the Stuarts"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok",
+        "note": "The Last of the Stuarts"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-the-standard-on-the-braes-omar",
+    "band": "Cnoc An Tursa",
+    "title": "The Standard on the Braes o'Mar",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Braes o'Mar",
+      "Jakobitenaufstand",
+      "Highland Clans"
+    ],
+    "era": "1715 / 1745",
+    "spotifyUrl": "https://open.spotify.com/track/6CPO5QMaiW489gzow0cugw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=BoqgJPzIoW4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "http://chrsouchon.free.fr/braemar.htm",
+        "note": "Historisch Banner Braemar 1715 (Jammie); spaetere Fassungen mischen Charlie"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
+        "note": "The Forty Five (2017), Track 3"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=BoqgJPzIoW4",
+        "note": "The Standard on the Braes O Mar – Cnoc An Tursa"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/6CPO5QMaiW489gzow0cugw",
+        "note": "The Standard on the Braes o'Mar"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-the-yellow-locks-of-charlie",
+    "band": "Cnoc An Tursa",
+    "title": "The Yellow Locks of Charlie",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745",
+      "Highland Clans"
+    ],
+    "era": "1745",
+    "spotifyUrl": "https://open.spotify.com/track/2qBYeuCyHLSieI7Ex2ntaM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_V022xlHgBI",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.letras.com.br/cnocantursa/the-yellow-locks-of-charlie",
+        "note": "Clans-Aufruf für royal Charlie / Krone auf yellow locks; kein Culloden"
+      },
+      {
+        "type": "review",
+        "url": "https://www.loudersound.com/features/watch-a-lyric-video-for-cnoc-an-tursas-epic-new-battle-song",
+        "note": "Metal Hammer: traditionelle Ballade Henry Scott Riddell, ’45-Konzept"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
+        "note": "The Forty Five (2017), Track 2"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=_V022xlHgBI",
+        "note": "Cnoc An Tursa – The Yellow Locks of Charlie"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/2qBYeuCyHLSieI7Ex2ntaM",
+        "note": "The Yellow Locks of Charlie"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-wha-wadna-fecht-for-charlie",
+    "band": "Cnoc An Tursa",
+    "title": "Wha Wadna Fecht for Charlie",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Lochiel",
+      "Glengarry",
+      "Jakobitenaufstand 1745"
+    ],
+    "era": "1745",
+    "spotifyUrl": "https://open.spotify.com/track/5oZBsU3Zu5Y6ldagrTbBoh",
+    "youtubeUrl": "https://www.youtube.com/watch?v=napEXYkFEaU",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://blackmetalcloud.blogspot.com/2003/09/cnoc-tursa.html",
+        "note": "Rally für Charlie; Glengarry, Lochiel; kein Culloden"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
+        "note": "The Forty Five (2017), Track 4"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=napEXYkFEaU",
+        "note": "Cnoc An Tursa – Wha Wadna Fecht for Charlie"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/5oZBsU3Zu5Y6ldagrTbBoh",
+        "note": "Wha Wadna Fecht for Charlie"
+      }
+    ]
+  },
+  {
+    "id": "cnoc-an-tursa-will-ye-no-come-back-again",
+    "band": "Cnoc An Tursa",
+    "title": "Will Ye No Come Back Again",
+    "entities": [
+      "Bonnie Prince Charlie",
+      "Jakobitenaufstand 1745"
+    ],
+    "era": "1746",
+    "spotifyUrl": "https://open.spotify.com/track/6dNyeEFspeF6aV7oG0a33A",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YZ8nf94MlDg",
+    "sources": [
+      {
+        "type": "review",
+        "url": "https://www.loudersound.com/reviews/cnoc-an-tursa-the-forty-five",
+        "note": "Metal Hammer: bagpipes and 50-piece orchestra; Album-Intro"
+      },
+      {
+        "type": "encyclopedia",
+        "url": "https://www.metal-archives.com/albums/Cnoc_an_Tursa/The_Forty_Five/618622",
+        "note": "The Forty Five Track 1 (~1:46), marked instrumental"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=YZ8nf94MlDg",
+        "note": "Will Ye No Come Back Again – Cnoc An Tursa"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/track/6dNyeEFspeF6aV7oG0a33A",
+        "note": "Will Ye No Come Back Again"
+      }
+    ]
+  },
+  {
     "id": "concha-piquer-eugenia-de-montijo",
     "band": "Concha Piquer",
     "title": "Eugenia de Montijo",
@@ -1270,31 +1659,6 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Countess/Spawn_of_Steel/76754",
         "note": "Metal Archives: Black/Power-Metal-Mix, Barbarian Wrath"
-      }
-    ]
-  },
-  {
-    "id": "country-gentlemen-matterhorn",
-    "band": "The Country Gentlemen",
-    "title": "Matterhorn",
-    "entities": [
-      "Matterhorn",
-      "Alpinismus",
-      "1865"
-    ],
-    "era": "1865 / 1966",
-    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://pickersguide.com/vocal-song/matterhorn/",
-        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
-      },
-      {
-        "type": "secondary",
-        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
-        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
       }
     ]
   },
@@ -4566,30 +4930,6 @@
     ]
   },
   {
-    "id": "marx-brothers-hail-hail-freedonia",
-    "band": "The Marx Brothers",
-    "title": "Hail, Hail Freedonia",
-    "entities": [
-      "Freedonia",
-      "Duck Soup"
-    ],
-    "era": "1933",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
-    "sources": [
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
-        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
-      },
-      {
-        "type": "reference",
-        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
-        "note": "Hymn to Freedonia / Duck Soup"
-      }
-    ]
-  },
-  {
     "id": "masters-hammer-bicycle-day",
     "band": "Master's Hammer",
     "title": "Bicycle Day",
@@ -5442,31 +5782,6 @@
     ]
   },
   {
-    "id": "ornatorpet-stockholms-blodbad",
-    "band": "Örnatorpet",
-    "title": "Stockholms Blodbad",
-    "entities": [
-      "Stockholmer Blutbad",
-      "Christian II.",
-      "Gustav Vasa"
-    ],
-    "era": "1520 / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
-    "youtubeUrl": null,
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
-      },
-      {
-        "type": "secondary",
-        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Label: medievalist dungeon synth"
-      }
-    ]
-  },
-  {
     "id": "ottone-pesante-battle-of-qadesh",
     "band": "Ottone Pesante",
     "title": "Battle of Qadesh",
@@ -5646,36 +5961,6 @@
         "type": "lyrics",
         "url": "http://pigwithfaceofboy.blogspot.com/2010/08/",
         "note": "Offizielle Lyrics/Video-Kontext"
-      }
-    ]
-  },
-  {
-    "id": "pogues-the-wake-of-the-medusa",
-    "band": "The Pogues",
-    "title": "The Wake of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault"
-    ],
-    "era": "1816 / Gemälde 1818–19",
-    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
-        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
-        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
-        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -10109,31 +10394,6 @@
     ]
   },
   {
-    "id": "svininiai-sarvai-mk-ultra",
-    "band": "Švininiai Šarvai",
-    "title": "MK Ultra",
-    "entities": [
-      "MKUltra",
-      "CIA",
-      "Mind control"
-    ],
-    "era": "1950er / 2023",
-    "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
-    "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
-        "note": "The Great Paradise of Tomorrow / Single 2023; LyricFind: Orestas Motuzis; CIA-Mind-Control + imaginative twists"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Shvininiai_Sharvai/MK_Ultra/1149097",
-        "note": "Encyclopaedia Metallum: MK Ultra single"
-      }
-    ]
-  },
-  {
     "id": "tankard-black-plague-bp",
     "band": "Tankard",
     "title": "Black Plague (BP)",
@@ -10369,6 +10629,31 @@
     ]
   },
   {
+    "id": "country-gentlemen-matterhorn",
+    "band": "The Country Gentlemen",
+    "title": "Matterhorn",
+    "entities": [
+      "Matterhorn",
+      "Alpinismus",
+      "1865"
+    ],
+    "era": "1865 / 1966",
+    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://pickersguide.com/vocal-song/matterhorn/",
+        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
+        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
+      }
+    ]
+  },
+  {
     "id": "the-dreadnoughts-grace-omalley",
     "band": "The Dreadnoughts",
     "title": "Grace O'Malley",
@@ -10480,6 +10765,30 @@
     ]
   },
   {
+    "id": "marx-brothers-hail-hail-freedonia",
+    "band": "The Marx Brothers",
+    "title": "Hail, Hail Freedonia",
+    "entities": [
+      "Freedonia",
+      "Duck Soup"
+    ],
+    "era": "1933",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+    "sources": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
+      },
+      {
+        "type": "reference",
+        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
+        "note": "Hymn to Freedonia / Duck Soup"
+      }
+    ]
+  },
+  {
     "id": "the-masters-apprentices-burke-and-wills-and-me",
     "band": "The Masters Apprentices",
     "title": "Burke and Wills and Me",
@@ -10571,6 +10880,36 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
         "note": "Video Mutiny on the HMS Bounty"
+      }
+    ]
+  },
+  {
+    "id": "pogues-the-wake-of-the-medusa",
+    "band": "The Pogues",
+    "title": "The Wake of the Medusa",
+    "entities": [
+      "Floß der Medusa",
+      "Méduse",
+      "Géricault"
+    ],
+    "era": "1816 / Gemälde 1818–19",
+    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
+        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
+        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
+        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -10728,6 +11067,56 @@
     ]
   },
   {
+    "id": "tiger-lillies-shockheaded-peter",
+    "band": "The Tiger Lillies",
+    "title": "Shockheaded Peter",
+    "entities": [
+      "Struwwelpeter",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Shockheaded Peter: A Junk Opera"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "note": "Musical nach Hoffmanns Struwwelpeter"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-snip-snip",
+    "band": "The Tiger Lillies",
+    "title": "Snip Snip",
+    "entities": [
+      "Struwwelpeter",
+      "Daumenlutscher",
+      "Konrad",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Track Snip Snip; Conrad / scissors man"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag369/",
+        "note": "Kommentar: Daumenlutscher Konrad"
+      }
+    ]
+  },
+  {
     "id": "the-twindows-dig-tree",
     "band": "The Twindows",
     "title": "Dig Tree",
@@ -10854,56 +11243,6 @@
         "type": "secondary",
         "url": "https://dubdigger.com/artist/96050",
         "note": "Londoner Ensemble; Sound Kraftwerk/Tackhead/Chrome — Industrial Electronic / Experimental"
-      }
-    ]
-  },
-  {
-    "id": "tiger-lillies-shockheaded-peter",
-    "band": "The Tiger Lillies",
-    "title": "Shockheaded Peter",
-    "entities": [
-      "Struwwelpeter",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Shockheaded Peter: A Junk Opera"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
-        "note": "Musical nach Hoffmanns Struwwelpeter"
-      }
-    ]
-  },
-  {
-    "id": "tiger-lillies-snip-snip",
-    "band": "The Tiger Lillies",
-    "title": "Snip Snip",
-    "entities": [
-      "Struwwelpeter",
-      "Daumenlutscher",
-      "Konrad",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Track Snip Snip; Conrad / scissors man"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag369/",
-        "note": "Kommentar: Daumenlutscher Konrad"
       }
     ]
   },
@@ -12054,6 +12393,56 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
         "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
+    "id": "ornatorpet-stockholms-blodbad",
+    "band": "Örnatorpet",
+    "title": "Stockholms Blodbad",
+    "entities": [
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Gustav Vasa"
+    ],
+    "era": "1520 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
+    "youtubeUrl": null,
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
+      },
+      {
+        "type": "secondary",
+        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Label: medievalist dungeon synth"
+      }
+    ]
+  },
+  {
+    "id": "svininiai-sarvai-mk-ultra",
+    "band": "Švininiai Šarvai",
+    "title": "MK Ultra",
+    "entities": [
+      "MKUltra",
+      "CIA",
+      "Mind control"
+    ],
+    "era": "1950er / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+        "note": "The Great Paradise of Tomorrow / Single 2023; LyricFind: Orestas Motuzis; CIA-Mind-Control + imaginative twists"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Shvininiai_Sharvai/MK_Ultra/1149097",
+        "note": "Encyclopaedia Metallum: MK Ultra single"
       }
     ]
   }
