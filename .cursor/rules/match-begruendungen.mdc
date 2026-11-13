@@ -56,11 +56,21 @@ Beispiel: „Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-Thes
 
 #### Genre-Fail
 
-Wenn der Bezug historisch passt (oder passen könnte), das Stück aber **kein Rock/Metal** ist → Absage (**Tier X**). In der Begründung **beides** nennen:
+Wenn der Bezug historisch passt (oder passen könnte), das Stück aber **kein Rock/Metal** ist → Absage (**Tier X**). In der Begründung nennen:
 
-1. **welche Stufe** bei Rock/Metal plausibel wäre (Tier A, Tier B oder Tier C);
+1. **welche Stufe** bei Metal plausibel wäre (**nur** Tier A, B oder C — klar, ohne „eher“/„höchstens“/„A oder B“);
 2. **welches Genre** dem Stück zugeordnet wird und dass es kein Rock/Metal ist.
 
-Pflichtworting (filterbar): `Genre = …` und `kein Rock/Metal`, Schluss `(Tier X).`
+Pflichtworting (filterbar), Reihenfolge fest:
+
+`(bei Metal wäre Tier A). Genre = …, kein Rock/Metal (Tier X).`
+
+bzw. `Tier B` / `Tier C` in der Metal-Klammer.
+
+- **Nicht** verwenden: `bei Rock/Metal wäre …`, `bei Metal wäre eher Tier …`, `bei Metal höchstens Tier …`, Metal-Stufe `X`.
+- **Ausnahme:** Ist der Bezug schon inhaltlich klar **Tier X** (z. B. nur Namensanklang) und zusätzlich Genre-Fail → Metal-Klammer weglassen; trotzdem `Genre = …, kein Rock/Metal (Tier X).`
+- Bestehende ältere Genre-Fail-Formulierungen nicht pauschal umschreiben — nur bei inhaltlicher Änderung mitziehen.
 
 Beispielmuster: „Folge = …; Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier X).“
+
+Beispiel ohne Metal-Klammer (Inhalt schon X): „Folge = …; Song = … — nur Namensanklang. Genre = Deutschrap / Hip-Hop, kein Rock/Metal (Tier X).“

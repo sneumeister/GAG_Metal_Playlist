@@ -98,7 +98,7 @@ def render_rejected_markdown(
     entries=None, *, compiled_at: str | None = None, json_date: str | None = None
 ) -> str:
     if entries is None:
-        entries = enrich_rejected_entries()
+        entries = enrich_rejected_entries(distinguish_genre_fail=True)
     entries = sorted_by_episode(entries)
     compiled_at = compiled_at or compile_timestamp()
     if json_date is None:
@@ -116,7 +116,8 @@ def render_rejected_markdown(
         "",
         f"{CROSSLINK_TO_PLAYLIST_INTRO} [{MD_NAME}]({MD_NAME})",
         "",
-        "**Stufe X** – kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Genre-Fail, …).  ",
+        "**Stufe X** – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …).  ",
+        "**X (A/B/C)** – Genre-Fail: kein Rock/Metal; in Klammern die Stufe, die bei Metal gelten würde (aus der Begründung).  ",
         "Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.",
         "",
         "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |",

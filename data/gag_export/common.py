@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -138,12 +139,39 @@ def load_episodes_by_id(path: Path | None = None) -> dict[int, dict[str, Any]]:
     return out
 
 
+_METAL_TIER_RE = re.compile(
+    r"bei (?:Rock/)?Metal.{0,80}?(?:w(?:ä|ae)re(?: eher)?|höchstens) Tier ([ABCX])",
+    re.IGNORECASE | re.DOTALL,
+)
+
+
+def rejected_display_tier(reason: str | None) -> str:
+    """
+    Anzeige-Stufe für Reject-Exporte.
+    Genre-Fail mit hypothetischer Metal-Stufe → ``X (A|B|C)``, sonst ``X``.
+    """
+    text = reason or ""
+    if "kein Rock/Metal" not in text:
+        return "X"
+    m = _METAL_TIER_RE.search(text)
+    if not m:
+        return "X"
+    metal_tier = m.group(1).upper()
+    if metal_tier == "X":
+        return "X"
+    return f"X ({metal_tier})"
+
+
 def enrich_rejected_entries(
     entries: list[dict[str, Any]] | None = None,
+    *,
+    distinguish_genre_fail: bool = False,
 ) -> list[dict[str, Any]]:
     """
     Reject-Rohdaten um Band/Titel/Links/Folgentitel anreichern
-    (Export-Format analog zur Playlist-Zeile, Stufe immer X).
+    (Export-Format analog zur Playlist-Zeile).
+
+    ``distinguish_genre_fail=True`` setzt Genre-Fails auf ``X (A/B/C)``.
     """
     if entries is None:
         entries = load_rejected_entries()
@@ -158,6 +186,8 @@ def enrich_rejected_entries(
         ep_url = link_or_empty(ep.get("websiteUrl")) or (
             f"https://gadg.fm/{eid}" if eid is not None else None
         )
+        reason = e.get("reason") or ""
+        match_tier = rejected_display_tier(reason) if distinguish_genre_fail else "X"
         enriched.append(
             {
                 "episodeId": eid,
@@ -166,8 +196,8 @@ def enrich_rejected_entries(
                 "songId": song_id,
                 "band": song.get("band") or "",
                 "songTitle": song.get("title") or song_id,
-                "matchTier": "X",
-                "justification": e.get("reason") or "",
+                "matchTier": match_tier,
+                "justification": reason,
                 "youtubeUrl": song.get("youtubeUrl"),
                 "spotifyUrl": song.get("spotifyUrl"),
                 "bandcampUrl": song.get("bandcampUrl"),
