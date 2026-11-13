@@ -6,12 +6,12 @@ Ziel ist eine Trefferliste: **Folge ↔ Song ↔ Begründung ↔ Spotify/YouTube
 
 ## Aktuelle Listen
 
-**Treffer (A/B/C)**
+### Treffer (A/B/C)
 
 - [Markdown](GAG_Metal_playlist.md)
 - [HTML (sortierbar)](GAG_Metal_playlist.html) · [Live-Ansicht (GitHub Pages)](https://sneumeister.github.io/GAG_Metal_Playlist/)
 
-**Absagen (Stufe X)**
+### Absagen (Stufe X)
 
 - [Markdown](GAG_Metal_rejected.md)
 - [HTML (sortierbar)](GAG_Metal_rejected.html) · [Live (GitHub Pages)](https://sneumeister.github.io/GAG_Metal_Playlist/GAG_Metal_rejected.html)
@@ -23,9 +23,10 @@ Die Live-Ansicht läuft über GitHub Pages und rendert die HTML-Dateien im Brows
 - **A** – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).
 - **B** – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.
 - **C** – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher mit historischem Stichwort.
-- **X** – kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Genre-Fail, …) → `data/rejected.json`.
+- **X** – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …) → `data/rejected.json`.
+- **X (A/B/C)** – Genre-Fail: kein Rock/Metal; in Klammern die Stufe, die bei Metal gelten würde (aus der Begründung) → ebenfalls `data/rejected.json`.
 
-In der Playlist erscheinen Stufe A, B und C; Stufe X ist der Reject-Sammler.
+In der Playlist erscheinen Stufe A, B und C; Stufe X bzw. X (A/B/C) sind die Reject-Absagen.
 
 ## Mitmachen
 

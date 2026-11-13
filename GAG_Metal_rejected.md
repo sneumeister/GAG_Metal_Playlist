@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-13 22:16:35 +0100<br>**JSON-Status:** 2026-11-13 19:49:21 +0100</small>
+<small>**Compile-Datum:** 2026-11-13 22:24:41 +0100<br>**JSON-Status:** 2026-11-13 19:49:21 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -14,12 +14,12 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 
 | Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |
 | :---: | --- | --- | --- | :---: | :---: | :---: | :---: |
-| [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Xynfonica | From Your Father's Skull | X (A) | [link](https://www.youtube.com/watch?v=eBsE_nnHCEo) | — | — |
+| [1](https://gadg.fm/1) | Vier Langobarden-Könige und ein Trinkbecher | Xynfonica | From Your Father's Skull | X (A) | [link](https://www.youtube.com/watch?v=eBsE_nnHCEo) | [link](https://open.spotify.com/track/50Mfx6XOw7FNKCe3vYgUui) | — |
 | [4](https://gadg.fm/4) | Wellingtons Rache, oder: Ein Bein für ein Königreich | Crystallion | Sole Survivors in Ligny | X | [link](https://www.youtube.com/watch?v=rWimfa3B5BA) | [link](https://open.spotify.com/track/1x6kGLbtFMlZT0akUc7nUV) | — |
 | [16](https://gadg.fm/16) | Ton, Steine, Scherben oder wie Rom sich einen achten Hügel baute | Sabaton | Crossing the Rubicon | X | [link](https://www.youtube.com/watch?v=uchGiXcNDIs) | [link](https://open.spotify.com/track/6WyfybAgLz1EceoumvVSun) | [link](https://sabaton.bandcamp.com/track/crossing-the-rubicon) |
 | [28](https://gadg.fm/28) | Von Appenzellern, Bregenzern und einer Frau namens Guta | HMBC | Vo Mello bis ge Schoppornou | X | [link](https://www.youtube.com/watch?v=wmI2m06YFfc) | [link](https://open.spotify.com/track/3KttDSBXuACB5l9w8OtXfJ) | — |
 | [29](https://gadg.fm/29) | Ein Müller in den Fängen der Inquisition | Serenity | Serenade of Flames | X | [link](https://www.youtube.com/watch?v=lQv-IzoH8rI) | [link](https://open.spotify.com/track/1CKX2yXCJP2B8ai12OwdNA) | [link](https://serenityaustria.bandcamp.com/track/serenade-of-flames) |
-| [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | — | — |
+| [31](https://gadg.fm/31) | Blitzkrieg im Fußballstadion | Iron Maiden | Aces High | X | [link](https://www.youtube.com/watch?v=Xg9aQvjMS60) | [link](https://open.spotify.com/track/3wFGRek61NIF330UwJCI52) | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Graham Rodger | Burke and Wills | X (A) | [link](https://www.youtube.com/watch?v=Yo9_j109I84) | [link](https://open.spotify.com/track/3ivUlCsY97l0f0NxfpIDVl) | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | The Masters Apprentices | Burke and Wills and Me | X | — | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | Burke's Song | X (A) | [link](https://www.youtube.com/watch?v=larqoHtGWJI) | [link](https://open.spotify.com/track/042i1jiHCpLvUoXvwE4z8g) | — |
@@ -27,7 +27,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | Endless Flight | X (A) | [link](https://www.youtube.com/watch?v=RaM02rZMtD8) | [link](https://open.spotify.com/track/0Qfn4mLkvearAVnEoumoRC) | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Welder's Dog | How Many Days? | X (A) | — | — | — |
 | [49](https://gadg.fm/49) | Der »Dig Tree« und die erste Durchquerung Australiens | Australian Crawl | Reckless (Don't Be So) | X | [link](https://www.youtube.com/watch?v=w_U-jjGhLmU) | [link](https://open.spotify.com/track/2QFDi1Ed9PnH3meJLZ8xNC) | — |
-| [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | [link](https://www.youtube.com/watch?v=8ZBCzXx8j6I) | — | [link](https://enthroned.bandcamp.com/track/graced-by-evil-blood) |
+| [73](https://gadg.fm/73) | Ludwig XIV. und seine pikante Operation | Enthroned | Graced By Evil Blood | X | [link](https://www.youtube.com/watch?v=8ZBCzXx8j6I) | [link](https://open.spotify.com/track/1vUuXDzoYDeqy6dUGVlGFo) | [link](https://enthroned.bandcamp.com/track/graced-by-evil-blood) |
 | [86](https://gadg.fm/86) | Sabbatai Zwi – Der falsche Messias | Witchfield | Sabbatai Zevi | X | [link](https://www.youtube.com/watch?v=KhmxFrH0npk) | [link](https://open.spotify.com/track/0z7bjU8aaiWIDa2sSAXuJs) | — |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Iron Maiden | Alexander the Great | X | [link](https://www.youtube.com/watch?v=6BH9HvZx3nI) | [link](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) | — |
 | [105](https://gadg.fm/105) | Skanderbeg – Ein neuer Alexander und seine Bedeutung für die Geschichte Albaniens | Sabaton | Champion of Christ | X | — | — | — |
@@ -48,7 +48,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) | — |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) | [link](https://bandcivilwar.bandcamp.com/track/i-will-rule-the-universe) |
 | [242](https://gadg.fm/242) | Eine kurze Geschichte der Olympischen Spiele (der Neuzeit) | Warkings | Battle of Marathon | X | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) | [link](https://warkings.bandcamp.com/track/battle-of-marathon) |
-| [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Enthroned | Graced By Evil Blood | X | [link](https://www.youtube.com/watch?v=8ZBCzXx8j6I) | — | [link](https://enthroned.bandcamp.com/track/graced-by-evil-blood) |
+| [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Enthroned | Graced By Evil Blood | X | [link](https://www.youtube.com/watch?v=8ZBCzXx8j6I) | [link](https://open.spotify.com/track/1vUuXDzoYDeqy6dUGVlGFo) | [link](https://enthroned.bandcamp.com/track/graced-by-evil-blood) |
 | [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Led Zeppelin | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=JM3fodiK9rY) | [link](https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF) | — |
 | [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Memphis Minnie & Kansas Joe McCoy | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=WSlt8-fmvas) | [link](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | — |
 | [253](https://gadg.fm/253) | Martin Frobisher und die Steine | Serenity | Changing Fate | X | [link](https://www.youtube.com/watch?v=hl6fbXMoPug) | [link](https://open.spotify.com/track/6w2dK2r1Li2ssiVoj1MxcT) | [link](https://serenityaustria.bandcamp.com/track/changing-fate) |
