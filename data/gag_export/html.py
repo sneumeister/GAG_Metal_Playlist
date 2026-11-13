@@ -202,6 +202,7 @@ button.stufe-btn {{
   text-underline-offset: 0.18em;
   cursor: pointer;
   touch-action: manipulation;
+  white-space: nowrap;
 }}
 button.stufe-btn:hover,
 button.stufe-btn[aria-expanded="true"] {{
@@ -559,7 +560,7 @@ def render_rejected_html(
     entries=None, *, compiled_at: str | None = None, json_date: str | None = None
 ) -> str:
     if entries is None:
-        entries = enrich_rejected_entries()
+        entries = enrich_rejected_entries(distinguish_genre_fail=True)
     entries = sorted_by_episode(entries)
     compiled_at = compiled_at or compile_timestamp()
     if json_date is None:
@@ -570,7 +571,8 @@ def render_rejected_html(
         f'{_esc(CROSSLINK_TO_PLAYLIST_INTRO)} '
         f'<a href="{_esc(HTML_NAME)}">{_esc(HTML_NAME)}</a>'
     )
-    legend = """    <p><strong>Stufe X</strong> – kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Genre-Fail, …).</p>
+    legend = """    <p><strong>Stufe X</strong> – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …).</p>
+    <p><strong>X (A/B/C)</strong> – Genre-Fail: kein Rock/Metal; in Klammern die Stufe, die bei Metal gelten würde (aus der Begründung).</p>
     <p>Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.</p>
     <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
 
