@@ -16,7 +16,7 @@ body:
         - Falsche Folge zugeordnet
         - Matching zu schwach oder falsch
         - Stufe A/B/C anpassen oder auf Reject setzen
-        - Link kaputt oder falsch (Spotify/YouTube)
+        - Link kaputt oder falsch (Spotify/YouTube/Bandcamp)
         - Eintrag sollte entfernt werden
         - Sonstiges
     validations:

@@ -170,6 +170,7 @@ def enrich_rejected_entries(
                 "justification": e.get("reason") or "",
                 "youtubeUrl": song.get("youtubeUrl"),
                 "spotifyUrl": song.get("spotifyUrl"),
+                "bandcampUrl": song.get("bandcampUrl"),
                 "rejectedAt": e.get("rejectedAt"),
                 "rejectedBy": e.get("rejectedBy"),
             }

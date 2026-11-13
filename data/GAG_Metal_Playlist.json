@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13 19:44:15 +0100",
+  "updatedAt": "2026-11-13 20:32:37 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -18,6 +18,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/18IlpRU666bDKd7mzwmS56",
       "youtubeUrl": "https://www.youtube.com/watch?v=wGfekg9xP2k",
+      "bandcampUrl": "https://professoremeritus.bandcamp.com/album/take-me-to-the-gallows",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -35,7 +36,8 @@
         "Ägypten"
       ],
       "spotifyUrl": "https://open.spotify.com/track/2BCSABdmxlLx0hJwuvcRBj",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XBEuiIFB0r4"
+      "youtubeUrl": "https://www.youtube.com/watch?v=XBEuiIFB0r4",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/the-cycle-of-songs"
     },
     {
       "episodeId": 4,
@@ -54,6 +56,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0UzYzeFHCa2jG9uM4A2gQM",
       "youtubeUrl": "https://www.youtube.com/watch?v=AeRLXiYmt_c",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -74,6 +77,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/21MwQpu6xafLiYLIYVeAbh",
       "youtubeUrl": "https://www.youtube.com/watch?v=ERqSQckYP7c",
+      "bandcampUrl": "https://judicatormetal.bandcamp.com/track/elan",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -93,6 +97,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5VSt0BS9bX7EEVOItzvaEl",
       "youtubeUrl": "https://www.youtube.com/watch?v=H5A72PIG9eM",
+      "bandcampUrl": "https://judicatormetal.bandcamp.com/track/tu-nes-pas-mort-coquin",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -112,6 +117,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3O95gZM3iSiY0LYEv4eSAl",
       "youtubeUrl": "https://www.youtube.com/watch?v=KxyNkl6LKyg",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -131,6 +137,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/28dU4pjTntWf0agPEx3jg1",
       "youtubeUrl": "https://www.youtube.com/watch?v=Sy8umtt8Bgg",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -152,6 +159,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/album/7k1Nwlt82CLjKW9EGZkysl",
       "youtubeUrl": "https://www.youtube.com/playlist?list=OLAK5uy_nKZdDnBlv0X-v5IY8nYgKuFQMCUEDYO1g",
+      "bandcampUrl": "https://rorcal.bandcamp.com/album/heliogabalus",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -171,6 +179,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6Ro6GJyRPJV7nJqhrSeH5z",
       "youtubeUrl": "https://www.youtube.com/watch?v=dpTogEzcbvo",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -190,6 +199,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5FAEy9CiDmqdPnNhXnHqke",
       "youtubeUrl": "https://www.youtube.com/watch?v=plMh2A33ino",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -209,6 +219,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2z0JV74WzKhx6UrwmUSmIg",
       "youtubeUrl": "https://www.youtube.com/watch?v=0jEzVtQdJP0",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -228,6 +239,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6nJLBDlgLjzhG2wPC6y8C0",
       "youtubeUrl": "https://www.youtube.com/watch?v=hR_QWyIsW1I",
+      "bandcampUrl": "https://dyingvictimsproductions.bandcamp.com/track/bishop-of-the-iron-guard",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -249,6 +261,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4TPjkOcTrlsWXZ5ujUUFs8",
       "youtubeUrl": "https://www.youtube.com/watch?v=M0507xZKbAA",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -269,6 +282,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/72kOs1QkPwkpdRireDBbs7",
       "youtubeUrl": "https://www.youtube.com/watch?v=c64SQsd8PuY",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -289,6 +303,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/63ar9QXamjJW3VJwgjXvtr",
       "youtubeUrl": "https://www.youtube.com/watch?v=NVmbDASq1ws",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-24",
       "curatedBy": "manual"
     },
@@ -308,6 +323,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5ZG3AMxflOzyfawXg3K1rM",
       "youtubeUrl": "https://www.youtube.com/watch?v=dj98LwbwlDg",
+      "bandcampUrl": "https://ovmoros.bandcamp.com/track/disappearance",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -326,6 +342,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7lncRBMHH16ALDPwFpXt7W",
       "youtubeUrl": "https://www.youtube.com/watch?v=R2oA5aM11xU",
+      "bandcampUrl": "https://officialzao.bandcamp.com/track/croatoan",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -345,6 +362,7 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=mEeItvbRFIo",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-10",
       "curatedBy": "manual"
     },
@@ -365,6 +383,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5NazH8Px1Dv1hlYAtpCi30",
       "youtubeUrl": "https://www.youtube.com/watch?v=uxvn-gIFVZo",
+      "bandcampUrl": "https://flashbackofanger.bandcamp.com/album/shades",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -385,6 +404,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/16YoQCL9H1TgxT7Oqkt1aD",
       "youtubeUrl": "https://www.youtube.com/watch?v=ePwIct8A2Kw",
+      "bandcampUrl": "https://gamezero.bandcamp.com/track/believe",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -405,6 +425,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1AMNQAwBAsbBUmkCvevNKJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=jYAAUwtmKcA",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -425,6 +446,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/69zVDP2x8maYlcrwxV21On",
       "youtubeUrl": "https://www.youtube.com/watch?v=i1-M8BmWB5o",
+      "bandcampUrl": "https://wotanofficial.bandcamp.com/track/la-chanson-de-roland",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -443,6 +465,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2f2jkP9Z8XtocOU4BRIS3f",
       "youtubeUrl": "https://www.youtube.com/watch?v=tARQH0vOulA",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -463,6 +486,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1lgWqE2Qv2i9DCRIwcpoud",
       "youtubeUrl": "https://www.youtube.com/watch?v=p37k-uPWqQc",
+      "bandcampUrl": "https://saxorior.bandcamp.com/album/hem",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -482,6 +506,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5iwvJrUZuneo0E3m2UQzk9",
       "youtubeUrl": "https://www.youtube.com/watch?v=EtTHEJLa44M",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -500,6 +525,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5epQW1revzqLK58ffFcwac",
       "youtubeUrl": "https://www.youtube.com/watch?v=P_KOPhWUXcw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -518,6 +544,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw",
       "youtubeUrl": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -538,6 +565,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5v86NrNjTMVffuKXr0PTDX",
       "youtubeUrl": "https://www.youtube.com/watch?v=rnBBQPzwDxo",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -557,6 +585,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5V0iMZnsYBkI6Bi4MC7DUz",
       "youtubeUrl": "https://www.youtube.com/watch?v=Tfca2Kz4064",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -576,6 +605,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G",
       "youtubeUrl": "https://www.youtube.com/watch?v=5S0-oP9JsL0",
+      "bandcampUrl": "https://powerwolf.bandcamp.com/track/1589",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -596,6 +626,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3lYUkRzcZn4EFrpMdjwKal",
       "youtubeUrl": "https://www.youtube.com/watch?v=YJQGwiAqe38",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -613,6 +644,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7wFPZtXHohymNifdEXbufk",
       "youtubeUrl": "https://www.youtube.com/watch?v=NUOy8idWfxw",
+      "bandcampUrl": "https://antrisch.bandcamp.com/track/i-festgefroren-packeisfalle",
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -633,6 +665,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1IXFQp44PAZRZ6tvrXbaU9",
       "youtubeUrl": "https://www.youtube.com/watch?v=1ZD-_KLSSKg",
+      "bandcampUrl": "https://antrisch.bandcamp.com/album/expedition-ii-die-passage",
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -652,6 +685,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3kcRddAVbPXbud1S1irLk2",
       "youtubeUrl": "https://www.youtube.com/watch?v=UJsl-bB7lmk",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -671,6 +705,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta",
       "youtubeUrl": "https://www.youtube.com/watch?v=XRD3vrSLPaw",
+      "bandcampUrl": "https://unleashthearchers.bandcamp.com/track/northwest-passage",
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -690,6 +725,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3Ciuq5F1N9M80gP558iPUD",
       "youtubeUrl": "https://www.youtube.com/watch?v=2JnmtQVgcL0",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -709,6 +745,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7rH9VCqa9X8t0BT0bNY6mN",
       "youtubeUrl": "https://www.youtube.com/watch?v=bhAUntDJvSI",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -728,6 +765,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
       "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
+      "bandcampUrl": "https://judicatormetal.bandcamp.com/album/the-last-emperor",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -747,6 +785,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0LogNHxoujpBfxUms1bE4r",
       "youtubeUrl": "https://www.youtube.com/watch?v=CIXchfB_sVc",
+      "bandcampUrl": "https://powerwolf.bandcamp.com/track/christ-combat",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -765,6 +804,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2XlHZaQ5qB65T3DRJEsHMz",
       "youtubeUrl": "https://www.youtube.com/watch?v=BXOM-CQGV0E",
+      "bandcampUrl": "https://warkings.bandcamp.com/track/azrael",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -784,6 +824,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2Z1cY7jFfVNNrocOAHtfXy",
       "youtubeUrl": "https://www.youtube.com/watch?v=d7XCKmdF2_g",
+      "bandcampUrl": "https://sarcoptes.bandcamp.com/album/prayers-to-oblivion",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -803,6 +844,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2rqNNw2aYZmeSqh1ltyrwl",
       "youtubeUrl": "https://www.youtube.com/watch?v=Y3Er8CwetOw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -822,6 +864,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1YgW6l6cPsySoidcOicryK",
       "youtubeUrl": "https://www.youtube.com/watch?v=hsZD5TUGbVM",
+      "bandcampUrl": "https://unconquerable.bandcamp.com/album/imperial-genocide",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -842,6 +885,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/01I0VlUwSPzx1LsxK8tP1J",
       "youtubeUrl": "https://www.youtube.com/watch?v=sJ7mYvFrc_Y",
+      "bandcampUrl": "https://wrightvalley.bandcamp.com/album/shackleton",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -863,6 +907,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
       "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/father",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -881,6 +926,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/07Py31ydpraxfl9AvPiLzK",
       "youtubeUrl": "https://www.youtube.com/watch?v=ImEGRmTHPwU",
+      "bandcampUrl": "https://wilderun.bandcamp.com/album/olden-tales-deathly-trails",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -899,6 +945,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2Z7SAAiCHKTMJSIgYimsQ7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xKOxIcfuzx0",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/counterstrike",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -917,6 +964,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3ylZhjV6v7aOqEU8LOD52b",
       "youtubeUrl": "https://www.youtube.com/watch?v=GLjmLlsBl9M",
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/the-fall-of-claudius",
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -936,6 +984,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5CFIglXbK4LzP7dzoKQ8PE",
       "youtubeUrl": "https://www.youtube.com/watch?v=VIHssqJ8Aho",
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/the-head-of-the-snake",
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -955,6 +1004,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5I72x9pyWrWSaaKRNtkKYn",
       "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -973,6 +1023,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl",
       "youtubeUrl": "https://www.youtube.com/watch?v=7sxm_w1q3BE",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/the-matricide",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -992,6 +1043,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3Y1OgYRmlD6UD8yJbRiuO1",
       "youtubeUrl": "https://www.youtube.com/watch?v=840vcVzth-0",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1011,6 +1063,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/11CwUubE1QWd0Uo5kD7pyq",
       "youtubeUrl": "https://www.youtube.com/watch?v=OigEnWlVN14",
+      "bandcampUrl": "https://feuerschwanz.bandcamp.com/track/malleus-maleficarum",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1031,6 +1084,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2YYDaYp2onO5H6sXiQujCr",
       "youtubeUrl": "https://www.youtube.com/watch?v=mN5mfBDUNMQ",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1050,6 +1104,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2IFMJQtCqArUYlLJjFVIH5",
       "youtubeUrl": "https://www.youtube.com/watch?v=96hIqTCmqbY",
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/crossing-of-the-alps",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1068,6 +1123,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0MDO1UNjntEcmcxkE7p2ZF",
       "youtubeUrl": "https://www.youtube.com/watch?v=hA9BbIKxx1w",
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/hispania-siege-of-saguntum",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1087,6 +1143,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2",
       "youtubeUrl": null,
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/the-rise-of-hannibal",
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1106,6 +1163,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
       "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/lightning-at-the-gates",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1124,6 +1182,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0VJqFAB1Pj9LdljhOuA6ld",
       "youtubeUrl": "https://www.youtube.com/watch?v=9AQZxSDE8Aw",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1143,6 +1202,7 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=JiwF23IXGoI",
+      "bandcampUrl": "https://forefather.bandcamp.com/track/cween-of-the-mark",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1162,6 +1222,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3WdqYcoUjctK1LvqsHk6WX",
       "youtubeUrl": "https://www.youtube.com/watch?v=GD-eZVQorPI",
+      "bandcampUrl": "https://sellsword.bandcamp.com/track/saxon-steel",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -1182,6 +1243,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0j6fKMvtEpQePV2wBXEDCV",
       "youtubeUrl": "https://www.youtube.com/watch?v=898nYYqS4Bg",
+      "bandcampUrl": "https://uniqueleaderrecords.bandcamp.com/track/birds-of-sulphur",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1199,6 +1261,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4H74ppm6j6JSOsAHQbKIbC",
       "youtubeUrl": "https://www.youtube.com/watch?v=L5SCRvI2MWg",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1218,6 +1281,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5hx640iN2MjX38CRllXA4x",
       "youtubeUrl": "https://www.youtube.com/watch?v=AqFPUu1-uDE",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -1236,6 +1300,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C",
       "youtubeUrl": "https://www.youtube.com/watch?v=BwfJsKfCnaM",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/the-last-battle-2",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -1255,6 +1320,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3pql83nHI9GQyO6MqQTVZt",
       "youtubeUrl": "https://www.youtube.com/watch?v=bYMfPY6ZVmU",
+      "bandcampUrl": "https://cruzdelsurmusic.bandcamp.com/album/freedom-metal",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -1274,6 +1340,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0wBuhh1E46HbMbFK32b0Qg",
       "youtubeUrl": "https://www.youtube.com/watch?v=NYoUaDLExV0",
+      "bandcampUrl": "https://centurymedia.bandcamp.com/track/greek-fire",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -1292,6 +1359,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6zueINKfHroKC92vN1oSEm",
       "youtubeUrl": "https://www.youtube.com/watch?v=maa1xTKu7aQ",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -1312,6 +1380,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi",
       "youtubeUrl": "https://www.youtube.com/watch?v=u5XtLHmLjoY",
+      "bandcampUrl": "https://metalalliance.bandcamp.com/track/beast-of-war",
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -1332,6 +1401,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk",
       "youtubeUrl": "https://www.youtube.com/watch?v=t4maP9qGQPc",
+      "bandcampUrl": "https://judicatormetal.bandcamp.com/album/king-of-rome",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1349,6 +1419,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq",
       "youtubeUrl": "https://www.youtube.com/watch?v=y8DB-MpxMTs",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1368,6 +1439,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T",
       "youtubeUrl": "https://www.youtube.com/watch?v=yJDBmP9Mexk",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/fields-of-verdun-2",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -1385,6 +1457,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3JkWwGgpvaoxeCpzWQjgsD",
       "youtubeUrl": "https://www.youtube.com/watch?v=ecvHBLadaxM",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -1402,6 +1475,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/25jebiHBy40ELlgRNVO1QZ",
       "youtubeUrl": "https://www.youtube.com/watch?v=k2QH9L42OY0",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/album/war-of-ages",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1419,6 +1493,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2",
       "youtubeUrl": "https://www.youtube.com/watch?v=WKlK7x9x3uk",
+      "bandcampUrl": "https://sunn.bandcamp.com/track/b-thory-erz-bet",
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -1436,6 +1511,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5",
       "youtubeUrl": "https://www.youtube.com/watch?v=MbldM7JEIeE",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1454,6 +1530,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/02QVJ3jRCQ1S4UmO2HPi19",
       "youtubeUrl": "https://www.youtube.com/watch?v=NpVvM-PtEac",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1474,6 +1551,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2EDiZjsGBosF5sRNb56nG0",
       "youtubeUrl": "https://www.youtube.com/watch?v=RX-tdo2q-DQ",
+      "bandcampUrl": "https://nightstryke.bandcamp.com/track/the-story-of-the-forty-seven-ronin",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1494,6 +1572,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6PFPKNxcMTRpRgQa1XDyao",
       "youtubeUrl": "https://www.youtube.com/watch?v=Q-Weoj3Zc7A",
+      "bandcampUrl": "https://scimitar.bandcamp.com/track/knights-collapse",
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -1513,6 +1592,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0OUv74ZmucLTloTVemyrA7",
       "youtubeUrl": "https://www.youtube.com/watch?v=OW0U92r63Jc",
+      "bandcampUrl": "https://trueskelator.bandcamp.com/track/victory-henry-v",
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -1532,6 +1612,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1unJf3MyPdfkUyh6LGAZ74",
       "youtubeUrl": "https://www.youtube.com/watch?v=vYSDBBdCANk",
+      "bandcampUrl": "https://dyingvictimsproductions.bandcamp.com/album/indecent-idols",
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -1553,6 +1634,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1UU2MBh1zmEXRYnZmVkgoD",
       "youtubeUrl": "https://www.youtube.com/watch?v=ywesScaX3lc",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1571,6 +1653,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM",
       "youtubeUrl": "https://www.youtube.com/watch?v=FhitH0BnDX4",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/i-emperor",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1588,6 +1671,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3x3T2Z60gOf3495VzYOkVr",
       "youtubeUrl": "https://www.youtube.com/watch?v=4tJAdUahyTA",
+      "bandcampUrl": "https://visionsofatlantis.bandcamp.com/track/return-to-lemuria",
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -1608,6 +1692,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5QCT4AeOzCSJetzNpNPt5M",
       "youtubeUrl": "https://www.youtube.com/watch?v=LtjPOahF0LA",
+      "bandcampUrl": "https://leaveseyes.bandcamp.com/track/galswintha",
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -1625,6 +1710,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL",
       "youtubeUrl": "https://www.youtube.com/watch?v=GWOIDN-akrY",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -1644,6 +1730,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/22NGQVwjjx1lDStTLfVNDM",
       "youtubeUrl": "https://www.youtube.com/watch?v=KQyYkMbEZP4",
+      "bandcampUrl": "https://battlesymphony.bandcamp.com/track/the-fall-of-the-queen-of-cities",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1663,6 +1750,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
       "youtubeUrl": "https://www.youtube.com/watch?v=4GPFduVKuEg",
+      "bandcampUrl": "https://bolt-thrower.bandcamp.com/track/the-ivth-crusade",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -1682,6 +1770,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2nlKu9PPDl2tQ7Yi2Vxmdo",
       "youtubeUrl": "https://www.youtube.com/watch?v=SGj0HvYXxT4",
+      "bandcampUrl": "https://judicatormetal.bandcamp.com/album/the-last-emperor",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1701,6 +1790,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
       "youtubeUrl": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1721,6 +1811,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4GTvwaMrtBkzJ0PJYSFMKD",
       "youtubeUrl": "https://www.youtube.com/watch?v=ciDI4za9eCU",
+      "bandcampUrl": "https://herzel-music.bandcamp.com/track/la-flamme",
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -1739,6 +1830,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6Rt3DBf3GGgp41RmLgezyJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=po-u-V6GiEk",
+      "bandcampUrl": "https://powerwolf.bandcamp.com/track/beast-of-g-vaudan",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -1757,6 +1849,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/28OQVEP47BO0iG8e6heo4P",
       "youtubeUrl": "https://youtu.be/9WrlRYJjBwU",
+      "bandcampUrl": "https://thetruepanopticon.bandcamp.com/track/black-soot-and-red-blood",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1776,6 +1869,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1kstMyZYUfQXxlYp8uY835",
       "youtubeUrl": "https://www.youtube.com/watch?v=tsWWUtm95Kc",
+      "bandcampUrl": "https://dyingvictimsproductions.bandcamp.com/track/choseon",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -1794,6 +1888,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1pIWqeh8g2mevpUtOhx5Ol",
       "youtubeUrl": "https://www.youtube.com/watch?v=OSWszdSHkyE",
+      "bandcampUrl": "https://nanowarofsteel.bandcamp.com/track/uranus",
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -1812,6 +1907,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v",
       "youtubeUrl": "https://www.youtube.com/watch?v=yD0P0bwZKk8",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -1830,6 +1926,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5OOpEmpsNgafCk26QVLlBC",
       "youtubeUrl": "https://www.youtube.com/watch?v=sP88-w9DP4E",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/far-from-home",
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -1849,6 +1946,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E",
       "youtubeUrl": "https://www.youtube.com/watch?v=6BH9HvZx3nI",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -1866,6 +1964,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5T9cFpoaEjkBPZaMrocniw",
       "youtubeUrl": "https://www.youtube.com/watch?v=jOi8ujXxKTk",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/age-of-glory",
       "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
@@ -1885,6 +1984,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0h6CkZaMpBCC6tFf5G3WTt",
       "youtubeUrl": "https://www.youtube.com/watch?v=qrCn-SkuIWo",
+      "bandcampUrl": "https://warkings.bandcamp.com/track/nightfall",
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -1904,6 +2004,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt",
       "youtubeUrl": "https://www.youtube.com/watch?v=ZaaaFzrRbDs",
+      "bandcampUrl": "https://ritualdictates.bandcamp.com/track/aqua-tofana",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -1923,6 +2024,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn",
       "youtubeUrl": "https://www.youtube.com/watch?v=mAJpW30f0YQ",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -1941,6 +2043,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e",
       "youtubeUrl": "https://www.youtube.com/watch?v=Um5R_PH7Jek",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/livgardet",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -1960,6 +2063,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
       "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -1980,6 +2084,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou",
       "youtubeUrl": "https://www.youtube.com/watch?v=YPpQ2qzKBUg",
+      "bandcampUrl": "https://gotlandmetal.bandcamp.com/album/gloria-et-morte",
       "matchedAt": "2026-10-16",
       "curatedBy": "manual"
     },
@@ -1998,6 +2103,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi",
       "youtubeUrl": "https://www.youtube.com/watch?v=EQHL0ZL8peM",
+      "bandcampUrl": "https://prolos.bandcamp.com/album/lieder-aus-der-proletenpassion",
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -2016,6 +2122,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2VtJldVoaj6PSuhkPjMPKR",
       "youtubeUrl": "https://www.youtube.com/watch?v=J7uHye4hU1M",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -2035,6 +2142,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/album/4tMtylLGuJgHIahhHivLZ7",
       "youtubeUrl": "https://www.youtube.com/watch?v=-YslNNsZx7A",
+      "bandcampUrl": "https://wrekmeisterharmonies.bandcamp.com/album/night-of-your-ascension",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -2054,6 +2162,7 @@
       ],
       "spotifyUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
       "youtubeUrl": "https://www.youtube.com/watch?v=9WPUlaLayxU",
+      "bandcampUrl": "https://thehumanerrorband.bandcamp.com/track/ghost-army",
       "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
@@ -2074,6 +2183,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1P0RcFAzMaqSCp3tBCE5fv",
       "youtubeUrl": "https://www.youtube.com/watch?v=gp2mokffolk",
+      "bandcampUrl": "https://blazonstone.bandcamp.com/album/return-to-port-royal-definitive-edition",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -2093,6 +2203,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/53m37fmhWDZ9klSlN8jgOS",
       "youtubeUrl": "https://www.youtube.com/watch?v=Js4pGy_q35k",
+      "bandcampUrl": "https://knorkator.bandcamp.com/track/konrad",
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -2112,6 +2223,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2ofaaD43rYVJac5Ce44Phu",
       "youtubeUrl": "https://www.youtube.com/watch?v=3hL5cjgjZqY",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -2132,6 +2244,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2zp36boNnrfF9kg9VsVUbQ",
       "youtubeUrl": "https://www.youtube.com/watch?v=IKGbWrpn474",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -2150,6 +2263,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3SiNcK83C2ByjrzajrZPrR",
       "youtubeUrl": "https://www.youtube.com/watch?v=Omzyyj401ys",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -2168,6 +2282,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4riVjO5nfAhP2JCQZnsBj6",
       "youtubeUrl": "https://www.youtube.com/watch?v=4C84PeWW8UI",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -2187,6 +2302,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6VS9iSOD6IuZXoLZblFzjy",
       "youtubeUrl": "https://www.youtube.com/watch?v=B10ECkQXQtU",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/templars",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -2205,6 +2321,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2JAfWoa0vwT0VCye4Zyu4W",
       "youtubeUrl": "https://www.youtube.com/watch?v=18PM8wwJ05E",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/heavenly-mission",
       "matchedAt": "2026-10-24",
       "curatedBy": "manual"
     },
@@ -2226,6 +2343,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2EDGxWCzzDbNk9ISy7MJgR",
       "youtubeUrl": "https://www.youtube.com/watch?v=-OXnxnbJk_g",
+      "bandcampUrl": "https://countessmetal.bandcamp.com/album/spawn-of-steel",
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -2247,6 +2365,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0cEhX8wCgJ574GtBeiL4Kb",
       "youtubeUrl": "https://www.youtube.com/watch?v=qcfaltp8CL0",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -2266,6 +2385,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5qjJ0tgLVqzQRzvs9UPne6",
       "youtubeUrl": "https://www.youtube.com/watch?v=E1O4sH4fZcc",
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/ad-victoriam-the-battle-of-zama",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -2285,6 +2405,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7JCvL5up4AdUDJCAUw8eLV",
       "youtubeUrl": "https://www.youtube.com/watch?v=Q3En2lpy1aI",
+      "bandcampUrl": "https://exdeo.bandcamp.com/track/the-spoils-of-war",
       "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
@@ -2303,6 +2424,7 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=OfMzC2AHrr8",
+      "bandcampUrl": "https://thetruepanopticon.bandcamp.com/album/la-passione-de-sacco-vanzetti",
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -2322,6 +2444,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2CZRyfTjSf2iBYs4qssl8w",
       "youtubeUrl": "https://www.youtube.com/watch?v=vVd8E4gb5Dk",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -2341,6 +2464,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3ZrS67ZNgMPgLhuyhmJJN2",
       "youtubeUrl": "https://www.youtube.com/watch?v=pRVm4urQaGc",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -2363,6 +2487,7 @@
       ],
       "spotifyUrl": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
       "youtubeUrl": null,
+      "bandcampUrl": "https://goatofmendesgermany.bandcamp.com/track/curse-of-constantine",
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
@@ -2381,6 +2506,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6UmWV3FtTx3cECgqMsIKcf",
       "youtubeUrl": "https://www.youtube.com/watch?v=rC31wCvTOao",
+      "bandcampUrl": "https://sixfeetunder.bandcamp.com/track/4-20-2",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -2400,6 +2526,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1qVx7pjaXqXC7PKPKPzCpb",
       "youtubeUrl": "https://www.youtube.com/watch?v=JRCyajC0khQ",
+      "bandcampUrl": "https://rippedtoshredsdeathmetal.bandcamp.com/track/god-worshipping-society",
       "matchedAt": "2026-11-09",
       "curatedBy": "manual"
     },
@@ -2420,6 +2547,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7BNlY7buAtaFvqhXKs6uGV",
       "youtubeUrl": "https://www.youtube.com/watch?v=vh3Mvd9NGwQ",
+      "bandcampUrl": "https://moonspell.bandcamp.com/track/1-de-novembro",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -2440,6 +2568,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5ZdGWlR1PPT2lVHadRJHuD",
       "youtubeUrl": "https://www.youtube.com/watch?v=4O-SUiKyVtA",
+      "bandcampUrl": "https://moonspell.bandcamp.com/track/1755",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -2460,6 +2589,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6pT0Bhgjqpm6zaFbeijfXt",
       "youtubeUrl": "https://www.youtube.com/watch?v=ZEqKPJgM-HE",
+      "bandcampUrl": "https://moonspell.bandcamp.com/track/evento",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -2479,6 +2609,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5udVIk42CrQCT3CsIr3EPt",
       "youtubeUrl": "https://www.youtube.com/watch?v=TH2IR4slz74",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
@@ -2499,6 +2630,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1VllmYmqCoBqorCPTu0dRL",
       "youtubeUrl": "https://www.youtube.com/watch?v=XGvCtubo7cE",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -2520,6 +2652,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5nbVUpMb5m0gw9OQn06V8Q",
       "youtubeUrl": "https://www.youtube.com/watch?v=hv-XcocN0mc",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -2539,6 +2672,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/78JzLs4Ic5G8EwWQnDZwsw",
       "youtubeUrl": "https://www.youtube.com/watch?v=pR4AXDXKoLk",
+      "bandcampUrl": "https://midnightforce.bandcamp.com/album/gododdin",
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -2557,7 +2691,8 @@
         "Neue Welt"
       ],
       "spotifyUrl": "https://open.spotify.com/track/3WzUkkrphf2vIzdRmIkFAg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY"
+      "youtubeUrl": "https://www.youtube.com/watch?v=zwSotnUOfPY",
+      "bandcampUrl": "https://artofpropaganda.bandcamp.com/album/expedition-iii-renitenzpfad"
     },
     {
       "episodeId": 436,
@@ -2575,6 +2710,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6Mk8EMRJSLDc7SKDjU2Ail",
       "youtubeUrl": "https://www.youtube.com/watch?v=DtI6WxWoeuI",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -2594,6 +2730,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1eIjTmeFuoppBZI9xrROBt",
       "youtubeUrl": "https://www.youtube.com/watch?v=au4lTYwErDc",
+      "bandcampUrl": "https://arsames.bandcamp.com/album/immortal-identity",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -2611,6 +2748,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i",
       "youtubeUrl": "https://www.youtube.com/watch?v=_EtcIrkG8FA",
+      "bandcampUrl": "https://allegaeon.bandcamp.com/track/concerto-in-dm",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -2631,6 +2769,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6ACo3sLnbEU2s0Ng6Tyd7U",
       "youtubeUrl": "https://www.youtube.com/watch?v=cw0fl3AFsLU",
+      "bandcampUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-i-hero",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -2651,6 +2790,7 @@
       ],
       "spotifyUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
       "youtubeUrl": "https://www.youtube.com/watch?v=BUE_FrVf8m0",
+      "bandcampUrl": "https://lorimerburst.bandcamp.com/track/the-flight-of-ham-part-ii-victim",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -2672,6 +2812,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2hT7d1WLxu7O87nuJDfACB",
       "youtubeUrl": "https://www.youtube.com/watch?v=SyK0JF5j6p4",
+      "bandcampUrl": "https://cullodenuk.bandcamp.com/album/the-2023-demos",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -2691,6 +2832,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5GiBUJsWN6jrCPEbHRuG9T",
       "youtubeUrl": "https://www.youtube.com/watch?v=p1SlBlB5pzU",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/sparta-2",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -2707,7 +2849,8 @@
         "Perserkriege"
       ],
       "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk"
+      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk",
+      "bandcampUrl": "https://warkings.bandcamp.com/track/battle-of-marathon"
     },
     {
       "episodeId": 462,
@@ -2726,6 +2869,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1DuQFYWdUPDL0JWjZeDQ9X",
       "youtubeUrl": "https://www.youtube.com/watch?v=MeOSgsJJ12M",
+      "bandcampUrl": "https://warkings.bandcamp.com/track/sparta",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -2745,6 +2889,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz",
       "youtubeUrl": "https://www.youtube.com/watch?v=wsOHvP1XnRg",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
@@ -2764,6 +2909,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/26dNCg0qpvUWLxqFGeaBM3",
       "youtubeUrl": "https://www.youtube.com/watch?v=R8OYRZDHK4s",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -2784,6 +2930,7 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=IzT-MlXlmVc",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -2803,6 +2950,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/16CdbuX6bDSXo07rsic56K",
       "youtubeUrl": "https://www.youtube.com/watch?v=HRQxljCTL8U",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
@@ -2821,6 +2969,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
       "youtubeUrl": "https://www.youtube.com/watch?v=nxwv8-oAasI",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/carolus-rex",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -2838,6 +2987,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2Fwa9DBFv05JRvjVFEwPoS",
       "youtubeUrl": "https://www.youtube.com/watch?v=rMnGYDi7Li0",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/long-live-the-king",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -2857,6 +3007,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf",
       "youtubeUrl": "https://www.youtube.com/watch?v=xfGe07IzsK4",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/poltava",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -2875,6 +3026,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X",
       "youtubeUrl": "https://www.youtube.com/watch?v=c898WyjHDx4",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/ruina-imperii",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -2896,6 +3048,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ",
       "youtubeUrl": "https://www.youtube.com/watch?v=IeqHGDjmD0g",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -2915,6 +3068,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl",
       "youtubeUrl": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-17",
       "curatedBy": "manual"
     },
@@ -2934,6 +3088,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf",
       "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/saboteurs",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -2951,6 +3106,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
       "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -2969,6 +3125,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q",
       "youtubeUrl": "https://www.youtube.com/watch?v=rGa2woc4uig",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -2987,6 +3144,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz",
       "youtubeUrl": "https://www.youtube.com/watch?v=CEmCyG4tvds",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -3004,6 +3162,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/025oz90TMxaKyJhP9VXDZG",
       "youtubeUrl": "https://www.youtube.com/watch?v=4y-JI5KEWhU",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -3024,6 +3183,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V",
       "youtubeUrl": "https://www.youtube.com/watch?v=8Q00PZR2_og",
+      "bandcampUrl": "https://ottonepesante.bandcamp.com/track/battle-of-qadesh",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -3044,6 +3204,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1ZeH5iHqsM9kyxEq5l3J85",
       "youtubeUrl": "https://www.youtube.com/watch?v=5FKciHZdlN8",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -3063,6 +3224,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4",
       "youtubeUrl": "https://www.youtube.com/watch?v=G38B-vTBiPs",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/album/nemesis-ad",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -3083,6 +3245,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
       "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+      "bandcampUrl": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
       "matchedAt": "2026-10-07",
       "curatedBy": "manual"
     },
@@ -3101,6 +3264,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t",
       "youtubeUrl": "https://www.youtube.com/watch?v=DxkeOkaVRLo",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/father",
       "matchedAt": "2026-09-25",
       "curatedBy": "manual"
     },
@@ -3121,6 +3285,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK",
       "youtubeUrl": "https://www.youtube.com/watch?v=QiPyayfmWuY",
+      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/the-catalpa",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -3138,6 +3303,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c",
       "youtubeUrl": "https://www.youtube.com/watch?v=vaMBn0GsgLY",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/symphony-for-the-quiet",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -3158,6 +3324,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1",
       "youtubeUrl": "https://www.youtube.com/watch?v=u5OvUSgUfRE",
+      "bandcampUrl": "https://centurymedia.bandcamp.com/track/miklagard-overture",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -3176,7 +3343,8 @@
         "Konstantinopel"
       ],
       "spotifyUrl": "https://open.spotify.com/track/1Vps9IVy4MXNzBNrzlkAiB",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9wo6lNn4KVE"
+      "youtubeUrl": "https://www.youtube.com/watch?v=9wo6lNn4KVE",
+      "bandcampUrl": "https://amonamarth.bandcamp.com/track/varyags-of-miklagaard"
     },
     {
       "episodeId": 519,
@@ -3194,6 +3362,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7IQOMAQi7h64LLLLLQ7xFo",
       "youtubeUrl": "https://www.youtube.com/watch?v=dRk0grBXtGw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -3213,6 +3382,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
       "youtubeUrl": "https://www.youtube.com/watch?v=KufuujY63Rc",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -3231,6 +3401,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs",
       "youtubeUrl": "https://www.youtube.com/watch?v=8kIv7ZJOyB4",
+      "bandcampUrl": "https://centurymedia.bandcamp.com/track/the-march-of-the-varangian-guard",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -3250,6 +3421,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2oivd8NrVhKRwVaNMk4VOL",
       "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
+      "bandcampUrl": "https://warkings.bandcamp.com/album/armageddon",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -3270,6 +3442,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1s6AIQMNebgYvLN6uqOsCQ",
       "youtubeUrl": "https://www.youtube.com/watch?v=6fuC4C2JQns",
+      "bandcampUrl": "https://stormcrowblackmetal.bandcamp.com/album/face-the-giant-2",
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -3288,6 +3461,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5a3ePEfAwk5fuhmF6fcagm",
       "youtubeUrl": "https://www.youtube.com/watch?v=Kt5MvYNvyWk",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-29",
       "curatedBy": "manual"
     },
@@ -3306,6 +3480,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1pRSzNGFojBLuW2i7n9ShR",
       "youtubeUrl": "https://www.youtube.com/watch?v=HeMyN6FyAHs",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -3325,6 +3500,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU",
       "youtubeUrl": "https://www.youtube.com/watch?v=01Pu07vBK1Q",
+      "bandcampUrl": "https://soulsellerrecords.bandcamp.com/track/the-great-winter",
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -3344,6 +3520,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d",
       "youtubeUrl": "https://www.youtube.com/watch?v=-2w6yQPDFPM",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -3365,6 +3542,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa",
       "youtubeUrl": "https://www.youtube.com/watch?v=NuugQSaHM7Y",
+      "bandcampUrl": "https://theamoebapeople.bandcamp.com/album/the-fossil-record",
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -3384,6 +3562,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=NfFj9aEJDOc",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
@@ -3403,6 +3582,7 @@
       ],
       "spotifyUrl": "https://sellsword.bandcamp.com/track/hardrada",
       "youtubeUrl": "https://www.youtube.com/watch?v=YAwkaPWTfrY",
+      "bandcampUrl": "https://sellsword.bandcamp.com/track/hardrada",
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -3424,6 +3604,7 @@
       ],
       "spotifyUrl": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
       "youtubeUrl": null,
+      "bandcampUrl": "https://deuteronomymetal.bandcamp.com/track/nika-riots",
       "matchedAt": "2026-10-26",
       "curatedBy": "manual"
     },
@@ -3444,6 +3625,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2mdMIqEutBXwejRRKC1R1I",
       "youtubeUrl": "https://www.youtube.com/watch?v=8DDnNhpNRoI",
+      "bandcampUrl": "https://centurymedia.bandcamp.com/track/venitoi-prasinoi",
       "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
@@ -3463,6 +3645,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1vQuvrJEJb89z3o91UKznT",
       "youtubeUrl": "https://www.youtube.com/watch?v=wp28LJzMN4Y",
+      "bandcampUrl": "https://englishmajors.bandcamp.com/track/vin-mariani",
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -3482,7 +3665,8 @@
         "Elizabeth I."
       ],
       "spotifyUrl": "https://open.spotify.com/track/6ZP18uzxaDeNAjrVNvV2Rt",
-      "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k"
+      "youtubeUrl": "https://www.youtube.com/watch?v=s9LJz0Oz76k",
+      "bandcampUrl": "https://cruachan1.bandcamp.com/track/the-sea-queen-of-connaught"
     },
     {
       "episodeId": 552,
@@ -3500,6 +3684,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3ZgAza96p4cK4G99wGDze8",
       "youtubeUrl": "https://www.youtube.com/watch?v=jbCJXVemRgc",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-27",
       "curatedBy": "manual"
     },
@@ -3520,6 +3705,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3CVVXrAJvV96rNNz4Xx9Vr",
       "youtubeUrl": "https://www.youtube.com/watch?v=iOafalF22kI",
+      "bandcampUrl": "https://miracleofsound.bandcamp.com/track/gr-inne-mhaol-queen-of-pirates",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -3538,6 +3724,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1",
       "youtubeUrl": "https://www.youtube.com/watch?v=1FU-FDxx31k",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -3556,6 +3743,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck",
       "youtubeUrl": "https://www.youtube.com/watch?v=dwEXrFD8eKU",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -3576,6 +3764,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855",
       "youtubeUrl": "https://www.youtube.com/watch?v=Hn9VT-BFryo",
+      "bandcampUrl": "https://widespreadpanic.bandcamp.com/track/hatfield",
       "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
@@ -3596,6 +3785,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0",
       "youtubeUrl": "https://www.youtube.com/watch?v=-ze1LkruSec",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -3616,6 +3806,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux",
       "youtubeUrl": "https://www.youtube.com/watch?v=Ym_Hjte7W7Q",
+      "bandcampUrl": "https://stormlord.bandcamp.com/album/hesperia",
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
@@ -3637,6 +3828,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6jpDV46c0zczHSMdqi50aq",
       "youtubeUrl": "https://www.youtube.com/watch?v=iEwdGd7Ywwg",
+      "bandcampUrl": "https://aephanemer.bandcamp.com/album/a-dream-of-wilderness",
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
@@ -3657,6 +3849,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/56Ibqjhl46vRDuO61Xp9DT",
       "youtubeUrl": "https://www.youtube.com/watch?v=nxb3THhAZK4",
+      "bandcampUrl": "https://levellers.bandcamp.com/track/raft-of-the-medusa",
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
@@ -3676,6 +3869,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
       "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-08",
       "curatedBy": "manual"
     },
@@ -3694,6 +3888,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/039tf7McwjL3nyLKDDM8Vb",
       "youtubeUrl": "https://www.youtube.com/watch?v=zz9I9BaiCpk",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
@@ -3714,6 +3909,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir",
       "youtubeUrl": "https://www.youtube.com/watch?v=T1-cES1Ekto",
+      "bandcampUrl": "https://theamoebapeople.bandcamp.com/track/continental-drift-alfred-wegeners-brilliant-theory",
       "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
@@ -3733,6 +3929,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj",
       "youtubeUrl": "https://www.youtube.com/watch?v=XLvDxovqb1U",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-09",
       "curatedBy": "manual"
     },
@@ -3750,6 +3947,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
       "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+      "bandcampUrl": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -3769,6 +3967,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3",
       "youtubeUrl": "https://www.youtube.com/watch?v=Id48mRJQ4Hk",
+      "bandcampUrl": "https://aeternam.bandcamp.com/track/goddess-of-masr",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -3789,6 +3988,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J",
       "youtubeUrl": "https://www.youtube.com/watch?v=xGh9AO9QB0o",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -3808,6 +4008,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4A4QQVNdJeSB4ypf0DS9Sa",
       "youtubeUrl": "https://www.youtube.com/watch?v=LfqecEyN1Ds",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-03",
       "curatedBy": "manual"
     },
@@ -3826,6 +4027,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q",
       "youtubeUrl": "https://www.youtube.com/watch?v=WSU0EpjwR9E",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
@@ -3843,6 +4045,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d",
       "youtubeUrl": "https://www.youtube.com/watch?v=Y7JG63IuaWs",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-02",
       "curatedBy": "manual"
     },
@@ -3860,6 +4063,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g",
       "youtubeUrl": "https://www.youtube.com/watch?v=sWq0zCqmudw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -3879,6 +4083,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7",
       "youtubeUrl": "https://www.youtube.com/watch?v=xjF4hj8KUNc",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
     },
@@ -3897,6 +4102,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI",
       "youtubeUrl": "https://www.youtube.com/watch?v=GG14Geys7uY",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-29",
       "curatedBy": "manual"
     },
@@ -3917,6 +4123,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF",
       "youtubeUrl": "https://www.youtube.com/watch?v=XJabWzbLoIg",
+      "bandcampUrl": "https://deos-official.bandcamp.com/track/09-mylae",
       "matchedAt": "2026-10-15",
       "curatedBy": "manual"
     },
@@ -3936,6 +4143,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3L0pYSbHp4pSwftUyRBkFK",
       "youtubeUrl": "https://www.youtube.com/watch?v=OYfdXL7sKVI",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-01",
       "curatedBy": "manual"
     },
@@ -3955,6 +4163,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6uvgpUV3loxumcvsVhkMaL",
       "youtubeUrl": "https://www.youtube.com/watch?v=9TJZATUpcts",
+      "bandcampUrl": "https://spiritofplay.bandcamp.com/track/arthur",
       "matchedAt": "2026-11-06",
       "curatedBy": "manual"
     },
@@ -3973,6 +4182,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn",
       "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
+      "bandcampUrl": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
       "matchedAt": "2026-10-11",
       "curatedBy": "manual"
     },
@@ -3993,6 +4203,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0vc7TZXsIDEewS9XLTwvry",
       "youtubeUrl": "https://www.youtube.com/watch?v=1IIittOtGZA",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     },
@@ -4013,6 +4224,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/41ohp3jJvzNwztKho8VI8F",
       "youtubeUrl": "https://www.youtube.com/watch?v=wkhSwt5dUIs",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     },
@@ -4033,6 +4245,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6FMYNyvCFhVMxMnw3xJJKq",
       "youtubeUrl": "https://www.youtube.com/watch?v=_vKDiyo178E",
+      "bandcampUrl": "https://ninahagen.bandcamp.com/track/16-tons",
       "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
@@ -4053,6 +4266,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3hEqEzQg6KGMuzROEcELrL",
       "youtubeUrl": "https://www.youtube.com/watch?v=sufrH2MNhHU",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-30",
       "curatedBy": "manual"
     },
@@ -4073,6 +4287,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu",
       "youtubeUrl": "https://www.youtube.com/watch?v=QPqchDH22Vw",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
@@ -4092,6 +4307,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3kKqzvzySGR5N2vsGi3n4B",
       "youtubeUrl": "https://www.youtube.com/watch?v=ZT4DTPJH4nY",
+      "bandcampUrl": "https://kontrust.bandcamp.com/track/lederhosen-overkill",
       "matchedAt": "2026-10-13",
       "curatedBy": "manual"
     },
@@ -4113,6 +4329,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5hAibC2WxazzY7odFjgb88",
       "youtubeUrl": "https://www.youtube.com/watch?v=FKV4gwBRKVc",
+      "bandcampUrl": "https://imaritones.bandcamp.com/album/nabeshima",
       "matchedAt": "2026-10-04",
       "curatedBy": "manual"
     },
@@ -4132,6 +4349,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
       "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
+      "bandcampUrl": null,
       "matchedAt": "2026-09-30",
       "curatedBy": "manual"
     },
@@ -4149,6 +4367,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2J5YC30AmNxD6oD1JWJlP8",
       "youtubeUrl": "https://www.youtube.com/watch?v=_RY5yOlvEgo",
+      "bandcampUrl": "https://stoppok.bandcamp.com/track/der-k-hlschrank",
       "matchedAt": "2026-10-14",
       "curatedBy": "manual"
     },
@@ -4167,6 +4386,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV",
       "youtubeUrl": "https://www.youtube.com/watch?v=wH3UncRagXY",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-14",
       "curatedBy": "manual"
     },
@@ -4184,6 +4404,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt",
       "youtubeUrl": "https://www.youtube.com/watch?v=elzcvzBDHpU",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -4203,6 +4424,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
       "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
+      "bandcampUrl": "https://infinitedesignmi.bandcamp.com/album/phases-2016",
       "matchedAt": "2026-10-23",
       "curatedBy": "manual"
     },
@@ -4220,6 +4442,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c",
       "youtubeUrl": "https://www.youtube.com/watch?v=w6vP8LvhUFU",
+      "bandcampUrl": null,
       "matchedAt": "2026-10-28",
       "curatedBy": "manual"
     },
@@ -4240,6 +4463,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4t07TNAGN3QX3SrPAG6qrk",
       "youtubeUrl": "https://www.youtube.com/watch?v=4GX2lMmsZq8",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-06",
       "curatedBy": "manual"
     },
@@ -4260,6 +4484,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4bWlZiwmXBzaOL9udTB2t9",
       "youtubeUrl": "https://www.youtube.com/watch?v=L9m_m0y_FZI",
+      "bandcampUrl": "https://candlelightrecordsuk.bandcamp.com/album/the-giants-of-auld",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4280,6 +4505,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
       "youtubeUrl": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4300,6 +4526,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/74gMBtThAbJ0fHzBxVfFc3",
       "youtubeUrl": "https://www.youtube.com/watch?v=dzFcpCDM7rk",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4320,6 +4547,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok",
       "youtubeUrl": "https://www.youtube.com/watch?v=ZaiCPDU_S0w",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/track/the-last-of-the-stuarts",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4340,6 +4568,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6CPO5QMaiW489gzow0cugw",
       "youtubeUrl": "https://www.youtube.com/watch?v=BoqgJPzIoW4",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4359,6 +4588,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2qBYeuCyHLSieI7Ex2ntaM",
       "youtubeUrl": "https://www.youtube.com/watch?v=_V022xlHgBI",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4379,6 +4609,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5oZBsU3Zu5Y6ldagrTbBoh",
       "youtubeUrl": "https://www.youtube.com/watch?v=napEXYkFEaU",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4397,6 +4628,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
       "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
+      "bandcampUrl": "https://cullodenuk.bandcamp.com/album/witchpricker",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4416,6 +4648,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
       "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+      "bandcampUrl": "https://gravedigger.bandcamp.com/track/barbarian",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4436,6 +4669,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK",
       "youtubeUrl": "https://www.youtube.com/watch?v=Krjrb0fTG5A",
+      "bandcampUrl": "https://gravedigger.bandcamp.com/track/culloden-muir",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4456,6 +4690,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV",
       "youtubeUrl": "https://www.youtube.com/watch?v=Ns1K33XnH9g",
+      "bandcampUrl": "https://gravedigger.bandcamp.com/track/rebellion",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4476,6 +4711,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/7pOHX49sWbiWJscwZTrs3k",
       "youtubeUrl": "https://www.youtube.com/watch?v=gdbGQmwRelQ",
+      "bandcampUrl": "https://skiltron.bandcamp.com/album/into-the-battleground",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4495,6 +4731,7 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4514,6 +4751,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE",
       "youtubeUrl": "https://www.youtube.com/watch?v=btsX8GgBkK0",
+      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/the-night-the-lights-went-out-in-scotland",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4533,6 +4771,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
       "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
+      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/will-ye-no-come-back-again",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4550,6 +4789,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/4fKL9ogeOADudL4uEEI97J",
       "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
+      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/ye-jacobites-by-name",
       "matchedAt": "2026-11-04",
       "curatedBy": "manual"
     },
@@ -4569,6 +4809,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
       "youtubeUrl": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
+      "bandcampUrl": "https://ultan1.bandcamp.com/track/the-tempest",
       "matchedAt": "2026-11-06",
       "curatedBy": "manual"
     },
@@ -4589,6 +4830,7 @@
       ],
       "spotifyUrl": null,
       "youtubeUrl": "https://www.youtube.com/watch?v=6cv7ErQQ0b4",
+      "bandcampUrl": "https://wearedawnpatrol.bandcamp.com/album/chemical-lobotomy-mk-ultra",
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4608,6 +4850,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B",
       "youtubeUrl": "https://www.youtube.com/watch?v=Ker4RZ9g8pA",
+      "bandcampUrl": "https://eltri.bandcamp.com/track/maria-sabina",
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4626,6 +4869,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV",
       "youtubeUrl": "https://www.youtube.com/watch?v=Hdbu8hqhGvY",
+      "bandcampUrl": "https://mastershammer.bandcamp.com/album/maldor-r-disco",
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4645,6 +4889,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3pH8iQyRHzGz8XUpWt7D6L",
       "youtubeUrl": "https://www.youtube.com/watch?v=vVV5NSQwWwo",
+      "bandcampUrl": "https://motorpsycho.bandcamp.com/track/dr-hoffmanns-bicycle",
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4662,6 +4907,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh",
       "youtubeUrl": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4681,6 +4927,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/3VJlAP0z2VPKd4gDeveZo0",
       "youtubeUrl": "https://www.youtube.com/watch?v=Isy8l9PFoY4",
+      "bandcampUrl": "https://tstat.bandcamp.com/album/fading-sun",
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4700,6 +4947,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
       "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4718,6 +4966,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
       "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+      "bandcampUrl": null,
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     }
