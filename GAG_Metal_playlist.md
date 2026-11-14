@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-14 22:18:47 +0100<br>**JSON-Status:** 2026-11-14 22:18:46 +0100</small>
+<small>**Compile-Datum:** 2026-11-14 22:42:56 +0100<br>**JSON-Status:** 2026-11-14 22:42:56 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -218,6 +218,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [566](https://gadg.fm/566) | Die doppelte Ratte | Molotow Soda | Laborratte | C | [link](https://www.youtube.com/watch?v=WSU0EpjwR9E) | [link](https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q) | — |
 | [567](https://gadg.fm/567) | Die Fibonacci-Folge | Tool | Lateralus | B | [link](https://www.youtube.com/watch?v=Y7JG63IuaWs) | [link](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | — |
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) | — |
+| [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Manic Street Preachers | Emily | B | [link](https://www.youtube.com/watch?v=FsxebO0zjzo) | [link](https://open.spotify.com/track/4mjODTjDCQdIxAo1kT0iiV) | — |
+| [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Wegrowbeards | Emmeline | B | — | [link](https://open.spotify.com/track/2dXqro9B1RuJ2467Lx6Dxg) | [link](https://wegrowbeards.bandcamp.com/track/emmeline) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Almanac | Red Flag | A | [link](https://www.youtube.com/watch?v=xjF4hj8KUNc) | [link](https://open.spotify.com/track/69H1IDPaVJrTwB6pDcGPp7) | — |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Bastille | Zheng Yi Sao & Questions For Her | A | [link](https://www.youtube.com/watch?v=GG14Geys7uY) | [link](https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI) | — |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Deos | Mylae | B | [link](https://www.youtube.com/watch?v=XJabWzbLoIg) | [link](https://open.spotify.com/track/7flzzYK1QWzPncQpM4QFsF) | [link](https://deos-official.bandcamp.com/track/09-mylae) |
@@ -236,7 +238,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [577](https://gadg.fm/577) | Wie der Kühlschrank in unsere Küchen kam | Weird Al Yankovic | Livin' in the Fridge | C | [link](https://www.youtube.com/watch?v=wH3UncRagXY) | [link](https://open.spotify.com/track/3SF2TrDDOQIRAmdBVA0ieV) | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Enzo and the Glory Ensemble | Last Weep | B | [link](https://www.youtube.com/watch?v=elzcvzBDHpU) | [link](https://open.spotify.com/track/4HlyyD3igk0vBROsx1q3Rt) | — |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Metal Church | Rest in Pieces (April 15, 1912) | B | [link](https://www.youtube.com/watch?v=4sKpOiKmZmI) | [link](https://open.spotify.com/track/0qeSeHJRWlmQuYXy1JEjex) | — |
-| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Artch | Titanic | B | [link](https://www.youtube.com/watch?v=_gS_E42TXcI) | [link](https://open.spotify.com/track/2JHz3Fg3ERnGiwVcUNnpnC) | — |
+| [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Artch | Titanic | B | [link](https://www.youtube.com/watch?v=_gS_E42TXcI) | [link](https://open.spotify.com/track/2JHz3Fg3ERnGiwVcUNnpnC) | [link](https://tribunalrecords.bandcamp.com/track/titanic-2) |
 | [578](https://gadg.fm/578) | HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters | Infinite Design | Violet Jessop | A | [link](https://www.youtube.com/watch?v=x1em4-rgJyI) | [link](https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3) | [link](https://infinitedesignmi.bandcamp.com/album/phases-2016) |
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Scabies | No Milk Today | C | [link](https://www.youtube.com/watch?v=w6vP8LvhUFU) | [link](https://open.spotify.com/track/2rkWBf8vAcSc7E3ze4zR0c) | — |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Grave Digger | Barbarian | A | [link](https://www.youtube.com/watch?v=FBnIC1hRWO8) | [link](https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo) | [link](https://gravedigger.bandcamp.com/track/barbarian) |
@@ -265,4 +267,4 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Švininiai Šarvai | MK Ultra | B | [link](https://www.youtube.com/watch?v=2s3q6jKmA0I) | [link](https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa) | — |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Muse | MK Ultra | C | [link](https://www.youtube.com/watch?v=lT0-gSAKDmM) | [link](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | — |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | El Tri | María Sabina | A | [link](https://www.youtube.com/watch?v=Ker4RZ9g8pA) | [link](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) | [link](https://eltri.bandcamp.com/track/maria-sabina) |
-| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Echoes of the Moon | St. Anthony's Fire | B | [link](https://www.youtube.com/watch?v=MGhwb2VjvJo) | [link](https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB) | — |
+| [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Echoes of the Moon | St. Anthony's Fire | B | [link](https://www.youtube.com/watch?v=MGhwb2VjvJo) | [link](https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB) | [link](https://echoesofthemoon.bandcamp.com/track/st-anthonys-fire) |

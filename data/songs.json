@@ -727,12 +727,17 @@
     "era": "1912 / 1991",
     "spotifyUrl": "https://open.spotify.com/track/2JHz3Fg3ERnGiwVcUNnpnC",
     "youtubeUrl": "https://www.youtube.com/watch?v=_gS_E42TXcI",
-    "bandcampUrl": null,
+    "bandcampUrl": "https://tribunalrecords.bandcamp.com/track/titanic-2",
     "sources": [
       {
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Artch/For_the_Sake_of_Mankind/2922",
         "note": "Power/Heavy Metal; For the Sake of Mankind 1991"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://tribunalrecords.bandcamp.com/track/titanic-2",
+        "note": "Bandcamp-Track"
       }
     ]
   },
@@ -2327,12 +2332,17 @@
     "era": "Mittelalter–Neuzeit / 2016",
     "spotifyUrl": "https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB",
     "youtubeUrl": "https://www.youtube.com/watch?v=MGhwb2VjvJo",
-    "bandcampUrl": null,
+    "bandcampUrl": "https://echoesofthemoon.bandcamp.com/track/st-anthonys-fire",
     "sources": [
       {
         "type": "secondary",
         "url": "https://www.metalkingdom.net/lyrics-song/echoes-of-the-moon-st.-anthony%27s-fire-134846",
         "note": "Post-/Atmospheric Black Metal; Elusion 2016; Lyrics mit Ergot/Antoniusfeuer"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://echoesofthemoon.bandcamp.com/track/st-anthonys-fire",
+        "note": "Bandcamp-Track"
       }
     ]
   },
@@ -3683,6 +3693,27 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Knights_of_the_Cross_(album)",
         "note": "Hinrichtung Jacques de Molay / Fluch"
+      }
+    ]
+  },
+  {
+    "id": "guru-sunobry-ballad-of-sophia-duleep-singh",
+    "band": "Guru Sunobry",
+    "title": "Ballad of Sophia Duleep Singh",
+    "entities": [
+      "Sophia Duleep Singh",
+      "Suffragetten",
+      "Sikh-Reich"
+    ],
+    "era": "1876–1948 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/4d0N4iDEmM6flm5HJwW9Rg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mBrm2QFJIqU",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.jiosaavn.com/song/ballad-of-sophia-duleep-singh/GRIKQDxfQHU",
+        "note": "Punjabi-Ballade / Folk; Bryan Wilkes Musik/Text; Genre-Fail für Metal-Playlist"
       }
     ]
   },
@@ -5092,6 +5123,32 @@
     ]
   },
   {
+    "id": "manic-street-preachers-emily",
+    "band": "Manic Street Preachers",
+    "title": "Emily",
+    "entities": [
+      "Emmeline Pankhurst",
+      "Frauenwahlrecht",
+      "Suffragetten"
+    ],
+    "era": "1900er–1910er / 2004",
+    "spotifyUrl": "https://open.spotify.com/track/4mjODTjDCQdIxAo1kT0iiV",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FsxebO0zjzo",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://ianwatsonuk.com/manics.html",
+        "note": "Nicky Wire: Emily = Emmeline Pankhurst / Suffragetten vs. Celebrity-Feminismus"
+      },
+      {
+        "type": "secondary",
+        "url": "https://en.wikipedia.org/wiki/Lifeblood_(album)",
+        "note": "Alternative Rock / Britrock (Rock-Schwelle, grenzwertig Metal); Lifeblood 2004"
+      }
+    ]
+  },
+  {
     "id": "manowar-kings-of-metal",
     "band": "Manowar",
     "title": "Kings of Metal",
@@ -5688,6 +5745,26 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
         "note": "Official / MTV Exit video"
+      }
+    ]
+  },
+  {
+    "id": "mutiny-saragarhi",
+    "band": "Mutiny",
+    "title": "Saragarhi",
+    "entities": [
+      "Schlacht von Saragarhi",
+      "Sikh"
+    ],
+    "era": "1897 / 2020",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=1PAt_N5-BYA",
+    "bandcampUrl": "https://mutinymetal.bandcamp.com/track/saragarhi",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://mutinymetal.bandcamp.com/track/saragarhi",
+        "note": "Metal; Battle of Saragarhi 1897 — Lyrics Festungsverteidigung"
       }
     ]
   },
@@ -6536,6 +6613,27 @@
         "type": "secondary",
         "url": "https://en.wikipedia.org/wiki/Rancid_(2000_album)",
         "note": "Rancid (2000), Track 17"
+      }
+    ]
+  },
+  {
+    "id": "ranjit-bawa-duleep-singh-the-last-emperor",
+    "band": "Ranjit Bawa",
+    "title": "Duleep Singh the Last Emperor",
+    "entities": [
+      "Duleep Singh",
+      "Sikh-Reich",
+      "Koh-i-Noor"
+    ],
+    "era": "1838–1893 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/7AetQXcC6AgjPiWdquxd52",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OGcxD8riAcA",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://music.apple.com/gb/album/duleep-singh-the-last-emperor-single/1703799414",
+        "note": "Punjabi Traditional Folk; ft. ICon, Babbu — Genre-Fail für Metal-Playlist"
       }
     ]
   },
@@ -11348,6 +11446,28 @@
     ]
   },
   {
+    "id": "the-morrisons-emmeline-deeds-not-words",
+    "band": "The Morrisons",
+    "title": "Emmeline (Deeds Not Words)",
+    "entities": [
+      "Emmeline Pankhurst",
+      "WSPU",
+      "Frauenwahlrecht",
+      "Suffragetten"
+    ],
+    "era": "1900er–1928 / 2017",
+    "spotifyUrl": "https://open.spotify.com/track/6Jfv4QvlwLvXfAm3Q9D1Bn",
+    "youtubeUrl": "https://www.youtube.com/watch?v=36zob0-R4-w",
+    "bandcampUrl": "https://morrisons.bandcamp.com/track/emmeline-deeds-not-words-2",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://morrisons.bandcamp.com/track/emmeline-deeds-not-words-2",
+        "note": "Lyrics: Pankhurst, WSPU, Black Friday; Folk/Bluegrass/Americana — Genre-Fail"
+      }
+    ]
+  },
+  {
     "id": "the-pirates-charles-mutiny-on-the-hms-bounty",
     "band": "The Pirates Charles",
     "title": "Mutiny on the HMS Bounty",
@@ -12558,6 +12678,33 @@
         "type": "secondary",
         "url": "https://mhf-mag.com/northern-irish-pagan-metal-pioneers-waylander-new-video-hy-brasil-isle-of-mists/",
         "note": "Mac Tire Son of the Land (2026); Pagan Metal; Band: tale of mysterious island"
+      }
+    ]
+  },
+  {
+    "id": "wegrowbeards-emmeline",
+    "band": "Wegrowbeards",
+    "title": "Emmeline",
+    "entities": [
+      "Emmeline Pankhurst",
+      "Frauenwahlrecht",
+      "Suffragetten",
+      "WSPU"
+    ],
+    "era": "1905–1908 / 2012",
+    "spotifyUrl": "https://open.spotify.com/track/2dXqro9B1RuJ2467Lx6Dxg",
+    "youtubeUrl": null,
+    "bandcampUrl": "https://wegrowbeards.bandcamp.com/track/emmeline",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://wegrowbeards.bandcamp.com/album/wegrowbeards-young-attenborough-split",
+        "note": "Lyrics: Pankhurst 1905–08, deeds not words, Asquith, Haft"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.punknews.org/review/11411/wegrowbeards-young-attenborough-split",
+        "note": "Punk Rock / Pop-Punk (Rock-Schwelle, grenzwertig Metal); Split 2012"
       }
     ]
   },

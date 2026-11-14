@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14 22:18:46 +0100",
+  "updatedAt": "2026-11-14 22:42:56 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -4053,6 +4053,46 @@
       "episodeId": 568,
       "episodeTitle": "Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs",
       "episodeUrl": "https://gadg.fm/568",
+      "songId": "manic-street-preachers-emily",
+      "band": "Manic Street Preachers",
+      "songTitle": "Emily",
+      "matchTier": "B",
+      "justification": "Folge = Sophia Duleep Singh / Suffragetten und Ende des Sikh-Reichs (#568); Song = elegische Erinnerung an Emmeline Pankhurst („liberty“, Vergessen vs. Celebrity) — gemeinsamer WSPU-/Suffragetten-Rahmen der Folge, Fokus Pankhurst-Ikonografie statt Sophia (Tier B).",
+      "sharedEntities": [
+        "Emmeline Pankhurst",
+        "Frauenwahlrecht",
+        "Suffragetten"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4mjODTjDCQdIxAo1kT0iiV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FsxebO0zjzo",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-14",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 568,
+      "episodeTitle": "Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs",
+      "episodeUrl": "https://gadg.fm/568",
+      "songId": "wegrowbeards-emmeline",
+      "band": "Wegrowbeards",
+      "songTitle": "Emmeline",
+      "matchTier": "B",
+      "justification": "Folge = Sophia Duleep Singh / Suffragetten (#568); Song = chronistische Pankhurst-Kampagne 1905–08 („deeds not words“, Parlament, Asquith, Haft) — gemeinsamer WSPU-/Suffragetten-Rahmen, Fokus Emmeline statt Sophia (Tier B).",
+      "sharedEntities": [
+        "Emmeline Pankhurst",
+        "Frauenwahlrecht",
+        "Suffragetten"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2dXqro9B1RuJ2467Lx6Dxg",
+      "youtubeUrl": null,
+      "bandcampUrl": "https://wegrowbeards.bandcamp.com/track/emmeline",
+      "matchedAt": "2026-11-14",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 568,
+      "episodeTitle": "Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs",
+      "episodeUrl": "https://gadg.fm/568",
       "songId": "chumbawamba-ah-men",
       "band": "Chumbawamba",
       "songTitle": "Ah-Men",
@@ -4424,7 +4464,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/2JHz3Fg3ERnGiwVcUNnpnC",
       "youtubeUrl": "https://www.youtube.com/watch?v=_gS_E42TXcI",
-      "bandcampUrl": null,
+      "bandcampUrl": "https://tribunalrecords.bandcamp.com/track/titanic-2",
       "matchedAt": "2026-11-14",
       "curatedBy": "manual"
     },
@@ -4946,7 +4986,7 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB",
       "youtubeUrl": "https://www.youtube.com/watch?v=MGhwb2VjvJo",
-      "bandcampUrl": null,
+      "bandcampUrl": "https://echoesofthemoon.bandcamp.com/track/st-anthonys-fire",
       "matchedAt": "2026-11-14",
       "curatedBy": "manual"
     },
