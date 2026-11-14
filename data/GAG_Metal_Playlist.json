@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13 20:32:37 +0100",
+  "updatedAt": "2026-11-14 22:18:46 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -992,6 +992,25 @@
       "episodeId": 183,
       "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
       "episodeUrl": "https://gadg.fm/183",
+      "songId": "serenity-the-matricide",
+      "band": "Serenity",
+      "songTitle": "The Matricide",
+      "matchTier": "B",
+      "justification": "Gemeinsam Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Macht; Song die Nero-Perspektive auf den Matricide. (Tier B).",
+      "sharedEntities": [
+        "Agrippina die Jüngere",
+        "Nero"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7sxm_w1q3BE",
+      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/the-matricide",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 183,
+      "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
+      "episodeUrl": "https://gadg.fm/183",
       "songId": "lupo-claudia",
       "band": "Lupo",
       "songTitle": "Claudia",
@@ -1006,25 +1025,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=zIlwbluPAIw",
       "bandcampUrl": null,
       "matchedAt": "2026-10-11",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 183,
-      "episodeTitle": "Agrippina die Jüngere, mächtigste Frau der frühen Kaiserzeit",
-      "episodeUrl": "https://gadg.fm/183",
-      "songId": "serenity-the-matricide",
-      "band": "Serenity",
-      "songTitle": "The Matricide",
-      "matchTier": "B",
-      "justification": "Gemeinsam Agrippina und Neros Muttermord. Folge porträtiert Agrippinas Macht; Song die Nero-Perspektive auf den Matricide. (Tier B).",
-      "sharedEntities": [
-        "Agrippina die Jüngere",
-        "Nero"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/55Wu1cSaexyKI8pY8Utacl",
-      "youtubeUrl": "https://www.youtube.com/watch?v=7sxm_w1q3BE",
-      "bandcampUrl": "https://serenityaustria.bandcamp.com/track/the-matricide",
-      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -1112,6 +1112,26 @@
       "episodeId": 189,
       "episodeTitle": "Die Schlacht bei Cannae",
       "episodeUrl": "https://gadg.fm/189",
+      "songId": "sabaton-lightning-at-the-gates",
+      "band": "Sabaton",
+      "songTitle": "Lightning at the Gates",
+      "matchTier": "B",
+      "justification": "Sabaton Historic Fact verortet den Song in Hannibals Italienfeldzug inkl. Cannae als berühmtestem Erfolg; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang – gemeinsamer Hannibal-/Cannae-Rahmen, anderer Fokus. (Tier B).",
+      "sharedEntities": [
+        "Hannibal",
+        "Schlacht bei Cannae",
+        "Zweiter Punischer Krieg"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
+      "bandcampUrl": "https://sabaton.bandcamp.com/track/lightning-at-the-gates",
+      "matchedAt": "2026-09-26",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 189,
+      "episodeTitle": "Die Schlacht bei Cannae",
+      "episodeUrl": "https://gadg.fm/189",
       "songId": "ex-deo-hispania-the-siege-of-saguntum",
       "band": "Ex Deo",
       "songTitle": "Hispania (The Siege of Saguntum)",
@@ -1145,26 +1165,6 @@
       "youtubeUrl": null,
       "bandcampUrl": "https://exdeo.bandcamp.com/track/the-rise-of-hannibal",
       "matchedAt": "2026-10-25",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 189,
-      "episodeTitle": "Die Schlacht bei Cannae",
-      "episodeUrl": "https://gadg.fm/189",
-      "songId": "sabaton-lightning-at-the-gates",
-      "band": "Sabaton",
-      "songTitle": "Lightning at the Gates",
-      "matchTier": "B",
-      "justification": "Sabaton Historic Fact verortet den Song in Hannibals Italienfeldzug inkl. Cannae als berühmtestem Erfolg; die Folge behandelt genau diese Schlacht. Lyrics fokussieren den Alpenübergang – gemeinsamer Hannibal-/Cannae-Rahmen, anderer Fokus. (Tier B).",
-      "sharedEntities": [
-        "Hannibal",
-        "Schlacht bei Cannae",
-        "Zweiter Punischer Krieg"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/47k2XjiV3kdyNS3xUTatTD",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SXLvfxYC5NQ",
-      "bandcampUrl": "https://sabaton.bandcamp.com/track/lightning-at-the-gates",
-      "matchedAt": "2026-09-26",
       "curatedBy": "manual"
     },
     {
@@ -2840,22 +2840,6 @@
       "episodeId": 462,
       "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
       "episodeUrl": "https://gadg.fm/462",
-      "songId": "warkings-battle-of-marathon",
-      "band": "Warkings",
-      "songTitle": "Battle of Marathon",
-      "matchTier": "C",
-      "justification": "Folge = Thermopylen 480 (Leonidas); Song = Marathon 490 + Botenlauf — thematische Nähe Perserkriege, anderer Erzählgegenstand (Tier C).",
-      "sharedEntities": [
-        "Perserkriege"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk",
-      "bandcampUrl": "https://warkings.bandcamp.com/track/battle-of-marathon"
-    },
-    {
-      "episodeId": 462,
-      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
-      "episodeUrl": "https://gadg.fm/462",
       "songId": "warkings-sparta",
       "band": "Warkings",
       "songTitle": "Sparta",
@@ -2872,6 +2856,22 @@
       "bandcampUrl": "https://warkings.bandcamp.com/track/sparta",
       "matchedAt": "2026-09-28",
       "curatedBy": "manual"
+    },
+    {
+      "episodeId": 462,
+      "episodeTitle": "Die Schlacht an den Thermopylen oder Das erste letzte Gefecht der Geschichte",
+      "episodeUrl": "https://gadg.fm/462",
+      "songId": "warkings-battle-of-marathon",
+      "band": "Warkings",
+      "songTitle": "Battle of Marathon",
+      "matchTier": "C",
+      "justification": "Folge = Thermopylen 480 (Leonidas); Song = Marathon 490 + Botenlauf — thematische Nähe Perserkriege, anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Perserkriege"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MxrlcIK0mOk",
+      "bandcampUrl": "https://warkings.bandcamp.com/track/battle-of-marathon"
     },
     {
       "episodeId": 466,
@@ -3096,24 +3096,6 @@
       "episodeId": 498,
       "episodeTitle": "Eine kleine Geschichte des Grimoires",
       "episodeUrl": "https://gadg.fm/498",
-      "songId": "elvenking-3-ways-to-magick",
-      "band": "Elvenking",
-      "songTitle": "3 Ways to Magick",
-      "matchTier": "C",
-      "justification": "Folge = Geschichte der Grimoires als magische Praxisbücher; Song = drei Wege der Magie und Grimoire als Manual/Sourcebook — gemeinsames Motiv Zauberbuch, kein historisches Werk (Tier C).",
-      "sharedEntities": [
-        "Grimoire"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
-      "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
-      "bandcampUrl": null,
-      "matchedAt": "2026-10-12",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 498,
-      "episodeTitle": "Eine kleine Geschichte des Grimoires",
-      "episodeUrl": "https://gadg.fm/498",
       "songId": "in-extremo-merseburger-zauberspruche-1",
       "band": "In Extremo",
       "songTitle": "Merseburger Zaubersprüche 1",
@@ -3146,6 +3128,24 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=CEmCyG4tvds",
       "bandcampUrl": null,
       "matchedAt": "2026-10-02",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 498,
+      "episodeTitle": "Eine kleine Geschichte des Grimoires",
+      "episodeUrl": "https://gadg.fm/498",
+      "songId": "elvenking-3-ways-to-magick",
+      "band": "Elvenking",
+      "songTitle": "3 Ways to Magick",
+      "matchTier": "C",
+      "justification": "Folge = Geschichte der Grimoires als magische Praxisbücher; Song = drei Wege der Magie und Grimoire als Manual/Sourcebook — gemeinsames Motiv Zauberbuch, kein historisches Werk (Tier C).",
+      "sharedEntities": [
+        "Grimoire"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k0okqZr_8RY",
+      "bandcampUrl": null,
+      "matchedAt": "2026-10-12",
       "curatedBy": "manual"
     },
     {
@@ -3370,26 +3370,6 @@
       "episodeId": 519,
       "episodeTitle": "Die Warägergarde",
       "episodeUrl": "https://gadg.fm/519",
-      "songId": "rebellion-the-uprising",
-      "band": "Rebellion",
-      "songTitle": "The Uprising",
-      "matchTier": "B",
-      "justification": "Folge = Warägergarde als Institution (Aufgaben, Zusammensetzung, Ende); Song = Harald Hardrada / Waräger stürzen Michael V. 1042 (Sizilien-Feldzug, Kerker, Palastbrand) — gleiche Einheit am byzantinischen Hof, Song-Fokus ein Einzelereignis (Tier B).",
-      "sharedEntities": [
-        "Warägergarde",
-        "Konstantinopel",
-        "Harald Hardrada"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
-      "youtubeUrl": "https://www.youtube.com/watch?v=KufuujY63Rc",
-      "bandcampUrl": null,
-      "matchedAt": "2026-10-25",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 519,
-      "episodeTitle": "Die Warägergarde",
-      "episodeUrl": "https://gadg.fm/519",
       "songId": "turisas-the-march-of-the-varangian-guard",
       "band": "Turisas",
       "songTitle": "The March of the Varangian Guard",
@@ -3423,6 +3403,26 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=zQ_juxVX06Q",
       "bandcampUrl": "https://warkings.bandcamp.com/album/armageddon",
       "matchedAt": "2026-10-11",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 519,
+      "episodeTitle": "Die Warägergarde",
+      "episodeUrl": "https://gadg.fm/519",
+      "songId": "rebellion-the-uprising",
+      "band": "Rebellion",
+      "songTitle": "The Uprising",
+      "matchTier": "B",
+      "justification": "Folge = Warägergarde als Institution (Aufgaben, Zusammensetzung, Ende); Song = Harald Hardrada / Waräger stürzen Michael V. 1042 (Sizilien-Feldzug, Kerker, Palastbrand) — gleiche Einheit am byzantinischen Hof, Song-Fokus ein Einzelereignis (Tier B).",
+      "sharedEntities": [
+        "Warägergarde",
+        "Konstantinopel",
+        "Harald Hardrada"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/06zdY4yi66i5LSC3Ck5DtE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KufuujY63Rc",
+      "bandcampUrl": null,
+      "matchedAt": "2026-10-25",
       "curatedBy": "manual"
     },
     {
@@ -4315,6 +4315,26 @@
       "episodeId": 575,
       "episodeTitle": "Hasekura Tsunenaga und die Keichō-Gesandtschaft",
       "episodeUrl": "https://gadg.fm/575",
+      "songId": "onmyo-za-aoki-dokugan",
+      "band": "Onmyō-za",
+      "songTitle": "蒼き独眼 (Aoki Dokugan)",
+      "matchTier": "B",
+      "justification": "Gemeinsam Date Masamune: Folge die von ihm entsandte Keichō-Gesandtschaft (Hasekura); Song Tribut an Masamune selbst (Dokuganryū). Gleiche Person, anderer Fokus. (Tier B).",
+      "sharedEntities": [
+        "Date Masamune",
+        "Japan",
+        "frühes 17. Jahrhundert"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
+      "bandcampUrl": null,
+      "matchedAt": "2026-09-30",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 575,
+      "episodeTitle": "Hasekura Tsunenaga und die Keichō-Gesandtschaft",
+      "episodeUrl": "https://gadg.fm/575",
       "songId": "imari-tones-sengoku-christians",
       "band": "Imari Tones",
       "songTitle": "Sengoku Christians",
@@ -4331,26 +4351,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=FKV4gwBRKVc",
       "bandcampUrl": "https://imaritones.bandcamp.com/album/nabeshima",
       "matchedAt": "2026-10-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 575,
-      "episodeTitle": "Hasekura Tsunenaga und die Keichō-Gesandtschaft",
-      "episodeUrl": "https://gadg.fm/575",
-      "songId": "onmyo-za-aoki-dokugan",
-      "band": "Onmyō-za",
-      "songTitle": "蒼き独眼 (Aoki Dokugan)",
-      "matchTier": "B",
-      "justification": "Gemeinsam Date Masamune: Folge die von ihm entsandte Keichō-Gesandtschaft (Hasekura); Song Tribut an Masamune selbst (Dokuganryū). Gleiche Person, anderer Fokus. (Tier B).",
-      "sharedEntities": [
-        "Date Masamune",
-        "Japan",
-        "frühes 17. Jahrhundert"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/2OFzilUosN1mRbGdwK2VPJ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=j6GJdnEaZQ8",
-      "bandcampUrl": null,
-      "matchedAt": "2026-09-30",
       "curatedBy": "manual"
     },
     {
@@ -4394,6 +4394,44 @@
       "episodeId": 578,
       "episodeTitle": "HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
       "episodeUrl": "https://gadg.fm/578",
+      "songId": "infinite-design-violet-jessop",
+      "band": "Infinite Design",
+      "songTitle": "Violet Jessop",
+      "matchTier": "A",
+      "justification": "Folge = Violet Jessop / Olympic-Klasse (Hörbuch #578); Song = Titelporträt auf Konzeptalbum Phases (historische Figuren) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Violet Jessop",
+        "Olympic-Klasse",
+        "Titanic"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
+      "bandcampUrl": "https://infinitedesignmi.bandcamp.com/album/phases-2016",
+      "matchedAt": "2026-10-23",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 578,
+      "episodeTitle": "HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
+      "episodeUrl": "https://gadg.fm/578",
+      "songId": "artch-titanic",
+      "band": "Artch",
+      "songTitle": "Titanic",
+      "matchTier": "B",
+      "justification": "Folge = Violet Jessop / Überleben der Olympic-Klasse inkl. Titanic (#578); Song = Jungfernfahrt und Untergang („virgin-voyage“, Unsinkbarkeit, Eisberg, Boote, SOS), ohne Jessop/Olympic/Britannic — gemeinsamer Titanic-Rahmen, Fokus Schiffskatastrophe statt Überlebende (Tier B).",
+      "sharedEntities": [
+        "Titanic"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2JHz3Fg3ERnGiwVcUNnpnC",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_gS_E42TXcI",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-14",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 578,
+      "episodeTitle": "HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
+      "episodeUrl": "https://gadg.fm/578",
       "songId": "enzo-and-the-glory-ensemble-last-weep",
       "band": "Enzo and the Glory Ensemble",
       "songTitle": "Last Weep",
@@ -4412,20 +4450,18 @@
       "episodeId": 578,
       "episodeTitle": "HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
       "episodeUrl": "https://gadg.fm/578",
-      "songId": "infinite-design-violet-jessop",
-      "band": "Infinite Design",
-      "songTitle": "Violet Jessop",
-      "matchTier": "A",
-      "justification": "Folge = Violet Jessop / Olympic-Klasse (Hörbuch #578); Song = Titelporträt auf Konzeptalbum Phases (historische Figuren) — derselbe Kern (Tier A).",
+      "songId": "metal-church-rest-in-pieces-april-15-1912",
+      "band": "Metal Church",
+      "songTitle": "Rest in Pieces (April 15, 1912)",
+      "matchTier": "B",
+      "justification": "Folge = Violet Jessop / Überleben der Olympic-Klasse inkl. Titanic (#578); Song = chronistische Titanic-Nacht (Belfast, Unsinkbarkeit, Eisberg, zu wenige Boote, Orchester, ~1500 Tote), ohne Jessop/Olympic/Britannic — gemeinsamer Titanic-Rahmen der Jessop-Hälfte, Fokus Katastrophe statt Überlebende (Tier B).",
       "sharedEntities": [
-        "Violet Jessop",
-        "Olympic-Klasse",
         "Titanic"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/5botx00wHUWpOBlPjqPaB3",
-      "youtubeUrl": "https://www.youtube.com/watch?v=x1em4-rgJyI",
-      "bandcampUrl": "https://infinitedesignmi.bandcamp.com/album/phases-2016",
-      "matchedAt": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/track/0qeSeHJRWlmQuYXy1JEjex",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4sKpOiKmZmI",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-14",
       "curatedBy": "manual"
     },
     {
@@ -4492,27 +4528,6 @@
       "episodeId": 580,
       "episodeTitle": "Die Schlacht bei Culloden",
       "episodeUrl": "https://gadg.fm/580",
-      "songId": "cnoc-an-tursa-fuigheall",
-      "band": "Cnoc An Tursa",
-      "songTitle": "Fuigheall",
-      "matchTier": "B",
-      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen; Song = gälisches „Fuigheall“ (Remnant): Erinnerung an Prestonpans/John Cope und Aufruf des Restheers zum „last attempt“ für Prince Charles gegen King George — gemeinsamer Rising-Rahmen, Fokus früher Sieg/letzte Mobilisierung statt Culloden-Schlacht (Tier B).",
-      "sharedEntities": [
-        "Prestonpans",
-        "Prince Charles Stuart",
-        "King George",
-        "Jakobitenaufstand 1745"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
-      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
-      "matchedAt": "2026-11-13",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
       "songId": "cnoc-an-tursa-sound-the-pibroch",
       "band": "Cnoc An Tursa",
       "songTitle": "Sound the Pibroch",
@@ -4548,6 +4563,167 @@
       "spotifyUrl": "https://open.spotify.com/track/0I3ygGA2pdEVyQIFfqcwok",
       "youtubeUrl": "https://www.youtube.com/watch?v=ZaiCPDU_S0w",
       "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/track/the-last-of-the-stuarts",
+      "matchedAt": "2026-11-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "culloden-hills-of-culloden",
+      "band": "Culloden",
+      "songTitle": "Hills of Culloden",
+      "matchTier": "A",
+      "justification": "Folge = Schlacht bei Culloden 1746 und Jakobiten-Ende; Song = Hills of Culloden (Band/Songtitel Culloden; Review: Schlachtlyrics mit Jahr 1746) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Schlacht bei Culloden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
+      "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
+      "bandcampUrl": "https://cullodenuk.bandcamp.com/album/witchpricker",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "grave-digger-barbarian",
+      "band": "Grave Digger",
+      "songTitle": "Barbarian",
+      "matchTier": "A",
+      "justification": "Folge = Culloden 1746 und Folgen für Jakobiten/Highlands; Song = Herzog von Cumberland als „Butcher of Culloden“ / Killer of the Jacobites und Unterdrückung danach — derselbe Kern Schlacht-Nachspiel/Culloden (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Herzog von Cumberland",
+        "Jakobiten"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
+      "bandcampUrl": "https://gravedigger.bandcamp.com/track/barbarian",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "grave-digger-culloden-muir",
+      "band": "Grave Digger",
+      "songTitle": "Culloden Muir",
+      "matchTier": "A",
+      "justification": "Folge = Jakobitenaufstand 1745/46, Schlacht bei Culloden und Folgen für Clans/Highlands sowie spätere Wahrnehmung; Song = Ich-Perspektive nach der Niederlage auf Culloden Muir 1746 (burning towns, Clans destroyed, Prince Bonnie, Gillis MacBean) — derselbe Kern Schlacht und unmittelbares Nachspiel (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Krjrb0fTG5A",
+      "bandcampUrl": "https://gravedigger.bandcamp.com/track/culloden-muir",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-skye-boat-song",
+      "band": "The Real McKenzies",
+      "songTitle": "Skye Boat Song",
+      "matchTier": "A",
+      "justification": "Folge = ’45er Rising, Culloden und kulturelle Nachwirkung; Song = Celtic-Punk-Version des Skye Boat Song (Tote auf Culloden’s field, Flucht Charlies over the sea to Skye) — derselbe Kern Culloden/Charlie-Flucht (Tier A).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Culloden",
+        "Isle of Skye"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-the-night-the-lights-went-out-in-scotland",
+      "band": "The Real McKenzies",
+      "songTitle": "The Night the Lights Went Out in Scotland",
+      "matchTier": "A",
+      "justification": "Folge = Culloden 1746 und Folgen für Clans/Highlands; Song = Nachspiel nach dem Fall of Culloden (Charlie flieht, Clear the Highlands) — derselbe Kern Schlacht-Nachspiel (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Bonnie Prince Charlie",
+        "Highland Clearances"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=btsX8GgBkK0",
+      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/the-night-the-lights-went-out-in-scotland",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "the-real-mckenzies-will-ye-no-come-back-again",
+      "band": "The Real McKenzies",
+      "songTitle": "Will Ye No Come Back Again?",
+      "matchTier": "A",
+      "justification": "Folge = ’45er Rising, Culloden und kulturelle Nachwirkung inkl. Charlie-Flucht; Song = Jakobiten-Abschied an Bonnie Charlie (Exil, Highland-Loyalität, „will ye no come back again“) — derselbe Kern Charlie nach Culloden (Tier A).",
+      "sharedEntities": [
+        "Bonnie Prince Charlie",
+        "Jakobitenaufstand 1745",
+        "Culloden"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
+      "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
+      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/will-ye-no-come-back-again",
+      "matchedAt": "2026-11-04",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "ultan-jp-the-tempest",
+      "band": "Ultan JP",
+      "songTitle": "The Tempest",
+      "matchTier": "A",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden; Song = Highlander-POV am Vorabend/auf Culloden Moor („Upon Culloden moor we stand or we fall“, highland glen, Opferbereitschaft) — derselbe Kern Culloden (Tier A).",
+      "sharedEntities": [
+        "Culloden",
+        "Jakobitenaufstand 1745",
+        "Highland Clans"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
+      "bandcampUrl": "https://ultan1.bandcamp.com/track/the-tempest",
+      "matchedAt": "2026-11-06",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 580,
+      "episodeTitle": "Die Schlacht bei Culloden",
+      "episodeUrl": "https://gadg.fm/580",
+      "songId": "cnoc-an-tursa-fuigheall",
+      "band": "Cnoc An Tursa",
+      "songTitle": "Fuigheall",
+      "matchTier": "B",
+      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden und Folgen; Song = gälisches „Fuigheall“ (Remnant): Erinnerung an Prestonpans/John Cope und Aufruf des Restheers zum „last attempt“ für Prince Charles gegen King George — gemeinsamer Rising-Rahmen, Fokus früher Sieg/letzte Mobilisierung statt Culloden-Schlacht (Tier B).",
+      "sharedEntities": [
+        "Prestonpans",
+        "Prince Charles Stuart",
+        "King George",
+        "Jakobitenaufstand 1745"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6FL0rxjRw8xY3VTcS9Kq81",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-mA5r1KGpIk",
+      "bandcampUrl": "https://apocalypticwitchcraft.bandcamp.com/album/the-forty-five",
       "matchedAt": "2026-11-13",
       "curatedBy": "manual"
     },
@@ -4617,66 +4793,6 @@
       "episodeId": 580,
       "episodeTitle": "Die Schlacht bei Culloden",
       "episodeUrl": "https://gadg.fm/580",
-      "songId": "culloden-hills-of-culloden",
-      "band": "Culloden",
-      "songTitle": "Hills of Culloden",
-      "matchTier": "A",
-      "justification": "Folge = Schlacht bei Culloden 1746 und Jakobiten-Ende; Song = Hills of Culloden (Band/Songtitel Culloden; Review: Schlachtlyrics mit Jahr 1746) — derselbe Kern (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Schlacht bei Culloden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4DDIiNnvOwa4AvxM7kir2b",
-      "youtubeUrl": "https://www.youtube.com/watch?v=S9hNxGo9Iy0",
-      "bandcampUrl": "https://cullodenuk.bandcamp.com/album/witchpricker",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "grave-digger-barbarian",
-      "band": "Grave Digger",
-      "songTitle": "Barbarian",
-      "matchTier": "A",
-      "justification": "Folge = Culloden 1746 und Folgen für Jakobiten/Highlands; Song = Herzog von Cumberland als „Butcher of Culloden“ / Killer of the Jacobites und Unterdrückung danach — derselbe Kern Schlacht-Nachspiel/Culloden (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Herzog von Cumberland",
-        "Jakobiten"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6UiieLEXB8JffAyKy86eHo",
-      "youtubeUrl": "https://www.youtube.com/watch?v=FBnIC1hRWO8",
-      "bandcampUrl": "https://gravedigger.bandcamp.com/track/barbarian",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "grave-digger-culloden-muir",
-      "band": "Grave Digger",
-      "songTitle": "Culloden Muir",
-      "matchTier": "A",
-      "justification": "Folge = Jakobitenaufstand 1745/46, Schlacht bei Culloden und Folgen für Clans/Highlands sowie spätere Wahrnehmung; Song = Ich-Perspektive nach der Niederlage auf Culloden Muir 1746 (burning towns, Clans destroyed, Prince Bonnie, Gillis MacBean) — derselbe Kern Schlacht und unmittelbares Nachspiel (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Bonnie Prince Charlie",
-        "Jakobitenaufstand 1745",
-        "Highland Clans"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/5cmLYE386pwGDPmvemGZMK",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Krjrb0fTG5A",
-      "bandcampUrl": "https://gravedigger.bandcamp.com/track/culloden-muir",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
       "songId": "grave-digger-rebellion-the-clans-are-marching",
       "band": "Grave Digger",
       "songTitle": "Rebellion (The Clans Are Marching)",
@@ -4719,66 +4835,6 @@
       "episodeId": 580,
       "episodeTitle": "Die Schlacht bei Culloden",
       "episodeUrl": "https://gadg.fm/580",
-      "songId": "the-real-mckenzies-skye-boat-song",
-      "band": "The Real McKenzies",
-      "songTitle": "Skye Boat Song",
-      "matchTier": "A",
-      "justification": "Folge = ’45er Rising, Culloden und kulturelle Nachwirkung; Song = Celtic-Punk-Version des Skye Boat Song (Tote auf Culloden’s field, Flucht Charlies over the sea to Skye) — derselbe Kern Culloden/Charlie-Flucht (Tier A).",
-      "sharedEntities": [
-        "Bonnie Prince Charlie",
-        "Culloden",
-        "Isle of Skye"
-      ],
-      "spotifyUrl": null,
-      "youtubeUrl": "https://www.youtube.com/watch?v=yuQMLw4Wd1U",
-      "bandcampUrl": null,
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "the-real-mckenzies-the-night-the-lights-went-out-in-scotland",
-      "band": "The Real McKenzies",
-      "songTitle": "The Night the Lights Went Out in Scotland",
-      "matchTier": "A",
-      "justification": "Folge = Culloden 1746 und Folgen für Clans/Highlands; Song = Nachspiel nach dem Fall of Culloden (Charlie flieht, Clear the Highlands) — derselbe Kern Schlacht-Nachspiel (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Bonnie Prince Charlie",
-        "Highland Clearances"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/4m1JwQyy60bpAvPvxQmBmE",
-      "youtubeUrl": "https://www.youtube.com/watch?v=btsX8GgBkK0",
-      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/the-night-the-lights-went-out-in-scotland",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "the-real-mckenzies-will-ye-no-come-back-again",
-      "band": "The Real McKenzies",
-      "songTitle": "Will Ye No Come Back Again?",
-      "matchTier": "A",
-      "justification": "Folge = ’45er Rising, Culloden und kulturelle Nachwirkung inkl. Charlie-Flucht; Song = Jakobiten-Abschied an Bonnie Charlie (Exil, Highland-Loyalität, „will ye no come back again“) — derselbe Kern Charlie nach Culloden (Tier A).",
-      "sharedEntities": [
-        "Bonnie Prince Charlie",
-        "Jakobitenaufstand 1745",
-        "Culloden"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/1JZHtenWhAebpDUSCm6J4X",
-      "youtubeUrl": "https://www.youtube.com/watch?v=t4ykwaOMeYo",
-      "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/will-ye-no-come-back-again",
-      "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
       "songId": "the-real-mckenzies-ye-jacobites-by-name",
       "band": "The Real McKenzies",
       "songTitle": "Ye Jacobites by Name",
@@ -4791,26 +4847,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=WdNkFtwTLro",
       "bandcampUrl": "https://therealmckenzies.bandcamp.com/track/ye-jacobites-by-name",
       "matchedAt": "2026-11-04",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 580,
-      "episodeTitle": "Die Schlacht bei Culloden",
-      "episodeUrl": "https://gadg.fm/580",
-      "songId": "ultan-jp-the-tempest",
-      "band": "Ultan JP",
-      "songTitle": "The Tempest",
-      "matchTier": "A",
-      "justification": "Folge = Jakobitenaufstand 1745/46 mit Endpunkt Culloden; Song = Highlander-POV am Vorabend/auf Culloden Moor („Upon Culloden moor we stand or we fall“, highland glen, Opferbereitschaft) — derselbe Kern Culloden (Tier A).",
-      "sharedEntities": [
-        "Culloden",
-        "Jakobitenaufstand 1745",
-        "Highland Clans"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/3WMBTMYij7a6XKtSymowEk",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MrV6Q5F6A9E",
-      "bandcampUrl": "https://ultan1.bandcamp.com/track/the-tempest",
-      "matchedAt": "2026-11-06",
       "curatedBy": "manual"
     },
     {
@@ -4858,25 +4894,6 @@
       "episodeId": 581,
       "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
       "episodeUrl": "https://gadg.fm/581",
-      "songId": "masters-hammer-bicycle-day",
-      "band": "Master's Hammer",
-      "songTitle": "Bicycle Day",
-      "matchTier": "C",
-      "justification": "Folge = Hofmann / LSD und die historische Bicycle-Day-Fahrt; Song = Haluzinogene und Radfahren unter dem Titel Bicycle Day, laut Band eigene Natur-/Rad-Ekstase — assoziative Nähe über Stichwort und Jahrestags-Bezug, kein gemeinsamer Erzählgegenstand (Tier C).",
-      "sharedEntities": [
-        "Bicycle Day",
-        "LSD"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Hdbu8hqhGvY",
-      "bandcampUrl": "https://mastershammer.bandcamp.com/album/maldor-r-disco",
-      "matchedAt": "2026-11-12",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 581,
-      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
-      "episodeUrl": "https://gadg.fm/581",
       "songId": "motorpsycho-dr-hoffmanns-bicycle",
       "band": "Motorpsycho",
       "songTitle": "Dr. Hoffmann's Bicycle",
@@ -4890,24 +4907,6 @@
       "spotifyUrl": "https://open.spotify.com/track/3pH8iQyRHzGz8XUpWt7D6L",
       "youtubeUrl": "https://www.youtube.com/watch?v=vVV5NSQwWwo",
       "bandcampUrl": "https://motorpsycho.bandcamp.com/track/dr-hoffmanns-bicycle",
-      "matchedAt": "2026-11-12",
-      "curatedBy": "manual"
-    },
-    {
-      "episodeId": 581,
-      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
-      "episodeUrl": "https://gadg.fm/581",
-      "songId": "muse-mk-ultra",
-      "band": "Muse",
-      "songTitle": "MK Ultra",
-      "matchTier": "C",
-      "justification": "Folge = CIA / MKUltra und LSD-Experimente; Song = Titel nach dem CIA-Projekt, Text über Brainwashing und Medienmanipulation im 20. Jh. — assoziative Nähe über das Stichwort, kein gemeinsamer Erzählgegenstand (Tier C).",
-      "sharedEntities": [
-        "MKUltra"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
-      "bandcampUrl": null,
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"
     },
@@ -4935,20 +4934,20 @@
       "episodeId": 581,
       "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
       "episodeUrl": "https://gadg.fm/581",
-      "songId": "tool-lost-keys-blame-hofmann",
-      "band": "Tool",
-      "songTitle": "Lost Keys (Blame Hofmann)",
-      "matchTier": "C",
-      "justification": "Folge = Albert Hofmann / LSD-Entdeckung (Fahrradfahrt) plus Psilocybin/Wasson-Strang; Song = Krankenhaus-Skit vor Rosetta Stoned, Hofmann nur als Titel-Schuld („Blame Hofmann“), Dialog mit „Dr. Wasson“ — thematische Nähe zu LSD/Pilz-Pionieren, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "songId": "echoes-of-the-moon-st-anthonys-fire",
+      "band": "Echoes of the Moon",
+      "songTitle": "St. Anthony's Fire",
+      "matchTier": "B",
+      "justification": "Folge = Mutterkorn als Ausgangspunkt zur Entdeckung von LSD/Psilocybin plus CIA (#581); Song = Antoniusfeuer/Ergotismus („ergot has got you by the neck“), ohne Hofmann/Sabina/MKUltra — gemeinsamer Mutterkorn-Rahmen, Fokus Vergiftungserfahrung statt Entdeckungsgeschichte (Tier B).",
       "sharedEntities": [
-        "Albert Hofmann",
-        "LSD",
-        "R. Gordon Wasson"
+        "Mutterkorn",
+        "Ergotismus",
+        "Antoniusfeuer"
       ],
-      "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
-      "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
+      "spotifyUrl": "https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MGhwb2VjvJo",
       "bandcampUrl": null,
-      "matchedAt": "2026-11-12",
+      "matchedAt": "2026-11-14",
       "curatedBy": "manual"
     },
     {
@@ -4966,6 +4965,63 @@
       ],
       "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
       "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "masters-hammer-bicycle-day",
+      "band": "Master's Hammer",
+      "songTitle": "Bicycle Day",
+      "matchTier": "C",
+      "justification": "Folge = Hofmann / LSD und die historische Bicycle-Day-Fahrt; Song = Haluzinogene und Radfahren unter dem Titel Bicycle Day, laut Band eigene Natur-/Rad-Ekstase — assoziative Nähe über Stichwort und Jahrestags-Bezug, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Bicycle Day",
+        "LSD"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/20MR6hi4fD8xmwWX6JYzvV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hdbu8hqhGvY",
+      "bandcampUrl": "https://mastershammer.bandcamp.com/album/maldor-r-disco",
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "muse-mk-ultra",
+      "band": "Muse",
+      "songTitle": "MK Ultra",
+      "matchTier": "C",
+      "justification": "Folge = CIA / MKUltra und LSD-Experimente; Song = Titel nach dem CIA-Projekt, Text über Brainwashing und Medienmanipulation im 20. Jh. — assoziative Nähe über das Stichwort, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "MKUltra"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lT0-gSAKDmM",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-12",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 581,
+      "episodeTitle": "Mutterkornfelder und das Fleisch der Götter",
+      "episodeUrl": "https://gadg.fm/581",
+      "songId": "tool-lost-keys-blame-hofmann",
+      "band": "Tool",
+      "songTitle": "Lost Keys (Blame Hofmann)",
+      "matchTier": "C",
+      "justification": "Folge = Albert Hofmann / LSD-Entdeckung (Fahrradfahrt) plus Psilocybin/Wasson-Strang; Song = Krankenhaus-Skit vor Rosetta Stoned, Hofmann nur als Titel-Schuld („Blame Hofmann“), Dialog mit „Dr. Wasson“ — thematische Nähe zu LSD/Pilz-Pionieren, kein gemeinsamer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Albert Hofmann",
+        "LSD",
+        "R. Gordon Wasson"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/0PLtBp8VchqMaJMl4abJaZ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
       "bandcampUrl": null,
       "matchedAt": "2026-11-12",
       "curatedBy": "manual"

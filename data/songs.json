@@ -718,6 +718,25 @@
     ]
   },
   {
+    "id": "artch-titanic",
+    "band": "Artch",
+    "title": "Titanic",
+    "entities": [
+      "Titanic"
+    ],
+    "era": "1912 / 1991",
+    "spotifyUrl": "https://open.spotify.com/track/2JHz3Fg3ERnGiwVcUNnpnC",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_gS_E42TXcI",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Artch/For_the_Sake_of_Mankind/2922",
+        "note": "Power/Heavy Metal; For the Sake of Mankind 1991"
+      }
+    ]
+  },
+  {
     "id": "atrocity-shadowtaker",
     "band": "Atrocity",
     "title": "Shadowtaker",
@@ -2292,6 +2311,28 @@
         "type": "band",
         "url": "https://www.metal-archives.com/albums/Dorsal_Atl%C3%A2ntica/Dividir_%26_Conquistar/6389",
         "note": "Dividir & Conquistar (1988)"
+      }
+    ]
+  },
+  {
+    "id": "echoes-of-the-moon-st-anthonys-fire",
+    "band": "Echoes of the Moon",
+    "title": "St. Anthony's Fire",
+    "entities": [
+      "Mutterkorn",
+      "Ergotismus",
+      "Antoniusfeuer",
+      "St. Anthony's Fire"
+    ],
+    "era": "Mittelalter–Neuzeit / 2016",
+    "spotifyUrl": "https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MGhwb2VjvJo",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metalkingdom.net/lyrics-song/echoes-of-the-moon-st.-anthony%27s-fire-134846",
+        "note": "Post-/Atmospheric Black Metal; Elusion 2016; Lyrics mit Ergot/Antoniusfeuer"
       }
     ]
   },
@@ -5261,6 +5302,25 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag484/",
         "note": "Kommentar unter #484: Schellack / Flut-Kontext"
+      }
+    ]
+  },
+  {
+    "id": "metal-church-rest-in-pieces-april-15-1912",
+    "band": "Metal Church",
+    "title": "Rest in Pieces (April 15, 1912)",
+    "entities": [
+      "Titanic"
+    ],
+    "era": "1912 / 1989",
+    "spotifyUrl": "https://open.spotify.com/track/0qeSeHJRWlmQuYXy1JEjex",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4sKpOiKmZmI",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Metal_Church/Blessing_in_Disguise/662",
+        "note": "Heavy/Power Metal; Blessing in Disguise 1989"
       }
     ]
   },
