@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-13 22:24:41 +0100<br>**JSON-Status:** 2026-11-13 19:49:21 +0100</small>
+<small>**Compile-Datum:** 2026-11-14 22:42:56 +0100<br>**JSON-Status:** 2026-11-14 22:40:33 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -188,6 +188,10 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [562](https://gadg.fm/562) | Chevalier John Taylor, Ophthalmiater | Allegaeon | Concerto in Dm | X | [link](https://www.youtube.com/watch?v=_EtcIrkG8FA) | [link](https://open.spotify.com/track/3cCcSqkue17ytuyRyuq96i) | [link](https://allegaeon.bandcamp.com/track/concerto-in-dm) |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | 24/7 Diva Heaven | Rat Race | X | [link](https://www.youtube.com/watch?v=rx-JTgNh1j8) | — | [link](https://247divaheaven.bandcamp.com/track/rat-race) |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | Black Flag | Shed Reading (Rattus Norvegicus) | X (A) | [link](https://www.youtube.com/watch?v=aG8qdGXfTd8) | [link](https://open.spotify.com/track/0v6Ho2YM7QQ7QaaZSnLwyJ) | — |
+| [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Guru Sunobry | Ballad of Sophia Duleep Singh | X (A) | [link](https://www.youtube.com/watch?v=mBrm2QFJIqU) | [link](https://open.spotify.com/track/4d0N4iDEmM6flm5HJwW9Rg) | — |
+| [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Ranjit Bawa | Duleep Singh the Last Emperor | X (A) | [link](https://www.youtube.com/watch?v=OGcxD8riAcA) | [link](https://open.spotify.com/track/7AetQXcC6AgjPiWdquxd52) | — |
+| [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | The Morrisons | Emmeline (Deeds Not Words) | X (B) | [link](https://www.youtube.com/watch?v=36zob0-R4-w) | [link](https://open.spotify.com/track/6Jfv4QvlwLvXfAm3Q9D1Bn) | [link](https://morrisons.bandcamp.com/track/emmeline-deeds-not-words-2) |
+| [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Mutiny | Saragarhi | X | [link](https://www.youtube.com/watch?v=1PAt_N5-BYA) | — | [link](https://mutinymetal.bandcamp.com/track/saragarhi) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Sabaton | The Last Battle | X | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) | [link](https://sabaton.bandcamp.com/track/the-last-battle-2) |
 | [570](https://gadg.fm/570) | Die Erfindung der Konservendose | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) | [link](https://sabaton.bandcamp.com/track/i-emperor) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Aeneas | X | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) | [link](https://stormlord.bandcamp.com/album/hesperia) |

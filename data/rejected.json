@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13 19:49:21 +0100",
+  "updatedAt": "2026-11-14 22:40:33 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1217,6 +1217,34 @@
       "songId": "black-flag-shed-reading-rattus-norvegicus",
       "reason": "Folge = Ratte als Schädling und Labortier; Text = Monolog der Wanderratte (Rattus norvegicus) über Schädlings- und Laborleben — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Spoken Word / Lesung (Family Man), kein Rock/Metal-Song (Tier X).",
       "rejectedAt": "2026-10-13",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 568,
+      "songId": "guru-sunobry-ballad-of-sophia-duleep-singh",
+      "reason": "Folge = Sophia Duleep Singh / Suffragette und Sikh-Prinzessin (#568); Song = Titelballade derselben Person — derselbe Kern (bei Metal wäre Tier A). Genre = Punjabi-Ballade / Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-14",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 568,
+      "songId": "mutiny-saragarhi",
+      "reason": "Folge = Ende des Sikh-Reichs (Annexion ~1849) / Sophia Duleep Singh (#568); Song = Schlacht von Saragarhi 1897 (Sikh-Soldaten der britisch-indischen Armee vs. Afghanen) — anderes Ereignis und Phase, nur generischer Sikh-Militärbezug (Tier X).",
+      "rejectedAt": "2026-11-14",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 568,
+      "songId": "ranjit-bawa-duleep-singh-the-last-emperor",
+      "reason": "Folge = Ende des Sikh-Reichs / Duleep Singh als Vater Sophias (#568); Song = letzter Maharaja, Reichsverlust, Exil nach England, Koh-i-Noor — derselbe Kern (bei Metal wäre Tier A). Genre = Punjabi Traditional Folk, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-14",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 568,
+      "songId": "the-morrisons-emmeline-deeds-not-words",
+      "reason": "Folge = Sophia Duleep Singh / Suffragetten (#568); Song = Pankhurst-Porträt (WSPU, Black Friday, Zwangsernährung, Töchter) — gemeinsamer Suffragetten-Rahmen (bei Metal wäre Tier B). Genre = Folk / Bluegrass / Americana, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-14",
       "rejectedBy": "manual"
     },
     {
