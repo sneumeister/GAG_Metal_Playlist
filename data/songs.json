@@ -718,6 +718,36 @@
     ]
   },
   {
+    "id": "arrayan-path-hollow-eyes-of-nefertiti",
+    "band": "Arrayan Path",
+    "title": "Hollow Eyes of Nefertiti",
+    "entities": [
+      "Nofretete",
+      "Nefertiti",
+      "Echnaton",
+      "Akhenaten",
+      "Aton",
+      "Aten",
+      "Amarna"
+    ],
+    "era": "14. Jh. v. Chr. / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/77juic07peERovNrTMvdti",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1PMFBCex5pE",
+    "bandcampUrl": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/arrayan-path/hollow-eyes-of-nefertiti-lyrics/",
+        "note": "Nefertiti/Akhenaten/Aten; erased from history; hollow eyes"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
+        "note": "Ira Imperium (Pitch Black Records, 2011)"
+      }
+    ]
+  },
+  {
     "id": "artch-titanic",
     "band": "Artch",
     "title": "Titanic",
@@ -3258,6 +3288,33 @@
     ]
   },
   {
+    "id": "ghost-rats",
+    "band": "Ghost",
+    "title": "Rats",
+    "entities": [
+      "Ratte",
+      "Pest",
+      "Black Death",
+      "Bubonic Plague"
+    ],
+    "era": "1347–1351 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=C_ijc7A5oAc",
+    "bandcampUrl": "https://ghost.bandcamp.com/track/rats",
+    "sources": [
+      {
+        "type": "interview",
+        "url": "https://www.revolvermag.com/music/read-biting-lyrics-ghosts-black-plague-inspired-new-song-rats/",
+        "note": "Forge: not technically about rodents; Messina plague-ship legend as metaphor"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://ghost.bandcamp.com/track/rats",
+        "note": "Prequelle (Loma Vista, 2018)"
+      }
+    ]
+  },
+  {
     "id": "giant-squid-throwing-a-donner-party-at-sea-physeter-catodon",
     "band": "Giant Squid",
     "title": "Throwing a Donner Party At Sea (Physeter Catodon)",
@@ -5794,6 +5851,36 @@
     ]
   },
   {
+    "id": "mystifier-akhenaton-son-mighty-sun",
+    "band": "Mystifier",
+    "title": "Akhenaton (Son Mighty Sun)",
+    "entities": [
+      "Echnaton",
+      "Akhenaten",
+      "Nofretete",
+      "Nefertiti",
+      "Aton",
+      "Aten",
+      "Amarna"
+    ],
+    "era": "14. Jh. v. Chr. / 2019",
+    "spotifyUrl": "https://open.spotify.com/track/7hsE0k96SvbF7SRkpDvNW1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1uCL1tCawjM",
+    "bandcampUrl": "https://mystifier.bandcamp.com/track/akhenaton-son-mighty-sun",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/mystifier-akhenaton-son-mighty-sun-254595",
+        "note": "Amenhotep IV → Akhenaton; Aton; Nefertiti; lost city"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://mystifier.bandcamp.com/track/akhenaton-son-mighty-sun",
+        "note": "Protogoni Mavri Magiki Dynasteia (Season of Mist, 2019)"
+      }
+    ]
+  },
+  {
     "id": "mystik-evil-oil",
     "band": "Mystik",
     "title": "Evil Oil",
@@ -6273,6 +6360,31 @@
     ]
   },
   {
+    "id": "pearl-jam-rats",
+    "band": "Pearl Jam",
+    "title": "Rats",
+    "entities": [
+      "Ratte",
+      "Mensch vs. Ratte"
+    ],
+    "era": "1993",
+    "spotifyUrl": "https://open.spotify.com/track/3ExkycVpwb2mCZ6MsJuECz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=COtAEPnETqg",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "interview",
+        "url": "https://www.songfacts.com/facts/pearl-jam/rats",
+        "note": "Vedder/Melody Maker: rats more admirable than humans; Ben/MJ reference"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.discogs.com/master/73754-Pearl-Jam-Vs",
+        "note": "Vs. (Epic, 1993); Alternative Rock/Grunge"
+      }
+    ]
+  },
+  {
     "id": "peter-pringle-gilgamesh-lament-for-enkidu",
     "band": "Peter Pringle",
     "title": "Gilgamesh Lament for Enkidu",
@@ -6586,6 +6698,32 @@
         "type": "secondary",
         "url": "https://open.spotify.com/track/2eQAr4IgxjMEMgBc7Wa4iz",
         "note": "Liebe ist für alle da (2009); Duell-Motiv / Effi Briest"
+      }
+    ]
+  },
+  {
+    "id": "rammstein-zick-zack",
+    "band": "Rammstein",
+    "title": "Zick Zack",
+    "entities": [
+      "Schönheitschirurgie",
+      "Botox",
+      "Beauty-Wahn"
+    ],
+    "era": "2022",
+    "spotifyUrl": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hBTNyJ33LWI",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.rollingstone.de/rammstein-zick-zack-lyrics-2432521/",
+        "note": "Schönheitschirurgie / Botox; Zeit (2022)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://de.wikipedia.org/wiki/Zick_Zack",
+        "note": "Single/Video; Beauty-Klinik-Promo; Industrial Metal"
       }
     ]
   },

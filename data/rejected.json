@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14 22:40:33 +0100",
+  "updatedAt": "2026-11-16 21:12:45 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1252,6 +1252,13 @@
       "songId": "sabaton-the-last-battle",
       "reason": "Folge = Zheng Yisao und Perusiedlung (Hörbuch); Song = Schloss Itter 1945 — nur Wort Tirol im Folgentitel-Nebenstrang, kein gemeinsamer Kern (Tier X).",
       "rejectedAt": "2026-10-11",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 570,
+      "songId": "rammstein-zick-zack",
+      "reason": "Folge = Appert / Hitzesterilisation und Konservendose (#570); Song = Satire auf Schönheitswahn und plastische Chirurgie („Botox rein bis ins Gehirn“) — nur Hörer-Assoziation Botulismus↔Botox/Botulinumtoxin, anderer Erzählgegenstand (Tier X).",
+      "rejectedAt": "2026-11-16",
       "rejectedBy": "manual"
     },
     {

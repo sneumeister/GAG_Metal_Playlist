@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14 22:42:56 +0100",
+  "updatedAt": "2026-11-16 21:09:00 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -4013,6 +4013,48 @@
       "curatedBy": "manual"
     },
     {
+      "episodeId": 565,
+      "episodeTitle": "Nofretete und Echnaton",
+      "episodeUrl": "https://gadg.fm/565",
+      "songId": "arrayan-path-hollow-eyes-of-nefertiti",
+      "band": "Arrayan Path",
+      "songTitle": "Hollow Eyes of Nefertiti",
+      "matchTier": "A",
+      "justification": "Folge = Nofretete und Echnaton, Amarna-Tilgung und Büste (#565); Song = Nofretete als Gattin Akhenatens / Aten-Glauben, „erased from the scriptures of history“, Refrain „hollow eyes of Nefertiti“ — derselbe Kern Person/Paar und damnatio memoriae (Tier A).",
+      "sharedEntities": [
+        "Nofretete",
+        "Echnaton",
+        "Aton",
+        "Amarna"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/77juic07peERovNrTMvdti",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1PMFBCex5pE",
+      "bandcampUrl": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
+      "matchedAt": "2026-11-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 565,
+      "episodeTitle": "Nofretete und Echnaton",
+      "episodeUrl": "https://gadg.fm/565",
+      "songId": "mystifier-akhenaton-son-mighty-sun",
+      "band": "Mystifier",
+      "songTitle": "Akhenaton (Son Mighty Sun)",
+      "matchTier": "A",
+      "justification": "Folge = Nofretete und Echnaton / Aton-Kult und Amarna (#565); Song = Amenhotep IV. stirbt → Akhenaton erhebt den Sonnengott, Monotheismus, Nefertiti feiert mit ihrem Gemahl, Aton-Hymnus, verlorene Stadt in der Wüste — derselbe Kern Echnaton/Amarna (Tier A).",
+      "sharedEntities": [
+        "Echnaton",
+        "Nofretete",
+        "Aton",
+        "Amarna"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/7hsE0k96SvbF7SRkpDvNW1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1uCL1tCawjM",
+      "bandcampUrl": "https://mystifier.bandcamp.com/track/akhenaton-son-mighty-sun",
+      "matchedAt": "2026-11-16",
+      "curatedBy": "manual"
+    },
+    {
       "episodeId": 566,
       "episodeTitle": "Die doppelte Ratte",
       "episodeUrl": "https://gadg.fm/566",
@@ -4029,6 +4071,42 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=WSU0EpjwR9E",
       "bandcampUrl": null,
       "matchedAt": "2026-10-13",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 566,
+      "episodeTitle": "Die doppelte Ratte",
+      "episodeUrl": "https://gadg.fm/566",
+      "songId": "ghost-rats",
+      "band": "Ghost",
+      "songTitle": "Rats",
+      "matchTier": "C",
+      "justification": "Folge = Wanderratte als Schädling und Labortier, beide menschgemacht (#566); Song = laut Forge nicht über Nager, sondern Ansteckung/Black-Death-Schiff-Legende als Metapher für ansteckende Überzeugungen und öffentliche Urteile (Video mit Rattenbildern) — thematische Nähe über Ratte als Pest-/Schädlingsmythos, kein gemeinsamer Erzählgegenstand Pest-/Laborgeschichte (Tier C).",
+      "sharedEntities": [
+        "Ratte"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C_ijc7A5oAc",
+      "bandcampUrl": "https://ghost.bandcamp.com/track/rats",
+      "matchedAt": "2026-11-16",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 566,
+      "episodeTitle": "Die doppelte Ratte",
+      "episodeUrl": "https://gadg.fm/566",
+      "songId": "pearl-jam-rats",
+      "band": "Pearl Jam",
+      "songTitle": "Rats",
+      "matchTier": "C",
+      "justification": "Folge = kulturelle Doppelrolle der Ratte als Schädling/Labortier (#566); Song = Vedder: Ratten seien „a hell of a lot more admirable“ als Menschen; satirischer Moralvergleich Mensch vs. Ratte (plus Ben/Willard-Anspielung) — thematische Nähe über kulturelle Umwertung der Ratte, kein gemeinsamer Erzählgegenstand Pest-/Laborgeschichte (Tier C).",
+      "sharedEntities": [
+        "Ratte"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3ExkycVpwb2mCZ6MsJuECz",
+      "youtubeUrl": "https://www.youtube.com/watch?v=COtAEPnETqg",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-16",
       "curatedBy": "manual"
     },
     {

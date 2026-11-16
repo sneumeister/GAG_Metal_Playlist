@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-14 22:42:56 +0100<br>**JSON-Status:** 2026-11-14 22:42:56 +0100</small>
+<small>**Compile-Datum:** 2026-11-16 21:12:45 +0100<br>**JSON-Status:** 2026-11-16 21:09:00 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -212,10 +212,14 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [563](https://gadg.fm/563) | Driftende Kontinente und Expeditionen ins Eis | The Amoeba People | Continental Drift: Alfred Wegener's Brilliant Theory (Tectonic Chronicles Pt. 1) | A | [link](https://www.youtube.com/watch?v=T1-cES1Ekto) | [link](https://open.spotify.com/track/4U21EdiqJwCAssjXJFdiir) | [link](https://theamoebapeople.bandcamp.com/track/continental-drift-alfred-wegeners-brilliant-theory) |
 | [564](https://gadg.fm/564) | Sarah Winchester und ihr Mystery House | The Burned Over | The Last Great Awakening | C | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) | [link](https://theburnedover.bandcamp.com/album/the-last-great-awakening) |
 | [564](https://gadg.fm/564) | Sarah Winchester und ihr Mystery House | Silver Bullet | The Thirteen Nails | A | [link](https://www.youtube.com/watch?v=XLvDxovqb1U) | [link](https://open.spotify.com/track/47rs7gEnT4yQyIXaugzsTj) | — |
+| [565](https://gadg.fm/565) | Nofretete und Echnaton | Mystifier | Akhenaton (Son Mighty Sun) | A | [link](https://www.youtube.com/watch?v=1uCL1tCawjM) | [link](https://open.spotify.com/track/7hsE0k96SvbF7SRkpDvNW1) | [link](https://mystifier.bandcamp.com/track/akhenaton-son-mighty-sun) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Nightfall | Akhenaton, the 9th Pharaoh of the 18th Dynasty | A | [link](https://www.youtube.com/watch?v=xGh9AO9QB0o) | [link](https://open.spotify.com/track/1M2y8QsrgsTiAMjscjN41J) | — |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Aeternam | Goddess of Masr | A | [link](https://www.youtube.com/watch?v=Id48mRJQ4Hk) | [link](https://open.spotify.com/track/55xnegD6K5nRyRIddfszJ3) | [link](https://aeternam.bandcamp.com/track/goddess-of-masr) |
+| [565](https://gadg.fm/565) | Nofretete und Echnaton | Arrayan Path | Hollow Eyes of Nefertiti | A | [link](https://www.youtube.com/watch?v=1PMFBCex5pE) | [link](https://open.spotify.com/track/77juic07peERovNrTMvdti) | [link](https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti) |
 | [565](https://gadg.fm/565) | Nofretete und Echnaton | Therion | Son of the Sun | A | [link](https://www.youtube.com/watch?v=LfqecEyN1Ds) | [link](https://open.spotify.com/track/4A4QQVNdJeSB4ypf0DS9Sa) | — |
 | [566](https://gadg.fm/566) | Die doppelte Ratte | Molotow Soda | Laborratte | C | [link](https://www.youtube.com/watch?v=WSU0EpjwR9E) | [link](https://open.spotify.com/track/6xH0839Coc6KnOcilceI5Q) | — |
+| [566](https://gadg.fm/566) | Die doppelte Ratte | Ghost | Rats | C | [link](https://www.youtube.com/watch?v=C_ijc7A5oAc) | [link](https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp) | [link](https://ghost.bandcamp.com/track/rats) |
+| [566](https://gadg.fm/566) | Die doppelte Ratte | Pearl Jam | Rats | C | [link](https://www.youtube.com/watch?v=COtAEPnETqg) | [link](https://open.spotify.com/track/3ExkycVpwb2mCZ6MsJuECz) | — |
 | [567](https://gadg.fm/567) | Die Fibonacci-Folge | Tool | Lateralus | B | [link](https://www.youtube.com/watch?v=Y7JG63IuaWs) | [link](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | — |
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) | — |
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Manic Street Preachers | Emily | B | [link](https://www.youtube.com/watch?v=FsxebO0zjzo) | [link](https://open.spotify.com/track/4mjODTjDCQdIxAo1kT0iiV) | — |
