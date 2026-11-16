@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-16 21:12:45 +0100<br>**JSON-Status:** 2026-11-16 21:09:00 +0100</small>
+<small>**Compile-Datum:** 2026-11-16 21:23:04 +0100<br>**JSON-Status:** 2026-11-16 21:09:00 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 

@@ -184,25 +184,34 @@ td.links {{
 }}
 td.stufe {{
   white-space: nowrap;
+  vertical-align: baseline;
 }}
 button.stufe-btn {{
   appearance: none;
+  position: relative;
   margin: 0;
-  padding: 0.35rem 0.45rem;
-  min-width: 2.25rem;
-  min-height: 2.25rem;
+  padding: 0 0.35rem;
+  min-width: 1.5rem;
   border: none;
   border-radius: 0;
   background: transparent;
   color: var(--accent);
   font: inherit;
   font-weight: 700;
+  line-height: inherit;
   letter-spacing: 0.02em;
   text-decoration: underline;
-  text-underline-offset: 0.18em;
+  text-underline-offset: 0.12em;
+  vertical-align: baseline;
   cursor: pointer;
   touch-action: manipulation;
   white-space: nowrap;
+}}
+/* Größere Klick-/Touch-Fläche ohne die Textbaseline zu verschieben */
+button.stufe-btn::before {{
+  content: "";
+  position: absolute;
+  inset: -0.55rem -0.45rem;
 }}
 button.stufe-btn:hover,
 button.stufe-btn[aria-expanded="true"] {{
