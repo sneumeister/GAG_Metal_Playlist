@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-14 22:42:56 +0100<br>**JSON-Status:** 2026-11-14 22:40:33 +0100</small>
+<small>**Compile-Datum:** 2026-11-16 21:12:45 +0100<br>**JSON-Status:** 2026-11-16 21:12:45 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -194,6 +194,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [568](https://gadg.fm/568) | Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs | Mutiny | Saragarhi | X | [link](https://www.youtube.com/watch?v=1PAt_N5-BYA) | — | [link](https://mutinymetal.bandcamp.com/track/saragarhi) |
 | [569](https://gadg.fm/569) | HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru | Sabaton | The Last Battle | X | [link](https://www.youtube.com/watch?v=BwfJsKfCnaM) | [link](https://open.spotify.com/track/0NjHYeO88VsXEd9VEu538C) | [link](https://sabaton.bandcamp.com/track/the-last-battle-2) |
 | [570](https://gadg.fm/570) | Die Erfindung der Konservendose | Sabaton | I, Emperor | X | [link](https://www.youtube.com/watch?v=FhitH0BnDX4) | [link](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) | [link](https://sabaton.bandcamp.com/track/i-emperor) |
+| [570](https://gadg.fm/570) | Die Erfindung der Konservendose | Rammstein | Zick Zack | X | [link](https://www.youtube.com/watch?v=hBTNyJ33LWI) | [link](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | — |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Aeneas | X | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) | [link](https://stormlord.bandcamp.com/album/hesperia) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Stormlord | Mare Nostrum | X | [link](https://www.youtube.com/watch?v=QTipuwebN_c) | [link](https://open.spotify.com/track/5FV4IP88g2V54zElWAvoAG) | [link](https://stormlord.bandcamp.com/album/mare-nostrum) |
 | [571](https://gadg.fm/571) | Die Katastrophe von Kamarina und die erste Flotte Roms | Warkings | Spartacus | X | [link](https://www.youtube.com/watch?v=RAqzE1TWzvk) | [link](https://open.spotify.com/track/2fE9QJUPu6QFJpZGyB2HNg) | [link](https://warkings.bandcamp.com/track/spartacus) |
