@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-16 21:12:45 +0100<br>**JSON-Status:** 2026-11-16 21:09:00 +0100</small>
+<small>**Compile-Datum:** 2026-11-17 21:23:59 +0100<br>**JSON-Status:** 2026-11-17 21:23:10 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -192,6 +192,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [535](https://gadg.fm/535) | Das Jahr 536 und die Spätantike Kleine Eiszeit | Sarvekas | The Great Winter | B | [link](https://www.youtube.com/watch?v=01Pu07vBK1Q) | [link](https://open.spotify.com/track/0xrQYH6PuYZ9EheKsryEjU) | [link](https://soulsellerrecords.bandcamp.com/track/the-great-winter) |
 | [536](https://gadg.fm/536) | Eine gescheiterte Flucht über den Atlantik | Deep Blue Something | Dr. Crippen | B | [link](https://www.youtube.com/watch?v=-2w6yQPDFPM) | [link](https://open.spotify.com/track/1vZcimRS4SDgZxlzDfSu8d) | — |
 | [538](https://gadg.fm/538) | Das längste Gebirge der Welt | The Amoeba People | Girl Talk | A | [link](https://www.youtube.com/watch?v=NuugQSaHM7Y) | [link](https://open.spotify.com/track/1HLSVaCjEfaoYWQVcN08xa) | [link](https://theamoebapeople.bandcamp.com/album/the-fossil-record) |
+| [539](https://gadg.fm/539) | Der Mongolensturm und das Jahrzehnt der Witwen | Tengger Cavalry | Golden Horde | C | [link](https://www.youtube.com/watch?v=oqntdui3e74) | [link](https://open.spotify.com/track/3X7VI8sAcsy418tPcapFAX) | [link](https://tenggercavalry.bandcamp.com/track/golden-horde) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Sellsword | Hardrada | C | [link](https://www.youtube.com/watch?v=YAwkaPWTfrY) | — | [link](https://sellsword.bandcamp.com/track/hardrada) |
 | [543](https://gadg.fm/543) | Vom Tiegel in den Fluss | Rebellion | Ulfberth | B | [link](https://www.youtube.com/watch?v=NfFj9aEJDOc) | [link](https://open.spotify.com/track/0dsrW5sVEUJ1fPbpExtiMJ) | — |
 | [545](https://gadg.fm/545) | Der Nika-Aufstand und die Zirkusparteien | Deuteronomy | Nika Riots | A | — | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) | [link](https://deuteronomymetal.bandcamp.com/track/nika-riots) |
