@@ -11205,6 +11205,37 @@
     ]
   },
   {
+    "id": "tengger-cavalry-golden-horde",
+    "band": "Tengger Cavalry",
+    "title": "Golden Horde",
+    "entities": [
+      "Goldene Horde",
+      "Mongolen",
+      "Batu"
+    ],
+    "era": "13. Jh. / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/3X7VI8sAcsy418tPcapFAX",
+    "youtubeUrl": "https://www.youtube.com/watch?v=oqntdui3e74",
+    "bandcampUrl": "https://tenggercavalry.bandcamp.com/track/golden-horde",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/tengger-cavalry/golden-horde-lyrics/",
+        "note": "Mythische Reiterkriegs-Hymne; Titel/金帐领主 = Goldene Horde"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://tenggercavalry.bandcamp.com/album/sunesu-cavalry",
+        "note": "Sunesu Cavalry (2016); Track Golden Horde"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/bands/Tengger_Cavalry/3540302366",
+        "note": "Melodic Death/Folk Metal; Tengrism, Shamanism"
+      }
+    ]
+  },
+  {
     "id": "tennessee-ernie-ford-sixteen-tons",
     "band": "Tennessee Ernie Ford",
     "title": "Sixteen Tons",

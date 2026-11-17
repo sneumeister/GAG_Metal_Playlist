@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16 21:09:00 +0100",
+  "updatedAt": "2026-11-17 21:23:10 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3544,6 +3544,25 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=NuugQSaHM7Y",
       "bandcampUrl": "https://theamoebapeople.bandcamp.com/album/the-fossil-record",
       "matchedAt": "2026-10-15",
+      "curatedBy": "manual"
+    },
+    {
+      "episodeId": 539,
+      "episodeTitle": "Der Mongolensturm und das Jahrzehnt der Witwen",
+      "episodeUrl": "https://gadg.fm/539",
+      "songId": "tengger-cavalry-golden-horde",
+      "band": "Tengger Cavalry",
+      "songTitle": "Golden Horde",
+      "matchTier": "C",
+      "justification": "Folge = Mongolensturm 1241 und Neuausrichtung durch Herrscherwitwen 1241–51; Song = mythische Kriegerhymne „Golden Horde“ ohne Batu/Europa/Witwen — thematische Nähe zum westmongolischen Khanat, anderer Erzählgegenstand (Tier C).",
+      "sharedEntities": [
+        "Goldene Horde",
+        "Mongolen"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3X7VI8sAcsy418tPcapFAX",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oqntdui3e74",
+      "bandcampUrl": "https://tenggercavalry.bandcamp.com/track/golden-horde",
+      "matchedAt": "2026-11-17",
       "curatedBy": "manual"
     },
     {
