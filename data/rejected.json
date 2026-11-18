@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16 21:12:45 +0100",
+  "updatedAt": "2026-11-18 15:58:14 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1595,6 +1595,34 @@
       "songId": "nuummite-bicycle-day",
       "reason": "Folge = Albert Hofmann / LSD und die historische Bicycle-Day-Fahrt; Song = instrumentales Stück nur mit Titel „Bicycle Day“, ohne Lyrics oder belegten Erzählfokus — zu dünner Stichwort-Bezug (Tier X).",
       "rejectedAt": "2026-11-12",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 582,
+      "songId": "emily-kaitz-the-scrabble-song",
+      "reason": "Folge = Alfred Butts / Erfindung und Boom von Scrabble (#582); Song = Scrabble-Spielen als Songthema (Album-Blurb; Soundtrack BBC imagine… Scrabble) — gemeinsames Motiv Scrabble-Spiel, anderer Fokus ohne Erfindungsgeschichte (bei Metal wäre Tier C). Genre = Folk / Singer-Songwriter, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-18",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 582,
+      "songId": "frank-crumit-crossword-mama-you-puzzle-me",
+      "reason": "Folge = Kreuzworträtsel-Mania der 1920er und Weg zu Scrabble (#582); Song = Novelty 1924/25 (Crumit/Victor) über „Crossword Mama“, explizit „you're like the crossword craze“ — gemeinsamer historischer Rahmen Craze, anderer Fokus (bei Metal wäre Tier B). Genre = Humorous song / Popular music der 1920er (LoC), kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-18",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 582,
+      "songId": "james-miller-band-scrabble",
+      "reason": "Folge = Alfred Butts / Erfindung und Boom von Scrabble (#582); Song = Prahlerei beim Scrabble-Spielen (Triple Word Score, Tiles, Dictionary) — inhaltlich nah am Spiel (bei Metal wäre Tier C). Genre = Adult Alternative / Acoustic Pop-Rock, kein Rock/Metal (Tier X).",
+      "rejectedAt": "2026-11-18",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 582,
+      "songId": "on-broken-wings-i-do-my-crosswords-in-pen",
+      "reason": "Folge = Scrabble und Kreuzworträtsel-Mania (#582); Song = Beziehungstext, Titel nur Idiom „crosswords in pen“ (= Scheinsicherheit), Lyrics ohne Rätsel-/Spielbezug — reiner Titelanklang, kein brauchbarer Bezug (Tier X).",
+      "rejectedAt": "2026-11-18",
       "rejectedBy": "manual"
     }
   ]

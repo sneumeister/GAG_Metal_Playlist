@@ -2540,6 +2540,30 @@
     ]
   },
   {
+    "id": "emily-kaitz-the-scrabble-song",
+    "band": "Emily Kaitz",
+    "title": "The Scrabble Song",
+    "entities": [
+      "Scrabble"
+    ],
+    "era": "1998 / 2001",
+    "spotifyUrl": "https://open.spotify.com/track/4Css1eSdN2rsDcjDnmR0Km",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GlnEO3Fthps",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://lemonwire.com/2018/04/20/emily-kaitz-yuppie-scum-cd/",
+        "note": "Yuppie Scum; Folk/Singer-Songwriter; songs about playing Scrabble"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.bbc.co.uk/programmes/b00plfng",
+        "note": "BBC imagine… Scrabble: A Night on the Tiles — music played"
+      }
+    ]
+  },
+  {
     "id": "english-majors-vin-mariani",
     "band": "English Majors",
     "title": "Vin Mariani",
@@ -3101,6 +3125,32 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Steadfast_(Forefather_album)",
         "note": "Steadfast (2008), Track 2"
+      }
+    ]
+  },
+  {
+    "id": "frank-crumit-crossword-mama-you-puzzle-me",
+    "band": "Frank Crumit",
+    "title": "Crossword Mama You Puzzle Me",
+    "entities": [
+      "Kreuzworträtsel",
+      "Crossword craze",
+      "1920er"
+    ],
+    "era": "1924–1925",
+    "spotifyUrl": "https://open.spotify.com/track/7hmfCgUTOWo8seyakCfMXd",
+    "youtubeUrl": "https://www.youtube.com/watch?v=oP8zplB_kJY",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "secondary",
+        "url": "https://www.loc.gov/item/jukebox-72554/",
+        "note": "Victor 19582; 1925-01-22; Genre: Humorous songs / Popular music"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://puzzculture.com/2018/10/09/novelty-crossword-songs/",
+        "note": "Novelty zur Crossword-Craze 1924/25"
       }
     ]
   },
@@ -4372,6 +4422,30 @@
         "type": "lyrics",
         "url": "https://www.infinititesti.com/2012/07/16/ivan-graziani-monna-lisa-testo/",
         "note": "Testo: rubarla / mi apparteneva / Louvre-Wärter / cassa di patate"
+      }
+    ]
+  },
+  {
+    "id": "james-miller-band-scrabble",
+    "band": "James Miller Band",
+    "title": "Scrabble",
+    "entities": [
+      "Scrabble"
+    ],
+    "era": "2011",
+    "spotifyUrl": "https://open.spotify.com/track/1hgo3h4Cmt8Jcgzd21VinP",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nZFTPIwvsxI",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/j/james-miller-band-lyrics/scrabble-lyrics.html",
+        "note": "Explicit Scrabble play; Kristen Henderson lyrics; All In 2011"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/album/59Nu7XkYTI7EEJWddNN2d1",
+        "note": "Album All In (Folk Records / James Miller, 2011); Adult Alternative"
       }
     ]
   },
@@ -6183,6 +6257,30 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Nuummite/Bicycle_Day/1148011",
         "note": "Encyclopaedia Metallum"
+      }
+    ]
+  },
+  {
+    "id": "on-broken-wings-i-do-my-crosswords-in-pen",
+    "band": "On Broken Wings",
+    "title": "I Do My Crosswords in Pen",
+    "entities": [
+      "Kreuzworträtsel"
+    ],
+    "era": "2003",
+    "spotifyUrl": "https://open.spotify.com/track/4pmI4tcbWKIPdeoaZTpPun",
+    "youtubeUrl": "https://www.youtube.com/watch?v=R_y931G5LLI",
+    "bandcampUrl": "https://dazestyle.bandcamp.com/track/i-do-my-crosswords-in-pen",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.metalkingdom.net/lyrics-song/on-broken-wings-i-do-my-crosswords-in-pen-277476",
+        "note": "Metalcore; title idiom only; relationship lyrics"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://dazestyle.bandcamp.com/track/i-do-my-crosswords-in-pen",
+        "note": "Some Of Us May Never See The World (DAZE reissue)"
       }
     ]
   },
