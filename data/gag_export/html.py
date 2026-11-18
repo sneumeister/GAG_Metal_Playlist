@@ -287,6 +287,20 @@ th.filter-cell input:focus {{
 th.filter-cell input::placeholder {{
   color: var(--muted);
 }}
+.badge-neu {{
+  display: inline-block;
+  margin-right: 0.35rem;
+  padding: 0.05rem 0.4rem;
+  border-radius: 0.2rem;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  vertical-align: middle;
+  line-height: 1.4;
+}}
 </style>
 </head>
 <body>
@@ -546,8 +560,20 @@ def _abc_legend_html() -> str:
     <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
 
 
-def _crosslink_pair(intro: str, href: str) -> str:
-    return f'{_esc(intro)} <a href="{_esc(href)}">{_esc(href)}</a>'
+def _badge_neu() -> str:
+    return '<span class="badge-neu" title="Neu">Neu</span>'
+
+
+def _crosslink_pair(
+    intro: str, href: str, *, badge_html: str = "", badge_at: str = "start"
+) -> str:
+    """badge_at: ``start`` = Zeilenanfang, ``after_link`` = hinter dem Link."""
+    link = f'<a href="{_esc(href)}">{_esc(href)}</a>'
+    if not badge_html:
+        return f"{_esc(intro)} {link}"
+    if badge_at == "after_link":
+        return f"{_esc(intro)} {link} {badge_html}"
+    return f"{badge_html} {_esc(intro)} {link}"
 
 
 def render_html(entries=None, *, compiled_at: str | None = None, json_date: str | None = None) -> str:
@@ -560,7 +586,7 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
     json_line = json_date if json_date else "noch nicht gesetzt"
 
     crosslink = (
-        f"{_crosslink_pair(CROSSLINK_TO_NOT_METAL_INTRO, NOT_METAL_HTML_NAME)}<br>"
+        f"{_crosslink_pair(CROSSLINK_TO_NOT_METAL_INTRO, NOT_METAL_HTML_NAME, badge_html=_badge_neu())}<br>"
         f"{_crosslink_pair(CROSSLINK_TO_REJECTS_INTRO, REJECT_HTML_NAME)}"
     )
 
@@ -622,7 +648,7 @@ def render_rejected_html(
 
     crosslink = (
         f"{_crosslink_pair(CROSSLINK_TO_PLAYLIST_INTRO, HTML_NAME)}<br>"
-        f"{_crosslink_pair(CROSSLINK_TO_NOT_METAL_INTRO, NOT_METAL_HTML_NAME)}"
+        f"{_crosslink_pair(CROSSLINK_TO_NOT_METAL_INTRO, NOT_METAL_HTML_NAME, badge_html=_badge_neu())}"
     )
     legend = """    <p><strong>Stufe X</strong> – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …).</p>
     <p>Thematische Treffer ohne Rock/Metal stehen in der Not-Metal-Playlist, nicht hier.</p>

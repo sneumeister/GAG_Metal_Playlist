@@ -11,7 +11,7 @@ Ziel ist eine Trefferliste: **Folge ↔ Song ↔ Begründung ↔ Spotify/YouTube
 - [Markdown](GAG_Metal_playlist.md)
 - [HTML (GitHub)](GAG_Metal_playlist.html) · [Live (GitHub Pages, filter- und sortierbar)](https://sneumeister.github.io/GAG_Metal_Playlist/)
 
-### Not-Metal-Treffer (A/B/C, kein Rock/Metal)
+### Not-Metal-Treffer (A/B/C, kein Rock/Metal) ![Neu](https://img.shields.io/badge/Neu-e85d4c?style=flat-square)
 
 - [Markdown](GAG_Not_Metal_playlist.md)
 - [HTML (GitHub)](GAG_Not_Metal_playlist.html) · [Live (GitHub Pages, filter- und sortierbar)](https://sneumeister.github.io/GAG_Metal_Playlist/GAG_Not_Metal_playlist.html)

@@ -99,6 +99,7 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
         "",
         mitmachen_markdown(),
         "",
+        f"![Neu](https://img.shields.io/badge/Neu-e85d4c?style=flat-square) "
         f"{CROSSLINK_TO_NOT_METAL_INTRO} [{NOT_METAL_MD_NAME}]({NOT_METAL_MD_NAME})",
         "",
         f"{CROSSLINK_TO_REJECTS_INTRO} [{REJECT_MD_NAME}]({REJECT_MD_NAME})",
