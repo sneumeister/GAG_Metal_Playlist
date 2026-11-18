@@ -1,10 +1,12 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-18 15:58:14 +0100<br>**JSON-Status:** 2026-11-17 21:23:10 +0100</small>
+<small>**Compile-Datum:** 2026-11-18 18:52:49 +0100<br>**JSON-Status:** 2026-11-18 18:24:09 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
 Songvorschläge, Korrekturen und anderes Feedback: mit GitHub-Account [Neues Issue öffnen](https://github.com/sneumeister/GAG_Metal_Playlist/issues/new/choose) · ohne GitHub-Account [Webformular](https://gag-playlist.sneumeister.de/)
+
+![Neu](https://img.shields.io/badge/Neu-e85d4c?style=flat-square) Not-Metal-Treffer (Stufen A/B/C, kein Rock/Metal): [GAG_Not_Metal_playlist.md](GAG_Not_Metal_playlist.md)
 
 Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 

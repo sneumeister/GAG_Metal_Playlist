@@ -4,6 +4,7 @@ declare(strict_types=1);
 final class Precheck
 {
     private const PLAYLIST_URL = 'https://raw.githubusercontent.com/sneumeister/GAG_Metal_Playlist/main/data/GAG_Metal_Playlist.json';
+    private const NOT_METAL_URL = 'https://raw.githubusercontent.com/sneumeister/GAG_Metal_Playlist/main/data/GAG_Not_Metal_Playlist.json';
     private const REJECTED_URL = 'https://raw.githubusercontent.com/sneumeister/GAG_Metal_Playlist/main/data/rejected.json';
     private const SONGS_URL = 'https://raw.githubusercontent.com/sneumeister/GAG_Metal_Playlist/main/data/songs.json';
 
@@ -26,6 +27,14 @@ final class Precheck
             return ['ok' => true];
         }
 
+        $nmEntries = [];
+        try {
+            $notMetal = self::fetchJson(self::NOT_METAL_URL);
+            $nmEntries = is_array($notMetal['entries'] ?? null) ? $notMetal['entries'] : [];
+        } catch (Throwable) {
+            // Not-Metal optional, bis die Datei auf main liegt.
+        }
+
         $plEntries = is_array($playlist['entries'] ?? null) ? $playlist['entries'] : [];
         $rjEntries = is_array($rejected['entries'] ?? null) ? $rejected['entries'] : [];
         // songs.json = Liste; falls Objekt mit message o.ä., leere Liste
@@ -37,10 +46,10 @@ final class Precheck
         }
 
         if ($type === 'vorschlag') {
-            return self::checkVorschlag($fields, $plEntries, $rjEntries, $songList);
+            return self::checkVorschlag($fields, $plEntries, $nmEntries, $rjEntries, $songList);
         }
         if ($type === 'korrektur') {
-            return self::checkKorrektur($fields, $plEntries, $rjEntries, $songList);
+            return self::checkKorrektur($fields, $plEntries, $nmEntries, $rjEntries, $songList);
         }
         return ['ok' => true];
     }
@@ -48,12 +57,18 @@ final class Precheck
     /**
      * @param array<string,string> $fields
      * @param list<mixed> $plEntries
+     * @param list<mixed> $nmEntries
      * @param list<mixed> $rjEntries
      * @param list<mixed> $songList
      * @return array{ok:bool,message?:string}
      */
-    private static function checkVorschlag(array $fields, array $plEntries, array $rjEntries, array $songList): array
-    {
+    private static function checkVorschlag(
+        array $fields,
+        array $plEntries,
+        array $nmEntries,
+        array $rjEntries,
+        array $songList
+    ): array {
         $band = app_normalize($fields['band'] ?? '');
         $song = app_normalize($fields['song'] ?? '');
         $episodeId = self::extractEpisodeId($fields['folge'] ?? '');
@@ -76,14 +91,33 @@ final class Precheck
             if ($episodeId === null || (int) ($e['episodeId'] ?? -1) === $episodeId) {
                 return [
                     'ok' => false,
-                    'message' => 'Dieses Paar steht bereits in der Playlist'
+                    'message' => 'Dieses Paar steht bereits in der Metal-Playlist'
                         . ($episodeId !== null ? ' (Folge #' . $episodeId . ')' : '')
                         . '.',
                 ];
             }
         }
 
-        $songIds = self::resolveSongIds($bandKey, $songKey, $plEntries, $songList);
+        foreach ($nmEntries as $e) {
+            if (!is_array($e)) {
+                continue;
+            }
+            $eb = app_match_key((string) ($e['band'] ?? ''));
+            $et = app_match_key((string) ($e['songTitle'] ?? ''));
+            if ($eb !== $bandKey || $et !== $songKey) {
+                continue;
+            }
+            if ($episodeId === null || (int) ($e['episodeId'] ?? -1) === $episodeId) {
+                return [
+                    'ok' => false,
+                    'message' => 'Dieses Paar steht bereits in der Not-Metal-Playlist'
+                        . ($episodeId !== null ? ' (Folge #' . $episodeId . ')' : '')
+                        . '.',
+                ];
+            }
+        }
+
+        $songIds = self::resolveSongIds($bandKey, $songKey, array_merge($plEntries, $nmEntries), $songList);
         foreach ($rjEntries as $e) {
             if (!is_array($e)) {
                 continue;
@@ -108,12 +142,18 @@ final class Precheck
     /**
      * @param array<string,string> $fields
      * @param list<mixed> $plEntries
+     * @param list<mixed> $nmEntries
      * @param list<mixed> $rjEntries
      * @param list<mixed> $songList
      * @return array{ok:bool,message?:string}
      */
-    private static function checkKorrektur(array $fields, array $plEntries, array $rjEntries, array $songList): array
-    {
+    private static function checkKorrektur(
+        array $fields,
+        array $plEntries,
+        array $nmEntries,
+        array $rjEntries,
+        array $songList
+    ): array {
         $raw = trim((string) ($fields['eintrag'] ?? ''));
         // Folge-Hinweis darf auch im Soll-Zustand stehen
         $haystack = trim($raw . ' ' . (string) ($fields['soll'] ?? ''));
@@ -122,7 +162,7 @@ final class Precheck
             return ['ok' => false, 'message' => 'Bitte den betroffenen Eintrag angeben.'];
         }
 
-        foreach ($plEntries as $e) {
+        foreach (array_merge($plEntries, $nmEntries) as $e) {
             if (!is_array($e)) {
                 continue;
             }
@@ -142,7 +182,7 @@ final class Precheck
             }
         }
 
-        // Katalog: Band+Titel im Freitext → Song-IDs, dann in Rejects/Playlist?
+        // Katalog: Band+Titel im Freitext → Song-IDs, dann in Rejects/Playlists?
         $matchedSongIds = [];
         foreach ($songList as $s) {
             if (!is_array($s)) {
@@ -157,7 +197,7 @@ final class Precheck
                 $matchedSongIds[(string) $s['id']] = true;
             }
         }
-        foreach ($plEntries as $e) {
+        foreach (array_merge($plEntries, $nmEntries) as $e) {
             if (!is_array($e)) {
                 continue;
             }
@@ -194,7 +234,7 @@ final class Precheck
 
         return [
             'ok' => false,
-            'message' => 'Zum genannten Eintrag wurde in Playlist/Rejects nichts Passendes gefunden. Bitte Band, Song und/oder Folgennummer präziser angeben.',
+            'message' => 'Zum genannten Eintrag wurde in Playlist/Not-Metal/Rejects nichts Passendes gefunden. Bitte Band, Song und/oder Folgennummer präziser angeben.',
         ];
     }
 

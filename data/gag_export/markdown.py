@@ -1,13 +1,16 @@
 # -*- coding: utf-8 -*-
-"""Markdown-Export der GAG Metal Playlist und Reject-Liste."""
+"""Markdown-Export der GAG Metal / Not-Metal Playlist und Reject-Liste."""
 from __future__ import annotations
 
 from pathlib import Path
 
 from .common import (
+    CROSSLINK_TO_NOT_METAL_INTRO,
     CROSSLINK_TO_PLAYLIST_INTRO,
     CROSSLINK_TO_REJECTS_INTRO,
     MD_NAME,
+    NOT_METAL_JSON_NAME,
+    NOT_METAL_MD_NAME,
     REJECT_MD_NAME,
     REJECTED_JSON_NAME,
     REPO_INTRO,
@@ -19,6 +22,7 @@ from .common import (
     json_status_date,
     link_or_empty,
     load_entries,
+    load_not_metal_entries,
     mitmachen_markdown,
     output_dir,
     sorted_by_episode,
@@ -62,6 +66,21 @@ def _table_rows(entries: list) -> list[str]:
     return lines
 
 
+def _abc_legend_lines() -> list[str]:
+    return [
+        "**Stufe A** – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).  ",
+        "**Stufe B** – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.  ",
+        "**Stufe C** – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.",
+    ]
+
+
+def _table_header() -> list[str]:
+    return [
+        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |",
+        "| :---: | --- | --- | --- | :---: | :---: | :---: | :---: |",
+    ]
+
+
 def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: str | None = None) -> str:
     if entries is None:
         entries = load_entries()
@@ -80,14 +99,49 @@ def render_markdown(entries=None, *, compiled_at: str | None = None, json_date: 
         "",
         mitmachen_markdown(),
         "",
+        f"![Neu](https://img.shields.io/badge/Neu-e85d4c?style=flat-square) "
+        f"{CROSSLINK_TO_NOT_METAL_INTRO} [{NOT_METAL_MD_NAME}]({NOT_METAL_MD_NAME})",
+        "",
         f"{CROSSLINK_TO_REJECTS_INTRO} [{REJECT_MD_NAME}]({REJECT_MD_NAME})",
         "",
-        "**Stufe A** – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).  ",
-        "**Stufe B** – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.  ",
-        "**Stufe C** – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.",
+        *_abc_legend_lines(),
         "",
-        "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |",
-        "| :---: | --- | --- | --- | :---: | :---: | :---: | :---: |",
+        *_table_header(),
+    ]
+    lines.extend(_table_rows(entries))
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_not_metal_markdown(
+    entries=None, *, compiled_at: str | None = None, json_date: str | None = None
+) -> str:
+    if entries is None:
+        entries = load_not_metal_entries()
+    entries = sorted_by_episode(entries)
+    compiled_at = compiled_at or compile_timestamp()
+    if json_date is None:
+        json_date = json_status_date(data_dir() / NOT_METAL_JSON_NAME)
+    json_line = json_date if json_date else "noch nicht gesetzt"
+
+    lines = [
+        "# GAG Not-Metal Playlist: thematischer Treffer, kein Rock/Metal",
+        "",
+        f"<small>**Compile-Datum:** {compiled_at}<br>**JSON-Status:** {json_line}</small>",
+        "",
+        f"{REPO_INTRO} [{REPO_LINK_LABEL}]({REPO_URL}).",
+        "",
+        mitmachen_markdown(),
+        "",
+        f"{CROSSLINK_TO_PLAYLIST_INTRO} [{MD_NAME}]({MD_NAME})",
+        "",
+        f"{CROSSLINK_TO_REJECTS_INTRO} [{REJECT_MD_NAME}]({REJECT_MD_NAME})",
+        "",
+        "Thematisch passende Paare, deren Stück **kein Rock/Metal** ist. Stufen A/B/C wie bei der Metal-Playlist.",
+        "",
+        *_abc_legend_lines(),
+        "",
+        *_table_header(),
     ]
     lines.extend(_table_rows(entries))
     lines.append("")
@@ -116,9 +170,11 @@ def render_rejected_markdown(
         "",
         f"{CROSSLINK_TO_PLAYLIST_INTRO} [{MD_NAME}]({MD_NAME})",
         "",
-        "**Stufe X** – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …).  ",
-        "**X (A/B/C)** – Genre-Fail: kein Rock/Metal; in Klammern die Stufe, die bei Metal gelten würde (aus der Begründung).  ",
-        "Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.",
+        f"{CROSSLINK_TO_NOT_METAL_INTRO} [{NOT_METAL_MD_NAME}]({NOT_METAL_MD_NAME})",
+        "",
+        "**Stufe X** – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …).",
+        "",
+        "Thematische Treffer ohne Rock/Metal stehen in der Not-Metal-Playlist, nicht hier.",
         "",
         "| Folge | Folgentitel | Band | Song Titel | Stufe | YouTube | Spotify | Bandcamp |",
         "| :---: | --- | --- | --- | :---: | :---: | :---: | :---: |",
@@ -131,6 +187,12 @@ def render_rejected_markdown(
 def write_markdown(out_path: Path | None = None) -> Path:
     path = out_path or (output_dir() / MD_NAME)
     path.write_text(render_markdown(), encoding="utf-8")
+    return path
+
+
+def write_not_metal_markdown(out_path: Path | None = None) -> Path:
+    path = out_path or (output_dir() / NOT_METAL_MD_NAME)
+    path.write_text(render_not_metal_markdown(), encoding="utf-8")
     return path
 
 

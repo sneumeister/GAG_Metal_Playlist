@@ -7,16 +7,16 @@ alwaysApply: true
 
 Gilt beim Schreiben und Ändern von:
 
-- `justification` in `data/GAG_Metal_Playlist.json` (Treffer)
+- `justification` in `data/GAG_Metal_Playlist.json` und `data/GAG_Not_Metal_Playlist.json` (Treffer)
 - `reason` in `data/rejected.json` (Absagen)
 - Match-/Reject-Vorschlägen im Chat (gleiche Formulierung wie in den JSONs)
 
 ## Stufe nur als Tier-Label
 
-- Playlist: **Tier A**, **Tier B** oder **Tier C** (`matchTier`: `"A"` / `"B"` / `"C"`).
+- Metal- und Not-Metal-Playlist: **Tier A**, **Tier B** oder **Tier C** (`matchTier`: `"A"` / `"B"` / `"C"`).
 - Absage: **Tier X** (kein `matchTier`-Feld; Stufe nur im Fließtext am Schluss).
 - In Begründungen **nicht** schreiben: „Exact-Entity“, „Strong“, „eher A“, „eher B“, „A oder B“, „tendenziell A/B“, „eher C“, „eher X“.
-- Entscheidung klar treffen: Tier A, Tier B, Tier C oder Reject (Tier X) — keine Unentschieden-Formulierung.
+- Entscheidung klar treffen: Tier A, Tier B, Tier C (Metal oder Not-Metal) oder Reject (Tier X) — keine Unentschieden-Formulierung.
 
 ## Schlussformel (Pflicht, einheitlich)
 
@@ -54,23 +54,25 @@ Beispiel: „Folge = Johannes Bückler / Schinderhannes und Anti-Robin-Hood-Thes
 - Nicht nur „passt nicht“ oder „zu lose“ ohne die konkrete Abweichung.
 - Muster: `Folge = …; Song = … — … (Tier X).`
 
-#### Genre-Fail
+#### Kein Rock/Metal (Not-Metal-Playlist)
 
-Wenn der Bezug historisch passt (oder passen könnte), das Stück aber **kein Rock/Metal** ist → Absage (**Tier X**). In der Begründung nennen:
+Wenn der Bezug historisch passt (A/B/C), das Stück aber **kein Rock/Metal** ist → `data/GAG_Not_Metal_Playlist.json` mit `matchTier` A/B/C und `genre: "NG"` (nicht `rejected.json`).
 
-1. **welche Stufe** bei Metal plausibel wäre (**nur** Tier A, B oder C — klar, ohne „eher“/„höchstens“/„A oder B“);
+Begründungstext vorerst weiter mit Genre-Hinweis (keine pauschale Umschrift alter Einträge):
+
+1. **welche Stufe** gilt (**nur** Tier A, B oder C — klar, ohne „eher“/„höchstens“/„A oder B“); zusätzlich im Feld `matchTier`;
 2. **welches Genre** dem Stück zugeordnet wird und dass es kein Rock/Metal ist.
 
-Pflichtworting (filterbar), Reihenfolge fest:
+Pflichtworting (filterbar), Reihenfolge fest (Übergangsform):
 
 `(bei Metal wäre Tier A). Genre = …, kein Rock/Metal (Tier X).`
 
-bzw. `Tier B` / `Tier C` in der Metal-Klammer.
+bzw. `Tier B` / `Tier C` in der Metal-Klammer. `matchTier` im JSON ist trotzdem A/B/C.
 
 - **Nicht** verwenden: `bei Rock/Metal wäre …`, `bei Metal wäre eher Tier …`, `bei Metal höchstens Tier …`, Metal-Stufe `X`.
-- **Ausnahme:** Ist der Bezug schon inhaltlich klar **Tier X** (z. B. nur Namensanklang) und zusätzlich Genre-Fail → Metal-Klammer weglassen; trotzdem `Genre = …, kein Rock/Metal (Tier X).`
-- Bestehende ältere Genre-Fail-Formulierungen nicht pauschal umschreiben — nur bei inhaltlicher Änderung mitziehen.
+- **Ausnahme:** Ist der Bezug schon inhaltlich klar **Tier X** (z. B. nur Namensanklang) und zusätzlich kein Rock/Metal → `rejected.json`; Metal-Klammer weglassen; trotzdem `Genre = …, kein Rock/Metal (Tier X).`
+- Bestehende ältere Formulierungen nicht pauschal umschreiben — nur bei inhaltlicher Änderung mitziehen.
 
-Beispielmuster: „Folge = …; Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier X).“
+Beispielmuster (Not-Metal): „Folge = …; Song = … — inhaltlich eng passend (bei Metal wäre Tier A). Genre = Latin Jazz / Ballade, kein Rock/Metal (Tier X).“
 
-Beispiel ohne Metal-Klammer (Inhalt schon X): „Folge = …; Song = … — nur Namensanklang. Genre = Deutschrap / Hip-Hop, kein Rock/Metal (Tier X).“
+Beispiel Inhalt X + Genre (Reject): „Folge = …; Song = … — nur Namensanklang. Genre = Deutschrap / Hip-Hop, kein Rock/Metal (Tier X).“

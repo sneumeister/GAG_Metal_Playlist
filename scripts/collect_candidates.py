@@ -6,7 +6,7 @@ Eingaben:
   - neue Folgennummern (nach sync_episodes): Abgleich gegen songs.json
   - einzelnes Paar (Issue/manuell/Web): Band + Titel + Folge
 
-Paare, die schon in der Playlist oder in rejected.json stehen, werden
+Paare, die schon in Metal-/Not-Metal-Playlist oder in rejected.json stehen, werden
 übersprungen. proposedTier und justification bleiben leer, bis die
 Deep-Analysis sie füllt.
 
@@ -86,12 +86,16 @@ def decided_pairs() -> set[tuple[int, str]]:
         load_json(DATA / "GAG_Metal_Playlist.json", {"entries": []}),
         path_hint="GAG_Metal_Playlist.json",
     )
+    not_metal = entries_from_raw(
+        load_json(DATA / "GAG_Not_Metal_Playlist.json", {"entries": []}),
+        path_hint="GAG_Not_Metal_Playlist.json",
+    )
     rejected = entries_from_raw(
         load_json(DATA / "rejected.json", {"entries": []}),
         path_hint="rejected.json",
     )
     out: set[tuple[int, str]] = set()
-    for row in playlist + rejected:
+    for row in playlist + not_metal + rejected:
         eid = row.get("episodeId")
         sid = row.get("songId")
         if eid is None or not sid:
@@ -280,7 +284,7 @@ def collect_pair(
         if (episode_id, sid) in decided:
             raise ValueError(
                 f"Paar schon entschieden: Folge #{episode_id} / {sid} "
-                f"(Playlist oder rejected)"
+                f"(Playlist, Not-Metal oder rejected)"
             )
         return empty_entry(
             source=source,

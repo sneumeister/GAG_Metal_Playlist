@@ -14,11 +14,11 @@ alwaysApply: true
 
 Gilt für PRs mit Song- oder Playlist-Vorschlägen. Der PR ist die Datenquelle. Inhalt auf einem frischen Branch einpflegen. Roh-PR nicht mergen.
 
-1. **Diff zuerst**, vor dem Branch. PR-Head gegen aktuelles `origin/main` (auch wenn die PR-Base älter ist): geänderte Dateien, Paare nur im PR, nur lokal, schon in der Playlist oder schon in `rejected.json`, fehlende Einträge in `songs.json`. Kurzbefund im Chat.
+1. **Diff zuerst**, vor dem Branch. PR-Head gegen aktuelles `origin/main` (auch wenn die PR-Base älter ist): geänderte Dateien, Paare nur im PR, nur lokal, schon in Metal-/Not-Metal-Playlist oder schon in `rejected.json`, fehlende Einträge in `songs.json`. Kurzbefund im Chat.
 2. **Branch** `pr-<nummer>-<einreicher>` von aktuellem `origin/main`. Zieht `main` während der Arbeit weiter, vor dem Abschluss in den Arbeitsbranch holen.
 3. **Episoden-Snapshot** bei Bedarf prüfen (wie Issue-Einstieg in `issue-abarbeitung`).
 4. **Alle neuen Songs** nach `data/songs.json`, auch spätere Absagen. UTF-8.
-5. **Triage je Paar** nach den Stufen dieser Rule: Playlist (A/B/C) oder `rejected.json` (X).
+5. **Triage je Paar** nach den Stufen dieser Rule: Metal-Playlist (A/B/C, `genre: OK`), Not-Metal-Playlist (A/B/C, `genre: NG`) oder `rejected.json` (X).
 6. **Entscheidungen** in `plans/pr-<nummer>-<einreicher>_respond_temp.md` (Gegenüberstellung, Begründungen, Notizen für den PR-Kommentar). Nach Abschluss löschen. Liegt unter `plans/` und wird nicht versioniert.
 7. **PR-Kommentar** nur nach ausdrücklichem Go, als Frage an den Einreicher. Weitere Recherche nur auf Zuruf.
 8. Nach der Antwort: Feintuning, Export, kuratierter Stand auf `main`, PR mit Kurzabschluss schließen.
@@ -37,29 +37,33 @@ Commit und Push nur auf Zuruf (siehe Git).
 
 | Datei | Inhalt | Wann schreiben |
 | --- | --- | --- |
-| `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) | Neuer Song oder Link-/Quellen-Update |
-| `data/GAG_Metal_Playlist.json` | Objekt: `updatedAt` + `entries` (kanonische **A/B/C-Treffer**) | Neuer/geänderter Match; Begründung schärfen |
-| `data/rejected.json` | Objekt: `updatedAt` + `entries` (geprüfte **X-/Absagen**: `episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
+| `data/songs.json` | Song-Katalog (`id`, `band`, `title`, `entities`, `era`, Links, `sources`) — ohne Wertung | Neuer Song oder Link-/Quellen-Update |
+| `data/GAG_Metal_Playlist.json` | Objekt: `updatedAt` + `entries` (Rock/Metal-**A/B/C-Treffer**, `genre: "OK"`) | Neuer/geänderter Metal-Match; Begründung schärfen |
+| `data/GAG_Not_Metal_Playlist.json` | Objekt: `updatedAt` + `entries` (thematische **A/B/C-Treffer** ohne Rock/Metal, `genre: "NG"`) | Neuer/geänderter Not-Metal-Match |
+| `data/rejected.json` | Objekt: `updatedAt` + `entries` (geprüfte **inhaltliche X-Absagen**: `episodeId`, `songId`, `reason`, `rejectedAt`, `rejectedBy`) | Jede verworfene Kandidat:innen-Paarung |
 | `data/episodes.jsonl` (+ `.meta.json`) | Folien-Snapshot | über `scripts/sync_episodes.py` (siehe `suchrunde` / `issue-abarbeitung`) |
-| `GAG_Metal_playlist.md` / `.html` | Lesbare Playlist-Exporte (A/B/C) | **Nie handeditieren** – nur via Export |
+| `GAG_Metal_playlist.md` / `.html` | Lesbare Metal-Exporte (A/B/C) | **Nie handeditieren** – nur via Export |
+| `GAG_Not_Metal_playlist.md` / `.html` | Lesbare Not-Metal-Exporte (A/B/C) | **Nie handeditieren** – nur via Export |
 | `GAG_Metal_rejected.md` / `.html` | Lesbare Reject-Exporte (X) | **Nie handeditieren** – nur via Export |
 
-### `updatedAt` (Playlist und Rejects)
+### `updatedAt` (Playlists und Rejects)
 
-- Pflicht auf Objektebene in `data/GAG_Metal_Playlist.json` und `data/rejected.json`.
+- Pflicht auf Objektebene in `data/GAG_Metal_Playlist.json`, `data/GAG_Not_Metal_Playlist.json` und `data/rejected.json`.
 - Format: `YYYY-MM-DD HH:MM:SS ±ZZZZ` (lokale Zeit mit Offset), z. B. `2026-10-02 19:18:31 +0200`.
 - Bei **jeder** inhaltlichen Änderung der jeweiligen Datei neu setzen (nicht nur bei neuen Einträgen, auch bei geschärften Begründungen).
 
 - JSON immer mit `ensure_ascii=False` schreiben.
-- Song muss in `songs.json` stehen, bevor er in der Playlist referenziert wird.
+- Song muss in `songs.json` stehen, bevor er in einer Playlist referenziert wird.
 - **Jeder** geprüfte Non-Match (Stufe X) → `rejected.json` (nicht nur im Chat erwähnen), damit er nicht wieder vorgeschlagen wird.
+- `genre` nur in den Playlist-JSONs (`OK` / `NG`), nicht in Export-Tabellen.
 
 ## Matching-Stufen (kurz)
 
 - **A**: Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).
 - **B**: gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.
-- **C**: erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher mit historischem Stichwort → Playlist.
-- **X**: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Genre-Fail, Instrumentklang ohne Erzählfokus) → `rejected.json`.
+- **C**: erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher mit historischem Stichwort → Metal- oder Not-Metal-Playlist.
+- **X**: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, Instrumentklang ohne Erzählfokus) → `rejected.json`.
+- Thematisch A/B/C, aber **kein Rock/Metal** → `GAG_Not_Metal_Playlist.json` (`genre: "NG"`), nicht Reject.
 
 Begründungen ohne Matching-Jargon; Schluss einheitlich `(Tier A).` / `(Tier B).` / `(Tier C).` / `(Tier X).` (siehe `match-begruendungen`).
 
@@ -71,4 +75,4 @@ Nach jeder Änderung an Matches, Songs (mit Playlist-Bezug), Rejects oder Begrü
 python data/export_playlist.py
 ```
 
-Erzeugt `GAG_Metal_playlist.md` / `.html` und `GAG_Metal_rejected.md` / `.html` im Repo-Root.
+Erzeugt `GAG_Metal_playlist.md` / `.html`, `GAG_Not_Metal_playlist.md` / `.html` und `GAG_Metal_rejected.md` / `.html` im Repo-Root.

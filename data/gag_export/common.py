@@ -9,11 +9,14 @@ from pathlib import Path
 from typing import Any
 
 JSON_NAME = "GAG_Metal_Playlist.json"
+NOT_METAL_JSON_NAME = "GAG_Not_Metal_Playlist.json"
 REJECTED_JSON_NAME = "rejected.json"
 SONGS_JSON_NAME = "songs.json"
 EPISODES_JSONL_NAME = "episodes.jsonl"
 MD_NAME = "GAG_Metal_playlist.md"
 HTML_NAME = "GAG_Metal_playlist.html"
+NOT_METAL_MD_NAME = "GAG_Not_Metal_playlist.md"
+NOT_METAL_HTML_NAME = "GAG_Not_Metal_playlist.html"
 REJECT_MD_NAME = "GAG_Metal_rejected.md"
 REJECT_HTML_NAME = "GAG_Metal_rejected.html"
 
@@ -51,9 +54,10 @@ def mitmachen_html() -> str:
         f'<a href="{escape(FORM_URL)}">{escape(MITMACHEN_FORM_LABEL)}</a>'
     )
 
-# Gegenseitige Verweise Playlist ↔ Reject-Liste
+# Gegenseitige Verweise Metal ↔ Not-Metal ↔ Rejects
 CROSSLINK_TO_REJECTS_INTRO = "Geprüfte Absagen (Stufe X):"
-CROSSLINK_TO_PLAYLIST_INTRO = "Trefferliste (Stufen A/B/C):"
+CROSSLINK_TO_PLAYLIST_INTRO = "Metal-Treffer (Stufen A/B/C):"
+CROSSLINK_TO_NOT_METAL_INTRO = "Not-Metal-Treffer (Stufen A/B/C, kein Rock/Metal):"
 
 
 def data_dir() -> Path:
@@ -103,6 +107,13 @@ def wrap_entries_document(
 def load_entries(path: Path | None = None) -> list[dict[str, Any]]:
     """Liest Match-Einträge. Kanonisch: Objekt mit `entries`; Array nur als Fallback."""
     json_path = path or (data_dir() / JSON_NAME)
+    raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
+    return entries_from_raw(raw, path_hint=json_path)
+
+
+def load_not_metal_entries(path: Path | None = None) -> list[dict[str, Any]]:
+    """Liest Not-Metal-Treffer. Kanonisch: Objekt mit `entries`; Array nur als Fallback."""
+    json_path = path or (data_dir() / NOT_METAL_JSON_NAME)
     raw = json.loads(json_path.read_text(encoding="utf-8-sig"))
     return entries_from_raw(raw, path_hint=json_path)
 
