@@ -2,19 +2,24 @@
 
 Zuordnung von Folgen des Podcasts [Geschichten aus der Geschichte](https://www.geschichte.fm/) (GAG) zu historisch passenden Rock-/Metal-Songs.
 
-Ziel ist eine Trefferliste: **Folge ↔ Song ↔ Begründung ↔ Spotify/YouTube/Bandcamp-Link** — mit klaren Bezügen (Person, Schlacht, Ereignis, Ort) sowie schwächeren thematischen Nähen (Stufe C); Absagen ohne brauchbaren Bezug landen als Stufe X.
+Ziel ist eine Trefferliste: **Folge ↔ Song ↔ Begründung ↔ Spotify/YouTube/Bandcamp-Link** — mit klaren Bezügen (Person, Schlacht, Ereignis, Ort) sowie schwächeren thematischen Nähen (Stufe C). Thematische Treffer ohne Rock/Metal landen in der Not-Metal-Liste; Absagen ohne brauchbaren Bezug als Stufe X.
 
 ## Aktuelle Listen
 
-### Treffer (A/B/C)
+### Metal-Treffer (A/B/C)
 
 - [Markdown](GAG_Metal_playlist.md)
-- [HTML (sortierbar)](GAG_Metal_playlist.html) · [Live-Ansicht (GitHub Pages)](https://sneumeister.github.io/GAG_Metal_Playlist/)
+- [HTML (GitHub)](GAG_Metal_playlist.html) · [Live (GitHub Pages, filter- und sortierbar)](https://sneumeister.github.io/GAG_Metal_Playlist/)
+
+### Not-Metal-Treffer (A/B/C, kein Rock/Metal)
+
+- [Markdown](GAG_Not_Metal_playlist.md)
+- [HTML (GitHub)](GAG_Not_Metal_playlist.html) · [Live (GitHub Pages, filter- und sortierbar)](https://sneumeister.github.io/GAG_Metal_Playlist/GAG_Not_Metal_playlist.html)
 
 ### Absagen (Stufe X)
 
 - [Markdown](GAG_Metal_rejected.md)
-- [HTML (sortierbar)](GAG_Metal_rejected.html) · [Live (GitHub Pages)](https://sneumeister.github.io/GAG_Metal_Playlist/GAG_Metal_rejected.html)
+- [HTML (GitHub)](GAG_Metal_rejected.html) · [Live (GitHub Pages, filter- und sortierbar)](https://sneumeister.github.io/GAG_Metal_Playlist/GAG_Metal_rejected.html)
 
 Die Live-Ansicht läuft über GitHub Pages und rendert die HTML-Dateien im Browser.
 
@@ -24,9 +29,8 @@ Die Live-Ansicht läuft über GitHub Pages und rendert die HTML-Dateien im Brows
 - **B** – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.
 - **C** – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher mit historischem Stichwort.
 - **X** – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …) → `data/rejected.json`.
-- **X (A/B/C)** – Genre-Fail: kein Rock/Metal; in Klammern die Stufe, die bei Metal gelten würde (aus der Begründung) → ebenfalls `data/rejected.json`.
 
-In der Playlist erscheinen Stufe A, B und C; Stufe X bzw. X (A/B/C) sind die Reject-Absagen.
+Rock/Metal-Treffer A/B/C → Metal-Playlist (`genre: OK`). Thematisch passende Stücke ohne Rock/Metal → Not-Metal-Playlist (`genre: NG`, ebenfalls A/B/C).
 
 ## Mitmachen
 
@@ -47,4 +51,4 @@ Die Einstufung (Stufe A/B/C/X) und die Begründungen sind **redaktionelle Einsch
 
 - Folgendaten: [ideadapt/geschichten-aus-der-geschichte-data](https://github.com/ideadapt/geschichten-aus-der-geschichte-data) (`episodes.jsonl`); Folgen-Links führen zu geschichte.fm / gadg.fm
 - Song-Recherche und Entity-Matching: siehe [docs/sources.md](docs/sources.md)
-- Streaming/Kauf: Drittanbieter-Links (Spotify, YouTube, Bandcamp); Verfügbarkeit und Region können abweichen; fehlende Bandcamp-Einträge sind als leer/`—` gekennzeichnet
+- Streaming/Kauf: Drittanbieter-Links (Spotify, YouTube, Bandcamp); Verfügbarkeit und Region können abweichen; fehlende Spotify-/YouTube-/Bandcamp-Einträge sind als leer/`—` gekennzeichnet

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Standalone-HTML-Export der GAG Metal Playlist und Reject-Liste."""
+"""Standalone-HTML-Export der GAG Metal / Not-Metal Playlist und Reject-Liste."""
 from __future__ import annotations
 
 import html
@@ -7,9 +7,12 @@ import json
 from pathlib import Path
 
 from .common import (
+    CROSSLINK_TO_NOT_METAL_INTRO,
     CROSSLINK_TO_PLAYLIST_INTRO,
     CROSSLINK_TO_REJECTS_INTRO,
     HTML_NAME,
+    NOT_METAL_HTML_NAME,
+    NOT_METAL_JSON_NAME,
     REJECT_HTML_NAME,
     REJECTED_JSON_NAME,
     REPO_INTRO,
@@ -20,8 +23,9 @@ from .common import (
     enrich_rejected_entries,
     json_status_date,
     link_or_empty,
-    mitmachen_html,
     load_entries,
+    load_not_metal_entries,
+    mitmachen_html,
     output_dir,
     sorted_by_episode,
 )
@@ -535,6 +539,17 @@ th.filter-cell input::placeholder {{
 """
 
 
+def _abc_legend_html() -> str:
+    return """    <p><strong>Stufe A</strong> – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).</p>
+    <p><strong>Stufe B</strong> – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.</p>
+    <p><strong>Stufe C</strong> – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.</p>
+    <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
+
+
+def _crosslink_pair(intro: str, href: str) -> str:
+    return f'{_esc(intro)} <a href="{_esc(href)}">{_esc(href)}</a>'
+
+
 def render_html(entries=None, *, compiled_at: str | None = None, json_date: str | None = None) -> str:
     if entries is None:
         entries = load_entries()
@@ -545,23 +560,52 @@ def render_html(entries=None, *, compiled_at: str | None = None, json_date: str 
     json_line = json_date if json_date else "noch nicht gesetzt"
 
     crosslink = (
-        f'{_esc(CROSSLINK_TO_REJECTS_INTRO)} '
-        f'<a href="{_esc(REJECT_HTML_NAME)}">{_esc(REJECT_HTML_NAME)}</a>'
+        f"{_crosslink_pair(CROSSLINK_TO_NOT_METAL_INTRO, NOT_METAL_HTML_NAME)}<br>"
+        f"{_crosslink_pair(CROSSLINK_TO_REJECTS_INTRO, REJECT_HTML_NAME)}"
     )
-    legend = """    <p><strong>Stufe A</strong> – Song und Folge behandeln denselben Kerngegenstand (Person/Ereignis/Ort im Fokus).</p>
-    <p><strong>Stufe B</strong> – gemeinsamer historischer Rahmen mit klarer Überschneidung, aber klar anderem Fokus.</p>
-    <p><strong>Stufe C</strong> – erkennbare thematische/assoziative Nähe ohne gemeinsamen Erzählgegenstand; auch reine Inspiration/Metapher.</p>
-    <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
 
     return _render_page(
         title="GAG Metal Playlist: Metal-Song trifft GAG-Folge",
-        legend_html=legend,
+        legend_html=_abc_legend_html(),
         crosslink_html=crosslink,
         entries=entries,
         compiled_at=compiled_at,
         json_line=json_line,
         data_element_id="playlist-data",
         table_id="playlist",
+    )
+
+
+def render_not_metal_html(
+    entries=None, *, compiled_at: str | None = None, json_date: str | None = None
+) -> str:
+    if entries is None:
+        entries = load_not_metal_entries()
+    entries = sorted_by_episode(entries)
+    compiled_at = compiled_at or compile_timestamp()
+    if json_date is None:
+        json_date = json_status_date(data_dir() / NOT_METAL_JSON_NAME)
+    json_line = json_date if json_date else "noch nicht gesetzt"
+
+    crosslink = (
+        f"{_crosslink_pair(CROSSLINK_TO_PLAYLIST_INTRO, HTML_NAME)}<br>"
+        f"{_crosslink_pair(CROSSLINK_TO_REJECTS_INTRO, REJECT_HTML_NAME)}"
+    )
+    legend = (
+        "    <p>Thematisch passende Paare, deren Stück <strong>kein Rock/Metal</strong> ist. "
+        "Stufen A/B/C wie bei der Metal-Playlist.</p>\n"
+        + _abc_legend_html()
+    )
+
+    return _render_page(
+        title="GAG Not-Metal Playlist: thematischer Treffer, kein Rock/Metal",
+        legend_html=legend,
+        crosslink_html=crosslink,
+        entries=entries,
+        compiled_at=compiled_at,
+        json_line=json_line,
+        data_element_id="not-metal-data",
+        table_id="not-metal",
     )
 
 
@@ -577,12 +621,11 @@ def render_rejected_html(
     json_line = json_date if json_date else "noch nicht gesetzt"
 
     crosslink = (
-        f'{_esc(CROSSLINK_TO_PLAYLIST_INTRO)} '
-        f'<a href="{_esc(HTML_NAME)}">{_esc(HTML_NAME)}</a>'
+        f"{_crosslink_pair(CROSSLINK_TO_PLAYLIST_INTRO, HTML_NAME)}<br>"
+        f"{_crosslink_pair(CROSSLINK_TO_NOT_METAL_INTRO, NOT_METAL_HTML_NAME)}"
     )
     legend = """    <p><strong>Stufe X</strong> – inhaltlicher/thematischer Reject: kein brauchbarer Bezug (falsche Person/Phase/Ereignis, reiner Namens-/Zahlenanklang, …).</p>
-    <p><strong>X (A/B/C)</strong> – Genre-Fail: kein Rock/Metal; in Klammern die Stufe, die bei Metal gelten würde (aus der Begründung).</p>
-    <p>Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.</p>
+    <p>Thematische Treffer ohne Rock/Metal stehen in der Not-Metal-Playlist, nicht hier.</p>
     <p>Stufe anklicken, um die Begründung ein- oder auszublenden.</p>"""
 
     return _render_page(
@@ -600,6 +643,12 @@ def render_rejected_html(
 def write_html(out_path: Path | None = None) -> Path:
     path = out_path or (output_dir() / HTML_NAME)
     path.write_text(render_html(), encoding="utf-8")
+    return path
+
+
+def write_not_metal_html(out_path: Path | None = None) -> Path:
+    path = out_path or (output_dir() / NOT_METAL_HTML_NAME)
+    path.write_text(render_not_metal_html(), encoding="utf-8")
     return path
 
 

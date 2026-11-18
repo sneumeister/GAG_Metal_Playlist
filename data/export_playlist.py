@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Exportiert Playlist- und Reject-JSON nach Markdown und HTML.
+Exportiert Playlist-, Not-Metal- und Reject-JSON nach Markdown und HTML.
 
 JSON-Quelle: Ordner `data/` (neben diesem Skript).
 Ausgabe: Projektverzeichnis (eine Ebene höher):
   - GAG_Metal_playlist.md / .html
+  - GAG_Not_Metal_playlist.md / .html
   - GAG_Metal_rejected.md / .html
 
 Aufruf (aus dem Repo-Root oder aus data/):
@@ -26,19 +27,30 @@ from gag_export.common import (  # noqa: E402
     HTML_NAME,
     JSON_NAME,
     MD_NAME,
+    NOT_METAL_HTML_NAME,
+    NOT_METAL_JSON_NAME,
+    NOT_METAL_MD_NAME,
     REJECT_HTML_NAME,
     REJECT_MD_NAME,
     REJECTED_JSON_NAME,
     data_dir,
     output_dir,
 )
-from gag_export.html import write_html, write_rejected_html  # noqa: E402
-from gag_export.markdown import write_markdown, write_rejected_markdown  # noqa: E402
+from gag_export.html import (  # noqa: E402
+    write_html,
+    write_not_metal_html,
+    write_rejected_html,
+)
+from gag_export.markdown import (  # noqa: E402
+    write_markdown,
+    write_not_metal_markdown,
+    write_rejected_markdown,
+)
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        description="GAG Metal Playlist + Rejects → Markdown/HTML"
+        description="GAG Metal / Not-Metal Playlist + Rejects → Markdown/HTML"
     )
     parser.add_argument(
         "--md-only",
@@ -53,7 +65,12 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--playlist-only",
         action="store_true",
-        help="Nur Playlist-Export",
+        help="Nur Metal-Playlist-Export",
+    )
+    parser.add_argument(
+        "--not-metal-only",
+        action="store_true",
+        help="Nur Not-Metal-Export",
     )
     parser.add_argument(
         "--rejected-only",
@@ -63,14 +80,24 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
 
     playlist_json = data_dir() / JSON_NAME
+    not_metal_json = data_dir() / NOT_METAL_JSON_NAME
     rejected_json = data_dir() / REJECTED_JSON_NAME
-    do_playlist = not args.rejected_only
-    do_rejected = not args.playlist_only
-    if args.playlist_only and args.rejected_only:
-        do_playlist = do_rejected = True
+
+    only_flags = sum(
+        bool(x) for x in (args.playlist_only, args.not_metal_only, args.rejected_only)
+    )
+    if only_flags == 0:
+        do_playlist = do_not_metal = do_rejected = True
+    else:
+        do_playlist = args.playlist_only
+        do_not_metal = args.not_metal_only
+        do_rejected = args.rejected_only
 
     if do_playlist and not playlist_json.exists():
         print(f"Fehler: {playlist_json} nicht gefunden.", file=sys.stderr)
+        return 1
+    if do_not_metal and not not_metal_json.exists():
+        print(f"Fehler: {not_metal_json} nicht gefunden.", file=sys.stderr)
         return 1
     if do_rejected and not rejected_json.exists():
         print(f"Fehler: {rejected_json} nicht gefunden.", file=sys.stderr)
@@ -87,6 +114,11 @@ def main(argv: list[str] | None = None) -> int:
             print(f"geschrieben: {write_markdown(out / MD_NAME)}")
         if do_html:
             print(f"geschrieben: {write_html(out / HTML_NAME)}")
+    if do_not_metal:
+        if do_md:
+            print(f"geschrieben: {write_not_metal_markdown(out / NOT_METAL_MD_NAME)}")
+        if do_html:
+            print(f"geschrieben: {write_not_metal_html(out / NOT_METAL_HTML_NAME)}")
     if do_rejected:
         if do_md:
             print(f"geschrieben: {write_rejected_markdown(out / REJECT_MD_NAME)}")

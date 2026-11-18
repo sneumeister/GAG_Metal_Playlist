@@ -234,10 +234,18 @@ def triage(
 ) -> TriageResult:
     songs = load_json(data_dir / "songs.json")
     playlist = load_json(data_dir / "GAG_Metal_Playlist.json")
+    not_metal_path = data_dir / "GAG_Not_Metal_Playlist.json"
     rejected_raw = load_json(data_dir / "rejected.json")
     episodes = load_episodes(data_dir / "episodes.jsonl")
     entries: list[dict] = entries_from_raw(playlist, path_hint=data_dir / "GAG_Metal_Playlist.json")
+    not_metal: list[dict] = []
+    if not_metal_path.exists():
+        not_metal = entries_from_raw(
+            load_json(not_metal_path),
+            path_hint=not_metal_path,
+        )
     rejected: list[dict] = entries_from_raw(rejected_raw, path_hint=data_dir / "rejected.json")
+    curated = entries + not_metal
 
     result = TriageResult(band=band.strip(), title=title.strip(), folge_raw=folge_raw.strip())
 
@@ -246,15 +254,15 @@ def triage(
         result.labels.append("triage-unparseable")
         return result
 
-    eid, etitle, ep_notes = resolve_episode(folge_raw, episodes, entries)
+    eid, etitle, ep_notes = resolve_episode(folge_raw, episodes, curated)
     result.episode_id = eid
     result.episode_title = etitle
     result.notes.extend(ep_notes)
 
-    result.songs = find_songs(band, title, songs, entries)
+    result.songs = find_songs(band, title, songs, curated)
     song_ids = {h.song_id for h in result.songs}
 
-    # Playlist-Treffer
+    # Metal-Playlist-Treffer
     for entry in entries:
         sid = entry.get("songId")
         if sid not in song_ids:
@@ -264,6 +272,17 @@ def triage(
             result.playlist_hits.append({**entry, "_otherEpisode": True})
         else:
             result.playlist_hits.append({**entry, "_otherEpisode": False})
+
+    # Not-Metal-Treffer (als Playlist-Hits mit Marker)
+    for entry in not_metal:
+        sid = entry.get("songId")
+        if sid not in song_ids:
+            continue
+        tagged = {**entry, "_notMetal": True}
+        if eid is not None and entry.get("episodeId") != eid:
+            result.playlist_hits.append({**tagged, "_otherEpisode": True})
+        else:
+            result.playlist_hits.append({**tagged, "_otherEpisode": False})
 
     # Reject-Treffer
     song_by_id = {s["id"]: s for s in songs}
@@ -293,7 +312,7 @@ def triage(
 
 def format_comment(result: TriageResult) -> str:
     lines: list[str] = [
-        "## Auto-Triage (Katalog / Playlist / Rejects)",
+        "## Auto-Triage (Katalog / Playlist / Not-Metal / Rejects)",
         "",
         "_Automatischer Abgleich – keine redaktionelle A/B-Entscheidung._",
         "",
@@ -338,15 +357,16 @@ def format_comment(result: TriageResult) -> str:
     same_rej = [h for h in result.reject_hits if not h.get("_otherEpisode")]
     other_rej = [h for h in result.reject_hits if h.get("_otherEpisode")]
 
-    lines.extend(["### Playlist (`GAG_Metal_Playlist.json`)", ""])
+    lines.extend(["### Playlist (Metal / Not-Metal)", ""])
     if same_pl:
         for h in same_pl:
             tier = h.get("matchTier", "?")
             just = (h.get("justification") or "").strip()
             if len(just) > 280:
                 just = just[:277] + "…"
+            liste = "Not-Metal" if h.get("_notMetal") else "Metal"
             lines.append(
-                f"- **Bereits Match** Folge {h.get('episodeId')} "
+                f"- **Bereits Match ({liste})** Folge {h.get('episodeId')} "
                 f"({h.get('band')} – {h.get('songTitle')}), Tier {tier}."
             )
             if just:
@@ -366,9 +386,10 @@ def format_comment(result: TriageResult) -> str:
         lines.append("")
         lines.append("Andere Folgen mit diesem Song:")
         for h in other_pl[:6]:
+            liste = "Not-Metal" if h.get("_notMetal") else "Metal"
             lines.append(
                 f"- Folge {h.get('episodeId')} ({h.get('episodeTitle')}), "
-                f"Tier {h.get('matchTier', '?')}"
+                f"Tier {h.get('matchTier', '?')} ({liste})"
             )
     lines.append("")
 
