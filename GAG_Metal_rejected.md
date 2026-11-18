@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-17 21:33:58 +0100<br>**JSON-Status:** 2026-11-16 21:12:45 +0100</small>
+<small>**Compile-Datum:** 2026-11-18 15:58:14 +0100<br>**JSON-Status:** 2026-11-18 15:58:14 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -242,3 +242,7 @@ Diese Paare wurden geprüft und bewusst nicht in die Playlist aufgenommen.
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Steeleye Span | Prince Charlie Stuart | X (A) | [link](https://www.youtube.com/watch?v=1U1C-CGaaqs) | [link](https://open.spotify.com/track/0hSEM5WDjY1DeG7j26oYx5) | — |
 | [580](https://gadg.fm/580) | Die Schlacht bei Culloden | Cnoc An Tursa | Will Ye No Come Back Again | X (C) | [link](https://www.youtube.com/watch?v=YZ8nf94MlDg) | [link](https://open.spotify.com/track/6dNyeEFspeF6aV7oG0a33A) | [link](https://apocalypticwitchcraft.bandcamp.com/track/will-ye-no-come-back-again) |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Nuummite | Bicycle Day | X | [link](https://www.youtube.com/watch?v=xwtZcS1l7F8) | [link](https://open.spotify.com/track/0GZ8R0eTY4hveRXPcg0lJ4) | [link](https://nuummite.bandcamp.com/track/bicycle-day) |
+| [582](https://gadg.fm/582) | Scrabble | Frank Crumit | Crossword Mama You Puzzle Me | X (B) | [link](https://www.youtube.com/watch?v=oP8zplB_kJY) | [link](https://open.spotify.com/track/7hmfCgUTOWo8seyakCfMXd) | — |
+| [582](https://gadg.fm/582) | Scrabble | On Broken Wings | I Do My Crosswords in Pen | X | [link](https://www.youtube.com/watch?v=R_y931G5LLI) | [link](https://open.spotify.com/track/4pmI4tcbWKIPdeoaZTpPun) | [link](https://dazestyle.bandcamp.com/track/i-do-my-crosswords-in-pen) |
+| [582](https://gadg.fm/582) | Scrabble | James Miller Band | Scrabble | X (C) | [link](https://www.youtube.com/watch?v=nZFTPIwvsxI) | [link](https://open.spotify.com/track/1hgo3h4Cmt8Jcgzd21VinP) | — |
+| [582](https://gadg.fm/582) | Scrabble | Emily Kaitz | The Scrabble Song | X (C) | [link](https://www.youtube.com/watch?v=GlnEO3Fthps) | [link](https://open.spotify.com/track/4Css1eSdN2rsDcjDnmR0Km) | — |
