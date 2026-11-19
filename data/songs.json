@@ -686,6 +686,36 @@
     ]
   },
   {
+    "id": "arrayan-path-hollow-eyes-of-nefertiti",
+    "band": "Arrayan Path",
+    "title": "Hollow Eyes of Nefertiti",
+    "entities": [
+      "Nofretete",
+      "Nefertiti",
+      "Echnaton",
+      "Akhenaten",
+      "Aton",
+      "Aten",
+      "Amarna"
+    ],
+    "era": "14. Jh. v. Chr. / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/77juic07peERovNrTMvdti",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1PMFBCex5pE",
+    "bandcampUrl": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/arrayan-path/hollow-eyes-of-nefertiti-lyrics/",
+        "note": "Nefertiti/Akhenaten/Aten; erased from history; hollow eyes"
+      },
+      {
+        "type": "bandcamp",
+        "url": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
+        "note": "Ira Imperium (Pitch Black Records, 2011)"
+      }
+    ]
+  },
+  {
     "id": "arsames-cyrus-the-great",
     "band": "Arsames",
     "title": "Cyrus the Great",
@@ -714,36 +744,6 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Arsames_(band)",
         "note": "Iranian death metal, Mashhad"
-      }
-    ]
-  },
-  {
-    "id": "arrayan-path-hollow-eyes-of-nefertiti",
-    "band": "Arrayan Path",
-    "title": "Hollow Eyes of Nefertiti",
-    "entities": [
-      "Nofretete",
-      "Nefertiti",
-      "Echnaton",
-      "Akhenaten",
-      "Aton",
-      "Aten",
-      "Amarna"
-    ],
-    "era": "14. Jh. v. Chr. / 2011",
-    "spotifyUrl": "https://open.spotify.com/track/77juic07peERovNrTMvdti",
-    "youtubeUrl": "https://www.youtube.com/watch?v=1PMFBCex5pE",
-    "bandcampUrl": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/arrayan-path/hollow-eyes-of-nefertiti-lyrics/",
-        "note": "Nefertiti/Akhenaten/Aten; erased from history; hollow eyes"
-      },
-      {
-        "type": "bandcamp",
-        "url": "https://pitchblackrecords.bandcamp.com/track/hollow-eyes-of-nefertiti",
-        "note": "Ira Imperium (Pitch Black Records, 2011)"
       }
     ]
   },
@@ -1774,6 +1774,32 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Countess/Spawn_of_Steel/76754",
         "note": "Metal Archives: Black/Power-Metal-Mix, Barbarian Wrath"
+      }
+    ]
+  },
+  {
+    "id": "country-gentlemen-matterhorn",
+    "band": "The Country Gentlemen",
+    "title": "Matterhorn",
+    "entities": [
+      "Matterhorn",
+      "Alpinismus",
+      "1865"
+    ],
+    "era": "1865 / 1966",
+    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tf49BnALF2Q",
+    "bandcampUrl": "https://countrygentlemen.bandcamp.com/track/matterhorn-3",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://pickersguide.com/vocal-song/matterhorn/",
+        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
+        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
       }
     ]
   },
@@ -4862,6 +4888,39 @@
     ]
   },
   {
+    "id": "klaus-renft-combo-rockballade-vom-kleinen-otto",
+    "band": "Klaus Renft Combo",
+    "title": "Rockballade vom kleinen Otto",
+    "entities": [
+      "Republikflucht",
+      "Devisen",
+      "DDR",
+      "Elbe",
+      "Wittenberge"
+    ],
+    "era": "1974 / 1975",
+    "spotifyUrl": "https://open.spotify.com/track/0mkS7BtDMoVmRlraW6F6e0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=je_iFPWOSv4",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.renft.de/rockballade-vom-kleinen-otto/",
+        "note": "Offizielle Lyrics; Text Pannach / Musik Schoppe; Mitgrund Bandverbot 1975"
+      },
+      {
+        "type": "secondary",
+        "url": "https://de.wikipedia.org/wiki/Rockballade_vom_kleinen_Otto",
+        "note": "Hardrocksong; Flucht-Tabu; Veröffentlichung West 1980"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=je_iFPWOSv4",
+        "note": "YouTube-Aufnahme Rockballade vom kleinen Otto"
+      }
+    ]
+  },
+  {
     "id": "knorkator-konrad",
     "band": "Knorkator",
     "title": "Konrad",
@@ -5374,6 +5433,31 @@
         "type": "secondary",
         "url": "https://www.clarelibrary.ie/eolas/coclare/songs/cmc/doctor_crippen_mhowley.htm",
         "note": "Roud 18472; Carroll Mackenzie Collection; Traditional Irish ballad"
+      }
+    ]
+  },
+  {
+    "id": "marx-brothers-hail-hail-freedonia",
+    "band": "The Marx Brothers",
+    "title": "Hail, Hail Freedonia",
+    "entities": [
+      "Freedonia",
+      "Duck Soup"
+    ],
+    "era": "1933",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
+        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
+      },
+      {
+        "type": "reference",
+        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
+        "note": "Hymn to Freedonia / Duck Soup"
       }
     ]
   },
@@ -6356,6 +6440,32 @@
     ]
   },
   {
+    "id": "ornatorpet-stockholms-blodbad",
+    "band": "Örnatorpet",
+    "title": "Stockholms Blodbad",
+    "entities": [
+      "Stockholmer Blutbad",
+      "Christian II.",
+      "Gustav Vasa"
+    ],
+    "era": "1520 / 2018",
+    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=CB-7M0CAc_4",
+    "bandcampUrl": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
+    "sources": [
+      {
+        "type": "bandcamp",
+        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
+      },
+      {
+        "type": "secondary",
+        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
+        "note": "Label: medievalist dungeon synth"
+      }
+    ]
+  },
+  {
     "id": "ottone-pesante-battle-of-qadesh",
     "band": "Ottone Pesante",
     "title": "Battle of Qadesh",
@@ -6567,6 +6677,37 @@
         "type": "lyrics",
         "url": "http://pigwithfaceofboy.blogspot.com/2010/08/",
         "note": "Offizielle Lyrics/Video-Kontext"
+      }
+    ]
+  },
+  {
+    "id": "pogues-the-wake-of-the-medusa",
+    "band": "The Pogues",
+    "title": "The Wake of the Medusa",
+    "entities": [
+      "Floß der Medusa",
+      "Méduse",
+      "Géricault"
+    ],
+    "era": "1816 / Gemälde 1818–19",
+    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
+        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
+        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
+        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -11242,6 +11383,32 @@
     ]
   },
   {
+    "id": "svininiai-sarvai-mk-ultra",
+    "band": "Švininiai Šarvai",
+    "title": "MK Ultra",
+    "entities": [
+      "MKUltra",
+      "CIA",
+      "Mind control"
+    ],
+    "era": "1950er / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
+        "note": "The Great Paradise of Tomorrow / Single 2023; LyricFind: Orestas Motuzis; CIA-Mind-Control + imaginative twists"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.metal-archives.com/albums/Shvininiai_Sharvai/MK_Ultra/1149097",
+        "note": "Encyclopaedia Metallum: MK Ultra single"
+      }
+    ]
+  },
+  {
     "id": "tankard-black-plague-bp",
     "band": "Tankard",
     "title": "Black Plague (BP)",
@@ -11517,32 +11684,6 @@
     ]
   },
   {
-    "id": "country-gentlemen-matterhorn",
-    "band": "The Country Gentlemen",
-    "title": "Matterhorn",
-    "entities": [
-      "Matterhorn",
-      "Alpinismus",
-      "1865"
-    ],
-    "era": "1865 / 1966",
-    "spotifyUrl": "https://open.spotify.com/track/7tJj4hAYKWdNu6hszWbIEC",
-    "youtubeUrl": "https://www.youtube.com/watch?v=tf49BnALF2Q",
-    "bandcampUrl": "https://countrygentlemen.bandcamp.com/track/matterhorn-3",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://pickersguide.com/vocal-song/matterhorn/",
-        "note": "Tillis/Burch; Matterhorn climb disaster narrative (fictionalized party)"
-      },
-      {
-        "type": "secondary",
-        "url": "https://bluegrasstoday.com/mel-tillis-and-bluegrass-music/",
-        "note": "Bluegrass standard; Country Gentlemen 1966/67 Rebel"
-      }
-    ]
-  },
-  {
     "id": "the-dreadnoughts-grace-omalley",
     "band": "The Dreadnoughts",
     "title": "Grace O'Malley",
@@ -11654,31 +11795,6 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=9WPUlaLayxU",
         "note": "YouTube (The Human Error - Topic)"
-      }
-    ]
-  },
-  {
-    "id": "marx-brothers-hail-hail-freedonia",
-    "band": "The Marx Brothers",
-    "title": "Hail, Hail Freedonia",
-    "entities": [
-      "Freedonia",
-      "Duck Soup"
-    ],
-    "era": "1933",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=x4OJGdtRx10",
-    "bandcampUrl": null,
-    "sources": [
-      {
-        "type": "youtube",
-        "url": "https://www.youtube.com/watch?v=x4OJGdtRx10",
-        "note": "Filmauschnitt Duck Soup (1933); Hymne des fiktiven Freedonia (Kalmar/Ruby)"
-      },
-      {
-        "type": "reference",
-        "url": "https://www.marx-brothers.org/watching/film/Duck_Soup.htm",
-        "note": "Hymn to Freedonia / Duck Soup"
       }
     ]
   },
@@ -11799,37 +11915,6 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=nC7DBeYlo4w",
         "note": "Video Mutiny on the HMS Bounty"
-      }
-    ]
-  },
-  {
-    "id": "pogues-the-wake-of-the-medusa",
-    "band": "The Pogues",
-    "title": "The Wake of the Medusa",
-    "entities": [
-      "Floß der Medusa",
-      "Méduse",
-      "Géricault"
-    ],
-    "era": "1816 / Gemälde 1818–19",
-    "spotifyUrl": "https://open.spotify.com/track/3P3n7zgqAWYULj71H8nqXb",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Udh-1a-g3L4",
-    "bandcampUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.songlyrics.com/the-pogues/the-wake-of-the-medusa-lyrics/",
-        "note": "Lyrics: canvas/gallery; once more upon that raft; cast adrift"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.songfacts.com/facts/the-pogues/the-wake-of-the-medusa",
-        "note": "Jem Finer: reworking of Géricault's Raft of the Medusa / 1816 wreck"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hell%27s_Ditch",
-        "note": "Hell's Ditch (1990) — inspired by the painting also used on Rum Sodomy & the Lash cover"
       }
     ]
   },
@@ -11993,58 +12078,6 @@
     ]
   },
   {
-    "id": "tiger-lillies-shockheaded-peter",
-    "band": "The Tiger Lillies",
-    "title": "Shockheaded Peter",
-    "entities": [
-      "Struwwelpeter",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": "https://open.spotify.com/track/2845rA82iTQvEtzRzBd5SI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
-    "bandcampUrl": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Shockheaded Peter: A Junk Opera"
-      },
-      {
-        "type": "wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
-        "note": "Musical nach Hoffmanns Struwwelpeter"
-      }
-    ]
-  },
-  {
-    "id": "tiger-lillies-snip-snip",
-    "band": "The Tiger Lillies",
-    "title": "Snip Snip",
-    "entities": [
-      "Struwwelpeter",
-      "Daumenlutscher",
-      "Konrad",
-      "Heinrich Hoffmann"
-    ],
-    "era": "1845 / 1999",
-    "spotifyUrl": "https://open.spotify.com/track/5mhvCAK0me5DwZO2R5NOgR",
-    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
-    "bandcampUrl": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
-        "note": "Track Snip Snip; Conrad / scissors man"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.geschichte.fm/archiv/gag369/",
-        "note": "Kommentar: Daumenlutscher Konrad"
-      }
-    ]
-  },
-  {
     "id": "the-twindows-dig-tree",
     "band": "The Twindows",
     "title": "Dig Tree",
@@ -12176,6 +12209,58 @@
         "type": "secondary",
         "url": "https://dubdigger.com/artist/96050",
         "note": "Londoner Ensemble; Sound Kraftwerk/Tackhead/Chrome — Industrial Electronic / Experimental"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-shockheaded-peter",
+    "band": "The Tiger Lillies",
+    "title": "Shockheaded Peter",
+    "entities": [
+      "Struwwelpeter",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": "https://open.spotify.com/track/2845rA82iTQvEtzRzBd5SI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q",
+    "bandcampUrl": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Shockheaded Peter: A Junk Opera"
+      },
+      {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "note": "Musical nach Hoffmanns Struwwelpeter"
+      }
+    ]
+  },
+  {
+    "id": "tiger-lillies-snip-snip",
+    "band": "The Tiger Lillies",
+    "title": "Snip Snip",
+    "entities": [
+      "Struwwelpeter",
+      "Daumenlutscher",
+      "Konrad",
+      "Heinrich Hoffmann"
+    ],
+    "era": "1845 / 1999",
+    "spotifyUrl": "https://open.spotify.com/track/5mhvCAK0me5DwZO2R5NOgR",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XYS7-P2Vg1Q&t=280",
+    "bandcampUrl": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thetigerlillies.bandcamp.com/album/shockheaded-peter",
+        "note": "Track Snip Snip; Conrad / scissors man"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.geschichte.fm/archiv/gag369/",
+        "note": "Kommentar: Daumenlutscher Konrad"
       }
     ]
   },
@@ -13399,58 +13484,6 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
         "note": "Cover von Merle Travis / Company Store / Truck system"
-      }
-    ]
-  },
-  {
-    "id": "ornatorpet-stockholms-blodbad",
-    "band": "Örnatorpet",
-    "title": "Stockholms Blodbad",
-    "entities": [
-      "Stockholmer Blutbad",
-      "Christian II.",
-      "Gustav Vasa"
-    ],
-    "era": "1520 / 2018",
-    "spotifyUrl": "https://open.spotify.com/track/05MfOdXJc0MJmq4fyQHtW8",
-    "youtubeUrl": "https://www.youtube.com/watch?v=CB-7M0CAc_4",
-    "bandcampUrl": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
-    "sources": [
-      {
-        "type": "bandcamp",
-        "url": "https://ornatorpet.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Dungeon Synth concept album on Stockholm Bloodbath / Vasa revolt; instrumental"
-      },
-      {
-        "type": "secondary",
-        "url": "https://gondolinrecords.bandcamp.com/album/blodbad-och-efterspel",
-        "note": "Label: medievalist dungeon synth"
-      }
-    ]
-  },
-  {
-    "id": "svininiai-sarvai-mk-ultra",
-    "band": "Švininiai Šarvai",
-    "title": "MK Ultra",
-    "entities": [
-      "MKUltra",
-      "CIA",
-      "Mind control"
-    ],
-    "era": "1950er / 2023",
-    "spotifyUrl": "https://open.spotify.com/track/0ZAHO1Br8u0AR6sncKWxHa",
-    "youtubeUrl": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
-    "bandcampUrl": null,
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://www.youtube.com/watch?v=2s3q6jKmA0I",
-        "note": "The Great Paradise of Tomorrow / Single 2023; LyricFind: Orestas Motuzis; CIA-Mind-Control + imaginative twists"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.metal-archives.com/albums/Shvininiai_Sharvai/MK_Ultra/1149097",
-        "note": "Encyclopaedia Metallum: MK Ultra single"
       }
     ]
   }
