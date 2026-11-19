@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-18 18:52:49 +0100<br>**JSON-Status:** 2026-11-18 18:24:09 +0100</small>
+<small>**Compile-Datum:** 2026-11-19 20:22:22 +0100<br>**JSON-Status:** 2026-11-19 20:22:22 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -275,3 +275,4 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Muse | MK Ultra | C | [link](https://www.youtube.com/watch?v=lT0-gSAKDmM) | [link](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | — |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | El Tri | María Sabina | A | [link](https://www.youtube.com/watch?v=Ker4RZ9g8pA) | [link](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) | [link](https://eltri.bandcamp.com/track/maria-sabina) |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Echoes of the Moon | St. Anthony's Fire | B | [link](https://www.youtube.com/watch?v=MGhwb2VjvJo) | [link](https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB) | [link](https://echoesofthemoon.bandcamp.com/track/st-anthonys-fire) |
+| [582](https://gadg.fm/582) | Scrabble | Crucial Unit | Scrabble Punx | C | [link](https://www.youtube.com/watch?v=cG83QwliBac) | [link](https://open.spotify.com/track/2MvzaVGbbSg0G6e1NPGzwH) | [link](http://crucialunit.com/mp3/municipal_waste_split/06_-_Crucial_Unit_-_Scrabble_Punx.mp3) |

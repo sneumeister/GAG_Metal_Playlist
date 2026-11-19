@@ -1836,6 +1836,40 @@
     ]
   },
   {
+    "id": "crucial-unit-scrabble-punx",
+    "band": "Crucial Unit",
+    "title": "Scrabble Punx",
+    "entities": [
+      "Scrabble"
+    ],
+    "era": "2002",
+    "spotifyUrl": "https://open.spotify.com/track/2MvzaVGbbSg0G6e1NPGzwH",
+    "youtubeUrl": "https://www.youtube.com/watch?v=cG83QwliBac",
+    "bandcampUrl": "http://crucialunit.com/mp3/municipal_waste_split/06_-_Crucial_Unit_-_Scrabble_Punx.mp3",
+    "sources": [
+      {
+        "type": "allmusic",
+        "url": "https://www.allmusic.com/song/scrabble-punx-mt0009328665",
+        "note": "Crucial Unit / Municipal Waste Split 2002; Six Weeks"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.spirit-of-metal.com/parole-groupe-Crucial_Unit-nom_album-Crucial_Unit_*_Municipal_Waste-l-en.html",
+        "note": "Lyrics Scrabble Punx"
+      },
+      {
+        "type": "band",
+        "url": "https://www.metal-archives.com/bands/Crucial_Unit/7479",
+        "note": "Thrash Metal/Crossover; Pittsburgh"
+      },
+      {
+        "type": "band",
+        "url": "http://www.crucialunit.com/mp3.html",
+        "note": "Band-MP3-Seite inkl. Scrabble Punx"
+      }
+    ]
+  },
+  {
     "id": "crucible-steel-ulfberht",
     "band": "Crucible Steel",
     "title": "Ulfberht",

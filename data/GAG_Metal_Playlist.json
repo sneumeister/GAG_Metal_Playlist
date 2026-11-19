@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18 18:24:09 +0100",
+  "updatedAt": "2026-11-19 20:22:22 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -5419,6 +5419,25 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=vvCM7Qig9qI",
       "bandcampUrl": null,
       "matchedAt": "2026-11-12",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 582,
+      "episodeTitle": "Scrabble",
+      "episodeUrl": "https://gadg.fm/582",
+      "songId": "crucial-unit-scrabble-punx",
+      "band": "Crucial Unit",
+      "songTitle": "Scrabble Punx",
+      "matchTier": "C",
+      "justification": "Folge = Alfred Butts / Erfindung und Boom von Scrabble (#582); Song = Thrashcore-Witz über Scrabble-Spielen (Double/Triple Word Score, „we are the Scrabble Punx“) — gemeinsames Motiv Scrabble-Spiel, kein Erfindungs-/Butts-/Brunot-Fokus (Tier C).",
+      "sharedEntities": [
+        "Scrabble"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/2MvzaVGbbSg0G6e1NPGzwH",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cG83QwliBac",
+      "bandcampUrl": "http://crucialunit.com/mp3/municipal_waste_split/06_-_Crucial_Unit_-_Scrabble_Punx.mp3",
+      "matchedAt": "2026-11-19",
       "curatedBy": "manual",
       "genre": "OK"
     }
