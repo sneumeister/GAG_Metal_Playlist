@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19 22:00:42 +0100",
+  "updatedAt": "2026-11-21 18:27:23 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3206,6 +3206,27 @@
       "genre": "OK"
     },
     {
+      "episodeId": 477,
+      "episodeTitle": "Kleine Geschichte des Artensterbens",
+      "episodeUrl": "https://gadg.fm/477",
+      "songId": "grex-martha",
+      "band": "Grex",
+      "songTitle": "Martha",
+      "matchTier": "B",
+      "justification": "Folge = Kleine Geschichte des Artensterbens (Einstieg Martha/Wandertaube und Incas im Zoo Cincinnati, Fokus Georges Cuvier und die wissenschaftliche Entdeckung des Aussterbens); Song = Art-/Experimental-Rock-Gedenkporträt der letzten Wandertaube Martha (Bandcamp-Widmung; Bandinterview: 100. Todestag, Cincinnati-Käfig, Schwärme die den Himmel verdunkeln) — gemeinsamer Endling-/Artensterben-Rahmen, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Martha",
+        "Wandertaube",
+        "Artensterben"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=YBQcruQfXHg",
+      "bandcampUrl": "https://grex.bandcamp.com/track/martha",
+      "matchedAt": "2026-11-21",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
       "episodeId": 483,
       "episodeTitle": "Bounty, Brotfrucht und die Rum-Rebellion",
       "episodeUrl": "https://gadg.fm/483",
@@ -3244,6 +3265,26 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=OlOdefB5Kyk",
       "bandcampUrl": "https://sabaton.bandcamp.com/track/saboteurs",
       "matchedAt": "2026-09-25",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 495,
+      "episodeTitle": "Das Bandoneon und der Tango",
+      "episodeUrl": "https://gadg.fm/495",
+      "songId": "asap-inev-vuelvo-al-sur",
+      "band": "Asap Inev",
+      "songTitle": "Vuelvo al Sur",
+      "matchTier": "C",
+      "justification": "Folge = Bandoneon-Erfindung (Band/Chemnitz/Erzgebirge) und warum die Bindung an den Tango das Instrument rettete; Song = Progressive-Metal-Cover von Piazzollas Vuelvo al Sur (Rückkehr in den Sur; Zeile „soy del Sur, como los aires del bandoneon“) — Tango-/Bandoneon-Klangraum und Metapher, kein gemeinsamer Erzählgegenstand zu Erfinder- oder Instrumentengeschichte (Tier C).",
+      "sharedEntities": [
+        "Bandoneon",
+        "Tango"
+      ],
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
+      "bandcampUrl": "https://asapinev.bandcamp.com/track/vuelvo-al-sur-astor-piazzolla",
+      "matchedAt": "2026-11-21",
       "curatedBy": "manual",
       "genre": "OK"
     },

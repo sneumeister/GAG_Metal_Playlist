@@ -1,6 +1,6 @@
 # GAG Not-Metal Playlist: thematischer Treffer, kein Rock/Metal
 
-<small>**Compile-Datum:** 2026-11-19 22:00:42 +0100<br>**JSON-Status:** 2026-11-18 18:24:09 +0100</small>
+<small>**Compile-Datum:** 2026-11-21 18:27:23 +0100<br>**JSON-Status:** 2026-11-21 18:22:47 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -43,9 +43,11 @@ Thematisch passende Paare, deren Stück **kein Rock/Metal** ist. Stufen A/B/C wi
 | [420](https://gadg.fm/420) | Harry Anslinger und der erste "War on Drugs" | Louis Armstrong | Muggles | B | [link](https://www.youtube.com/watch?v=R8TvgVTGkBQ) | [link](https://open.spotify.com/track/3pjNUp7PF3LwIoKASeDJ6T) | — |
 | [441](https://gadg.fm/441) | Jemima Nicholas und die Schlacht von Fishguard | Gwenno Dafydd | Wild West Walian Warrior Women (The Ballad of Jemima Nicholas) | A | [link](https://www.youtube.com/watch?v=HWMH9BaJXkI) | [link](https://orcd.co/warriorwomen) | — |
 | [452](https://gadg.fm/452) | Der erste Mensch im All | Karl-Heinz Weichert und Rhythmusgruppe | Affenschande | B | [link](https://www.youtube.com/watch?v=ZIzvhZXhnlM) | — | — |
+| [477](https://gadg.fm/477) | Kleine Geschichte des Artensterbens | John Herald | Martha (Last of the Passenger Pigeons) | B | [link](https://www.youtube.com/watch?v=2GuI_KpQqWM) | — | — |
 | [484](https://gadg.fm/484) | Emil Berliner und die Erfindung der Musikindustrie | Memphis Minnie & Kansas Joe McCoy | When the Levee Breaks | A | [link](https://www.youtube.com/watch?v=WSlt8-fmvas) | [link](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | — |
 | [491](https://gadg.fm/491) | Die Dreyfus-Affäre | Yves Duteil | Dreyfus | A | [link](https://www.youtube.com/watch?v=yR_pm7Y-bzI) | [link](https://open.spotify.com/track/4KH9uCX22KnwSohIecrlQH) | — |
 | [494](https://gadg.fm/494) | Der Serumlauf nach Nome | Matt Hammer | Serum Run | A | [link](https://www.youtube.com/watch?v=UwUX3pnx3r8) | [link](https://open.spotify.com/track/0ZntMm5UUbT8PHk2TdnRIT) | — |
+| [497](https://gadg.fm/497) | Drais und die Laufmaschine | Söhne Mannheims | Willst du mich begleiten? | A | [link](https://www.youtube.com/watch?v=WjEs62wHQoY) | — | — |
 | [502](https://gadg.fm/502) | Die Fehde und Kohlhase | Allerseelen | Schwefelfaden (Michael Kohlhaas) | A | — | — | [link](https://mindonfireproduktionen.bandcamp.com/track/schwefelfaden-michael-kohlhaas) |
 | [509](https://gadg.fm/509) | Filmreife Flucht | Stringybark Band | The Catalpa | A | [link](https://www.youtube.com/watch?v=GDJekqfKLdY) | — | [link](https://stringybarkband.bandcamp.com/track/the-catalpa) |
 | [515](https://gadg.fm/515) | Bhagwan und Bioterror | Sufjan Stevens | My Rajneesh | B | [link](https://www.youtube.com/watch?v=jn7_JpmhZP0) | [link](https://open.spotify.com/track/3SpWpHiCt8tbPuZG9AX0Wi) | [link](https://music.sufjan.com/track/my-rajneesh) |

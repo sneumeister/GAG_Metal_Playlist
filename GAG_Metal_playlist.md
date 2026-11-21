@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-19 22:00:42 +0100<br>**JSON-Status:** 2026-11-19 22:00:42 +0100</small>
+<small>**Compile-Datum:** 2026-11-21 18:27:23 +0100<br>**JSON-Status:** 2026-11-21 18:27:23 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -169,8 +169,10 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Poltava | A | [link](https://www.youtube.com/watch?v=xfGe07IzsK4) | [link](https://open.spotify.com/track/4Bkov6Yhi63EFOZUNMKbtf) | [link](https://sabaton.bandcamp.com/track/poltava) |
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Ruina Imperii | B | [link](https://www.youtube.com/watch?v=c898WyjHDx4) | [link](https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X) | [link](https://sabaton.bandcamp.com/track/ruina-imperii) |
 | [476](https://gadg.fm/476) | Boabdil und das Ende Granadas | Dark Moor | El Último Rey | A | [link](https://www.youtube.com/watch?v=IeqHGDjmD0g) | [link](https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ) | — |
+| [477](https://gadg.fm/477) | Kleine Geschichte des Artensterbens | Grex | Martha | B | [link](https://www.youtube.com/watch?v=YBQcruQfXHg) | — | [link](https://grex.bandcamp.com/track/martha) |
 | [483](https://gadg.fm/483) | Bounty, Brotfrucht und die Rum-Rebellion | The Pirates Charles | Mutiny on the HMS Bounty | A | [link](https://www.youtube.com/watch?v=nC7DBeYlo4w) | [link](https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl) | — |
 | [493](https://gadg.fm/493) | Kernspaltung und Schwerwasser-Sabotage | Sabaton | Saboteurs | A | [link](https://www.youtube.com/watch?v=OlOdefB5Kyk) | [link](https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf) | [link](https://sabaton.bandcamp.com/track/saboteurs) |
+| [495](https://gadg.fm/495) | Das Bandoneon und der Tango | Asap Inev | Vuelvo al Sur | C | [link](https://www.youtube.com/watch?v=ZPv9hgA7fj8) | — | [link](https://asapinev.bandcamp.com/track/vuelvo-al-sur-astor-piazzolla) |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | Elvenking | 3 Ways to Magick | C | [link](https://www.youtube.com/watch?v=k0okqZr_8RY) | [link](https://open.spotify.com/track/09V8VbY5h2v9CmssGSZ2Cx) | — |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 1 | B | [link](https://www.youtube.com/watch?v=rGa2woc4uig) | [link](https://open.spotify.com/track/6BvbB4Iwvlz67D2491vO8q) | — |
 | [498](https://gadg.fm/498) | Eine kleine Geschichte des Grimoires | In Extremo | Merseburger Zaubersprüche 2 | B | [link](https://www.youtube.com/watch?v=CEmCyG4tvds) | [link](https://open.spotify.com/track/48aOyD0xEI1FCTb88jwSYz) | — |

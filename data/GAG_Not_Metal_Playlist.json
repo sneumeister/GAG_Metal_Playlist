@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18 18:24:09 +0100",
+  "updatedAt": "2026-11-21 18:22:47 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -402,6 +402,22 @@
       "genre": "NG"
     },
     {
+      "episodeId": 477,
+      "episodeTitle": "Kleine Geschichte des Artensterbens",
+      "episodeUrl": "https://gadg.fm/477",
+      "songId": "john-herald-martha-last-of-the-passenger-pigeons",
+      "band": "John Herald",
+      "songTitle": "Martha (Last of the Passenger Pigeons)",
+      "matchTier": "B",
+      "justification": "Folge = Kleine Geschichte des Artensterbens (Einstieg Martha/Wandertaube und Incas im Zoo Cincinnati, Fokus Georges Cuvier und die wissenschaftliche Entdeckung des Aussterbens); Song = Bluegrass-/Folk-Moritat über die letzte Wandertaube Martha (Cincinnati Zoo, Jagd/Ausrottung, Tod im Käfig) — gemeinsamer Endling-/Artensterben-Rahmen, anderer Fokus (bei Metal wäre Tier B). Genre = Bluegrass / Folk, kein Rock/Metal (Tier X).",
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-21",
+      "curatedBy": "manual",
+      "genre": "NG"
+    },
+    {
       "episodeId": 484,
       "episodeTitle": "Emil Berliner und die Erfindung der Musikindustrie",
       "episodeUrl": "https://gadg.fm/484",
@@ -446,6 +462,22 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=UwUX3pnx3r8",
       "bandcampUrl": null,
       "matchedAt": "2026-11-09",
+      "curatedBy": "manual",
+      "genre": "NG"
+    },
+    {
+      "episodeId": 497,
+      "episodeTitle": "Drais und die Laufmaschine",
+      "episodeUrl": "https://gadg.fm/497",
+      "songId": "sohne-mannheims-willst-du-mich-begleiten",
+      "band": "Söhne Mannheims",
+      "songTitle": "Willst du mich begleiten?",
+      "matchTier": "A",
+      "justification": "Folge = Karl von Drais und die Laufmaschine / Zweiradprinzip (#497); Song = Jubiläumssong zu Draisine und Freiherr von Drais (Tambora 1815, Erfindung) — derselbe Kern (bei Metal wäre Tier A). Genre = Soul / Pop (Söhne Mannheims), kein Rock/Metal (Tier X).",
+      "spotifyUrl": null,
+      "youtubeUrl": "https://www.youtube.com/watch?v=WjEs62wHQoY",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-21",
       "curatedBy": "manual",
       "genre": "NG"
     },
