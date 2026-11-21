@@ -10867,6 +10867,39 @@
     ]
   },
   {
+    "id": "sohne-mannheims-willst-du-mich-begleiten",
+    "band": "Söhne Mannheims",
+    "title": "Willst du mich begleiten?",
+    "entities": [
+      "Karl von Drais",
+      "Draisine",
+      "Laufmaschine",
+      "Tambora",
+      "Fahrrad"
+    ],
+    "era": "1817 / 2017",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=WjEs62wHQoY",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=WjEs62wHQoY",
+        "note": "Official Video Monnem Bike 2017; Karl Drais / Fahrrad-Jubiläum Mannheim"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songlyrics.com/sohne-mannheims/willst-du-mich-begleiten-lyrics/",
+        "note": "Draisine, Freiherr von Drais, Tambora 1815"
+      },
+      {
+        "type": "secondary",
+        "url": "https://de.wikipedia.org/wiki/Karl_Drais",
+        "note": "Wikipedia nennt den Song zum Jubiläum 2017 / Monnem Bike"
+      }
+    ]
+  },
+  {
     "id": "sons-of-kemet-my-queen-is-yaa-asantewaa",
     "band": "Sons of Kemet",
     "title": "My Queen Is Yaa Asantewaa",
@@ -13484,6 +13517,109 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
         "note": "Cover von Merle Travis / Company Store / Truck system"
+      }
+    ]
+  },
+  {
+    "id": "grex-martha",
+    "band": "Grex",
+    "title": "Martha",
+    "entities": [
+      "Martha",
+      "Wandertaube",
+      "Passenger Pigeon",
+      "Cincinnati Zoo",
+      "Artensterben"
+    ],
+    "era": "1914 / 2018",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=YBQcruQfXHg",
+    "bandcampUrl": "https://grex.bandcamp.com/track/martha",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=YBQcruQfXHg",
+        "note": "Live in Studio Dez. 2017; Widmung last of the passenger pigeons"
+      },
+      {
+        "type": "band",
+        "url": "https://grex.bandcamp.com/track/martha",
+        "note": "Track auf Electric Ghost Parade (2018); Widmung letzte Wandertaube"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.antimusic.com/news/18/August/15Singled_Out-_Grexs_Martha.shtml",
+        "note": "Bandinterview: 100. Todestag Martha, Cincinnati, Schwärme"
+      }
+    ]
+  },
+  {
+    "id": "john-herald-martha-last-of-the-passenger-pigeons",
+    "band": "John Herald",
+    "title": "Martha (Last of the Passenger Pigeons)",
+    "entities": [
+      "Martha",
+      "Wandertaube",
+      "Passenger Pigeon",
+      "Cincinnati Zoo",
+      "Artensterben"
+    ],
+    "era": "1914 / 1983",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
+        "note": "John Herald live; Spoken Intro + Song Martha / letzte Wandertaube"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://johnherald.com/martha.shtml",
+        "note": "Offizielle Lyrics; Cincinnati Zoo, Martha, passenger pigeon"
+      },
+      {
+        "type": "secondary",
+        "url": "http://johnherald.com/bluegrass_boy.shtml",
+        "note": "Live Joyous Lake 26.5.1983 auf Just Another Bluegrass Boy (CD 2005)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.audubon.org/news/13-memories-martha-last-passenger-pigeon",
+        "note": "Audubon nennt den Song unter Martha-Erinnerungen"
+      }
+    ]
+  },
+  {
+    "id": "asap-inev-vuelvo-al-sur",
+    "band": "Asap Inev",
+    "title": "Vuelvo al Sur",
+    "entities": [
+      "Bandoneon",
+      "Tango",
+      "Astor Piazzolla",
+      "Sur"
+    ],
+    "era": "1988 / 2020",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
+    "bandcampUrl": "https://asapinev.bandcamp.com/track/vuelvo-al-sur-astor-piazzolla",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
+        "note": "Asap Inev Video; Piazzolla-Cover, Goyeneche-Sample; Lyrics mit Bandoneón"
+      },
+      {
+        "type": "band",
+        "url": "https://asapinev.bandcamp.com/album/karmatango",
+        "note": "EP Karmatango (2020); progressive metal rearrangements Piazzolla/Santaolalla"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://asapinev.bandcamp.com/album/karmatango",
+        "note": "Bandcamp-Lyrics Vuelvo al Sur inkl. „aires del bandoneon“"
       }
     ]
   }
