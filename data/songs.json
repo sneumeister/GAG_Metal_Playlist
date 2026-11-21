@@ -13622,5 +13622,42 @@
         "note": "Bandcamp-Lyrics Vuelvo al Sur inkl. „aires del bandoneon“"
       }
     ]
+  },
+  {
+    "id": "the-caution-children-kowloon-walled-city",
+    "band": "The Caution Children",
+    "title": "Kowloon Walled City",
+    "entities": [
+      "Kowloon Walled City",
+      "Hongkong",
+      "Abriss",
+      "Park"
+    ],
+    "era": "1993 / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+    "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+        "note": "Bandcamp Unknown Lands; Lyrics Abriss Frühjahr 1993 / Park"
+      },
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
+        "note": "Spotify-Track Kowloon Walled City"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+        "note": "Unknown Lands Full Album; Track ab ~32:02"
+      },
+      {
+        "type": "secondary",
+        "url": "https://tokyojupiter.storenvy.com/products/4107542-the-caution-children-unknown-lands-cd",
+        "note": "Screamo/Post-Rock; Album Unknown Lands"
+      }
+    ]
   }
 ]
