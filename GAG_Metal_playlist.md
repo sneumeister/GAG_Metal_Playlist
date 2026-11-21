@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-21 18:27:23 +0100<br>**JSON-Status:** 2026-11-21 18:27:23 +0100</small>
+<small>**Compile-Datum:** 2026-11-21 18:56:46 +0100<br>**JSON-Status:** 2026-11-21 18:56:45 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -181,6 +181,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [503](https://gadg.fm/503) | Die Schlacht bei Kadesch | Ottone Pesante | Battle of Qadesh | A | [link](https://www.youtube.com/watch?v=8Q00PZR2_og) | [link](https://open.spotify.com/track/1ULd9Uq7Ia0jpUdGvtdj2V) | [link](https://ottonepesante.bandcamp.com/track/battle-of-qadesh) |
 | [504](https://gadg.fm/504) | Ein Nashorn auf großer Tour | Serenity | Reflections (of AD) | C | [link](https://www.youtube.com/watch?v=G38B-vTBiPs) | [link](https://open.spotify.com/track/57b7TocGW4lAmurqAFh7U4) | [link](https://serenityaustria.bandcamp.com/album/nemesis-ad) |
 | [505](https://gadg.fm/505) | William H. Mumler, Geisterfotograf | The Burned Over | The Last Great Awakening | B | [link](https://www.youtube.com/watch?v=bfI0kjSX7zU) | [link](https://open.spotify.com/track/5SkZrSU9ba1yL9Y4wldWEn) | [link](https://theburnedover.bandcamp.com/album/the-last-great-awakening) |
+| [507](https://gadg.fm/507) | Gefangen zwischen zwei Reichen – die Kowloon Walled City | The Caution Children | Kowloon Walled City | A | [link](https://www.youtube.com/watch?v=kOo0iz8hVbI) | [link](https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx) | [link](https://thecautionchildren.bandcamp.com/album/unknown-lands) |
 | [508](https://gadg.fm/508) | HB01 – Die Jagd nach der exakten Uhrzeit & Über Vogelkot und Brot aus der Luft | Sabaton | Father | A | [link](https://www.youtube.com/watch?v=DxkeOkaVRLo) | [link](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) | [link](https://sabaton.bandcamp.com/track/father) |
 | [509](https://gadg.fm/509) | Filmreife Flucht | The Real McKenzies | The Catalpa | A | [link](https://www.youtube.com/watch?v=QiPyayfmWuY) | [link](https://open.spotify.com/track/4R5cWLFgssjwKrSuCbmQkK) | [link](https://therealmckenzies.bandcamp.com/track/the-catalpa) |
 | [510](https://gadg.fm/510) | Ludwig van Beethoven oder Wie eine Symphonie entsteht | Serenity | Symphony for the Quiet | B | [link](https://www.youtube.com/watch?v=vaMBn0GsgLY) | [link](https://open.spotify.com/track/1nInFf8BidT5C7Ah9jA87c) | [link](https://serenityaustria.bandcamp.com/track/symphony-for-the-quiet) |
