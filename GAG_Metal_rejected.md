@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-21 18:56:46 +0100<br>**JSON-Status:** 2026-11-18 18:24:09 +0100</small>
+<small>**Compile-Datum:** 2026-11-22 19:42:12 +0100<br>**JSON-Status:** 2026-11-22 19:29:45 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -42,6 +42,8 @@ Thematische Treffer ohne Rock/Metal stehen in der Not-Metal-Playlist, nicht hier
 | [203](https://gadg.fm/203) | Bleiben oder gehen? Die Option in Südtirol 1939 | 1914 | 1916 (The Südtirol Offensive) | X | [link](https://www.youtube.com/watch?v=n-QDGBnCqoQ) | — | [link](https://x1914x.bandcamp.com/track/1916-the-s-dtirol-offensive) |
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Marlene Dietrich | Ich bin die fesche Lola | X | [link](https://www.youtube.com/watch?v=yMbglXvNQGE) | [link](https://open.spotify.com/track/1eWqVuk0y8sfDgjWqOppPn) | — |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Civil War | I Will Rule the Universe | X | [link](https://www.youtube.com/watch?v=ZgKll_1JgPQ) | [link](https://open.spotify.com/track/1UZb8ScApfiIKYvD6OLZxn) | [link](https://bandcivilwar.bandcamp.com/track/i-will-rule-the-universe) |
+| [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | X | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) | — |
+| [222](https://gadg.fm/222) | Das Voynich-Manuskript | The Caution Children | Voynich Manuscript | X | [link](https://www.youtube.com/watch?v=kOo0iz8hVbI) | [link](https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI) | [link](https://thecautionchildren.bandcamp.com/album/unknown-lands) |
 | [242](https://gadg.fm/242) | Eine kurze Geschichte der Olympischen Spiele (der Neuzeit) | Warkings | Battle of Marathon | X | [link](https://www.youtube.com/watch?v=MxrlcIK0mOk) | [link](https://open.spotify.com/track/6CysnfT9Fo26Aa3W7xshuf) | [link](https://warkings.bandcamp.com/track/battle-of-marathon) |
 | [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Enthroned | Graced By Evil Blood | X | [link](https://www.youtube.com/watch?v=8ZBCzXx8j6I) | [link](https://open.spotify.com/track/1vUuXDzoYDeqy6dUGVlGFo) | [link](https://enthroned.bandcamp.com/track/graced-by-evil-blood) |
 | [246](https://gadg.fm/246) | John Law und die Mississippi-Blase | Led Zeppelin | When the Levee Breaks | X | [link](https://www.youtube.com/watch?v=JM3fodiK9rY) | [link](https://open.spotify.com/track/5yM7n12a0w0ZIxgwoobENF) | — |

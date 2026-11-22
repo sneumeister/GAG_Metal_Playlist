@@ -2624,6 +2624,75 @@
     ]
   },
   {
+    "id": "endlager-ignis-centralis",
+    "band": "Endlager",
+    "title": "Ignis Centralis",
+    "entities": [
+      "Athanasius Kircher",
+      "Ignis Centralis",
+      "Mundus Subterraneus",
+      "Vesuv"
+    ],
+    "era": "1637 / 1665 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/3UkyNqxRUs7o611DB4hlJB",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nUzZmFBNgm0",
+    "bandcampUrl": "https://endlager.bandcamp.com/album/ignis-centralis",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/3UkyNqxRUs7o611DB4hlJB",
+        "note": "Spotify-Track Ignis Centralis"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=nUzZmFBNgm0",
+        "note": "YouTube-Upload"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://endlager.bandcamp.com/album/ignis-centralis",
+        "note": "Bandcamp EP: Prefatory + Lyrics Kircher/Vesuv/Ignis Centralis"
+      },
+      {
+        "type": "band",
+        "url": "https://endlager.bandcamp.com/album/ignis-centralis",
+        "note": "Cover = Stich aus Mundus Subterraneus"
+      }
+    ]
+  },
+  {
+    "id": "endlager-mundus-subterranus",
+    "band": "Endlager",
+    "title": "Mundus Subterranus",
+    "entities": [
+      "Athanasius Kircher",
+      "Mundus Subterraneus",
+      "Ignis Centralis",
+      "Centrosophia"
+    ],
+    "era": "1665 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/35zS1egD6CyVFQ63PsPhb1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jT8-IEdb_DE",
+    "bandcampUrl": "https://endlager.bandcamp.com/album/ignis-centralis",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/35zS1egD6CyVFQ63PsPhb1",
+        "note": "Spotify-Track Mundus Subterranus"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=jT8-IEdb_DE",
+        "note": "YouTube-Upload"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://endlager.bandcamp.com/album/ignis-centralis",
+        "note": "Bandcamp EP Ignis Centralis Track 4: Kircher/Mundus Subterraneus"
+      }
+    ]
+  },
+  {
     "id": "english-majors-vin-mariani",
     "band": "English Majors",
     "title": "Vin Mariani",
@@ -4102,6 +4171,43 @@
         "type": "secondary",
         "url": "https://www.deezer.com/track/2081311617",
         "note": "Deezer: Chasms Pt. I"
+      }
+    ]
+  },
+  {
+    "id": "humour-wrangel",
+    "band": "Humour",
+    "title": "Wrangel",
+    "entities": [
+      "Ada Blackjack",
+      "Wrangel Island",
+      "Robert Scott",
+      "Polarforschung"
+    ],
+    "era": "1921–1923 / 2023",
+    "spotifyUrl": "https://open.spotify.com/track/4xAfgUgxNOTBqKe04Z0jqP",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dm9LimWjuK8",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/4xAfgUgxNOTBqKe04Z0jqP",
+        "note": "Spotify-Track Wrangel (So Young, 2023)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=dm9LimWjuK8",
+        "note": "Official lyric video"
+      },
+      {
+        "type": "secondary",
+        "url": "https://soyoungmagazine.com/glasgows-humour-share-new-single-wrangel/",
+        "note": "Frontmann: Scott + Ada Blackjack / Wrangel-Inspiration"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://rc4o.readdork.com/lyrics/humour-wrangel-2023",
+        "note": "Lyrics Transcript"
       }
     ]
   },
@@ -13657,6 +13763,35 @@
         "type": "secondary",
         "url": "https://tokyojupiter.storenvy.com/products/4107542-the-caution-children-unknown-lands-cd",
         "note": "Screamo/Post-Rock; Album Unknown Lands"
+      }
+    ]
+  },
+  {
+    "id": "the-caution-children-voynich-manuscript",
+    "band": "The Caution Children",
+    "title": "Voynich Manuscript",
+    "entities": [
+      "Voynich-Manuskript"
+    ],
+    "era": "2011",
+    "spotifyUrl": "https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+    "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+        "note": "Bandcamp Unknown Lands; Patterns/rewrite-Lyrics"
+      },
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI",
+        "note": "Spotify-Track"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+        "note": "Unknown Lands Full Album; Track ab ~11:02"
       }
     ]
   }
