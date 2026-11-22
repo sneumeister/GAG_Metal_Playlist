@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18 18:24:09 +0100",
+  "updatedAt": "2026-11-22 19:29:45 +0100",
   "entries": [
     {
       "episodeId": 4,
@@ -181,6 +181,20 @@
       "songId": "civil-war-i-will-rule-the-universe",
       "reason": "Song = Napoleon I. als Kaiser (1804, Weltherrschafts-Ambition bis Waterloo). Folge = Biografie Napoleon II. (König von Rom / Reichstadt) — Vater ≠ Sohn (Tier X).",
       "rejectedAt": "2026-09-28",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 222,
+      "songId": "the-caution-children-voynich-manuscript",
+      "reason": "Folge = Das Voynich-Manuskript (Rätseltext, Hoax-/Verschlüsselungsdebatte); Song = Screamo-/Post-Rock-Stück gleichen Titels (Patterns/Sequence, „rewrite… return to start“) — nur Titelanklang und lose Unlesbarkeits-Metapher, kein Manuskript-Erzählkern (Tier X).",
+      "rejectedAt": "2026-11-22",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 222,
+      "songId": "elvenking-the-voynich-manuscript",
+      "reason": "Folge = Das Voynich-Manuskript (Rätseltext, Hoax-/Verschlüsselungsdebatte); Song = paganes Okkult-/Grimoire-Bekenntnis mit Titel-Stichwort und Manuskript-Metapher für eigene Taten (Album: fiktive Grimoire-Seiten) — nur Titelanklang, kein Voynich-Erzählkern (Tier X).",
+      "rejectedAt": "2026-11-22",
       "rejectedBy": "manual"
     },
     {

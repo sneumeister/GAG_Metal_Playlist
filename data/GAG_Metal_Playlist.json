@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21 18:56:45 +0100",
+  "updatedAt": "2026-11-22 19:42:12 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -1471,25 +1471,6 @@
       "spotifyUrl": "https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk",
       "youtubeUrl": "https://www.youtube.com/watch?v=t4maP9qGQPc",
       "bandcampUrl": "https://judicatormetal.bandcamp.com/album/king-of-rome",
-      "matchedAt": "2026-10-04",
-      "curatedBy": "manual",
-      "genre": "OK"
-    },
-    {
-      "episodeId": 222,
-      "episodeTitle": "Das Voynich-Manuskript",
-      "episodeUrl": "https://gadg.fm/222",
-      "songId": "elvenking-the-voynich-manuscript",
-      "band": "Elvenking",
-      "songTitle": "The Voynich Manuscript",
-      "matchTier": "C",
-      "justification": "Titel nennt das Voynich-Manuskript, Folge behandelt genau dieses Artefakt. Band (Aydan): Lyrics nicht explizit am Manuskriptinhalt, sondern Metapher für unerklärliche eigene Taten — historisches Stichwort ohne gemeinsamen Erzählfokus (Tier C).",
-      "sharedEntities": [
-        "Voynich-Manuskript"
-      ],
-      "spotifyUrl": "https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq",
-      "youtubeUrl": "https://www.youtube.com/watch?v=y8DB-MpxMTs",
-      "bandcampUrl": null,
       "matchedAt": "2026-10-04",
       "curatedBy": "manual",
       "genre": "OK"
@@ -3227,6 +3208,48 @@
       "genre": "OK"
     },
     {
+      "episodeId": 479,
+      "episodeTitle": "Über einen, der alles wusste – Athanasius Kircher",
+      "episodeUrl": "https://gadg.fm/479",
+      "songId": "endlager-ignis-centralis",
+      "band": "Endlager",
+      "songTitle": "Ignis Centralis",
+      "matchTier": "B",
+      "justification": "Folge = Kircher als Universalgelehrter (Hieroglyphen, vormoderne Wissenschaft, Quacksalber-/Scharlatan-Debatte); Song = Kircher namentlich (Jesuit, Rom 1637, Landgraf Hessen), Vesuv-Reise und Ignis-Centralis-Vulkanlehre — dieselbe Person, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Athanasius Kircher",
+        "Mundus Subterraneus",
+        "Vesuv"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3UkyNqxRUs7o611DB4hlJB",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nUzZmFBNgm0",
+      "bandcampUrl": "https://endlager.bandcamp.com/album/ignis-centralis",
+      "matchedAt": "2026-11-22",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 479,
+      "episodeTitle": "Über einen, der alles wusste – Athanasius Kircher",
+      "episodeUrl": "https://gadg.fm/479",
+      "songId": "endlager-mundus-subterranus",
+      "band": "Endlager",
+      "songTitle": "Mundus Subterranus",
+      "matchTier": "B",
+      "justification": "Folge = Kircher als Universalgelehrter (Hieroglyphen, vormoderne Wissenschaft, Scharlatan-Debatte); Song = Kircher schrieb Mundus Subterraneus / Centrosophia, Erdfeuer und Vulcanus-Lehre — dieselbe Person und ihr Hauptwerk zur Unterwelt, anderer Fokus als das Folgenporträt (Tier B).",
+      "sharedEntities": [
+        "Athanasius Kircher",
+        "Mundus Subterraneus",
+        "Ignis Centralis"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/35zS1egD6CyVFQ63PsPhb1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jT8-IEdb_DE",
+      "bandcampUrl": "https://endlager.bandcamp.com/album/ignis-centralis",
+      "matchedAt": "2026-11-22",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
       "episodeId": 483,
       "episodeTitle": "Bounty, Brotfrucht und die Rum-Rebellion",
       "episodeUrl": "https://gadg.fm/483",
@@ -4034,6 +4057,26 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=Hn9VT-BFryo",
       "bandcampUrl": "https://widespreadpanic.bandcamp.com/track/hatfield",
       "matchedAt": "2026-10-13",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 557,
+      "episodeTitle": "HB06 – Ada Blackjack, einsame Heldin der Arktis & Inselverzwergung im Dinosaurierland und albanische Abenteuer",
+      "episodeUrl": "https://gadg.fm/557",
+      "songId": "humour-wrangel",
+      "band": "Humour",
+      "songTitle": "Wrangel",
+      "matchTier": "B",
+      "justification": "Folge = Ada Blackjack, alleinige Überlebende der Wrangel-Expedition (HB-Hälfte); Song = Polar-Todesmarsch mit Scott-Motiven (Schlittenhunde/Ponys, „poor friends“) und Chorus-Wunsch „live on Wrangel“, Frontmann nennt Ada explizit als Vorbild fürs Überleben auf der Insel — gemeinsamer Rahmen Wrangel-Überleben, anderer Erzählfokus (Tier B).",
+      "sharedEntities": [
+        "Ada Blackjack",
+        "Wrangel Island"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4xAfgUgxNOTBqKe04Z0jqP",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dm9LimWjuK8",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-22",
       "curatedBy": "manual",
       "genre": "OK"
     },

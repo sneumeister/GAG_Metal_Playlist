@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-21 18:56:46 +0100<br>**JSON-Status:** 2026-11-21 18:56:45 +0100</small>
+<small>**Compile-Datum:** 2026-11-22 19:42:12 +0100<br>**JSON-Status:** 2026-11-22 19:42:12 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -86,7 +86,6 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [214](https://gadg.fm/214) | Hedy Lamarr – Hollywoodstar und Erfinderin | Jeff Beck & Johnny Depp | This Is A Song For Miss Hedy Lamarr | A | [link](https://www.youtube.com/watch?v=maa1xTKu7aQ) | [link](https://open.spotify.com/track/6zueINKfHroKC92vN1oSEm) | — |
 | [215](https://gadg.fm/215) | Wojtek, polnischer Soldatenbär | The Metal Alliance | The Beast of War | A | [link](https://www.youtube.com/watch?v=u5XtLHmLjoY) | [link](https://open.spotify.com/track/1PJ7s9XtUxHeujEVqkRZBi) | [link](https://metalalliance.bandcamp.com/track/beast-of-war) |
 | [216](https://gadg.fm/216) | Napoleon II. – Vom König von Rom zum Herzog von Reichstadt | Judicator | King of Rome | C | [link](https://www.youtube.com/watch?v=t4maP9qGQPc) | [link](https://open.spotify.com/track/29KnANYx3nNncLTIG8udYk) | [link](https://judicatormetal.bandcamp.com/album/king-of-rome) |
-| [222](https://gadg.fm/222) | Das Voynich-Manuskript | Elvenking | The Voynich Manuscript | C | [link](https://www.youtube.com/watch?v=y8DB-MpxMTs) | [link](https://open.spotify.com/track/6Nf8Smcs0CdXsAtjs2cmaq) | — |
 | [225](https://gadg.fm/225) | Die Rundfahrt der Schlachtfelder | Sabaton | Fields of Verdun | C | [link](https://www.youtube.com/watch?v=yJDBmP9Mexk) | [link](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [link](https://sabaton.bandcamp.com/track/fields-of-verdun-2) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Sunn O))) | Báthory Erzsébet | A | [link](https://www.youtube.com/watch?v=WKlK7x9x3uk) | [link](https://open.spotify.com/track/0OSd6TTUtNmqS1McVA5AZ2) | [link](https://sunn.bandcamp.com/track/b-thory-erz-bet) |
 | [229](https://gadg.fm/229) | Elisabeth Báthory, die (angebliche) Blutgräfin | Venom | Countess Bathory | A | [link](https://www.youtube.com/watch?v=MbldM7JEIeE) | [link](https://open.spotify.com/track/3Bu4LRSbwRUwiV5SfkyPm5) | — |
@@ -170,6 +169,8 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [471](https://gadg.fm/471) | Karl XII. und das Ende des Schwedischen Reichs | Sabaton | Ruina Imperii | B | [link](https://www.youtube.com/watch?v=c898WyjHDx4) | [link](https://open.spotify.com/track/77e7EBg2aNzJjivLfdUE1X) | [link](https://sabaton.bandcamp.com/track/ruina-imperii) |
 | [476](https://gadg.fm/476) | Boabdil und das Ende Granadas | Dark Moor | El Último Rey | A | [link](https://www.youtube.com/watch?v=IeqHGDjmD0g) | [link](https://open.spotify.com/track/1mrYK4H6aBydlJd5OOLyDQ) | — |
 | [477](https://gadg.fm/477) | Kleine Geschichte des Artensterbens | Grex | Martha | B | [link](https://www.youtube.com/watch?v=YBQcruQfXHg) | — | [link](https://grex.bandcamp.com/track/martha) |
+| [479](https://gadg.fm/479) | Über einen, der alles wusste – Athanasius Kircher | Endlager | Ignis Centralis | B | [link](https://www.youtube.com/watch?v=nUzZmFBNgm0) | [link](https://open.spotify.com/track/3UkyNqxRUs7o611DB4hlJB) | [link](https://endlager.bandcamp.com/album/ignis-centralis) |
+| [479](https://gadg.fm/479) | Über einen, der alles wusste – Athanasius Kircher | Endlager | Mundus Subterranus | B | [link](https://www.youtube.com/watch?v=jT8-IEdb_DE) | [link](https://open.spotify.com/track/35zS1egD6CyVFQ63PsPhb1) | [link](https://endlager.bandcamp.com/album/ignis-centralis) |
 | [483](https://gadg.fm/483) | Bounty, Brotfrucht und die Rum-Rebellion | The Pirates Charles | Mutiny on the HMS Bounty | A | [link](https://www.youtube.com/watch?v=nC7DBeYlo4w) | [link](https://open.spotify.com/track/3UeEJcBCHBPupVVOpNWKyl) | — |
 | [493](https://gadg.fm/493) | Kernspaltung und Schwerwasser-Sabotage | Sabaton | Saboteurs | A | [link](https://www.youtube.com/watch?v=OlOdefB5Kyk) | [link](https://open.spotify.com/track/3bJdPt4et4xZnWKMFR6orf) | [link](https://sabaton.bandcamp.com/track/saboteurs) |
 | [495](https://gadg.fm/495) | Das Bandoneon und der Tango | Asap Inev | Vuelvo al Sur | C | [link](https://www.youtube.com/watch?v=ZPv9hgA7fj8) | — | [link](https://asapinev.bandcamp.com/track/vuelvo-al-sur-astor-piazzolla) |
@@ -209,6 +210,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Saxon | Atila the Hun | C | [link](https://www.youtube.com/watch?v=dwEXrFD8eKU) | [link](https://open.spotify.com/track/7mbNINh24jgXbReWTYtSck) | — |
 | [554](https://gadg.fm/554) | Attila, Honoria und zwei römische Gesandtschaften | Iced Earth | Attila | C | [link](https://www.youtube.com/watch?v=1FU-FDxx31k) | [link](https://open.spotify.com/track/0l2xOqJ9OQJaXy6O1G8fA1) | — |
 | [555](https://gadg.fm/555) | Wetterschießen und Regenmachen | Widespread Panic | Hatfield | A | [link](https://www.youtube.com/watch?v=Hn9VT-BFryo) | [link](https://open.spotify.com/track/0hWxdSmWvPatUqzi8Tq855) | [link](https://widespreadpanic.bandcamp.com/track/hatfield) |
+| [557](https://gadg.fm/557) | HB06 – Ada Blackjack, einsame Heldin der Arktis & Inselverzwergung im Dinosaurierland und albanische Abenteuer | Humour | Wrangel | B | [link](https://www.youtube.com/watch?v=dm9LimWjuK8) | [link](https://open.spotify.com/track/4xAfgUgxNOTBqKe04Z0jqP) | — |
 | [558](https://gadg.fm/558) | Devisen für die DDR | Klaus Renft Combo | Rockballade vom kleinen Otto | C | [link](https://www.youtube.com/watch?v=je_iFPWOSv4) | [link](https://open.spotify.com/track/0mkS7BtDMoVmRlraW6F6e0) | — |
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Stormlord | Aeneas | A | [link](https://www.youtube.com/watch?v=Ym_Hjte7W7Q) | [link](https://open.spotify.com/track/6cGJLh19BlH5SnrbypWhux) | [link](https://stormlord.bandcamp.com/album/hesperia) |
 | [559](https://gadg.fm/559) | Vergil oder Wie ein Epos entsteht | Heimdall | Ballad of the Queen | A | [link](https://www.youtube.com/watch?v=-ze1LkruSec) | [link](https://open.spotify.com/track/7clQdX4l528CDpGLIClQI0) | — |
