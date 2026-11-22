@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21 18:27:23 +0100",
+  "updatedAt": "2026-11-21 18:56:45 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -3450,6 +3450,25 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=bfI0kjSX7zU",
       "bandcampUrl": "https://theburnedover.bandcamp.com/album/the-last-great-awakening",
       "matchedAt": "2026-10-07",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 507,
+      "episodeTitle": "Gefangen zwischen zwei Reichen – die Kowloon Walled City",
+      "episodeUrl": "https://gadg.fm/507",
+      "songId": "the-caution-children-kowloon-walled-city",
+      "band": "The Caution Children",
+      "songTitle": "Kowloon Walled City",
+      "matchTier": "A",
+      "justification": "Folge = Kowloon Walled City (Wachstum, Alltag zwischen den Reichen, Abriss zugunsten eines Parks); Song = Screamo-/Post-Rock-Elegie auf denselben Ort (Leuchtstofflicht, Rohre; Frühjahr 1993; „These things were replaced with a park“) — derselbe Kern (Tier A).",
+      "sharedEntities": [
+        "Kowloon Walled City"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+      "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+      "matchedAt": "2026-11-21",
       "curatedBy": "manual",
       "genre": "OK"
     },
