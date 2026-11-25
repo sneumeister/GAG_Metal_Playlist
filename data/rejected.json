@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22 19:29:45 +0100",
+  "updatedAt": "2026-11-25 18:47:31 +0100",
   "entries": [
     {
       "episodeId": 4,
@@ -1168,6 +1168,20 @@
       "songId": "on-broken-wings-i-do-my-crosswords-in-pen",
       "reason": "Folge = Scrabble und Kreuzworträtsel-Mania (#582); Song = Beziehungstext, Titel nur Idiom „crosswords in pen“ (= Scheinsicherheit), Lyrics ohne Rätsel-/Spielbezug — reiner Titelanklang, kein brauchbarer Bezug (Tier X).",
       "rejectedAt": "2026-11-18",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 583,
+      "songId": "harpyie-dynamit",
+      "reason": "Folge = Nobels, Sprengöl und Dynamit-Erfindung; Song = Gesellschaftskritik (Gier, Scheinfrieden, rosa Lügen), Chorus-Punchline „Nobel… Stange Dynamit“ als Befreiungs-Metapher — nur Namens-/Produktanklang, kein Erfindungs- oder Biografie-Erzählkern (Tier X).",
+      "rejectedAt": "2026-11-25",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 583,
+      "songId": "gift-of-blindness-dynamitard",
+      "reason": "Folge = Nobels, Sprengöl-Unfälle und Dynamit-Erfindung; Song = Doom-Stück „Dynamitard“ — Titel = historischer Attentäter-Begriff, laut Band-Interview Album-Texte Angst/Depersonalisation ohne Geschichtsplot, kein Nobel/Erfindung (Tier X).",
+      "rejectedAt": "2026-11-25",
       "rejectedBy": "manual"
     }
   ]

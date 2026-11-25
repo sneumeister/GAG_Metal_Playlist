@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-22 19:42:12 +0100<br>**JSON-Status:** 2026-11-22 19:42:12 +0100</small>
+<small>**Compile-Datum:** 2026-11-25 18:47:31 +0100<br>**JSON-Status:** 2026-11-25 18:21:35 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -282,3 +282,5 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | El Tri | María Sabina | A | [link](https://www.youtube.com/watch?v=Ker4RZ9g8pA) | [link](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) | [link](https://eltri.bandcamp.com/track/maria-sabina) |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Echoes of the Moon | St. Anthony's Fire | B | [link](https://www.youtube.com/watch?v=MGhwb2VjvJo) | [link](https://open.spotify.com/track/5LOrCcgO7Wf94Ps3iKHFXB) | [link](https://echoesofthemoon.bandcamp.com/track/st-anthonys-fire) |
 | [582](https://gadg.fm/582) | Scrabble | Crucial Unit | Scrabble Punx | C | [link](https://www.youtube.com/watch?v=cG83QwliBac) | [link](https://open.spotify.com/track/2MvzaVGbbSg0G6e1NPGzwH) | [link](http://crucialunit.com/mp3/municipal_waste_split/06_-_Crucial_Unit_-_Scrabble_Punx.mp3) |
+| [583](https://gadg.fm/583) | Eine explosive Folge | RIKET | 1868: Sommar vid Vinterviken | B | [link](https://www.youtube.com/watch?v=5PkyR7lqmgU) | [link](https://open.spotify.com/track/46sTxXLP1coqDFIOwC6vnq) | [link](https://riketblacklion.bandcamp.com/track/1868-sommar-vid-vinterviken-2) |
+| [583](https://gadg.fm/583) | Eine explosive Folge | Alan Mair | The Devil's Porridge | B | [link](https://www.youtube.com/watch?v=-06YY7CQv1k) | [link](https://open.spotify.com/track/4I78sLX42FEYV7Wdwmqppx) | — |
