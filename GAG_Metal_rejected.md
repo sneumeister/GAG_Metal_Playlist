@@ -1,6 +1,6 @@
 # GAG Metal Rejects: Geprüfte Absagen (Stufe X)
 
-<small>**Compile-Datum:** 2026-11-22 19:42:12 +0100<br>**JSON-Status:** 2026-11-22 19:29:45 +0100</small>
+<small>**Compile-Datum:** 2026-11-25 18:47:31 +0100<br>**JSON-Status:** 2026-11-25 18:47:31 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -183,3 +183,5 @@ Thematische Treffer ohne Rock/Metal stehen in der Not-Metal-Playlist, nicht hier
 | [579](https://gadg.fm/579) | Als 1900 die Taxis schon elektrisch fuhren | Eisenschwein | Verbleite Zeit | X | [link](https://www.youtube.com/watch?v=NOlEOJjXI9w) | — | [link](https://eisenschwein.bandcamp.com/album/eisenschwein-demo-cd-2016) |
 | [581](https://gadg.fm/581) | Mutterkornfelder und das Fleisch der Götter | Nuummite | Bicycle Day | X | [link](https://www.youtube.com/watch?v=xwtZcS1l7F8) | [link](https://open.spotify.com/track/0GZ8R0eTY4hveRXPcg0lJ4) | [link](https://nuummite.bandcamp.com/track/bicycle-day) |
 | [582](https://gadg.fm/582) | Scrabble | On Broken Wings | I Do My Crosswords in Pen | X | [link](https://www.youtube.com/watch?v=R_y931G5LLI) | [link](https://open.spotify.com/track/4pmI4tcbWKIPdeoaZTpPun) | [link](https://dazestyle.bandcamp.com/track/i-do-my-crosswords-in-pen) |
+| [583](https://gadg.fm/583) | Eine explosive Folge | Harpyie | Dynamit | X | [link](https://www.youtube.com/watch?v=oL_Sl3dqymc) | [link](https://open.spotify.com/track/7iJJM1ZLc2OmwlIxaJjcRD) | — |
+| [583](https://gadg.fm/583) | Eine explosive Folge | Gift of Blindness | Dynamitard | X | [link](https://www.youtube.com/watch?v=mYr8QkJjdUk) | [link](https://open.spotify.com/track/0NrI2ZUIPRb5wqbTda8wNI) | [link](https://blindsightrecords.bandcamp.com/track/dynamitard) |

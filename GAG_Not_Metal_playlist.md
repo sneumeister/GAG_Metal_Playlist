@@ -1,6 +1,6 @@
 # GAG Not-Metal Playlist: thematischer Treffer, kein Rock/Metal
 
-<small>**Compile-Datum:** 2026-11-22 19:42:12 +0100<br>**JSON-Status:** 2026-11-21 18:22:47 +0100</small>
+<small>**Compile-Datum:** 2026-11-25 18:47:31 +0100<br>**JSON-Status:** 2026-11-25 18:42:24 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -87,3 +87,8 @@ Thematisch passende Paare, deren Stück **kein Rock/Metal** ist. Stufen A/B/C wi
 | [582](https://gadg.fm/582) | Scrabble | Frank Crumit | Crossword Mama You Puzzle Me | B | [link](https://www.youtube.com/watch?v=oP8zplB_kJY) | [link](https://open.spotify.com/track/7hmfCgUTOWo8seyakCfMXd) | — |
 | [582](https://gadg.fm/582) | Scrabble | James Miller Band | Scrabble | C | [link](https://www.youtube.com/watch?v=nZFTPIwvsxI) | [link](https://open.spotify.com/track/1hgo3h4Cmt8Jcgzd21VinP) | — |
 | [582](https://gadg.fm/582) | Scrabble | Emily Kaitz | The Scrabble Song | C | [link](https://www.youtube.com/watch?v=GlnEO3Fthps) | [link](https://open.spotify.com/track/4Css1eSdN2rsDcjDnmR0Km) | — |
+| [583](https://gadg.fm/583) | Eine explosive Folge | PrehiStories | Alfred Nobel | A | [link](https://www.youtube.com/watch?v=YGLJLAJ4fO0) | [link](https://open.spotify.com/track/4tpY96Z2vaXps1Vmer3tMz) | — |
+| [583](https://gadg.fm/583) | Eine explosive Folge | Timbuktu | Dynamit | B | [link](https://www.youtube.com/watch?v=fZirYtrHbjw) | [link](https://open.spotify.com/track/1qRgwlyPeu3TZHAYM2cGUm) | — |
+| [583](https://gadg.fm/583) | Eine explosive Folge | Isabelle Engman | Dynamite | A | [link](https://www.youtube.com/watch?v=XDGw1ITnPL8) | [link](https://open.spotify.com/track/5HO4CMsnS2FugXZj9Qea43) | — |
+| [583](https://gadg.fm/583) | Eine explosive Folge | Ekene Music | Peace & Dynamite | B | [link](https://www.youtube.com/watch?v=11b_rv_7gdI) | [link](https://open.spotify.com/track/0UQsklzpuqcA4SxK3GWQq0) | — |
+| [583](https://gadg.fm/583) | Eine explosive Folge | LoreTrack | The Powder and the Prize | A | [link](https://www.youtube.com/watch?v=MO0Zw7jhpDA) | — | — |

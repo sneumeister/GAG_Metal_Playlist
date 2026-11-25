@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22 19:42:12 +0100",
+  "updatedAt": "2026-11-25 18:21:35 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -5563,6 +5563,49 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=cG83QwliBac",
       "bandcampUrl": "http://crucialunit.com/mp3/municipal_waste_split/06_-_Crucial_Unit_-_Scrabble_Punx.mp3",
       "matchedAt": "2026-11-19",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 583,
+      "episodeTitle": "Eine explosive Folge",
+      "episodeUrl": "https://gadg.fm/583",
+      "songId": "alan-mair-the-devils-porridge",
+      "band": "Alan Mair",
+      "songTitle": "The Devil's Porridge",
+      "matchTier": "B",
+      "justification": "Folge = Nobels (Immanuel/Alfred), Sprengöl-Unfälle und Dynamit-Patent Geesthacht 1867; Song = Alfred Nobel und seine schottische Sprengstoff-Fabrik nach der tödlichen Schweden-Explosion, plus Merchant-of-Death-/Nobelpreis-Motiv (Canary-Girls-/„Devil’s Porridge“-Schicht teils mit späterer Cordite-Fabrik Gretna vermengt) — dieselbe Person und Sprengstoff-Imperium, anderer Fokus (Tier B).",
+      "sharedEntities": [
+        "Alfred Nobel",
+        "Dynamit",
+        "Emil Nobel",
+        "Nobelpreis"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/4I78sLX42FEYV7Wdwmqppx",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-06YY7CQv1k",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-25",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 583,
+      "episodeTitle": "Eine explosive Folge",
+      "episodeUrl": "https://gadg.fm/583",
+      "songId": "riket-1868-sommar-vid-vinterviken",
+      "band": "RIKET",
+      "songTitle": "1868: Sommar vid Vinterviken",
+      "matchTier": "B",
+      "justification": "Folge = Nobels, Sprengöl-Unfälle (u. a. Emil Heleneborg 1864) und Dynamit-Patent 1867; Song = Fabrikexplosion Vinterviken Sommer 1868 unter Nobel — derselbe Sprengstoff-Imperium-Rahmen, anderer Unglücksfall und Fokus (Tier B).",
+      "sharedEntities": [
+        "Alfred Nobel",
+        "Nitroglycerin",
+        "Dynamit"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/46sTxXLP1coqDFIOwC6vnq",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5PkyR7lqmgU",
+      "bandcampUrl": "https://riketblacklion.bandcamp.com/track/1868-sommar-vid-vinterviken-2",
+      "matchedAt": "2026-11-25",
       "curatedBy": "manual",
       "genre": "OK"
     }

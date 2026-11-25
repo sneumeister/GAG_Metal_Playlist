@@ -260,6 +260,44 @@
     ]
   },
   {
+    "id": "alan-mair-the-devils-porridge",
+    "band": "Alan Mair",
+    "title": "The Devil's Porridge",
+    "entities": [
+      "Alfred Nobel",
+      "Dynamit",
+      "Emil Nobel",
+      "Nobelpreis",
+      "Ardeer"
+    ],
+    "era": "1871 / 1915–1918 / 2022",
+    "spotifyUrl": "https://open.spotify.com/track/4I78sLX42FEYV7Wdwmqppx",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-06YY7CQv1k",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/4I78sLX42FEYV7Wdwmqppx",
+        "note": "Spotify-Track (Album FIELD OF ONE)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=-06YY7CQv1k",
+        "note": "Official music video"
+      },
+      {
+        "type": "secondary",
+        "url": "https://vivelerock.net/blogs/videos/a-mairs-tale",
+        "note": "Mair zu Nobel-Fabrik Ayrshire, Sanddünen, Schweden-Explosion"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.scottishdailyexpress.co.uk/news/scottish-news/alan-mairs-new-single-shed-27132115",
+        "note": "Merchant of Death / Nobelpreis; Canary Girls"
+      }
+    ]
+  },
+  {
     "id": "alestorm-magellans-expedition",
     "band": "Alestorm",
     "title": "Magellan's Expedition",
@@ -2464,6 +2502,37 @@
     ]
   },
   {
+    "id": "ekene-music-peace-and-dynamite",
+    "band": "Ekene Music",
+    "title": "Peace & Dynamite",
+    "entities": [
+      "Alfred Nobel",
+      "Dynamit",
+      "Nobelpreis"
+    ],
+    "era": "1867 / 1895 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/0UQsklzpuqcA4SxK3GWQq0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=11b_rv_7gdI",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/0UQsklzpuqcA4SxK3GWQq0",
+        "note": "Spotify Live-Track (Album LIVE IN SUNSET 2)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=11b_rv_7gdI",
+        "note": "Live video"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://ekenemusic.com/lyrics/peace-and-dynamite.html",
+        "note": "Offizielle Lyrics: Alfred Nobel / merchant of death / peace and dynamite"
+      }
+    ]
+  },
+  {
     "id": "el-tri-maria-sabina",
     "band": "El Tri",
     "title": "María Sabina",
@@ -3522,6 +3591,40 @@
     ]
   },
   {
+    "id": "gift-of-blindness-dynamitard",
+    "band": "Gift of Blindness",
+    "title": "Dynamitard",
+    "entities": [
+      "Dynamitarde"
+    ],
+    "era": "2015",
+    "spotifyUrl": "https://open.spotify.com/track/0NrI2ZUIPRb5wqbTda8wNI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mYr8QkJjdUk",
+    "bandcampUrl": "https://blindsightrecords.bandcamp.com/track/dynamitard",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/0NrI2ZUIPRb5wqbTda8wNI",
+        "note": "Spotify-Track Dynamitard (Album Gift of Blindness, 2015)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=mYr8QkJjdUk",
+        "note": "Official video / Blindsight Records"
+      },
+      {
+        "type": "band",
+        "url": "https://blindsightrecords.bandcamp.com/album/gift-of-blindness",
+        "note": "Bandcamp-Album; Lyrics laut Label auf CD"
+      },
+      {
+        "type": "secondary",
+        "url": "http://undergroundmusickzine.blogspot.com/2014/09/gift-of-blindness-interview.html",
+        "note": "Interview: lyrische Themen Angst/Depersonalisation, kein Geschichtsplot"
+      }
+    ]
+  },
+  {
     "id": "goat-of-mendes-curse-of-constantine",
     "band": "Goat of Mendes",
     "title": "Curse of Constantine",
@@ -4004,6 +4107,36 @@
         "type": "interview",
         "url": "https://nocturnemagazine.net/intervjui/476/joacim-cans-hammerfall-ostati-veran-sebi-je-duh-heavy-metala",
         "note": "Cans: aus Templer-/Ritterperspektive geschrieben, keine Billigung"
+      }
+    ]
+  },
+  {
+    "id": "harpyie-dynamit",
+    "band": "Harpyie",
+    "title": "Dynamit",
+    "entities": [
+      "Nobel",
+      "Dynamit"
+    ],
+    "era": "2017",
+    "spotifyUrl": "https://open.spotify.com/track/7iJJM1ZLc2OmwlIxaJjcRD",
+    "youtubeUrl": "https://www.youtube.com/watch?v=oL_Sl3dqymc",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/7iJJM1ZLc2OmwlIxaJjcRD",
+        "note": "Spotify-Track (Album Anima, Metalville)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=oL_Sl3dqymc",
+        "note": "YouTube"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.tekstowo.pl/harpyie/dynamit",
+        "note": "Chorus Nobel / Stange Dynamit; Gesellschaftskritik"
       }
     ]
   },
@@ -4561,6 +4694,38 @@
         "type": "secondary",
         "url": "https://www.loudersound.com/features/the-11-best-iron-maiden-songs-based-on-history",
         "note": "Balaclava"
+      }
+    ]
+  },
+  {
+    "id": "isabelle-engman-dynamite",
+    "band": "Isabelle Engman",
+    "title": "Dynamite",
+    "entities": [
+      "Alfred Nobel",
+      "Dynamit",
+      "Emil Nobel",
+      "Bertha von Suttner"
+    ],
+    "era": "1864–1867 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/5HO4CMsnS2FugXZj9Qea43",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XDGw1ITnPL8",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/5HO4CMsnS2FugXZj9Qea43",
+        "note": "Spotify-Cue Dynamite; Album Alfred Nobel & Bertha von Suttner – The Price of Peace (OST 2025); Comp. Engman-Bredvik + Garcia Jr., Bratislava SO"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=XDGw1ITnPL8",
+        "note": "YouTube-Upload / Cue Dynamite"
+      },
+      {
+        "type": "secondary",
+        "url": "https://open.spotify.com/track/2o348gpwxxjYmMHSx97XUm",
+        "note": "Nachbarcue Emil im selben OST"
       }
     ]
   },
@@ -5303,6 +5468,28 @@
         "type": "secondary",
         "url": "https://www.metal-archives.com/albums/Lolita_Komplex/The_Greatest_Show_on_Earth/539683",
         "note": "Gothic Metal/Rock; Metal Archives album page"
+      }
+    ]
+  },
+  {
+    "id": "loretrack-the-powder-and-the-prize",
+    "band": "LoreTrack",
+    "title": "The Powder and the Prize",
+    "entities": [
+      "Alfred Nobel",
+      "Dynamit",
+      "Nitroglycerin",
+      "Nobelpreis"
+    ],
+    "era": "1833–1896 / 2025",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=MO0Zw7jhpDA",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=MO0Zw7jhpDA",
+        "note": "LoreTrack | History through Music (researched text, AI voice)"
       }
     ]
   },
@@ -6933,6 +7120,39 @@
     ]
   },
   {
+    "id": "prehistories-alfred-nobel",
+    "band": "PrehiStories",
+    "title": "Alfred Nobel",
+    "entities": [
+      "Alfred Nobel",
+      "Dynamit",
+      "Nitroglycerin",
+      "Emil Nobel",
+      "Nobelpreis"
+    ],
+    "era": "1864–1867 / 1895 / 2026",
+    "spotifyUrl": "https://open.spotify.com/track/4tpY96Z2vaXps1Vmer3tMz",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YGLJLAJ4fO0",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/4tpY96Z2vaXps1Vmer3tMz",
+        "note": "Spotify-Single Alfred Nobel (Warner Music Czech Republic)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=YGLJLAJ4fO0",
+        "note": "PREHISTORIES feat. ALFRED NOBEL (OFFICIAL SONG)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.prehistories.cz/",
+        "note": "Projekt: tschechische Geschichts-Edu-Songs"
+      }
+    ]
+  },
+  {
     "id": "pro-pain-operation-blood-for-oil",
     "band": "Pro-Pain",
     "title": "Operation Blood for Oil",
@@ -7412,6 +7632,38 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag447/",
         "note": "Kommentar-Tipp unter #447"
+      }
+    ]
+  },
+  {
+    "id": "riket-1868-sommar-vid-vinterviken",
+    "band": "RIKET",
+    "title": "1868: Sommar vid Vinterviken",
+    "entities": [
+      "Alfred Nobel",
+      "Vinterviken",
+      "Nitroglycerin",
+      "Dynamit"
+    ],
+    "era": "1868 / 2025",
+    "spotifyUrl": "https://open.spotify.com/track/46sTxXLP1coqDFIOwC6vnq",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5PkyR7lqmgU",
+    "bandcampUrl": "https://riketblacklion.bandcamp.com/track/1868-sommar-vid-vinterviken-2",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://riketblacklion.bandcamp.com/track/1868-sommar-vid-vinterviken-2",
+        "note": "Bandcamp: Nobel-Fabrikexplosion Vinterviken Juni 1868"
+      },
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/46sTxXLP1coqDFIOwC6vnq",
+        "note": "Spotify-Track (Album 2026, Black Lion)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=5PkyR7lqmgU",
+        "note": "Official music video (Black Lion Records TV)"
       }
     ]
   },
@@ -12400,6 +12652,38 @@
         "type": "secondary",
         "url": "https://www.geschichte.fm/archiv/gag369/",
         "note": "Kommentar: Daumenlutscher Konrad"
+      }
+    ]
+  },
+  {
+    "id": "timbuktu-dynamit",
+    "band": "Timbuktu",
+    "title": "Dynamit",
+    "entities": [
+      "Alfred Nobel",
+      "Dynamit",
+      "Bofors",
+      "Nobelpreis"
+    ],
+    "era": "1867 / 2003",
+    "spotifyUrl": "https://open.spotify.com/track/1qRgwlyPeu3TZHAYM2cGUm",
+    "youtubeUrl": "https://www.youtube.com/watch?v=fZirYtrHbjw",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/1qRgwlyPeu3TZHAYM2cGUm",
+        "note": "Spotify-Track (Album The botten is nådd)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=fZirYtrHbjw",
+        "note": "Official / release video"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.songlyrics.com/timbuktu/dynamit-lyrics/",
+        "note": "Lyrics: Alfred Nobel, Spreng-Industrialisierung, Bofors/Gripen"
       }
     ]
   },
