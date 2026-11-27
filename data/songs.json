@@ -3792,6 +3792,40 @@
     ]
   },
   {
+    "id": "gojira-planned-obsolescence",
+    "band": "Gojira",
+    "title": "Planned Obsolescence",
+    "entities": [
+      "geplante Obsoleszenz"
+    ],
+    "era": "2012",
+    "spotifyUrl": "https://open.spotify.com/track/3rnhO5qTeprGuGt6oqnB5j",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0Lqmg7ImW4I",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/3rnhO5qTeprGuGt6oqnB5j",
+        "note": "Spotify-Track Planned Obsolescence (L'Enfant Sauvage, Roadrunner)"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=0Lqmg7ImW4I",
+        "note": "YouTube Topic / Roadrunner Records"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.elyrics.net/read/g/gojira-lyrics/planned-obsolescence-lyrics.html",
+        "note": "Lyrics: obsolete creation / designed for failure"
+      },
+      {
+        "type": "other",
+        "url": "https://gojiraofficial.bandcamp.com/music",
+        "note": "Bandcamp ohne L'Enfant Sauvage / Planned Obsolescence (Major-Label Roadrunner)"
+      }
+    ]
+  },
+  {
     "id": "gorod-birds-of-sulphur",
     "band": "Gorod",
     "title": "Birds of Sulphur",

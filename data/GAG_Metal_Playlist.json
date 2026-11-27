@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25 18:21:35 +0100",
+  "updatedAt": "2026-11-27 20:24:18 +0100",
   "entries": [
     {
       "episodeId": 1,
@@ -2128,6 +2128,25 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=Um5R_PH7Jek",
       "bandcampUrl": "https://sabaton.bandcamp.com/track/livgardet",
       "matchedAt": "2026-10-17",
+      "curatedBy": "manual",
+      "genre": "OK"
+    },
+    {
+      "episodeId": 343,
+      "episodeTitle": "Phoebus und die geplante Obsoleszenz",
+      "episodeUrl": "https://gadg.fm/343",
+      "songId": "gojira-planned-obsolescence",
+      "band": "Gojira",
+      "songTitle": "Planned Obsolescence",
+      "matchTier": "C",
+      "justification": "Folge = Phoebus-Kartell (Glühbirnen, 24.12.1924) und Prinzip geplante Obsoleszenz (#343); Song = Kritik an Konsum/Gier und Produkten „designed for failure“ / „obsolete creation“ — gemeinsames Motiv geplante Obsoleszenz, ohne Phoebus-/Kartell-/Glühbirnen-Erzählkern (Tier C).",
+      "sharedEntities": [
+        "geplante Obsoleszenz"
+      ],
+      "spotifyUrl": "https://open.spotify.com/track/3rnhO5qTeprGuGt6oqnB5j",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0Lqmg7ImW4I",
+      "bandcampUrl": null,
+      "matchedAt": "2026-11-27",
       "curatedBy": "manual",
       "genre": "OK"
     },

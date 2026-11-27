@@ -1,6 +1,6 @@
 # GAG Metal Playlist: Metal-Song trifft GAG-Folge
 
-<small>**Compile-Datum:** 2026-11-27 18:20:52 +0100<br>**JSON-Status:** 2026-11-25 18:21:35 +0100</small>
+<small>**Compile-Datum:** 2026-11-27 20:24:34 +0100<br>**JSON-Status:** 2026-11-27 20:24:18 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
@@ -118,6 +118,7 @@ Geprüfte Absagen (Stufe X): [GAG_Metal_rejected.md](GAG_Metal_rejected.md)
 | [335](https://gadg.fm/335) | Aqua Tofana und die Giftmischerinnen des 17. Jahrhunderts | Ritual Dictates | Aqua Tofana | A | [link](https://www.youtube.com/watch?v=ZaaaFzrRbDs) | [link](https://open.spotify.com/track/7Iq4V7pNAlpOuw2OvNT2Pt) | [link](https://ritualdictates.bandcamp.com/track/aqua-tofana) |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Nils Patrik Johansson | Gustav Vasa | B | [link](https://www.youtube.com/watch?v=mAJpW30f0YQ) | [link](https://open.spotify.com/track/7sQzODCeJOQBicgWqviUqn) | — |
 | [342](https://gadg.fm/342) | Das Stockholmer Blutbad | Sabaton | Livgardet | C | [link](https://www.youtube.com/watch?v=Um5R_PH7Jek) | [link](https://open.spotify.com/track/7cYOBYlyMYeFZfYceS918e) | [link](https://sabaton.bandcamp.com/track/livgardet) |
+| [343](https://gadg.fm/343) | Phoebus und die geplante Obsoleszenz | Gojira | Planned Obsolescence | C | [link](https://www.youtube.com/watch?v=0Lqmg7ImW4I) | [link](https://open.spotify.com/track/3rnhO5qTeprGuGt6oqnB5j) | — |
 | [345](https://gadg.fm/345) | Suffrajitsu | Chumbawamba | Ah-Men | C | [link](https://www.youtube.com/watch?v=sWq0zCqmudw) | [link](https://open.spotify.com/track/7oDQuEi9LrdMzxjuUhrI6g) | — |
 | [347](https://gadg.fm/347) | Adrianopel 378 | Gotland | Adrianopoli | A | [link](https://www.youtube.com/watch?v=YPpQ2qzKBUg) | [link](https://open.spotify.com/track/0kAYZojckaGdYIrkJqYoou) | [link](https://gotlandmetal.bandcamp.com/album/gloria-et-morte) |
 | [350](https://gadg.fm/350) | Der Bauernkrieg und die Revolution von 1525 | Die Schmetterlinge | Kampflied der Bauern | A | [link](https://www.youtube.com/watch?v=EQHL0ZL8peM) | [link](https://open.spotify.com/track/30OojCxaO9NXU0kGarDXmi) | [link](https://prolos.bandcamp.com/album/lieder-aus-der-proletenpassion) |
