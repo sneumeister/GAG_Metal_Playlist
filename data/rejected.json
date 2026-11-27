@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25 18:47:31 +0100",
+  "updatedAt": "2026-11-27 18:20:49 +0100",
   "entries": [
     {
       "episodeId": 4,
@@ -1182,6 +1182,13 @@
       "songId": "gift-of-blindness-dynamitard",
       "reason": "Folge = Nobels, Sprengöl-Unfälle und Dynamit-Erfindung; Song = Doom-Stück „Dynamitard“ — Titel = historischer Attentäter-Begriff, laut Band-Interview Album-Texte Angst/Depersonalisation ohne Geschichtsplot, kein Nobel/Erfindung (Tier X).",
       "rejectedAt": "2026-11-25",
+      "rejectedBy": "manual"
+    },
+    {
+      "episodeId": 583,
+      "songId": "ac-dc-t-n-t",
+      "reason": "Folge = Nobels, Sprengöl-Unfälle und Dynamit-Patent 1867 (#583); Song = Rock-Bravado-Selbstporträt („I'm T.N.T., I'm dynamite / power load / watch me explode“), Sprengstoff nur als Metapher für Outlaw-/Sex-/Rock-Energie, kein Nobel/Erfindung/Chemie-Plot — reiner Titel-/Wortanklang (Tier X).",
+      "rejectedAt": "2026-11-27",
       "rejectedBy": "manual"
     }
   ]
