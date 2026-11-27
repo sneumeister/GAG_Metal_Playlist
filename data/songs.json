@@ -104,6 +104,36 @@
     ]
   },
   {
+    "id": "ac-dc-t-n-t",
+    "band": "AC/DC",
+    "title": "T.N.T.",
+    "entities": [
+      "TNT",
+      "Dynamit"
+    ],
+    "era": "1975",
+    "spotifyUrl": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+    "youtubeUrl": "https://www.youtube.com/watch?v=CiJeSSzu9Bo",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+        "note": "Spotify-Track T.N.T."
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=CiJeSSzu9Bo",
+        "note": "YouTube Official Audio (acdcVEVO)"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://www.songfacts.com/lyrics/ac-dc/tnt",
+        "note": "Lyrics: TNT/dynamite/power load als Selbst-Metapher"
+      }
+    ]
+  },
+  {
     "id": "aephanemer-le-radeau-de-la-meduse",
     "band": "Aephanemer",
     "title": "Le Radeau de La Méduse",
@@ -806,6 +836,38 @@
         "type": "bandcamp",
         "url": "https://tribunalrecords.bandcamp.com/track/titanic-2",
         "note": "Bandcamp-Track"
+      }
+    ]
+  },
+  {
+    "id": "asap-inev-vuelvo-al-sur",
+    "band": "Asap Inev",
+    "title": "Vuelvo al Sur",
+    "entities": [
+      "Bandoneon",
+      "Tango",
+      "Astor Piazzolla",
+      "Sur"
+    ],
+    "era": "1988 / 2020",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
+    "bandcampUrl": "https://asapinev.bandcamp.com/track/vuelvo-al-sur-astor-piazzolla",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
+        "note": "Asap Inev Video; Piazzolla-Cover, Goyeneche-Sample; Lyrics mit Bandoneón"
+      },
+      {
+        "type": "band",
+        "url": "https://asapinev.bandcamp.com/album/karmatango",
+        "note": "EP Karmatango (2020); progressive metal rearrangements Piazzolla/Santaolalla"
+      },
+      {
+        "type": "lyrics",
+        "url": "https://asapinev.bandcamp.com/album/karmatango",
+        "note": "Bandcamp-Lyrics Vuelvo al Sur inkl. „aires del bandoneon“"
       }
     ]
   },
@@ -4036,6 +4098,39 @@
     ]
   },
   {
+    "id": "grex-martha",
+    "band": "Grex",
+    "title": "Martha",
+    "entities": [
+      "Martha",
+      "Wandertaube",
+      "Passenger Pigeon",
+      "Cincinnati Zoo",
+      "Artensterben"
+    ],
+    "era": "1914 / 2018",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=YBQcruQfXHg",
+    "bandcampUrl": "https://grex.bandcamp.com/track/martha",
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=YBQcruQfXHg",
+        "note": "Live in Studio Dez. 2017; Widmung last of the passenger pigeons"
+      },
+      {
+        "type": "band",
+        "url": "https://grex.bandcamp.com/track/martha",
+        "note": "Track auf Electric Ghost Parade (2018); Widmung letzte Wandertaube"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.antimusic.com/news/18/August/15Singled_Out-_Grexs_Martha.shtml",
+        "note": "Bandinterview: 100. Todestag Martha, Cincinnati, Schwärme"
+      }
+    ]
+  },
+  {
     "id": "guru-sunobry-ballad-of-sophia-duleep-singh",
     "band": "Guru Sunobry",
     "title": "Ballad of Sophia Duleep Singh",
@@ -4855,6 +4950,44 @@
         "type": "secondary",
         "url": "https://www.youtube.com/watch?v=AWVUp12XPpU",
         "note": "Kommentar-Link geschichte.fm (Orchesterfassung)"
+      }
+    ]
+  },
+  {
+    "id": "john-herald-martha-last-of-the-passenger-pigeons",
+    "band": "John Herald",
+    "title": "Martha (Last of the Passenger Pigeons)",
+    "entities": [
+      "Martha",
+      "Wandertaube",
+      "Passenger Pigeon",
+      "Cincinnati Zoo",
+      "Artensterben"
+    ],
+    "era": "1914 / 1983",
+    "spotifyUrl": null,
+    "youtubeUrl": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
+    "bandcampUrl": null,
+    "sources": [
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
+        "note": "John Herald live; Spoken Intro + Song Martha / letzte Wandertaube"
+      },
+      {
+        "type": "lyrics",
+        "url": "http://johnherald.com/martha.shtml",
+        "note": "Offizielle Lyrics; Cincinnati Zoo, Martha, passenger pigeon"
+      },
+      {
+        "type": "secondary",
+        "url": "http://johnherald.com/bluegrass_boy.shtml",
+        "note": "Live Joyous Lake 26.5.1983 auf Just Another Bluegrass Boy (CD 2005)"
+      },
+      {
+        "type": "secondary",
+        "url": "https://www.audubon.org/news/13-memories-martha-last-passenger-pigeon",
+        "note": "Audubon nennt den Song unter Martha-Erinnerungen"
       }
     ]
   },
@@ -12075,6 +12208,72 @@
     ]
   },
   {
+    "id": "the-caution-children-kowloon-walled-city",
+    "band": "The Caution Children",
+    "title": "Kowloon Walled City",
+    "entities": [
+      "Kowloon Walled City",
+      "Hongkong",
+      "Abriss",
+      "Park"
+    ],
+    "era": "1993 / 2011",
+    "spotifyUrl": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+    "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+        "note": "Bandcamp Unknown Lands; Lyrics Abriss Frühjahr 1993 / Park"
+      },
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
+        "note": "Spotify-Track Kowloon Walled City"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+        "note": "Unknown Lands Full Album; Track ab ~32:02"
+      },
+      {
+        "type": "secondary",
+        "url": "https://tokyojupiter.storenvy.com/products/4107542-the-caution-children-unknown-lands-cd",
+        "note": "Screamo/Post-Rock; Album Unknown Lands"
+      }
+    ]
+  },
+  {
+    "id": "the-caution-children-voynich-manuscript",
+    "band": "The Caution Children",
+    "title": "Voynich Manuscript",
+    "entities": [
+      "Voynich-Manuskript"
+    ],
+    "era": "2011",
+    "spotifyUrl": "https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+    "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+    "sources": [
+      {
+        "type": "lyrics",
+        "url": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
+        "note": "Bandcamp Unknown Lands; Patterns/rewrite-Lyrics"
+      },
+      {
+        "type": "band",
+        "url": "https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI",
+        "note": "Spotify-Track"
+      },
+      {
+        "type": "band",
+        "url": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
+        "note": "Unknown Lands Full Album; Track ab ~11:02"
+      }
+    ]
+  },
+  {
     "id": "the-dreadnoughts-grace-omalley",
     "band": "The Dreadnoughts",
     "title": "Grace O'Malley",
@@ -13907,175 +14106,6 @@
         "type": "wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sixteen_Tons",
         "note": "Cover von Merle Travis / Company Store / Truck system"
-      }
-    ]
-  },
-  {
-    "id": "grex-martha",
-    "band": "Grex",
-    "title": "Martha",
-    "entities": [
-      "Martha",
-      "Wandertaube",
-      "Passenger Pigeon",
-      "Cincinnati Zoo",
-      "Artensterben"
-    ],
-    "era": "1914 / 2018",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=YBQcruQfXHg",
-    "bandcampUrl": "https://grex.bandcamp.com/track/martha",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://www.youtube.com/watch?v=YBQcruQfXHg",
-        "note": "Live in Studio Dez. 2017; Widmung last of the passenger pigeons"
-      },
-      {
-        "type": "band",
-        "url": "https://grex.bandcamp.com/track/martha",
-        "note": "Track auf Electric Ghost Parade (2018); Widmung letzte Wandertaube"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.antimusic.com/news/18/August/15Singled_Out-_Grexs_Martha.shtml",
-        "note": "Bandinterview: 100. Todestag Martha, Cincinnati, Schwärme"
-      }
-    ]
-  },
-  {
-    "id": "john-herald-martha-last-of-the-passenger-pigeons",
-    "band": "John Herald",
-    "title": "Martha (Last of the Passenger Pigeons)",
-    "entities": [
-      "Martha",
-      "Wandertaube",
-      "Passenger Pigeon",
-      "Cincinnati Zoo",
-      "Artensterben"
-    ],
-    "era": "1914 / 1983",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
-    "bandcampUrl": null,
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://www.youtube.com/watch?v=2GuI_KpQqWM",
-        "note": "John Herald live; Spoken Intro + Song Martha / letzte Wandertaube"
-      },
-      {
-        "type": "lyrics",
-        "url": "http://johnherald.com/martha.shtml",
-        "note": "Offizielle Lyrics; Cincinnati Zoo, Martha, passenger pigeon"
-      },
-      {
-        "type": "secondary",
-        "url": "http://johnherald.com/bluegrass_boy.shtml",
-        "note": "Live Joyous Lake 26.5.1983 auf Just Another Bluegrass Boy (CD 2005)"
-      },
-      {
-        "type": "secondary",
-        "url": "https://www.audubon.org/news/13-memories-martha-last-passenger-pigeon",
-        "note": "Audubon nennt den Song unter Martha-Erinnerungen"
-      }
-    ]
-  },
-  {
-    "id": "asap-inev-vuelvo-al-sur",
-    "band": "Asap Inev",
-    "title": "Vuelvo al Sur",
-    "entities": [
-      "Bandoneon",
-      "Tango",
-      "Astor Piazzolla",
-      "Sur"
-    ],
-    "era": "1988 / 2020",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
-    "bandcampUrl": "https://asapinev.bandcamp.com/track/vuelvo-al-sur-astor-piazzolla",
-    "sources": [
-      {
-        "type": "band",
-        "url": "https://www.youtube.com/watch?v=ZPv9hgA7fj8",
-        "note": "Asap Inev Video; Piazzolla-Cover, Goyeneche-Sample; Lyrics mit Bandoneón"
-      },
-      {
-        "type": "band",
-        "url": "https://asapinev.bandcamp.com/album/karmatango",
-        "note": "EP Karmatango (2020); progressive metal rearrangements Piazzolla/Santaolalla"
-      },
-      {
-        "type": "lyrics",
-        "url": "https://asapinev.bandcamp.com/album/karmatango",
-        "note": "Bandcamp-Lyrics Vuelvo al Sur inkl. „aires del bandoneon“"
-      }
-    ]
-  },
-  {
-    "id": "the-caution-children-kowloon-walled-city",
-    "band": "The Caution Children",
-    "title": "Kowloon Walled City",
-    "entities": [
-      "Kowloon Walled City",
-      "Hongkong",
-      "Abriss",
-      "Park"
-    ],
-    "era": "1993 / 2011",
-    "spotifyUrl": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
-    "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
-    "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
-        "note": "Bandcamp Unknown Lands; Lyrics Abriss Frühjahr 1993 / Park"
-      },
-      {
-        "type": "band",
-        "url": "https://open.spotify.com/track/6laPzcUdjfkY0XCvShiIkx",
-        "note": "Spotify-Track Kowloon Walled City"
-      },
-      {
-        "type": "band",
-        "url": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
-        "note": "Unknown Lands Full Album; Track ab ~32:02"
-      },
-      {
-        "type": "secondary",
-        "url": "https://tokyojupiter.storenvy.com/products/4107542-the-caution-children-unknown-lands-cd",
-        "note": "Screamo/Post-Rock; Album Unknown Lands"
-      }
-    ]
-  },
-  {
-    "id": "the-caution-children-voynich-manuscript",
-    "band": "The Caution Children",
-    "title": "Voynich Manuscript",
-    "entities": [
-      "Voynich-Manuskript"
-    ],
-    "era": "2011",
-    "spotifyUrl": "https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
-    "bandcampUrl": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
-    "sources": [
-      {
-        "type": "lyrics",
-        "url": "https://thecautionchildren.bandcamp.com/album/unknown-lands",
-        "note": "Bandcamp Unknown Lands; Patterns/rewrite-Lyrics"
-      },
-      {
-        "type": "band",
-        "url": "https://open.spotify.com/track/60A2WfkrKhH5mpBNZOYBwI",
-        "note": "Spotify-Track"
-      },
-      {
-        "type": "band",
-        "url": "https://www.youtube.com/watch?v=kOo0iz8hVbI",
-        "note": "Unknown Lands Full Album; Track ab ~11:02"
       }
     ]
   }

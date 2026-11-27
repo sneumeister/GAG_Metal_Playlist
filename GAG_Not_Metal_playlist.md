@@ -1,6 +1,6 @@
 # GAG Not-Metal Playlist: thematischer Treffer, kein Rock/Metal
 
-<small>**Compile-Datum:** 2026-11-25 18:47:31 +0100<br>**JSON-Status:** 2026-11-25 18:42:24 +0100</small>
+<small>**Compile-Datum:** 2026-11-27 18:20:52 +0100<br>**JSON-Status:** 2026-11-25 18:42:24 +0100</small>
 
 Original-Projekt, Hinweise und Quellen auf [github.com/sneumeister/GAG_Metal_Playlist](https://github.com/sneumeister/GAG_Metal_Playlist).
 
